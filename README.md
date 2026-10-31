@@ -1,8 +1,8 @@
 # i18n-json
 
-Komorebi Launcher 的翻译目录，按语言导出为 JSON，供翻译平台导入。
+Komorebi Launcher 的翻译数据，按语言导出为 JSON，供翻译平台（ParaTranz）读写。
 
-源数据在 [KomorebiLauncher/i18n](https://github.com/KomorebiLauncher/i18n) 的 Qt `.ts` 文件里；这个仓库只是把它转成平台需要的形状，**不要直接在这里改**。
+流程是：翻译平台编辑 → 本仓库（`sync.yml` 每周拉取）→ [KomorebiLauncher/i18n](https://github.com/KomorebiLauncher/i18n) 合并进 `.ts` 并编译语言包。**不要直接改 `json/` 下的文件**，平台下一次同步会覆盖。
 
 ## 结构
 
@@ -55,6 +55,6 @@ python tools/export.py --catalogue ../i18n --out json
 
 其余语言的缺口基本都是本项目相对 Prism Launcher 新增的功能文案（崩溃分析、镜像、OptiFine 安装、账号提示等），上游继承的基线翻译已覆盖约 92%。
 
-## 自动更新
+## 自动同步
 
-`.github/workflows/export.yml` 每周一 04:30 UTC（i18n 仓库的 `update-strings` 在 04:00 跑完之后）重新导出并提交；有手动触发入口。
+`.github/workflows/sync.yml` 每周一 04:30 UTC 运行：先按 i18n 仓库的最新源串刷新 `original`/`key`，再从 ParaTranz 拉回译文并提交。i18n 仓库随后（05:00）把本仓库的 JSON 合并进 `.ts` 并重新编译语言包。
