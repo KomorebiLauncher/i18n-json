@@ -1089,13 +1089,13 @@
     "key": "AuthlibInjectorDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "ইনস্টল করুন",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AuthlibInjectorDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "বাতিল করুন",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AutoInstallJava:d3ace495a5a2",
@@ -2709,19 +2709,19 @@
     "key": "ExportPackDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "বাতিল করুন",
-    "context": "ExportPackDialog | [unfinished]"
+    "context": "ExportPackDialog"
   },
   {
     "key": "ExportPackDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "ঠিক আছে",
-    "context": "ExportPackDialog | [unfinished]"
+    "context": "ExportPackDialog"
   },
   {
     "key": "ExportPackDialog:4dee4f40d63e",
     "original": "Export %1",
     "translation": "এক্সপোর্ট %1",
-    "context": "ExportPackDialog | [unfinished]"
+    "context": "ExportPackDialog"
   },
   {
     "key": "ExportPackDialog:421a3cbacf93",
@@ -2739,7 +2739,7 @@
     "key": "ExportPackDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "ভুল",
-    "context": "ExportPackDialog | [unfinished]"
+    "context": "ExportPackDialog"
   },
   {
     "key": "ExportToModListDialog:5d7f82640e98",
@@ -2751,7 +2751,7 @@
     "key": "ExportToModListDialog:c7f73bb54d92",
     "original": "Settings",
     "translation": "সেটিংস",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExportToModListDialog:9f738ce8457f",
@@ -2787,7 +2787,7 @@
     "key": "ExportToModListDialog:081ae3fdc403",
     "original": "Custom",
     "translation": "কাষ্টম",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExportToModListDialog:3ec1ae061c27",
@@ -2859,7 +2859,7 @@
     "key": "ExportToModListDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "বাতিল করুন",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExportToModListDialog:efc007a393f6",
@@ -2871,7 +2871,7 @@
     "key": "ExportToModListDialog:4dee4f40d63e",
     "original": "Export %1",
     "translation": "এক্সপোর্ট %1",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExportToModListDialog:2c3cafa4db3f",
@@ -2889,7 +2889,7 @@
     "key": "ExternalResourcesPage:763c2ebc2799",
     "original": "&Remove",
     "translation": "&রিমোভ",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:45cc38d09787",
@@ -3063,7 +3063,7 @@
     "key": "ExternalResourcesPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "কনটেক্সট মেনু",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:76cffee45024",
@@ -3087,7 +3087,7 @@
     "key": "ExternalResourcesPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "রিমুভাল কনফার্ম করুন",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:59e5bdd43477",
@@ -3159,19 +3159,19 @@
     "key": "ExternalToolsPage:d3c88b119527",
     "original": "&Add",
     "translation": "&যোগ করুন",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:763c2ebc2799",
     "original": "&Remove",
     "translation": "&রিমোভ",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:709a23220f2c",
     "original": "Name",
     "translation": "নাম",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:8901895fb1b1",
@@ -3249,7 +3249,7 @@
     "key": "ExternalToolsPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "ভুল",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:9412ae44f94b",
@@ -3261,7 +3261,7 @@
     "key": "ExternalToolsPage:9ce3bd4224c8",
     "original": "OK",
     "translation": "ঠিক আছে",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:30046a330791",
@@ -3375,7 +3375,7 @@
     "key": "FTB::PackInstallTask:7b02e924aa02",
     "original": "Mod download",
     "translation": "মোড ডাউনলোড",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:d4e059888d25",
@@ -3399,13 +3399,13 @@
     "key": "FTBImportAPP::FilterModel:5fa541307296",
     "original": "Sort by Name",
     "translation": "নাম অনুসারে সাজান",
-    "context": "FTBImportAPP::FilterModel | [unfinished]"
+    "context": "FTBImportAPP::FilterModel"
   },
   {
     "key": "FTBImportAPP::FilterModel:21eea1c9bdf3",
     "original": "Sort by Game Version",
     "translation": "গেমের ভার্শন অনুসারে সাজান",
-    "context": "FTBImportAPP::FilterModel | [unfinished]"
+    "context": "FTBImportAPP::FilterModel"
   },
   {
     "key": "FTBImportAPP::ImportFTBPage:ceaaa2c12d49",
@@ -3423,7 +3423,7 @@
     "key": "FTBImportAPP::ImportFTBPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "অনুসন্ধান এবং ফিল্টার করুন..।",
-    "context": "FTBImportAPP::ImportFTBPage | [unfinished]"
+    "context": "FTBImportAPP::ImportFTBPage"
   },
   {
     "key": "FTBImportAPP::ImportFTBPage:dcf6a4fa462f",
@@ -3459,7 +3459,7 @@
     "key": "Flame::FileResolvingTask:ca80a34aa5d0",
     "original": "Parsing API response from CurseForge for '%1'...",
     "translation": "কার্সফোর্জ থেকে '%1' এর জন্য এপিআই রেসপন্স পার্স করা হচ্ছে..।",
-    "context": "Flame::FileResolvingTask | [unfinished]"
+    "context": "Flame::FileResolvingTask"
   },
   {
     "key": "FlameCheckUpdate:b2a3efe94b2f",
@@ -3489,7 +3489,7 @@
     "key": "FlameCheckUpdate:ca80a34aa5d0",
     "original": "Parsing API response from CurseForge for '%1'...",
     "translation": "কার্সফোর্জ থেকে '%1' এর জন্য এপিআই রেসপন্স পার্স করা হচ্ছে..।",
-    "context": "FlameCheckUpdate | [unfinished]"
+    "context": "FlameCheckUpdate"
   },
   {
     "key": "FlameCheckUpdate:cbc329711a29",
@@ -3507,13 +3507,13 @@
     "key": "FlameCheckUpdate:bc7819b34ff8",
     "original": "Unknown",
     "translation": "অজানা",
-    "context": "FlameCheckUpdate | [unfinished]"
+    "context": "FlameCheckUpdate"
   },
   {
     "key": "FlameCreationTask:93fc42ea75d6",
     "original": "Could not understand pack manifest:\n",
     "translation": "প্যাক ম্যানিফেস্ট অপুর্ণ, বুঝতে পারিনিঃ",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:e0976e09621d",
@@ -3555,19 +3555,19 @@
     "key": "FlameCreationTask:54a1e48a12f3",
     "original": "Failed to get local metadata index for %1",
     "translation": "%1 এর জন্য স্থানীয় মেটাডেটা সূচক পেতে ব্যর্থ হয়েছে",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:9638c0cc0435",
     "original": "Failed to find version for %1 loader",
     "translation": "%1 লোডার এর সংস্করণ খুঁজে পাওয়া যায়নি",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:394b0f2a985e",
     "original": "No loader version set for modpack!",
     "translation": "মডিফিকেশনপ্যাকের জন্য কোন লোডার সেট করা নেই!",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:e75af2bdf614",
@@ -3615,13 +3615,13 @@
     "key": "FlameCreationTask:327b7e57d4e1",
     "original": "Blocked mods found",
     "translation": "প্রতিরোধ করা মডিফিকেশন পাওয়া গেছে",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:7ff827f8d900",
     "original": "The following files are not available for download in third party launchers.<br/>You will need to manually download them and add them to the instance.",
     "translation": "নিম্নলিখিত ফাইলগুলি তৃতীয় পক্ষের লঞ্চারগুলির জন্য অপ্রাপ্য। <br/>এগুলি হাতে করে নামিয়ে করে উদাহরণে যুক্ত করতে হবে।",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:193c1dffab3c",
@@ -3639,7 +3639,7 @@
     "key": "FlameCreationTask:f9bc7a615403",
     "original": "%1 out of %2 complete",
     "translation": "%2 এর মধ্যে %1 সম্পন্ন হয়েছে",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:9c36196243f9",
@@ -3669,7 +3669,7 @@
     "key": "FlameCreationTask:df237503973c",
     "original": "Downloading mods...",
     "translation": "মডিফিকেশন নামানো হচ্ছে..।",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameManagedPackPage:df87bd3ab69c",
@@ -3723,7 +3723,7 @@
     "key": "FlamePackExportTask:ca80a34aa5d0",
     "original": "Parsing API response from CurseForge for '%1'...",
     "translation": "কার্সফোর্জ থেকে '%1' এর জন্য এপিআই রেসপন্স পার্স করা হচ্ছে..।",
-    "context": "FlamePackExportTask | [unfinished]"
+    "context": "FlamePackExportTask"
   },
   {
     "key": "FlamePackExportTask:dd6a9c0d177e",
@@ -3741,7 +3741,7 @@
     "key": "FlamePage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "নির্বাচিত ভার্শন:",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:2ba9121211dd",
@@ -3759,7 +3759,7 @@
     "key": "FlamePage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "অনুসন্ধান এবং ফিল্টার করুন..।",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:754e270ce9ad",
@@ -3771,7 +3771,7 @@
     "key": "FlamePage:2ebd5dd0cbfe",
     "original": "Sort by Popularity",
     "translation": "জনপ্রিয়তা অনুসারে সাজান",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:3546d8e58e95",
@@ -3783,7 +3783,7 @@
     "key": "FlamePage:5fa541307296",
     "original": "Sort by Name",
     "translation": "নাম অনুসারে সাজান",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:d1db3d422497",
@@ -3807,7 +3807,7 @@
     "key": "FlamePage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "ভুল",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:876074b47592",
@@ -3861,19 +3861,19 @@
     "key": "Ftb::FilterModel:5fa541307296",
     "original": "Sort by Name",
     "translation": "নাম অনুসারে সাজান",
-    "context": "Ftb::FilterModel | [unfinished]"
+    "context": "Ftb::FilterModel"
   },
   {
     "key": "FtbPage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "নির্বাচিত ভার্শন:",
-    "context": "FtbPage | [unfinished]"
+    "context": "FtbPage"
   },
   {
     "key": "FtbPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "অনুসন্ধান এবং ফিল্টার করুন..।",
-    "context": "FtbPage | [unfinished]"
+    "context": "FtbPage"
   },
   {
     "key": "FtbPage:8bb246929d5d",
@@ -3999,7 +3999,7 @@
     "key": "IconPickerDialog:081ae3fdc403",
     "original": "Custom",
     "translation": "কাষ্টম",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:a825bf9821f9",
@@ -4017,19 +4017,19 @@
     "key": "IconPickerDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "বাতিল করুন",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "ঠিক আছে",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:027760ffe7da",
     "original": "Open Folder",
     "translation": "ফোল্ডার খুলুন",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:456860ea149a",
@@ -4089,7 +4089,7 @@
     "key": "ImportPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "ভুল",
-    "context": "ImportPage | [unfinished]"
+    "context": "ImportPage"
   },
   {
     "key": "ImportPage:757d7c1814fd",
@@ -4155,13 +4155,13 @@
     "key": "ImportResourceDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "বাতিল করুন",
-    "context": "ImportResourceDialog | [unfinished]"
+    "context": "ImportResourceDialog"
   },
   {
     "key": "ImportResourceDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "ঠিক আছে",
-    "context": "ImportResourceDialog | [unfinished]"
+    "context": "ImportResourceDialog"
   },
   {
     "key": "InfoFrame:f806c6f1da3f",
@@ -4197,49 +4197,49 @@
     "key": "InstallLoaderDialog:e38044ca5f26",
     "original": "&Refresh",
     "translation": "&রিফ্রেশ",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "ঠিক আছে",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "বাতিল করুন",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:b5165545b367",
     "original": "NeoForge",
     "translation": "নিওফোর্জ",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:3ab11b75ca36",
     "original": "Forge",
     "translation": "ফোর্জ",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:a010de5c6165",
     "original": "Fabric",
     "translation": "ফ্যাব্রিক",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:01aa488891b0",
     "original": "Quilt",
     "translation": "কুইল্ট",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:bf134c686f5c",
     "original": "LiteLoader",
     "translation": "লাইটলোডের",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:af98ab0d8ec5",
@@ -4281,7 +4281,7 @@
     "key": "InstallLoaderPage:46c15b2a8e17",
     "original": "No versions are currently available for Minecraft %1",
     "translation": "মাইনক্রাফ্ট %1 এর জন্য বর্তমানে কোনও ভার্শন এভেলেবল নেই",
-    "context": "InstallLoaderPage | [unfinished]"
+    "context": "InstallLoaderPage"
   },
   {
     "key": "InstallWorldTask:2c5d1322a3c8",
@@ -4377,7 +4377,7 @@
     "key": "InstanceSettingsPage:c7f73bb54d92",
     "original": "Settings",
     "translation": "সেটিংস",
-    "context": "InstanceSettingsPage | [unfinished]"
+    "context": "InstanceSettingsPage"
   },
   {
     "key": "InstanceStaging:7f2ec651c8ce",
@@ -4395,13 +4395,13 @@
     "key": "InstanceTask:3da474537ac3",
     "original": "Skip",
     "translation": "বাদ দিন",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:7f2f6a15cf8d",
     "original": "Error",
     "translation": "ভুল",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:dd17662eb1c4",
@@ -4437,7 +4437,7 @@
     "key": "InstanceWindow:c47ae15370cf",
     "original": "Help",
     "translation": "সাহায্য",
-    "context": "InstanceWindow | [unfinished]"
+    "context": "InstanceWindow"
   },
   {
     "key": "InstanceWindow:5fd059949516",
@@ -4473,7 +4473,7 @@
     "key": "InstanceWindow:bbfa773e5a63",
     "original": "Close",
     "translation": "বন্ধ",
-    "context": "InstanceWindow | [unfinished]"
+    "context": "InstanceWindow"
   },
   {
     "key": "InstanceWindow:608d16441fb2",
@@ -4497,7 +4497,7 @@
     "key": "JProfiler:122e80b33e98",
     "original": "Profiler aborted",
     "translation": "প্রোফাইলার বাতিল করা হয়েছে",
-    "context": "JProfiler | [unfinished]"
+    "context": "JProfiler"
   },
   {
     "key": "JVisualVM:91625854647b",
@@ -4509,7 +4509,7 @@
     "key": "JVisualVM:122e80b33e98",
     "original": "Profiler aborted",
     "translation": "প্রোফাইলার বাতিল করা হয়েছে",
-    "context": "JVisualVM | [unfinished]"
+    "context": "JVisualVM"
   },
   {
     "key": "Java::ArchiveDownloadTask:032eefb2c549",
@@ -4539,7 +4539,7 @@
     "key": "Java::InstallDialog:e38044ca5f26",
     "original": "&Refresh",
     "translation": "&রিফ্রেশ",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:a479c9c34e87",
@@ -4551,13 +4551,13 @@
     "key": "Java::InstallDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "বাতিল করুন",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:723ba985328e",
     "original": "Mojang",
     "translation": "মোজাং",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:360564b906a1",
@@ -4581,19 +4581,19 @@
     "key": "Java::InstallDialog:7086081c2d30",
     "original": "Install Java",
     "translation": "জাভা ইনস্টল করুন",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:27edb4c40008",
     "original": "Could not determine Java download type!",
     "translation": "জাভা ডাউনলোডের ধরন নির্ধারণ করা যায়নি!",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "ভুল",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::LocalJavaScanTask:52cef86f41c6",
@@ -4677,7 +4677,7 @@
     "key": "JavaPage:56e3badc4e6c",
     "original": "Refresh",
     "translation": "রিফ্রেশ",
-    "context": "JavaPage | [unfinished]"
+    "context": "JavaPage"
   },
   {
     "key": "JavaPage:b4dae444a41b",
@@ -4695,7 +4695,7 @@
     "key": "JavaPage:8953e5799431",
     "original": "Confirm Deletion",
     "translation": "মুছিয়া ফেলা নিশ্চিত করুন",
-    "context": "JavaPage | [unfinished]"
+    "context": "JavaPage"
   },
   {
     "key": "JavaPage:8878b22d42a0",
@@ -4725,7 +4725,7 @@
     "key": "JavaSettingsWidget:80446347ede5",
     "original": "Form",
     "translation": "ফর্ম",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:179f88d38199",
@@ -5241,7 +5241,7 @@
     "key": "LaunchController:77dfd2135f4d",
     "original": "Cancel",
     "translation": "বাতিল করুন",
-    "context": "LaunchController | [unfinished]"
+    "context": "LaunchController"
   },
   {
     "key": "LaunchController:d873f6d526a3",
@@ -5355,7 +5355,7 @@
     "key": "LaunchController:7f2f6a15cf8d",
     "original": "Error",
     "translation": "ভুল",
-    "context": "LaunchController | [unfinished]"
+    "context": "LaunchController"
   },
   {
     "key": "LaunchController:08bb8f4f9b31",
@@ -6045,13 +6045,13 @@
     "key": "LegacyFTB::FilterModel:5fa541307296",
     "original": "Sort by Name",
     "translation": "নাম অনুসারে সাজান",
-    "context": "LegacyFTB::FilterModel | [unfinished]"
+    "context": "LegacyFTB::FilterModel"
   },
   {
     "key": "LegacyFTB::FilterModel:21eea1c9bdf3",
     "original": "Sort by Game Version",
     "translation": "গেমের ভার্শন অনুসারে সাজান",
-    "context": "LegacyFTB::FilterModel | [unfinished]"
+    "context": "LegacyFTB::FilterModel"
   },
   {
     "key": "LegacyFTB::ListModel:d3b215ad8872",
@@ -6105,7 +6105,7 @@
     "key": "LegacyFTB::PackInstallTask:7d3e34e21534",
     "original": "Installing modpack",
     "translation": "মডিফিকেশন প্যাক ইনস্টল করা হচ্ছে",
-    "context": "LegacyFTB::PackInstallTask | [unfinished]"
+    "context": "LegacyFTB::PackInstallTask"
   },
   {
     "key": "LegacyFTB::PackInstallTask:44d2b46ad2a3",
@@ -6123,7 +6123,7 @@
     "key": "LegacyFTB::Page:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "অনুসন্ধান এবং ফিল্টার করুন..।",
-    "context": "LegacyFTB::Page | [unfinished]"
+    "context": "LegacyFTB::Page"
   },
   {
     "key": "LegacyFTB::Page:dc5eb704bbca",
@@ -6159,13 +6159,13 @@
     "key": "LegacyFTB::Page:03fec0b5504e",
     "original": "Version selected:",
     "translation": "নির্বাচিত ভার্শন:",
-    "context": "LegacyFTB::Page | [unfinished]"
+    "context": "LegacyFTB::Page"
   },
   {
     "key": "LegacyFTB::Page:7f2f6a15cf8d",
     "original": "Error",
     "translation": "ভুল",
-    "context": "LegacyFTB::Page | [unfinished]"
+    "context": "LegacyFTB::Page"
   },
   {
     "key": "LegacyFTB::Page:e8ea0b767876",
@@ -6369,7 +6369,7 @@
     "key": "LoginWizardPage:80446347ede5",
     "original": "Form",
     "translation": "ফর্ম",
-    "context": "LoginWizardPage | [unfinished]"
+    "context": "LoginWizardPage"
   },
   {
     "key": "LoginWizardPage:2f589123ceb2",
@@ -6483,13 +6483,13 @@
     "key": "MSALoginDialog:89e944f8eb37",
     "original": "Please wait...",
     "translation": "অনুগ্রহ করে অপেক্ষা করুন..।",
-    "context": "MSALoginDialog | [unfinished]"
+    "context": "MSALoginDialog"
   },
   {
     "key": "MSALoginDialog:bae7d5be7082",
     "original": "Status",
     "translation": "অবস্থা",
-    "context": "MSALoginDialog | [unfinished]"
+    "context": "MSALoginDialog"
   },
   {
     "key": "MSALoginDialog:fd62c61f849b",
@@ -6531,7 +6531,7 @@
     "key": "MSALoginDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "বাতিল করুন",
-    "context": "MSALoginDialog | [unfinished]"
+    "context": "MSALoginDialog"
   },
   {
     "key": "MSALoginDialog:95234f4e13e8",
@@ -6681,7 +6681,7 @@
     "key": "MainWindow:c47ae15370cf",
     "original": "Help",
     "translation": "সাহায্য",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:a7163d114d1f",
@@ -7101,7 +7101,7 @@
     "key": "MainWindow:36bae31694f8",
     "original": "Accounts",
     "translation": "একাউন্ট",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:416c5c33e6d2",
@@ -7227,13 +7227,13 @@
     "key": "MainWindow:7f2f6a15cf8d",
     "original": "Error",
     "translation": "ভুল",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:1430f976c596",
     "original": "Warnings",
     "translation": "সতর্কতা",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:28c54654fe51",
@@ -7383,7 +7383,7 @@
     "key": "MainWindow:8953e5799431",
     "original": "Confirm Deletion",
     "translation": "মুছিয়া ফেলা নিশ্চিত করুন",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:6feaa281a00c",
@@ -7569,13 +7569,13 @@
     "key": "ManagedPackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "ভুল",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:1430f976c596",
     "original": "Warnings",
     "translation": "সতর্কতা",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:d7a9ac115449",
@@ -7629,7 +7629,7 @@
     "key": "ManagedPackPage:9d4741838842",
     "original": "Update Failed",
     "translation": "আপডেট করা যায়নি",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:cd2dbd6fb8fc",
@@ -7647,7 +7647,7 @@
     "key": "ManagedPackPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "আপডেট নিশ্চিত করুন",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:f701d3d7d9eb",
@@ -7665,7 +7665,7 @@
     "key": "Meta::Index:709a23220f2c",
     "original": "Name",
     "translation": "নাম",
-    "context": "Meta::Index | [unfinished]"
+    "context": "Meta::Index"
   },
   {
     "key": "Meta::Index:04099ec66644",
@@ -7683,7 +7683,7 @@
     "key": "MinecraftAccount:b1590d210090",
     "original": "Aborted",
     "translation": "বাতিল করা হয়েছে",
-    "context": "MinecraftAccount | [unfinished]"
+    "context": "MinecraftAccount"
   },
   {
     "key": "MinecraftInstance:5fd059949516",
@@ -8073,31 +8073,31 @@
     "key": "MinecraftSettingsWidget:b5165545b367",
     "original": "NeoForge",
     "translation": "নিওফোর্জ",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:3ab11b75ca36",
     "original": "Forge",
     "translation": "ফোর্জ",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:a010de5c6165",
     "original": "Fabric",
     "translation": "ফ্যাব্রিক",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:01aa488891b0",
     "original": "Quilt",
     "translation": "কুইল্ট",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:bf134c686f5c",
     "original": "LiteLoader",
     "translation": "লাইটলোডের",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:99e2e94f2566",
@@ -8331,7 +8331,7 @@
     "key": "ModFilterWidget:80446347ede5",
     "original": "Form",
     "translation": "ফর্ম",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:6ccb60071be8",
@@ -8349,25 +8349,25 @@
     "key": "ModFilterWidget:b5165545b367",
     "original": "NeoForge",
     "translation": "নিওফোর্জ",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:3ab11b75ca36",
     "original": "Forge",
     "translation": "ফোর্জ",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:a010de5c6165",
     "original": "Fabric",
     "translation": "ফ্যাব্রিক",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:01aa488891b0",
     "original": "Quilt",
     "translation": "কুইল্ট",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:abeed86f05bd",
@@ -8379,7 +8379,7 @@
     "key": "ModFilterWidget:bf134c686f5c",
     "original": "LiteLoader",
     "translation": "লাইটলোডের",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:99e2e94f2566",
@@ -8481,7 +8481,7 @@
     "key": "ModFilterWidget:bc7819b34ff8",
     "original": "Unknown",
     "translation": "অজানা",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:0485bc248e29",
@@ -8583,7 +8583,7 @@
     "key": "ModFilterWidget:40ab4c0ce406",
     "original": "All Versions",
     "translation": "সব ভার্সন",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFolderModel:2c3cafa4db3f",
@@ -8595,7 +8595,7 @@
     "key": "ModFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "নাম",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:2da600bf9404",
@@ -8613,13 +8613,13 @@
     "key": "ModFolderModel:4c24525b0aa0",
     "original": "Last Modified",
     "translation": "সর্বশেষ পরিবর্তিত",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:b7152342a267",
     "original": "Size",
     "translation": "আকার",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:26528381ea05",
@@ -8661,7 +8661,7 @@
     "key": "ModFolderModel:2aabcfc2668a",
     "original": "File Name",
     "translation": "ফাইলের নাম",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:fb91e24fa52d",
@@ -8877,13 +8877,13 @@
     "key": "ModFolderPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "ভুল",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:1430f976c596",
     "original": "Warnings",
     "translation": "সতর্কতা",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:02f4ac38781c",
@@ -8895,7 +8895,7 @@
     "key": "ModFolderPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "আপডেট নিশ্চিত করুন",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:115adb5fe24e",
@@ -8913,13 +8913,13 @@
     "key": "ModFolderPage:2080f0fbd2f0",
     "original": "Update checker",
     "translation": "আপডেট চেকার",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "রিমুভাল কনফার্ম করুন",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:7dc75dabfc76",
@@ -8961,7 +8961,7 @@
     "key": "ModFolderPage:76e93d20a40b",
     "original": "'%1' is up-to-date! :)",
     "translation": "'%1' আপ-টো-ডেট আছে! :)",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:bd70a5fe384e",
@@ -9021,7 +9021,7 @@
     "key": "Modrinth::ModpackListModel:7f2f6a15cf8d",
     "original": "Error",
     "translation": "ভুল",
-    "context": "Modrinth::ModpackListModel | [unfinished]"
+    "context": "Modrinth::ModpackListModel"
   },
   {
     "key": "Modrinth::ModpackListModel:e7235f672e3a",
@@ -9057,7 +9057,7 @@
     "key": "ModrinthCheckUpdate:bc7819b34ff8",
     "original": "Unknown",
     "translation": "অজানা",
-    "context": "ModrinthCheckUpdate | [unfinished]"
+    "context": "ModrinthCheckUpdate"
   },
   {
     "key": "ModrinthCheckUpdate:34affdf46b9d",
@@ -9129,13 +9129,13 @@
     "key": "ModrinthCreationTask:f9bc7a615403",
     "original": "%1 out of %2 complete",
     "translation": "%2 এর মধ্যে %1 সম্পন্ন হয়েছে",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:df237503973c",
     "original": "Downloading mods...",
     "translation": "মডিফিকেশন নামানো হচ্ছে..।",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:823f8fa08edc",
@@ -9249,7 +9249,7 @@
     "key": "ModrinthPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "ভুল",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:876074b47592",
@@ -9315,13 +9315,13 @@
     "key": "ModrinthPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "অনুসন্ধান এবং ফিল্টার করুন..।",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "নির্বাচিত ভার্শন:",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:edcad43541b4",
@@ -9405,7 +9405,7 @@
     "key": "NetJob:67a7e9461e7d",
     "original": "Executing %1 task(s) (%2 out of %3 are done)",
     "translation": "%1 টি কাজ সম্পাদন করা হচ্ছে (%3 এর মধ্যে %2 টি সম্পন্ন হয়েছে)",
-    "context": "NetJob | [unfinished]"
+    "context": "NetJob"
   },
   {
     "key": "NetworkJobFailedDialog:6cc153f0e5df",
@@ -9429,7 +9429,7 @@
     "key": "NetworkJobFailedDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "ভুল",
-    "context": "NetworkJobFailedDialog | [unfinished]"
+    "context": "NetworkJobFailedDialog"
   },
   {
     "key": "NetworkJobFailedDialog:7b52603bb25e",
@@ -9471,7 +9471,7 @@
     "key": "NewComponentDialog:709a23220f2c",
     "original": "Name",
     "translation": "নাম",
-    "context": "NewComponentDialog | [unfinished]"
+    "context": "NewComponentDialog"
   },
   {
     "key": "NewComponentDialog:e2577dd78b54",
@@ -9483,13 +9483,13 @@
     "key": "NewComponentDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "বাতিল করুন",
-    "context": "NewComponentDialog | [unfinished]"
+    "context": "NewComponentDialog"
   },
   {
     "key": "NewComponentDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "ঠিক আছে",
-    "context": "NewComponentDialog | [unfinished]"
+    "context": "NewComponentDialog"
   },
   {
     "key": "NewInstanceDialog:a8296e726af3",
@@ -9513,31 +9513,31 @@
     "key": "NewInstanceDialog:7b6e69434658",
     "original": "&Name:",
     "translation": "&নাম:",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:f6b2246c64fa",
     "original": "No group",
     "translation": "কোন গ্রুপ নেই",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "ঠিক আছে",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "বাতিল করুন",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:c47ae15370cf",
     "original": "Help",
     "translation": "সাহায্য",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:0e06e81ed34d",
@@ -9573,7 +9573,7 @@
     "key": "NewsDialog:bbfa773e5a63",
     "original": "Close",
     "translation": "বন্ধ",
-    "context": "NewsDialog | [unfinished]"
+    "context": "NewsDialog"
   },
   {
     "key": "NewsDialog:a5601a63d0ae",
@@ -9855,13 +9855,13 @@
     "key": "OptiFineInstallDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "ইনস্টল করুন",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptiFineInstallDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "বাতিল করুন",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptionalModDialog:12e9f3729ee6",
@@ -9891,13 +9891,13 @@
     "key": "OptionalModDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "বাতিল করুন",
-    "context": "OptionalModDialog | [unfinished]"
+    "context": "OptionalModDialog"
   },
   {
     "key": "OptionalModDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "ঠিক আছে",
-    "context": "OptionalModDialog | [unfinished]"
+    "context": "OptionalModDialog"
   },
   {
     "key": "OtherLogsPage:d4188c14e699",
@@ -10005,7 +10005,7 @@
     "key": "OtherLogsPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "ভুল",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:a2c32945bddc",
@@ -10023,7 +10023,7 @@
     "key": "OtherLogsPage:8953e5799431",
     "original": "Confirm Deletion",
     "translation": "মুছিয়া ফেলা নিশ্চিত করুন",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:4ba919b5c8fd",
@@ -10071,7 +10071,7 @@
     "key": "OtherLogsPage:1919fdb56138",
     "original": "Cannot display this log since the log length surpassed %1 lines.",
     "translation": "লগের দৈর্ঘ্য %1 লাইন অতিক্রম করার কারণে এই লগটি প্রদর্শন করা যাচ্ছে না।",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:12fc009a1488",
@@ -10107,37 +10107,37 @@
     "key": "PackInstallTask:1cc558d32fa4",
     "original": "Unsupported installation mode",
     "translation": "অসমর্থিত ইনস্টলেশন ধরন",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:608a6e16a154",
     "original": "Failed to get local metadata index for '%1' v%2",
     "translation": "'%1' v%2 এর জন্য স্থানীয় মেটাডেটা সূচক পেতে ব্যর্থ হয়েছে",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:a61c5171cb28",
     "original": "Deleting existing files...",
     "translation": "বিদ্যমান ফাইলগুলি মুছে ফেলা হচ্ছে..।",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:639e6287333c",
     "original": "Unknown mod type: %1",
     "translation": "অজানা মোড টাইপ: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:54a1e48a12f3",
     "original": "Failed to get local metadata index for %1",
     "translation": "%1 এর জন্য স্থানীয় মেটাডেটা সূচক পেতে ব্যর্থ হয়েছে",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:9638c0cc0435",
     "original": "Failed to find version for %1 loader",
     "translation": "%1 লোডার এর সংস্করণ খুঁজে পাওয়া যায়নি",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:394b0f2a985e",
@@ -10149,31 +10149,31 @@
     "key": "PackInstallTask:8ea0186a5329",
     "original": "Unknown or unsupported download type: %1",
     "translation": "অজানা বা অসমর্থিত ডাউনলোডের ধরণ: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:db82f5ce4d92",
     "original": "Downloading configs...",
     "translation": "কন্ফিগস ডাউনলোড করা হচ্ছে..।",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:296053b61434",
     "original": "Config download",
     "translation": "কন্ফিগস ডাউনলোড",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:88e116160aff",
     "original": "Extracting configs...",
     "translation": "কনফিগারেশনগুলি বের করা হচ্ছে..।",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:6e97ce93553c",
     "original": "Selecting optional mods...",
     "translation": "ঐচ্ছিক মোড নির্বাচন করা হচ্ছে..।",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:df237503973c",
@@ -10185,13 +10185,13 @@
     "key": "PackInstallTask:7b02e924aa02",
     "original": "Mod download",
     "translation": "মোড ডাউনলোড",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:e91e47f5379a",
     "original": "Unknown download type: %1",
     "translation": "অজানা ডাউনলোডের ধরণ: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:d4e059888d25",
@@ -10221,13 +10221,13 @@
     "key": "PackInstallTask:3138740f4b31",
     "original": "Failed to extract mods...",
     "translation": "মোডগুলি বের করতে ব্যর্থ হয়েছে..।",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:e87c1bb107c0",
     "original": "Extracting mods...",
     "translation": "মোডগুলি বের করা হচ্ছে..।",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:7d3e34e21534",
@@ -10239,31 +10239,31 @@
     "key": "PackInstallTask:a568ebaf6ef5",
     "original": "Failed to create libraries component",
     "translation": "লাইব্রেরি কম্পোনেন্ট তৈরি করতে ব্যর্থ হয়েছে",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:c9c9e81a13ed",
     "original": "Unknown loader type: ",
     "translation": "অজানা লোডার প্রকার:",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:76fefafc38cf",
     "original": "Failed to create pack component",
     "translation": "প্যাক কম্পোনেন্ট তৈরি করতে ব্যর্থ হয়েছে",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackProfile:b1590d210090",
     "original": "Aborted",
     "translation": "বাতিল করা হয়েছে",
-    "context": "PackProfile | [unfinished]"
+    "context": "PackProfile"
   },
   {
     "key": "PackProfile:709a23220f2c",
     "original": "Name",
     "translation": "নাম",
-    "context": "PackProfile | [unfinished]"
+    "context": "PackProfile"
   },
   {
     "key": "PackProfile:2da600bf9404",
@@ -10287,13 +10287,13 @@
     "key": "PageDialog:c47ae15370cf",
     "original": "Help",
     "translation": "সাহায্য",
-    "context": "PageDialog | [unfinished]"
+    "context": "PageDialog"
   },
   {
     "key": "PasteWizardPage:80446347ede5",
     "original": "Form",
     "translation": "ফর্ম",
-    "context": "PasteWizardPage | [unfinished]"
+    "context": "PasteWizardPage"
   },
   {
     "key": "PasteWizardPage:98f17818733b",
@@ -10797,13 +10797,13 @@
     "key": "ProfileSelectDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "বাতিল করুন",
-    "context": "ProfileSelectDialog | [unfinished]"
+    "context": "ProfileSelectDialog"
   },
   {
     "key": "ProfileSelectDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "ঠিক আছে",
-    "context": "ProfileSelectDialog | [unfinished]"
+    "context": "ProfileSelectDialog"
   },
   {
     "key": "ProfileSetupDialog:ad6e16b3c052",
@@ -10821,13 +10821,13 @@
     "key": "ProfileSetupDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "বাতিল করুন",
-    "context": "ProfileSetupDialog | [unfinished]"
+    "context": "ProfileSetupDialog"
   },
   {
     "key": "ProfileSetupDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "ঠিক আছে",
-    "context": "ProfileSetupDialog | [unfinished]"
+    "context": "ProfileSetupDialog"
   },
   {
     "key": "ProfileSetupDialog:8b0fde7324a8",
@@ -10875,7 +10875,7 @@
     "key": "ProgressDialog:89e944f8eb37",
     "original": "Please wait...",
     "translation": "অনুগ্রহ করে অপেক্ষা করুন..।",
-    "context": "ProgressDialog | [unfinished]"
+    "context": "ProgressDialog"
   },
   {
     "key": "ProgressDialog:4e6ee2001d34",
@@ -10893,13 +10893,13 @@
     "key": "ProgressDialog:3da474537ac3",
     "original": "Skip",
     "translation": "বাদ দিন",
-    "context": "ProgressDialog | [unfinished]"
+    "context": "ProgressDialog"
   },
   {
     "key": "ProgressDialog:6f3abbe484ab",
     "original": "Abort",
     "translation": "বাতিল করুন",
-    "context": "ProgressDialog | [unfinished]"
+    "context": "ProgressDialog"
   },
   {
     "key": "ProjectItemDelegate:517f9bea1d3e",
@@ -10917,7 +10917,7 @@
     "key": "ProxyPage:3deb74565196",
     "original": "Type",
     "translation": "প্রকার",
-    "context": "ProxyPage | [unfinished]"
+    "context": "ProxyPage"
   },
   {
     "key": "ProxyPage:9a2029660bcc",
@@ -11163,7 +11163,7 @@
     "key": "QObject:78e96613d910",
     "original": "%1 (in use)",
     "translation": "%1 (ব্যবহৃত হচ্ছে)",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:cabe4b7a8cf3",
@@ -11373,7 +11373,7 @@
     "key": "QObject:db286a36a0f3",
     "original": "Java checker library could not be found. Please check your installation.",
     "translation": "জাভা চেকার লাইব্রেরি খুঁজে পাওয়া যায়নি। আপনার ইনস্টলেশন চেক করুন।",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:44bb1beac399",
@@ -11499,7 +11499,7 @@
     "key": "QObject:2ebd5dd0cbfe",
     "original": "Sort by Popularity",
     "translation": "জনপ্রিয়তা অনুসারে সাজান",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3546d8e58e95",
@@ -11511,7 +11511,7 @@
     "key": "QObject:5fa541307296",
     "original": "Sort by Name",
     "translation": "নাম অনুসারে সাজান",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:d1db3d422497",
@@ -11535,7 +11535,7 @@
     "key": "QObject:21eea1c9bdf3",
     "original": "Sort by Game Version",
     "translation": "গেমের ভার্শন অনুসারে সাজান",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:c2bdba99958f",
@@ -11583,7 +11583,7 @@
     "key": "QObject:bc7819b34ff8",
     "original": "Unknown",
     "translation": "অজানা",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:73b44ec0895a",
@@ -11631,49 +11631,49 @@
     "key": "QObject:1b927decdbb0",
     "original": "Unchecked",
     "translation": "আনচেক করা হয়েছে",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:e01fa717bacc",
     "original": "Offline",
     "translation": "অফলাইন",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:20c7c5522fc2",
     "original": "Ready",
     "translation": "প্রস্তুত",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3b4dfc971393",
     "original": "Working",
     "translation": "কাজ করছে",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:2d4784200261",
     "original": "Errored",
     "translation": "এরর করা গেছে",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:a689a999a5e6",
     "original": "Expired",
     "translation": "মেয়াদ শেষ",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:f4f4473df8cb",
     "original": "Disabled",
     "translation": "অক্ষম",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:149ecfc76f45",
     "original": "Gone",
     "translation": "চলে গেছে",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3b81c344597f",
@@ -11955,7 +11955,7 @@
     "key": "QObject:a9b4889389af",
     "original": "Unrecognized",
     "translation": "অচেনা",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:5a853d21a166",
@@ -12069,13 +12069,13 @@
     "key": "ResourceDownload::ResourceDownloadDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "ভুল",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:1430f976c596",
     "original": "Warnings",
     "translation": "সতর্কতা",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:5eb693bc62ce",
@@ -12135,7 +12135,7 @@
     "key": "ResourceDownload::ResourceModel:7f2f6a15cf8d",
     "original": "Error",
     "translation": "ভুল",
-    "context": "ResourceDownload::ResourceModel | [unfinished]"
+    "context": "ResourceDownload::ResourceModel"
   },
   {
     "key": "ResourceDownload::ResourceModel:15bf96b86b8e",
@@ -12297,7 +12297,7 @@
     "key": "ResourceDownload::ResourcePage:77dfd2135f4d",
     "original": "Cancel",
     "translation": "বাতিল করুন",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:39d43199988a",
@@ -12339,13 +12339,13 @@
     "key": "ResourceFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "নাম",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:4c24525b0aa0",
     "original": "Last Modified",
     "translation": "সর্বশেষ পরিবর্তিত",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:2da600bf9404",
@@ -12357,7 +12357,7 @@
     "key": "ResourceFolderModel:b7152342a267",
     "original": "Size",
     "translation": "আকার",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:7ceee3f3615a",
@@ -12369,7 +12369,7 @@
     "key": "ResourceFolderModel:2aabcfc2668a",
     "original": "File Name",
     "translation": "ফাইলের নাম",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:fb91e24fa52d",
@@ -12453,13 +12453,13 @@
     "key": "ResourceFolderModel:50e19fda0d5b",
     "original": "Image",
     "translation": "ছবি",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:4c24525b0aa0",
     "original": "Last Modified",
     "translation": "সর্বশেষ পরিবর্তিত",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:2da600bf9404",
@@ -12471,7 +12471,7 @@
     "key": "ResourcePackFolderModel:b7152342a267",
     "original": "Size",
     "translation": "আকার",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:7ceee3f3615a",
@@ -12483,7 +12483,7 @@
     "key": "ResourcePackFolderModel:2aabcfc2668a",
     "original": "File Name",
     "translation": "ফাইলের নাম",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:fb91e24fa52d",
@@ -12537,13 +12537,13 @@
     "key": "ResourcePackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "নাম",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:0092be542f99",
     "original": "Pack Format",
     "translation": "প্যাক ফরম্যাট",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:919afcd54661",
@@ -12561,7 +12561,7 @@
     "key": "ResourcePackPage:488738cde719",
     "original": "Download Packs",
     "translation": "প্যাকগুলি ডাউনলোড করুন",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:e0426347f584",
@@ -12585,13 +12585,13 @@
     "key": "ResourcePackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "ভুল",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:1430f976c596",
     "original": "Warnings",
     "translation": "সতর্কতা",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:e2cabd9e9dcc",
@@ -12603,7 +12603,7 @@
     "key": "ResourcePackPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "আপডেট নিশ্চিত করুন",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:bfd070362a72",
@@ -12615,7 +12615,7 @@
     "key": "ResourcePackPage:76e93d20a40b",
     "original": "'%1' is up-to-date! :)",
     "translation": "'%1' আপ-টো-ডেট আছে! :)",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:5b87c4c86fc9",
@@ -12633,13 +12633,13 @@
     "key": "ResourcePackPage:2080f0fbd2f0",
     "original": "Update checker",
     "translation": "আপডেট চেকার",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "রিমুভাল কনফার্ম করুন",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:068704d93c40",
@@ -12657,7 +12657,7 @@
     "key": "ResourcePage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "নির্বাচিত ভার্শন:",
-    "context": "ResourcePage | [unfinished]"
+    "context": "ResourcePage"
   },
   {
     "key": "ResourcePage:c3c949f932a9",
@@ -12711,13 +12711,13 @@
     "key": "ResourceUpdateDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "ভুল",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:1430f976c596",
     "original": "Warnings",
     "translation": "সতর্কতা",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:549981f05abc",
@@ -12855,13 +12855,13 @@
     "key": "ReviewMessageBox:77dfd2135f4d",
     "original": "Cancel",
     "translation": "বাতিল করুন",
-    "context": "ReviewMessageBox | [unfinished]"
+    "context": "ReviewMessageBox"
   },
   {
     "key": "ReviewMessageBox:9ce3bd4224c8",
     "original": "OK",
     "translation": "ঠিক আছে",
-    "context": "ReviewMessageBox | [unfinished]"
+    "context": "ReviewMessageBox"
   },
   {
     "key": "ReviewMessageBox:e618688160db",
@@ -12963,7 +12963,7 @@
     "key": "ScreenshotsPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "কনটেক্সট মেনু",
-    "context": "ScreenshotsPage | [unfinished]"
+    "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:69f424ee3a3e",
@@ -13023,7 +13023,7 @@
     "key": "ScreenshotsPage:8953e5799431",
     "original": "Confirm Deletion",
     "translation": "মুছিয়া ফেলা নিশ্চিত করুন",
-    "context": "ScreenshotsPage | [unfinished]"
+    "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:597b6356e6ce",
@@ -13047,13 +13047,13 @@
     "key": "ScrollMessageBox:77dfd2135f4d",
     "original": "Cancel",
     "translation": "বাতিল করুন",
-    "context": "ScrollMessageBox | [unfinished]"
+    "context": "ScrollMessageBox"
   },
   {
     "key": "ScrollMessageBox:9ce3bd4224c8",
     "original": "OK",
     "translation": "ঠিক আছে",
-    "context": "ScrollMessageBox | [unfinished]"
+    "context": "ScrollMessageBox"
   },
   {
     "key": "SelectReleaseAssetDialog:2da600bf9404",
@@ -13107,13 +13107,13 @@
     "key": "SelectReleaseDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "বাতিল করুন",
-    "context": "SelectReleaseDialog | [unfinished]"
+    "context": "SelectReleaseDialog"
   },
   {
     "key": "SelectReleaseDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "ঠিক আছে",
-    "context": "SelectReleaseDialog | [unfinished]"
+    "context": "SelectReleaseDialog"
   },
   {
     "key": "SequentialTask:829c6e1cd1e8",
@@ -13131,7 +13131,7 @@
     "key": "ServersModel:709a23220f2c",
     "original": "Name",
     "translation": "নাম",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersModel:d70f93df5e8f",
@@ -13161,7 +13161,7 @@
     "key": "ServersModel:e01fa717bacc",
     "original": "Offline",
     "translation": "অফলাইন",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersPage:49b93f720a4a",
@@ -13239,7 +13239,7 @@
     "key": "ServersPage:56e3badc4e6c",
     "original": "Refresh",
     "translation": "রিফ্রেশ",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:acca64b83535",
@@ -13251,7 +13251,7 @@
     "key": "ServersPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "কনটেক্সট মেনু",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:b056ceb4156f",
@@ -13263,7 +13263,7 @@
     "key": "ServersPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "রিমুভাল কনফার্ম করুন",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:d11c34744d16",
@@ -13293,7 +13293,7 @@
     "key": "SetupWizard:e38044ca5f26",
     "original": "&Refresh",
     "translation": "&রিফ্রেশ",
-    "context": "SetupWizard | [unfinished]"
+    "context": "SetupWizard"
   },
   {
     "key": "SetupWizard:89e35727270b",
@@ -13317,7 +13317,7 @@
     "key": "ShaderPackPage:488738cde719",
     "original": "Download Packs",
     "translation": "প্যাকগুলি ডাউনলোড করুন",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:18d2a5b13b98",
@@ -13341,13 +13341,13 @@
     "key": "ShaderPackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "ভুল",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:1430f976c596",
     "original": "Warnings",
     "translation": "সতর্কতা",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:292f21077ddf",
@@ -13359,7 +13359,7 @@
     "key": "ShaderPackPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "আপডেট নিশ্চিত করুন",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:50c4638a5951",
@@ -13371,7 +13371,7 @@
     "key": "ShaderPackPage:76e93d20a40b",
     "original": "'%1' is up-to-date! :)",
     "translation": "'%1' আপ-টো-ডেট আছে! :)",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:4e2cec7a1363",
@@ -13389,13 +13389,13 @@
     "key": "ShaderPackPage:2080f0fbd2f0",
     "original": "Update checker",
     "translation": "আপডেট চেকার",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "রিমুভাল কনফার্ম করুন",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:c3ba31d003fe",
@@ -13485,7 +13485,7 @@
     "key": "SkinManageDialog:027760ffe7da",
     "original": "Open Folder",
     "translation": "ফোল্ডার খুলুন",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:cf4da3174d7d",
@@ -13551,13 +13551,13 @@
     "key": "SkinManageDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "বাতিল করুন",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "ঠিক আছে",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:126f0e0caf65",
@@ -13623,7 +13623,7 @@
     "key": "SkinManageDialog:4d0cd32e3025",
     "original": "Context menu",
     "translation": "কনটেক্সট মেনু",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:abc73e2588f3",
@@ -13641,7 +13641,7 @@
     "key": "SkinManageDialog:8953e5799431",
     "original": "Confirm Deletion",
     "translation": "মুছিয়া ফেলা নিশ্চিত করুন",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:a610463d67da",
@@ -13731,7 +13731,7 @@
     "key": "SubTaskProgressBar:80446347ede5",
     "original": "Form",
     "translation": "ফর্ম",
-    "context": "SubTaskProgressBar | [unfinished]"
+    "context": "SubTaskProgressBar"
   },
   {
     "key": "SubTaskProgressBar:9f478681f2e2",
@@ -13749,7 +13749,7 @@
     "key": "Task:b1590d210090",
     "original": "Aborted",
     "translation": "বাতিল করা হয়েছে",
-    "context": "Task | [unfinished]"
+    "context": "Task"
   },
   {
     "key": "TaskStepWrapper:7385614b3500",
@@ -13815,7 +13815,7 @@
     "key": "Technic::SolderPackInstallTask:93fc42ea75d6",
     "original": "Could not understand pack manifest:\n",
     "translation": "প্যাক ম্যানিফেস্ট অপুর্ণ, বুঝতে পারিনিঃ",
-    "context": "Technic::SolderPackInstallTask | [unfinished]"
+    "context": "Technic::SolderPackInstallTask"
   },
   {
     "key": "Technic::SolderPackInstallTask:947d98cb6a3e",
@@ -13893,19 +13893,19 @@
     "key": "TechnicPage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "নির্বাচিত ভার্শন:",
-    "context": "TechnicPage | [unfinished]"
+    "context": "TechnicPage"
   },
   {
     "key": "TechnicPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "অনুসন্ধান এবং ফিল্টার করুন..।",
-    "context": "TechnicPage | [unfinished]"
+    "context": "TechnicPage"
   },
   {
     "key": "TechnicPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "ভুল",
-    "context": "TechnicPage | [unfinished]"
+    "context": "TechnicPage"
   },
   {
     "key": "TechnicPage:876074b47592",
@@ -13917,19 +13917,19 @@
     "key": "TexturePackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "নাম",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:4c24525b0aa0",
     "original": "Last Modified",
     "translation": "সর্বশেষ পরিবর্তিত",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:b7152342a267",
     "original": "Size",
     "translation": "আকার",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:7ceee3f3615a",
@@ -13941,7 +13941,7 @@
     "key": "TexturePackFolderModel:2aabcfc2668a",
     "original": "File Name",
     "translation": "ফাইলের নাম",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:fb91e24fa52d",
@@ -14001,7 +14001,7 @@
     "key": "TexturePackPage:488738cde719",
     "original": "Download Packs",
     "translation": "প্যাকগুলি ডাউনলোড করুন",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:85fa4bf8bc83",
@@ -14031,13 +14031,13 @@
     "key": "TexturePackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "ভুল",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:1430f976c596",
     "original": "Warnings",
     "translation": "সতর্কতা",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:936125976ee4",
@@ -14049,7 +14049,7 @@
     "key": "TexturePackPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "আপডেট নিশ্চিত করুন",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:dd36a08926c7",
@@ -14061,7 +14061,7 @@
     "key": "TexturePackPage:76e93d20a40b",
     "original": "'%1' is up-to-date! :)",
     "translation": "'%1' আপ-টো-ডেট আছে! :)",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:a39d7646de30",
@@ -14079,13 +14079,13 @@
     "key": "TexturePackPage:2080f0fbd2f0",
     "original": "Update checker",
     "translation": "আপডেট চেকার",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "রিমুভাল কনফার্ম করুন",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:b7fbe79a518f",
@@ -14097,7 +14097,7 @@
     "key": "ThemeWizardPage:41def7a0febe",
     "original": "Appearance",
     "translation": "ধরন",
-    "context": "ThemeWizardPage | [unfinished]"
+    "context": "ThemeWizardPage"
   },
   {
     "key": "ThemeWizardPage:8ba2ac6395c2",
@@ -14481,7 +14481,7 @@
     "key": "VersionPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "কনটেক্সট মেনু",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:e9571bf1f2e1",
@@ -14511,13 +14511,13 @@
     "key": "VersionPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "ভুল",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "রিমুভাল কনফার্ম করুন",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:c8f5d5fa0f19",
@@ -14625,7 +14625,7 @@
     "key": "VersionPage:fd6c3ebf7bef",
     "original": "Install",
     "translation": "ইনস্টল করুন",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:cae9674c84d8",
@@ -14673,7 +14673,7 @@
     "key": "VersionProxyModel:3deb74565196",
     "original": "Type",
     "translation": "প্রকার",
-    "context": "VersionProxyModel | [unfinished]"
+    "context": "VersionProxyModel"
   },
   {
     "key": "VersionProxyModel:b040b4179b8b",
@@ -14781,13 +14781,13 @@
     "key": "VersionSelectDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "ঠিক আছে",
-    "context": "VersionSelectDialog | [unfinished]"
+    "context": "VersionSelectDialog"
   },
   {
     "key": "VersionSelectDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "বাতিল করুন",
-    "context": "VersionSelectDialog | [unfinished]"
+    "context": "VersionSelectDialog"
   },
   {
     "key": "VersionSelectDialog:83b94bf4f93a",
@@ -14805,7 +14805,7 @@
     "key": "VersionSelectDialog:e38044ca5f26",
     "original": "&Refresh",
     "translation": "&রিফ্রেশ",
-    "context": "VersionSelectDialog | [unfinished]"
+    "context": "VersionSelectDialog"
   },
   {
     "key": "VersionSelectWidget:bce06414177f",
@@ -14817,7 +14817,7 @@
     "key": "VersionSelectWidget:7f2f6a15cf8d",
     "original": "Error",
     "translation": "ভুল",
-    "context": "VersionSelectWidget | [unfinished]"
+    "context": "VersionSelectWidget"
   },
   {
     "key": "VersionSelectWidget:4cb9e107bc5a",
@@ -14865,7 +14865,7 @@
     "key": "WorldList:709a23220f2c",
     "original": "Name",
     "translation": "নাম",
-    "context": "WorldList | [unfinished]"
+    "context": "WorldList"
   },
   {
     "key": "WorldList:9424db05db84",
@@ -14883,7 +14883,7 @@
     "key": "WorldList:b7152342a267",
     "original": "Size",
     "translation": "আকার",
-    "context": "WorldList | World size on disk | [unfinished]"
+    "context": "WorldList | World size on disk"
   },
   {
     "key": "WorldList:4b631f698425",
@@ -14967,7 +14967,7 @@
     "key": "WorldListPage:56e3badc4e6c",
     "original": "Refresh",
     "translation": "রিফ্রেশ",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:b2253ecc0070",
@@ -15021,7 +15021,7 @@
     "key": "WorldListPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "কনটেক্সট মেনু",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:828d183e802e",
@@ -15291,7 +15291,7 @@
     "key": "YggdrasilLoginDialog:84c29015de33",
     "original": "Username",
     "translation": "ইউজার নেম",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:8be3c943b160",
@@ -15309,7 +15309,7 @@
     "key": "YggdrasilLoginDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "বাতিল করুন",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:ca359109578d",

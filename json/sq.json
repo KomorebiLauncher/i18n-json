@@ -1089,7 +1089,7 @@
     "key": "AuthlibInjectorDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Instaloni",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AuthlibInjectorDialog:77dfd2135f4d",
@@ -1221,7 +1221,7 @@
     "key": "BaseEntityLoadTask:ae327e573ef2",
     "original": "Loading local file",
     "translation": "Duke ngarkuar skedarin lokal",
-    "context": "BaseEntityLoadTask | [unfinished]"
+    "context": "BaseEntityLoadTask"
   },
   {
     "key": "BaseProfiler:122e80b33e98",
@@ -3159,13 +3159,13 @@
     "key": "ExternalToolsPage:d3c88b119527",
     "original": "&Add",
     "translation": "&Shto",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:763c2ebc2799",
     "original": "&Remove",
     "translation": "&Hiq",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:709a23220f2c",
@@ -3657,13 +3657,13 @@
     "key": "FlameCreationTask:ec8e76990081",
     "original": "Removing old conflicting files...",
     "translation": "Duke hequr skedarët e vjetër konfliktualë...",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:95678dd3a029",
     "original": "Failed to remove old conflicting files.",
     "translation": "Dështoi heqja e skedarëve të vjetër konfliktualë.",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:df237503973c",
@@ -4407,13 +4407,13 @@
     "key": "InstanceTask:dd17662eb1c4",
     "original": "Could not download game files: %1",
     "translation": "Nuk u mund të shkarkoheshin skedarët e lojës: %1",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:8d4223d64584",
     "original": "Downloading game files",
     "translation": "Duke shkarkuar skedarët e lojës",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceView:e52e5e6cd50e",
@@ -6237,7 +6237,7 @@
     "key": "ListModel:c4a7e601008a",
     "original": "Minecraft %1",
     "translation": "Minecraft %1",
-    "context": "ListModel | [unfinished]"
+    "context": "ListModel"
   },
   {
     "key": "LocalResourceUpdateTask:2245cdef5363",
@@ -7376,7 +7376,7 @@
   {
     "key": "MainWindow:7561aee92c50",
     "original": " and its %n registered shortcut(s)",
-    "translation": " ' dhe shkurtoren e saj të regjistruar %n'\n ' dhe shkurtoret e saj të regjistruara %n'",
+    "translation": "' dhe shkurtoren e saj të regjistruar %n'\n ' dhe shkurtoret e saj të regjistruara %n'",
     "context": "MainWindow | [plural]"
   },
   {
@@ -8139,7 +8139,7 @@
     "key": "MinecraftSettingsWidget:d41f56cea1ac",
     "original": "Release",
     "translation": "Lëshim",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:322444d3bb52",
@@ -8319,7 +8319,7 @@
     "key": "MirrorListEditor:61cc55aa0453",
     "original": "Add",
     "translation": "Shto",
-    "context": "MirrorListEditor | [unfinished]"
+    "context": "MirrorListEditor"
   },
   {
     "key": "MirrorListEditor:226188f5c23d",
@@ -8768,7 +8768,7 @@
   {
     "key": "ModFolderModel:7344f60ae135",
     "original": "%n mod(s) will be enabled\n",
-    "translation": "%n mod do të aktivizohet\n\n%n mode do të aktivizohen\n",
+    "translation": "%n mod do të aktivizohet\n\n%n mode do të aktivizohen",
     "context": "ModFolderModel | [plural]"
   },
   {
@@ -8780,7 +8780,7 @@
   {
     "key": "ModFolderModel:ffcf72215f76",
     "original": "%n mod(s) will be disabled\n",
-    "translation": "%n mod do të çaktivizohet\n\n%n mode do të çaktivizohen\n",
+    "translation": "%n mod do të çaktivizohet\n\n%n mode do të çaktivizohen",
     "context": "ModFolderModel | [plural]"
   },
   {
@@ -9153,13 +9153,13 @@
     "key": "ModrinthCreationTask:ec8e76990081",
     "original": "Removing old conflicting files...",
     "translation": "Duke hequr skedarët e vjetër konfliktualë...",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:95678dd3a029",
     "original": "Failed to remove old conflicting files.",
     "translation": "Dështoi heqja e skedarëve të vjetër konfliktualë.",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthManagedPackPage:6bbfd857afb9",
@@ -9345,13 +9345,13 @@
     "key": "Net::Request:f930959fbc72",
     "original": "Requesting %1",
     "translation": "Duke kërkuar %1",
-    "context": "Net::Request | [unfinished]"
+    "context": "Net::Request"
   },
   {
     "key": "Net::Request:d4b2aca736b7",
     "original": "%1 / %2",
     "translation": "%1 / %2",
-    "context": "Net::Request | Current amount of bytes downloaded, out of the total amount of bytes in the download | [unfinished]"
+    "context": "Net::Request | Current amount of bytes downloaded, out of the total amount of bytes in the download"
   },
   {
     "key": "Net::Request:50d8b4a941c2",
@@ -9363,13 +9363,13 @@
     "key": "Net::Request:5b17125e5647",
     "original": "%1 /s (%2)",
     "translation": "%1 /s (%2)",
-    "context": "Net::Request | Download speed, in bytes per second (remaining download time in parenthesis) | [unfinished]"
+    "context": "Net::Request | Download speed, in bytes per second (remaining download time in parenthesis)"
   },
   {
     "key": "Net::Request:16f20499929f",
     "original": "0 B/s",
     "translation": "0 B/s",
-    "context": "Net::Request | Download speed at 0 bytes per second | [unfinished]"
+    "context": "Net::Request | Download speed at 0 bytes per second"
   },
   {
     "key": "Net::Request:5cd0f72bdf35",
@@ -9387,13 +9387,13 @@
     "key": "Net::Request:60f870097f24",
     "original": "Request Rate Limited for %n second(s): Retry After %1",
     "translation": "Shkalla e Kërkesave Kufizuar për %n sekondë: Riprovo Pas %1\nShkalla e Kërkesave Kufizuar për %n sekonda: Riprovo Pas %1",
-    "context": "Net::Request | [unfinished, plural]"
+    "context": "Net::Request | [plural]"
   },
   {
     "key": "Net::Request:f39e4002d474",
     "original": "Rate Limited: Waiting %n second(s)",
     "translation": "Shkalla e Kufizuar: Duke Pritur %n sekondë\nShkalla e Kufizuar: Duke Pritur %n sekonda",
-    "context": "Net::Request | [unfinished, plural]"
+    "context": "Net::Request | [plural]"
   },
   {
     "key": "NetJob:94ab93724d10",
@@ -9855,7 +9855,7 @@
     "key": "OptiFineInstallDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Instaloni",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptiFineInstallDialog:77dfd2135f4d",
@@ -12003,7 +12003,7 @@
     "key": "QObject:1ba86caa483a",
     "original": "Could not open file %1 for reading: %2",
     "translation": "Nuk u mund të hapej skedari %1 për lexim: %2",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:f05c9bfd5730",
@@ -13161,7 +13161,7 @@
     "key": "ServersModel:e01fa717bacc",
     "original": "Offline",
     "translation": "Jashtë linje",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersPage:49b93f720a4a",
@@ -14625,7 +14625,7 @@
     "key": "VersionPage:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Instaloni",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:cae9674c84d8",
@@ -14991,7 +14991,7 @@
     "key": "WorldListPage:4fa8cc860c52",
     "original": "Tools",
     "translation": "Mjetet",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:dbd185310812",
@@ -15291,7 +15291,7 @@
     "key": "YggdrasilLoginDialog:84c29015de33",
     "original": "Username",
     "translation": "Emri i përdoruesit",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:8be3c943b160",

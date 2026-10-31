@@ -285,7 +285,7 @@
     "key": "AboutDialog:bfac50d6424b",
     "original": "Credits",
     "translation": "Credjal",
-    "context": "AboutDialog | [unfinished]"
+    "context": "AboutDialog"
   },
   {
     "key": "AboutDialog:3229609e1543",
@@ -303,7 +303,7 @@
     "key": "AboutDialog:bbfa773e5a63",
     "original": "Close",
     "translation": "Dooin",
-    "context": "AboutDialog | [unfinished]"
+    "context": "AboutDialog"
   },
   {
     "key": "AboutDialog:48dfd996a4ce",
@@ -1329,7 +1329,7 @@
     "key": "ChooseOfflineNameDialog:84c29015de33",
     "original": "Username",
     "translation": "Ennym ymmydeyr",
-    "context": "ChooseOfflineNameDialog | [unfinished]"
+    "context": "ChooseOfflineNameDialog"
   },
   {
     "key": "ChooseOfflineNameDialog:2310a5ac292a",
@@ -1509,7 +1509,7 @@
     "key": "CopyInstanceDialog:709a23220f2c",
     "original": "Name",
     "translation": "Ennym",
-    "context": "CopyInstanceDialog | [unfinished]"
+    "context": "CopyInstanceDialog"
   },
   {
     "key": "CopyInstanceDialog:cabf7964d2e8",
@@ -1977,7 +1977,7 @@
     "key": "CreateShortcutDialog:709a23220f2c",
     "original": "Name",
     "translation": "Ennym",
-    "context": "CreateShortcutDialog | [unfinished]"
+    "context": "CreateShortcutDialog"
   },
   {
     "key": "CreateShortcutDialog:c1253df1495f",
@@ -2265,7 +2265,7 @@
     "key": "DataPackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Ennym",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:0092be542f99",
@@ -2559,7 +2559,7 @@
     "key": "EnvironmentVariables:709a23220f2c",
     "original": "Name",
     "translation": "Ennym",
-    "context": "EnvironmentVariables | [unfinished]"
+    "context": "EnvironmentVariables"
   },
   {
     "key": "EnvironmentVariables:8dce170de238",
@@ -3171,7 +3171,7 @@
     "key": "ExternalToolsPage:709a23220f2c",
     "original": "Name",
     "translation": "Ennym",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:8901895fb1b1",
@@ -4473,7 +4473,7 @@
     "key": "InstanceWindow:bbfa773e5a63",
     "original": "Close",
     "translation": "Dooin",
-    "context": "InstanceWindow | [unfinished]"
+    "context": "InstanceWindow"
   },
   {
     "key": "InstanceWindow:608d16441fb2",
@@ -7665,7 +7665,7 @@
     "key": "Meta::Index:709a23220f2c",
     "original": "Name",
     "translation": "Ennym",
-    "context": "Meta::Index | [unfinished]"
+    "context": "Meta::Index"
   },
   {
     "key": "Meta::Index:04099ec66644",
@@ -8595,7 +8595,7 @@
     "key": "ModFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Ennym",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:2da600bf9404",
@@ -9471,7 +9471,7 @@
     "key": "NewComponentDialog:709a23220f2c",
     "original": "Name",
     "translation": "Ennym",
-    "context": "NewComponentDialog | [unfinished]"
+    "context": "NewComponentDialog"
   },
   {
     "key": "NewComponentDialog:e2577dd78b54",
@@ -9573,7 +9573,7 @@
     "key": "NewsDialog:bbfa773e5a63",
     "original": "Close",
     "translation": "Dooin",
-    "context": "NewsDialog | [unfinished]"
+    "context": "NewsDialog"
   },
   {
     "key": "NewsDialog:a5601a63d0ae",
@@ -10263,7 +10263,7 @@
     "key": "PackProfile:709a23220f2c",
     "original": "Name",
     "translation": "Ennym",
-    "context": "PackProfile | [unfinished]"
+    "context": "PackProfile"
   },
   {
     "key": "PackProfile:2da600bf9404",
@@ -12339,7 +12339,7 @@
     "key": "ResourceFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Ennym",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:4c24525b0aa0",
@@ -12453,7 +12453,7 @@
     "key": "ResourceFolderModel:50e19fda0d5b",
     "original": "Image",
     "translation": "Jalloo",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:4c24525b0aa0",
@@ -12537,7 +12537,7 @@
     "key": "ResourcePackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Ennym",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:0092be542f99",
@@ -13131,7 +13131,7 @@
     "key": "ServersModel:709a23220f2c",
     "original": "Name",
     "translation": "Ennym",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersModel:d70f93df5e8f",
@@ -14865,7 +14865,7 @@
     "key": "WorldList:709a23220f2c",
     "original": "Name",
     "translation": "Ennym",
-    "context": "WorldList | [unfinished]"
+    "context": "WorldList"
   },
   {
     "key": "WorldList:9424db05db84",
@@ -15291,7 +15291,7 @@
     "key": "YggdrasilLoginDialog:84c29015de33",
     "original": "Username",
     "translation": "Ennym ymmydeyr",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:8be3c943b160",

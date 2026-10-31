@@ -1089,13 +1089,13 @@
     "key": "AuthlibInjectorDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Paigalda",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AuthlibInjectorDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Tühista",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AutoInstallJava:d3ace495a5a2",
@@ -1221,7 +1221,7 @@
     "key": "BaseEntityLoadTask:ae327e573ef2",
     "original": "Loading local file",
     "translation": "Kohaliku faili allalaadimine",
-    "context": "BaseEntityLoadTask | [unfinished]"
+    "context": "BaseEntityLoadTask"
   },
   {
     "key": "BaseProfiler:122e80b33e98",
@@ -2283,7 +2283,7 @@
     "key": "DataPackFolderModel:b7152342a267",
     "original": "Size",
     "translation": "Suurus",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:2aabcfc2668a",
@@ -2295,13 +2295,13 @@
     "key": "DataPackFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Versioon",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Uuenda",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:b80566e89550",
@@ -2577,7 +2577,7 @@
     "key": "EnvironmentVariables:05842917076f",
     "original": "Override &Global Settings",
     "translation": "Kirjuta üle &Globaalsed seaded",
-    "context": "EnvironmentVariables | [unfinished]"
+    "context": "EnvironmentVariables"
   },
   {
     "key": "EnvironmentVariables:763c2ebc2799",
@@ -2907,7 +2907,7 @@
     "key": "ExternalResourcesPage:a83bca33346e",
     "original": "Enable all selected items.",
     "translation": "Keela valitud üksus",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:bce06414177f",
@@ -3159,19 +3159,19 @@
     "key": "ExternalToolsPage:d3c88b119527",
     "original": "&Add",
     "translation": "&Lisa",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:763c2ebc2799",
     "original": "&Remove",
     "translation": "&Eemalda",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:709a23220f2c",
     "original": "Name",
     "translation": "Nimi",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:8901895fb1b1",
@@ -3321,7 +3321,7 @@
     "key": "FTB::PackInstallTask:0bce438bca92",
     "original": "Getting the manifest...",
     "translation": "Manifesti hankimine...",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:150d6ddfa9a9",
@@ -3333,25 +3333,25 @@
     "key": "FTB::PackInstallTask:93fc42ea75d6",
     "original": "Could not understand pack manifest:\n",
     "translation": "Paki manifestist ei saadud aru:",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:ef42318f68d9",
     "original": "Resolving mods...",
     "translation": "Modide lahendamine...",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:3100df9be461",
     "original": "Invalid manifest: There's no information available to download the file '%1'!",
     "translation": "Sobimatu manifest: faili \"%1\" allalaadimiseks puudub teave!",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:ad3e8a235d62",
     "original": "Blocked files found",
     "translation": "Leiti blokeeritud failid",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:7ff827f8d900",
@@ -3363,19 +3363,19 @@
     "key": "FTB::PackInstallTask:2df48fae0ac2",
     "original": "Creating the instance...",
     "translation": "Eksemplari loomine...",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:df237503973c",
     "original": "Downloading mods...",
     "translation": "Modide allalaadimine...",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:7b02e924aa02",
     "original": "Mod download",
     "translation": "Modi allalaadimine",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:d4e059888d25",
@@ -3387,13 +3387,13 @@
     "key": "FTB::PackInstallTask:9c36196243f9",
     "original": "Copying Blocked Mods...",
     "translation": "Blokeeritud modide kopeerimine...",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:07670e4b121a",
     "original": "Copying Blocked Mods (%1 out of %2 are done)",
     "translation": "Blokeeritud modide kopeerimine (%1/%2 valmis)",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTBImportAPP::FilterModel:5fa541307296",
@@ -3465,7 +3465,7 @@
     "key": "FlameCheckUpdate:b2a3efe94b2f",
     "original": "Preparing resources for CurseForge...",
     "translation": "Modide ettevalmistamine CurseForge jaoks...",
-    "context": "FlameCheckUpdate | [unfinished]"
+    "context": "FlameCheckUpdate"
   },
   {
     "key": "FlameCheckUpdate:574c573bd0d6",
@@ -3657,13 +3657,13 @@
     "key": "FlameCreationTask:ec8e76990081",
     "original": "Removing old conflicting files...",
     "translation": "Vanade konfliktsete failide eemaldamine...",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:95678dd3a029",
     "original": "Failed to remove old conflicting files.",
     "translation": "Vanade konfliktsete failide eemaldamine ebaõnnestus.",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:df237503973c",
@@ -3987,7 +3987,7 @@
     "key": "IconPickerDialog:fb74bcaf7699",
     "original": "Legacy",
     "translation": "Pärand",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:2a652ab1d9fa",
@@ -3999,7 +3999,7 @@
     "key": "IconPickerDialog:081ae3fdc403",
     "original": "Custom",
     "translation": "Kohandatud",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:a825bf9821f9",
@@ -4203,7 +4203,7 @@
     "key": "InstallLoaderDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:77dfd2135f4d",
@@ -4395,13 +4395,13 @@
     "key": "InstanceTask:3da474537ac3",
     "original": "Skip",
     "translation": "Jäta vahele",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Viga",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:dd17662eb1c4",
@@ -4797,7 +4797,7 @@
     "key": "JavaSettingsWidget:2cb0893a9f02",
     "original": "Skip Java compatibility checks",
     "translation": "Jäta Java ühilduvuskontrollid vahele",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:a60f6ade30d1",
@@ -5031,7 +5031,7 @@
     "key": "JavaWizardWidget:7bae3383bc68",
     "original": "You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.\n%1 will not be able to start Minecraft.\nDo you wish to proceed?\n\nYou can change the Java version in the settings later.\n",
     "translation": "Valisid 32-bitise Java paigalduse, kuid määrasid maksimaalseks mälujaotuseks rohkem, kui 2048MiB.\n%1 ei saa Minecrafti käivitada.\nKas soovid jätkata?\n\nJava versiooni saab pärast seadetes muuta.",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:5dc9c1298895",
@@ -5043,7 +5043,7 @@
     "key": "JavaWizardWidget:52f8da4ff531",
     "original": "You either didn't select a Java version or selected one that does not work.\n%1 will not be able to start Minecraft.\nDo you wish to proceed without a functional version of Java?\n\nYou can change the Java version in the settings later.\n",
     "translation": "Sa kas ei valinud Java versiooni või valisid ühe, mis ei tööta.\n%1 ei saa Minecrafti käivitada.\nKas soovid jätkata?\n\nJava versiooni saab pärast seadetes muuta.",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:720891fd2e15",
@@ -5061,25 +5061,25 @@
     "key": "JavaWizardWidget:a948355e4e3c",
     "original": "The maximum amount of memory Minecraft is allowed to use.",
     "translation": "Maksimaalne mälu hulk, mida Minecraft kasutada võib.",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:8538a075e966",
     "original": "Minimum memory allocation:",
     "translation": "Minimaalne mälueraldus:",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:a4aec57dd6f3",
     "original": "Maximum memory allocation:",
     "translation": "Maksimaalne mälueraldus:",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:dd79f7640608",
     "original": "The amount of memory Minecraft is started with.",
     "translation": "Mälu hulk, millega Minecraft käivitatakse.",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:44a58b758316",
@@ -5091,7 +5091,7 @@
     "key": "JavaWizardWidget:2f3b5c55bc27",
     "original": "Browse",
     "translation": "Sirvi",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:93afc3efadc5",
@@ -5109,25 +5109,25 @@
     "key": "JavaWizardWidget:5b0b5d4caf6d",
     "original": "Autodetect Java",
     "translation": "Tuvasta Java automaatselt",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:1cd3b29484dc",
     "original": "Your maximum memory allocation exceeds your system memory capacity.",
     "translation": "Sinu maksimaalne mälujaotus ületab süsteemi mälujaotust.",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:6b090ee94fac",
     "original": "Your maximum memory allocation approaches your system memory capacity.",
     "translation": "Sinu maksimaalne mälujaotus on peaaegu süsteemi mälujaotus.",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:1996c8e6e0c7",
     "original": "Your maximum memory allocation is smaller than the minimum value",
     "translation": "Sinu maksimaalne mälujaotus on minimaalsest väiksem",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:b0d53f521374",
@@ -5655,7 +5655,7 @@
     "key": "LauncherPage:e963907dac5c",
     "original": "Remove",
     "translation": "Eemalda",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:9b824218dd00",
@@ -5973,7 +5973,7 @@
     "key": "LauncherPage:9239ee2cda84",
     "original": "General",
     "translation": "Üldine",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPartLaunch:7a099c84fef6",
@@ -6009,37 +6009,37 @@
     "key": "LegacyFMLLibrariesTask:914b462ecb84",
     "original": "Checking for FML libraries...",
     "translation": "FML-teekide kontrollimine...",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:1906289a3356",
     "original": "Downloading FML libraries...",
     "translation": "FML-teekide allalaadimine...",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:4a36e8560168",
     "original": "Copying FML libraries into the instance...",
     "translation": "FML-teekide eksemplari kopeerimine...",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:cd9d55688469",
     "original": "Failed creating FML library folder inside the instance.",
     "translation": "Eksemplari FML-teekide kausta loomine ebaõnnestus.",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:12c0e533752f",
     "original": "Failed copying Forge/FML library: %1.",
     "translation": "Forge/FML-teegi kopeerimine ebaõnnestus: %1.",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:aa54605f20ac",
     "original": "Failed to download the following files:\n%1\n\nReason:%2\nPlease try again.",
     "translation": "Järgnevate failide allalaadimine ebaõnnestus:\n%1\n\nPõhjus: %2\nPalun proovi uuesti.",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFTB::FilterModel:5fa541307296",
@@ -6111,7 +6111,7 @@
     "key": "LegacyFTB::PackInstallTask:44d2b46ad2a3",
     "original": "Failed to move unpacked Minecraft!",
     "translation": "Lahti pakitud Minecrafti liigutamine ebaõnnestus!",
-    "context": "LegacyFTB::PackInstallTask | [unfinished]"
+    "context": "LegacyFTB::PackInstallTask"
   },
   {
     "key": "LegacyFTB::PackInstallTask:8fbd03d30f77",
@@ -6237,7 +6237,7 @@
     "key": "ListModel:c4a7e601008a",
     "original": "Minecraft %1",
     "translation": "Minecraft %1",
-    "context": "ListModel | [unfinished]"
+    "context": "ListModel"
   },
   {
     "key": "LocalResourceUpdateTask:2245cdef5363",
@@ -6249,7 +6249,7 @@
     "key": "LocalResourceUpdateTask:aee53bd6204a",
     "original": "Invalid metadata",
     "translation": "Sobimatud metaandmed",
-    "context": "LocalResourceUpdateTask | [unfinished]"
+    "context": "LocalResourceUpdateTask"
   },
   {
     "key": "LogPage:0767c44f5140",
@@ -6309,7 +6309,7 @@
     "key": "LogPage:bce06414177f",
     "original": "Search",
     "translation": "Otsi",
-    "context": "LogPage | [unfinished]"
+    "context": "LogPage"
   },
   {
     "key": "LogPage:df251b06eefd",
@@ -6531,7 +6531,7 @@
     "key": "MSALoginDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Tühista",
-    "context": "MSALoginDialog | [unfinished]"
+    "context": "MSALoginDialog"
   },
   {
     "key": "MSALoginDialog:95234f4e13e8",
@@ -7647,7 +7647,7 @@
     "key": "ManagedPackPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "Kinnita uuendamist",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:f701d3d7d9eb",
@@ -7845,13 +7845,13 @@
     "key": "MinecraftSettingsWidget:a5f3a11b1ca0",
     "original": "The settings here are overrides for global settings.",
     "translation": "Siinsed sätted kirjutavad üldsätted üle.",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:9239ee2cda84",
     "original": "General",
     "translation": "Üldine",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:f5f202c0be43",
@@ -7869,7 +7869,7 @@
     "key": "MinecraftSettingsWidget:e8d1532c24bb",
     "original": "Start Minecraft maximized",
     "translation": "Käivita Minecraft maksimeeritult",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:477d0b075c21",
@@ -7887,13 +7887,13 @@
     "key": "MinecraftSettingsWidget:d666ae55e54e",
     "original": "Show time spent &playing instances",
     "translation": "Kuva eksemplaride &mängimise aeg",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:202fce3b15a2",
     "original": "&Record time spent playing instances",
     "translation": "&Salvesta eksemplaride mängimise ajad",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:e07347bfd77c",
@@ -7911,13 +7911,13 @@
     "key": "MinecraftSettingsWidget:e027e57610f8",
     "original": "Java",
     "translation": "Java",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:eaef77aca961",
     "original": "Tweaks",
     "translation": "Trikid",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:38de434cac8f",
@@ -7935,7 +7935,7 @@
     "key": "MinecraftSettingsWidget:9f34f6016e25",
     "original": "Enable online fixes (experimental)",
     "translation": "Luba võrguparandused (katsetusjärgus)",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:b9afca45abf9",
@@ -7947,13 +7947,13 @@
     "key": "MinecraftSettingsWidget:9b6112ea8b38",
     "original": "Use system installation of OpenAL",
     "translation": "Kasuta OpenAL'i süsteemipaigaldust",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:42c2dcde03db",
     "original": "Use system installation of GLFW",
     "translation": "Kasuta GLFW'i süsteemipaigaldust",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:a1f325f703fa",
@@ -8037,7 +8037,7 @@
     "key": "MinecraftSettingsWidget:2f3b5c55bc27",
     "original": "Browse",
     "translation": "Sirvi",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:dd2ae46a1914",
@@ -8073,31 +8073,31 @@
     "key": "MinecraftSettingsWidget:b5165545b367",
     "original": "NeoForge",
     "translation": "NeoForge",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:3ab11b75ca36",
     "original": "Forge",
     "translation": "Forge",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:a010de5c6165",
     "original": "Fabric",
     "translation": "Fabric",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:01aa488891b0",
     "original": "Quilt",
     "translation": "Quilt",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:bf134c686f5c",
     "original": "LiteLoader",
     "translation": "LiteLoader",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:99e2e94f2566",
@@ -8115,7 +8115,7 @@
     "key": "MinecraftSettingsWidget:465d3e90d98f",
     "original": "Legacy Fabric",
     "translation": "Legacy Fabric",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:ba0d98ac0a5f",
@@ -8139,7 +8139,7 @@
     "key": "MinecraftSettingsWidget:d41f56cea1ac",
     "original": "Release",
     "translation": "Stabiilne",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:322444d3bb52",
@@ -8187,31 +8187,31 @@
     "key": "MinecraftSettingsWidget:76156755cf90",
     "original": "Enable Feral GameMode",
     "translation": "Luba Feral GameMode",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:12cf1dbefa20",
     "original": "<html><head/><body><p>Enable MangoHud's advanced performance overlay.</p></body></html>",
     "translation": "<html><head/><body><p>Luba MangoHud'i täpsem jõudluse ülekate.</p></body></html>",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:d705cfd69aed",
     "original": "Enable MangoHud",
     "translation": "Luba MangoHud",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:1d8ee2797ed3",
     "original": "<html><head/><body><p>Use the discrete GPU instead of the primary GPU.</p></body></html>",
     "translation": "<html><head/><body><p>Kasuta peamise graafikakaardi asemel lisatud graafikakaarti.</p></body></html>",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:912fabbb6c4c",
     "original": "Use discrete GPU",
     "translation": "Kasuta lisatud graafikakaarti",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:068e3cc57270",
@@ -8223,31 +8223,31 @@
     "key": "MinecraftSettingsWidget:4a6e7953d9d9",
     "original": "Use Zink",
     "translation": "Kasuta Zinki",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:ac06ef9ee1f3",
     "original": "Account:",
     "translation": "Konto:",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:47eeadcdfb06",
     "original": "Server address:",
     "translation": "Serveri aadress:",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:c48e024e0cec",
     "original": "Custom Commands",
     "translation": "Kohandatud käsklused",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:ec072bba7bef",
     "original": "Environment Variables",
     "translation": "Keskkonnamuutujad",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:d9770fdf0002",
@@ -8271,19 +8271,19 @@
     "key": "MinecraftSettingsWidget:864c4da32ff4",
     "original": "Feral Interactive's GameMode could not be found on your system.",
     "translation": "Feral Interactive'i GameMode'i ei leitud sinu süsteemist.",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:51902e458f7b",
     "original": "MangoHud could not be found on your system.",
     "translation": "MangoHudi ei leitud sinu süsteemist.",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:4716024ef395",
     "original": "Path to %1 library file",
     "translation": "%1 teegi failitee",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:036b0633c0ad",
@@ -8307,7 +8307,7 @@
     "key": "MirrorListEditor:e963907dac5c",
     "original": "Remove",
     "translation": "Eemalda",
-    "context": "MirrorListEditor | [unfinished]"
+    "context": "MirrorListEditor"
   },
   {
     "key": "MirrorListEditor:cb0ad25e7101",
@@ -8661,13 +8661,13 @@
     "key": "ModFolderModel:2aabcfc2668a",
     "original": "File Name",
     "translation": "Faili nimi",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Uuenda",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:9f8105907b13",
@@ -8757,7 +8757,7 @@
     "key": "ModFolderModel:bfd722aee774",
     "original": "Confirm toggle",
     "translation": "Kinnita lülitamist",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:8aece0cb2b99",
@@ -8841,7 +8841,7 @@
     "key": "ModFolderPage:daee2b15add9",
     "original": "Export mod's metadata to text.",
     "translation": "Lähtesta uuenduste metaandmed",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:59e5bdd43477",
@@ -9051,13 +9051,13 @@
     "key": "ModrinthCheckUpdate:1aab9f182430",
     "original": "Not installed",
     "translation": "Pole paigaldatud",
-    "context": "ModrinthCheckUpdate | [unfinished]"
+    "context": "ModrinthCheckUpdate"
   },
   {
     "key": "ModrinthCheckUpdate:bc7819b34ff8",
     "original": "Unknown",
     "translation": "Tundmatu",
-    "context": "ModrinthCheckUpdate | [unfinished]"
+    "context": "ModrinthCheckUpdate"
   },
   {
     "key": "ModrinthCheckUpdate:34affdf46b9d",
@@ -9153,13 +9153,13 @@
     "key": "ModrinthCreationTask:ec8e76990081",
     "original": "Removing old conflicting files...",
     "translation": "Vanade konfliktsete failide eemaldamine...",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:95678dd3a029",
     "original": "Failed to remove old conflicting files.",
     "translation": "Vanade konfliktsete failide eemaldamine ebaõnnestus.",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthManagedPackPage:6bbfd857afb9",
@@ -9309,7 +9309,7 @@
     "key": "ModrinthPage:c3c949f932a9",
     "original": "Filter options",
     "translation": "Filtrivalikud",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:0b01b2fd319f",
@@ -9345,31 +9345,31 @@
     "key": "Net::Request:f930959fbc72",
     "original": "Requesting %1",
     "translation": "%1 taotlemine",
-    "context": "Net::Request | [unfinished]"
+    "context": "Net::Request"
   },
   {
     "key": "Net::Request:d4b2aca736b7",
     "original": "%1 / %2",
     "translation": "%1 / %2",
-    "context": "Net::Request | Current amount of bytes downloaded, out of the total amount of bytes in the download | [unfinished]"
+    "context": "Net::Request | Current amount of bytes downloaded, out of the total amount of bytes in the download"
   },
   {
     "key": "Net::Request:50d8b4a941c2",
     "original": "unknown",
     "translation": "tundmatu",
-    "context": "Net::Request | [unfinished]"
+    "context": "Net::Request"
   },
   {
     "key": "Net::Request:5b17125e5647",
     "original": "%1 /s (%2)",
     "translation": "%1 /s (%2)",
-    "context": "Net::Request | Download speed, in bytes per second (remaining download time in parenthesis) | [unfinished]"
+    "context": "Net::Request | Download speed, in bytes per second (remaining download time in parenthesis)"
   },
   {
     "key": "Net::Request:16f20499929f",
     "original": "0 B/s",
     "translation": "0 B/s",
-    "context": "Net::Request | Download speed at 0 bytes per second | [unfinished]"
+    "context": "Net::Request | Download speed at 0 bytes per second"
   },
   {
     "key": "Net::Request:5cd0f72bdf35",
@@ -9423,13 +9423,13 @@
     "key": "NetworkJobFailedDialog:0e2d9b0777a4",
     "original": "URL",
     "translation": "URL",
-    "context": "NetworkJobFailedDialog | [unfinished]"
+    "context": "NetworkJobFailedDialog"
   },
   {
     "key": "NetworkJobFailedDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Viga",
-    "context": "NetworkJobFailedDialog | [unfinished]"
+    "context": "NetworkJobFailedDialog"
   },
   {
     "key": "NetworkJobFailedDialog:7b52603bb25e",
@@ -9483,13 +9483,13 @@
     "key": "NewComponentDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Tühista",
-    "context": "NewComponentDialog | [unfinished]"
+    "context": "NewComponentDialog"
   },
   {
     "key": "NewComponentDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "NewComponentDialog | [unfinished]"
+    "context": "NewComponentDialog"
   },
   {
     "key": "NewInstanceDialog:a8296e726af3",
@@ -9525,19 +9525,19 @@
     "key": "NewInstanceDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Tühista",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:c47ae15370cf",
     "original": "Help",
     "translation": "Abi",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:0e06e81ed34d",
@@ -9855,13 +9855,13 @@
     "key": "OptiFineInstallDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Paigalda",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptiFineInstallDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Tühista",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptionalModDialog:12e9f3729ee6",
@@ -9891,13 +9891,13 @@
     "key": "OptionalModDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Tühista",
-    "context": "OptionalModDialog | [unfinished]"
+    "context": "OptionalModDialog"
   },
   {
     "key": "OptionalModDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "OptionalModDialog | [unfinished]"
+    "context": "OptionalModDialog"
   },
   {
     "key": "OtherLogsPage:d4188c14e699",
@@ -9909,7 +9909,7 @@
     "key": "OtherLogsPage:f54f6c4c05d2",
     "original": "Scroll all the way to bottom",
     "translation": "Keri täiesti lõppu",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:51ac18f44780",
@@ -9945,13 +9945,13 @@
     "key": "OtherLogsPage:0767c44f5140",
     "original": "Keep updating",
     "translation": "Jätka uuendamist",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:a7392043b11d",
     "original": "Wrap lines",
     "translation": "Murra read",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:1d10153b525b",
@@ -9999,7 +9999,7 @@
     "key": "OtherLogsPage:bce06414177f",
     "original": "Search",
     "translation": "Otsi",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:7f2f6a15cf8d",
@@ -10053,7 +10053,7 @@
     "key": "OtherLogsPage:719ea396ad92",
     "original": "Clear",
     "translation": "Tühjenda",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:096311b5638e",
@@ -10071,7 +10071,7 @@
     "key": "OtherLogsPage:1919fdb56138",
     "original": "Cannot display this log since the log length surpassed %1 lines.",
     "translation": "Seda logi ei saa kuvada, kuna logi pikkus on rohkem kui %1 rida.",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:12fc009a1488",
@@ -10101,31 +10101,31 @@
     "key": "PackInstallTask:93fc42ea75d6",
     "original": "Could not understand pack manifest:\n",
     "translation": "Paki manifestist ei saadud aru:",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:1cc558d32fa4",
     "original": "Unsupported installation mode",
     "translation": "Mittetoetatud paigaldusmeetod",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:608a6e16a154",
     "original": "Failed to get local metadata index for '%1' v%2",
     "translation": "Ei saanud kohalikkude andmete indeksit %1 ja v%2",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:a61c5171cb28",
     "original": "Deleting existing files...",
     "translation": "Olemasolevate failide kustutamine...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:639e6287333c",
     "original": "Unknown mod type: %1",
     "translation": "Tundmatu modi tüüp: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:54a1e48a12f3",
@@ -10149,49 +10149,49 @@
     "key": "PackInstallTask:8ea0186a5329",
     "original": "Unknown or unsupported download type: %1",
     "translation": "Tundmatu või mittetoetatud allalaadimise tüüp: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:db82f5ce4d92",
     "original": "Downloading configs...",
     "translation": "Seadistuste allalaadimine...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:296053b61434",
     "original": "Config download",
     "translation": "Seadistuse allalaadimine",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:88e116160aff",
     "original": "Extracting configs...",
     "translation": "Seadistuste ekstraktimine...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:6e97ce93553c",
     "original": "Selecting optional mods...",
     "translation": "Valikuliste modifikatsioonide valimine...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:df237503973c",
     "original": "Downloading mods...",
     "translation": "Modide allalaadimine...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:7b02e924aa02",
     "original": "Mod download",
     "translation": "Modi allalaadimine",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:e91e47f5379a",
     "original": "Unknown download type: %1",
     "translation": "Tundmatu allalaadimise tüüp: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:d4e059888d25",
@@ -10203,7 +10203,7 @@
     "key": "PackInstallTask:327b7e57d4e1",
     "original": "Blocked mods found",
     "translation": "Leiti blokeeritud modid",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:7ff827f8d900",
@@ -10215,43 +10215,43 @@
     "key": "PackInstallTask:f9bc7a615403",
     "original": "%1 out of %2 complete",
     "translation": "%1/%2 tehtud",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:3138740f4b31",
     "original": "Failed to extract mods...",
     "translation": "Modide ekstraktimine ebaõnnestus...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:e87c1bb107c0",
     "original": "Extracting mods...",
     "translation": "Modide ekstraktimine...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:7d3e34e21534",
     "original": "Installing modpack",
     "translation": "Modipaki paigaldamine",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:a568ebaf6ef5",
     "original": "Failed to create libraries component",
     "translation": "Teekide komponendi loomine ebaõnnestus",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:c9c9e81a13ed",
     "original": "Unknown loader type: ",
     "translation": "Tundmatu laaduritüüp:",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:76fefafc38cf",
     "original": "Failed to create pack component",
     "translation": "Paki komponentide loomine ebaõnnestus",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackProfile:b1590d210090",
@@ -10287,7 +10287,7 @@
     "key": "PageDialog:c47ae15370cf",
     "original": "Help",
     "translation": "Abi",
-    "context": "PageDialog | [unfinished]"
+    "context": "PageDialog"
   },
   {
     "key": "PasteWizardPage:80446347ede5",
@@ -10797,13 +10797,13 @@
     "key": "ProfileSelectDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Tühista",
-    "context": "ProfileSelectDialog | [unfinished]"
+    "context": "ProfileSelectDialog"
   },
   {
     "key": "ProfileSelectDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "ProfileSelectDialog | [unfinished]"
+    "context": "ProfileSelectDialog"
   },
   {
     "key": "ProfileSetupDialog:ad6e16b3c052",
@@ -10821,13 +10821,13 @@
     "key": "ProfileSetupDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Tühista",
-    "context": "ProfileSetupDialog | [unfinished]"
+    "context": "ProfileSetupDialog"
   },
   {
     "key": "ProfileSetupDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "ProfileSetupDialog | [unfinished]"
+    "context": "ProfileSetupDialog"
   },
   {
     "key": "ProfileSetupDialog:8b0fde7324a8",
@@ -11583,7 +11583,7 @@
     "key": "QObject:bc7819b34ff8",
     "original": "Unknown",
     "translation": "Tundmatu",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:73b44ec0895a",
@@ -11631,7 +11631,7 @@
     "key": "QObject:1b927decdbb0",
     "original": "Unchecked",
     "translation": "Märkimata",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:e01fa717bacc",
@@ -11643,37 +11643,37 @@
     "key": "QObject:20c7c5522fc2",
     "original": "Ready",
     "translation": "Valmis",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3b4dfc971393",
     "original": "Working",
     "translation": "Töötamine",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:2d4784200261",
     "original": "Errored",
     "translation": "Vigane",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:a689a999a5e6",
     "original": "Expired",
     "translation": "Aegunud",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:f4f4473df8cb",
     "original": "Disabled",
     "translation": "Keelatud",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:149ecfc76f45",
     "original": "Gone",
     "translation": "Kadunud",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3b81c344597f",
@@ -11733,7 +11733,7 @@
     "key": "QObject:90f96fa0879f",
     "original": "There are linked instances",
     "translation": "On ühendatud eksemplare",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:d715a70b6eb4",
@@ -11775,13 +11775,13 @@
     "key": "QObject:ec9f9bff4cb7",
     "original": "Create Shortcut",
     "translation": "Loo otsetee",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:9790ab6f7803",
     "original": "The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.",
     "translation": "Käivitaja on kaustas, kust see ekstraktiti, seega see ei saa otseteid luua.",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:20145e24c0b8",
@@ -11799,7 +11799,7 @@
     "key": "QObject:cda57bb1deaf",
     "original": "Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)",
     "translation": "Käivitaja käitatakse valesti konfigureeritud AppImage-na? (keskkonnamuutuja $APPIMAGE puudub)",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:4173a348eb42",
@@ -11811,13 +11811,13 @@
     "key": "QObject:ba8545f921b1",
     "original": "Failed to create icon for shortcut.",
     "translation": "Otseteele ikooni loomine ebaõnnestus.",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:580b5810c0d0",
     "original": "Not supported on your platform!",
     "translation": "Pole sinu platvormil toetatud!",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:8cb61c4e6d54",
@@ -11829,7 +11829,7 @@
     "key": "QObject:a7df889212ed",
     "original": "Couldn't find desktop?!",
     "translation": "Töölauda ei leitud?!",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:0674ea46dbf2",
@@ -11859,7 +11859,7 @@
     "key": "QObject:d80c70568e93",
     "original": "Desktop Entries",
     "translation": "Töölauakirjed",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:6064502062d2",
@@ -11877,7 +11877,7 @@
     "key": "QObject:553791773e09",
     "original": "Error: %1 returned a malformed response body",
     "translation": "Viga: %1 tagastas kahjustunud vastuseobjekti",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:9ca436f1e0d0",
@@ -11889,7 +11889,7 @@
     "key": "QObject:7b78907fcd76",
     "original": "Error: %1 returned an error: %2",
     "translation": "Viga: %1 tagastas vea %2",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:0049618ff209",
@@ -11901,7 +11901,7 @@
     "key": "QObject:674cf6424d78",
     "original": "Error: %1 returned an error code: %2\nError message: %3",
     "translation": "Viga: %1 tagastas veakoodi: %2\nVeateade: %3",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:63a94438b1cc",
@@ -11931,7 +11931,7 @@
     "key": "QObject:cb638b12586f",
     "original": "%1 Developers",
     "translation": "%1 arendajad",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:01ec5d0fd4a6",
@@ -11955,7 +11955,7 @@
     "key": "QObject:a9b4889389af",
     "original": "Unrecognized",
     "translation": "Tuvastamata",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:5a853d21a166",
@@ -11979,7 +11979,7 @@
     "key": "QObject:7a1047389735",
     "original": "resource",
     "translation": "ressurss",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:0189424a5a60",
@@ -12087,7 +12087,7 @@
     "key": "ResourceDownload::ResourceDownloadDialog:bba785be0ff7",
     "original": "Change %1 version",
     "translation": "Muuda %1 versiooni",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:3fc66ee35714",
@@ -12189,7 +12189,7 @@
     "key": "ResourceDownload::ResourcePage:f8f69574105d",
     "original": "<b>This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.</b>",
     "translation": "<b>See projekt on arhiveeritud. See ei saa enam uuendusi, väljaarvatud juhul, kui autor soovib selle arhiivist eemaldada.</b>",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:2cfb8e70dbcf",
@@ -12297,7 +12297,7 @@
     "key": "ResourceDownload::ResourcePage:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Tühista",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:39d43199988a",
@@ -12351,7 +12351,7 @@
     "key": "ResourceFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Versioon",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:b7152342a267",
@@ -12363,19 +12363,19 @@
     "key": "ResourceFolderModel:7ceee3f3615a",
     "original": "Provider",
     "translation": "Pakkuja",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:2aabcfc2668a",
     "original": "File Name",
     "translation": "Faili nimi",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Uuenda",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:bfd722aee774",
@@ -12453,7 +12453,7 @@
     "key": "ResourceFolderModel:50e19fda0d5b",
     "original": "Image",
     "translation": "Pilt",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:4c24525b0aa0",
@@ -12465,7 +12465,7 @@
     "key": "ResourcePackFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Versioon",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:b7152342a267",
@@ -12477,19 +12477,19 @@
     "key": "ResourcePackFolderModel:7ceee3f3615a",
     "original": "Provider",
     "translation": "Pakkuja",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:2aabcfc2668a",
     "original": "File Name",
     "translation": "Faili nimi",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Uuenda",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:35a599c5f88a",
@@ -12615,7 +12615,7 @@
     "key": "ResourcePackPage:76e93d20a40b",
     "original": "'%1' is up-to-date! :)",
     "translation": "\"%1\" on kaasaegne! :)",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:5b87c4c86fc9",
@@ -12639,7 +12639,7 @@
     "key": "ResourcePackPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Kinnita eemaldamist",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:068704d93c40",
@@ -12687,13 +12687,13 @@
     "key": "ResourceUpdateDialog:6bf2dd10d5e5",
     "original": "Mod name: %1<br>File name: %2<br>Reason: %3<br><br>",
     "translation": "Modi nimi: %1<br>Failinimi: %2<br>Põhjus: %3<br><br>",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:fd02b869f067",
     "original": "Metadata generation failed",
     "translation": "Metaandmete genereerimine ebaõnnestus",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:dfc28406a8ee",
@@ -12705,37 +12705,37 @@
     "key": "ResourceUpdateDialog:78948b2a07ee",
     "original": "Checking for updates",
     "translation": "Uuenduste kontrollimine",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Viga",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:1430f976c596",
     "original": "Warnings",
     "translation": "Hoiatused",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:549981f05abc",
     "original": "Checking for updates...",
     "translation": "Uuenduste kontrollimine...",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:eedd8a283bb3",
     "original": "Mod name: %1",
     "translation": "Modi nimi: %1",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:d859e6d705c7",
     "original": "Reason: %1",
     "translation": "Põhjus: %1",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:0b47b0eed8b3",
@@ -12747,7 +12747,7 @@
     "key": "ResourceUpdateDialog:4c4052cd6f9b",
     "original": "Failed to check for updates",
     "translation": "Uuenduste kontrollimine ebaõnnestus",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:543fa3abbf5c",
@@ -12771,13 +12771,13 @@
     "key": "ResourceUpdateDialog:1aab9f182430",
     "original": "Not installed",
     "translation": "Pole paigaldatud",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:70d5f8453b33",
     "original": "Looking for metadata",
     "translation": "Metaandmete otsimine",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:2d8b1a9fea6a",
@@ -12789,61 +12789,61 @@
     "key": "ResourceUpdateDialog:d3c6bba27f6b",
     "original": "Generating metadata...",
     "translation": "Metaandmete genereerimine...",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:feb2a0becdd9",
     "original": "Couldn't find a valid version on the selected mod provider(s)",
     "translation": "Sobivat versiooni valitud modipakkuja(te)st ei leitud",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:e618688160db",
     "original": "Mod was disabled as it may be already installed.",
     "translation": "Mod keelati, kuna see võib olla juba paigaldatud.",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:c898a705464e",
     "original": "Provider: %1",
     "translation": "Pakkuja: %1",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:79f1a1a6de78",
     "original": "Old version: %1",
     "translation": "Vana versioon: %1",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:ba7c589c91f7",
     "original": "New version: %1",
     "translation": "Uus versioon: %1",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:e9993640f35f",
     "original": "New Version Type: %1",
     "translation": "Uus versiooniliik: %1",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:fad535bc6121",
     "original": "Required by: %1",
     "translation": "Nõuab: %1",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:94f195f2ed54",
     "original": "Required by:",
     "translation": "Nõuab:",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:b0eba1c12652",
     "original": "Changelog of the latest version",
     "translation": "Viimatise versiooni muudatuste logi",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ReviewMessageBox:b52b36b7269f",
@@ -12855,19 +12855,19 @@
     "key": "ReviewMessageBox:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Tühista",
-    "context": "ReviewMessageBox | [unfinished]"
+    "context": "ReviewMessageBox"
   },
   {
     "key": "ReviewMessageBox:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "ReviewMessageBox | [unfinished]"
+    "context": "ReviewMessageBox"
   },
   {
     "key": "ReviewMessageBox:e618688160db",
     "original": "Mod was disabled as it may be already installed.",
     "translation": "Mod keelati, kuna see võib olla juba paigaldatud.",
-    "context": "ReviewMessageBox | [unfinished]"
+    "context": "ReviewMessageBox"
   },
   {
     "key": "ReviewMessageBox:712fc5aa5c10",
@@ -13047,13 +13047,13 @@
     "key": "ScrollMessageBox:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Tühista",
-    "context": "ScrollMessageBox | [unfinished]"
+    "context": "ScrollMessageBox"
   },
   {
     "key": "ScrollMessageBox:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "ScrollMessageBox | [unfinished]"
+    "context": "ScrollMessageBox"
   },
   {
     "key": "SelectReleaseAssetDialog:2da600bf9404",
@@ -13065,7 +13065,7 @@
     "key": "SelectReleaseAssetDialog:89cba7b3e72d",
     "original": "Published Date",
     "translation": "Väljalaskekuupäev",
-    "context": "SelectReleaseAssetDialog | [unfinished]"
+    "context": "SelectReleaseAssetDialog"
   },
   {
     "key": "SelectReleaseAssetDialog:736ee52574d0",
@@ -13107,13 +13107,13 @@
     "key": "SelectReleaseDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Tühista",
-    "context": "SelectReleaseDialog | [unfinished]"
+    "context": "SelectReleaseDialog"
   },
   {
     "key": "SelectReleaseDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "SelectReleaseDialog | [unfinished]"
+    "context": "SelectReleaseDialog"
   },
   {
     "key": "SequentialTask:829c6e1cd1e8",
@@ -13149,7 +13149,7 @@
     "key": "ServersModel:2da600bf9404",
     "original": "Version",
     "translation": "Versioon",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersModel:6b68e9797399",
@@ -13239,7 +13239,7 @@
     "key": "ServersPage:56e3badc4e6c",
     "original": "Refresh",
     "translation": "Värskenda",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:acca64b83535",
@@ -13371,7 +13371,7 @@
     "key": "ShaderPackPage:76e93d20a40b",
     "original": "'%1' is up-to-date! :)",
     "translation": "\"%1\" on kaasaegne! :)",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:4e2cec7a1363",
@@ -13395,7 +13395,7 @@
     "key": "ShaderPackPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Kinnita eemaldamist",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:c3ba31d003fe",
@@ -13437,7 +13437,7 @@
     "key": "SkinList:642036b9e863",
     "original": "Skin images must be 64x64 or 64x32 pixel PNG files.",
     "translation": "Välimuse pildid peavad olema 64x64 või 64x32 suuruses PNG-failid.",
-    "context": "SkinList | [unfinished]"
+    "context": "SkinList"
   },
   {
     "key": "SkinList:257920723868",
@@ -13551,13 +13551,13 @@
     "key": "SkinManageDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Tühista",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:126f0e0caf65",
@@ -13749,19 +13749,19 @@
     "key": "Task:b1590d210090",
     "original": "Aborted",
     "translation": "Tühistatud",
-    "context": "Task | [unfinished]"
+    "context": "Task"
   },
   {
     "key": "TaskStepWrapper:7385614b3500",
     "original": "Task aborted.",
     "translation": "Toiming katkestatud.",
-    "context": "TaskStepWrapper | [unfinished]"
+    "context": "TaskStepWrapper"
   },
   {
     "key": "TaskStepWrapper:56406b3ccd77",
     "original": "Instance update failed because: %1\n\n",
     "translation": "Eksemplari uuendamine ebaõnnestus, sest: %1",
-    "context": "TaskStepWrapper | [unfinished]"
+    "context": "TaskStepWrapper"
   },
   {
     "key": "Technic::SingleZipPackInstallTask:d90009c115ee",
@@ -13905,7 +13905,7 @@
     "key": "TechnicPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Viga",
-    "context": "TechnicPage | [unfinished]"
+    "context": "TechnicPage"
   },
   {
     "key": "TechnicPage:876074b47592",
@@ -13929,25 +13929,25 @@
     "key": "TexturePackFolderModel:b7152342a267",
     "original": "Size",
     "translation": "Suurus",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:7ceee3f3615a",
     "original": "Provider",
     "translation": "Pakkuja",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:2aabcfc2668a",
     "original": "File Name",
     "translation": "Faili nimi",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Uuenda",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:b922df5f2870",
@@ -14001,7 +14001,7 @@
     "key": "TexturePackPage:488738cde719",
     "original": "Download Packs",
     "translation": "Laadi pakke alla",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:85fa4bf8bc83",
@@ -14061,7 +14061,7 @@
     "key": "TexturePackPage:76e93d20a40b",
     "original": "'%1' is up-to-date! :)",
     "translation": "\"%1\" on kaasaegne! :)",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:a39d7646de30",
@@ -14085,7 +14085,7 @@
     "key": "TexturePackPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Kinnita eemaldamist",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:b7fbe79a518f",
@@ -14097,7 +14097,7 @@
     "key": "ThemeWizardPage:41def7a0febe",
     "original": "Appearance",
     "translation": "Välimus",
-    "context": "ThemeWizardPage | [unfinished]"
+    "context": "ThemeWizardPage"
   },
   {
     "key": "ThemeWizardPage:8ba2ac6395c2",
@@ -14319,13 +14319,13 @@
     "key": "VersionPage:f26357178177",
     "original": "Change Version",
     "translation": "Vaheta versiooni",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:bce06414177f",
     "original": "Search",
     "translation": "Otsi",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:fdffaea4e563",
@@ -14625,7 +14625,7 @@
     "key": "VersionPage:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Paigalda",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:cae9674c84d8",
@@ -14781,13 +14781,13 @@
     "key": "VersionSelectDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "VersionSelectDialog | [unfinished]"
+    "context": "VersionSelectDialog"
   },
   {
     "key": "VersionSelectDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Tühista",
-    "context": "VersionSelectDialog | [unfinished]"
+    "context": "VersionSelectDialog"
   },
   {
     "key": "VersionSelectDialog:83b94bf4f93a",
@@ -14937,7 +14937,7 @@
     "key": "WorldListPage:e0d73143de80",
     "original": "Join",
     "translation": "Liitu",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:d3f4cb898fbe",
@@ -14991,7 +14991,7 @@
     "key": "WorldListPage:4fa8cc860c52",
     "original": "Tools",
     "translation": "Tööriistad",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:dbd185310812",
@@ -15291,13 +15291,13 @@
     "key": "YggdrasilLoginDialog:84c29015de33",
     "original": "Username",
     "translation": "Kasutajanimi",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:8be3c943b160",
     "original": "Password",
     "translation": "Parool",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:ada2e9e96fa9",
@@ -15309,7 +15309,7 @@
     "key": "YggdrasilLoginDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Tühista",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:ca359109578d",

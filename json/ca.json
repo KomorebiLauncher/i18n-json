@@ -561,7 +561,7 @@
     "key": "AppearanceWidget:51c3a4f70d49",
     "original": "&Cat Pack:",
     "translation": "&Cat Pack:",
-    "context": "AppearanceWidget | [unfinished]"
+    "context": "AppearanceWidget"
   },
   {
     "key": "AppearanceWidget:3bcf8f55d706",
@@ -579,7 +579,7 @@
     "key": "AppearanceWidget:380836c62b09",
     "original": "&Icons:",
     "translation": "&Icones:",
-    "context": "AppearanceWidget | [unfinished]"
+    "context": "AppearanceWidget"
   },
   {
     "key": "AppearanceWidget:06ece7c582ad",
@@ -1089,13 +1089,13 @@
     "key": "AuthlibInjectorDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Instal·la",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AuthlibInjectorDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Cancel·lar",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AutoInstallJava:d3ace495a5a2",
@@ -1221,7 +1221,7 @@
     "key": "BaseEntityLoadTask:ae327e573ef2",
     "original": "Loading local file",
     "translation": "Localitzant fitxer local",
-    "context": "BaseEntityLoadTask | [unfinished]"
+    "context": "BaseEntityLoadTask"
   },
   {
     "key": "BaseProfiler:122e80b33e98",
@@ -1281,7 +1281,7 @@
     "key": "BlockedModsDialog:8a5e79ba44fa",
     "original": "Watched Folders",
     "translation": "Carpetes vigilades",
-    "context": "BlockedModsDialog | [unfinished]"
+    "context": "BlockedModsDialog"
   },
   {
     "key": "BlockedModsDialog:12c1c7bf124c",
@@ -1353,7 +1353,7 @@
     "key": "ChooseOfflineNameDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "D'acord",
-    "context": "ChooseOfflineNameDialog | [unfinished]"
+    "context": "ChooseOfflineNameDialog"
   },
   {
     "key": "ChooseProviderDialog:e31cf2b37509",
@@ -2001,7 +2001,7 @@
     "key": "CreateShortcutDialog:4fa64bd7266a",
     "original": "Select a target to join on launch",
     "translation": "Selecciona un objectiu per unir-se a l'iniciar",
-    "context": "CreateShortcutDialog | [unfinished]"
+    "context": "CreateShortcutDialog"
   },
   {
     "key": "CreateShortcutDialog:78fb3e2ab487",
@@ -2031,7 +2031,7 @@
     "key": "CreateShortcutDialog:bb9a4533bca5",
     "original": "You'll need to delete them manually if that is the case.",
     "translation": "Hauràs d'eliminar-les manualment si es dona aquest cas.",
-    "context": "CreateShortcutDialog | [unfinished]"
+    "context": "CreateShortcutDialog"
   },
   {
     "key": "CreateShortcutDialog:532c67fe1b5a",
@@ -2067,7 +2067,7 @@
     "key": "CreateShortcutDialog:1492114ea91d",
     "original": "%1 - %2",
     "translation": "%1 - %2",
-    "context": "CreateShortcutDialog | [unfinished]"
+    "context": "CreateShortcutDialog"
   },
   {
     "key": "CreateShortcutDialog:c49c4a570075",
@@ -2265,7 +2265,7 @@
     "key": "DataPackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Nom",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:0092be542f99",
@@ -2283,7 +2283,7 @@
     "key": "DataPackFolderModel:b7152342a267",
     "original": "Size",
     "translation": "Mida",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:2aabcfc2668a",
@@ -2295,13 +2295,13 @@
     "key": "DataPackFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Versió",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Actualitzar",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:b80566e89550",
@@ -2313,7 +2313,7 @@
     "key": "DataPackFolderModel:9f06f5ea0054",
     "original": "Is the data pack enabled? (Only valid for ZIPs)",
     "translation": "Està el data pack activat? (Només vàlid per a ZIPs)",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:a3a3c07cba77",
@@ -2385,13 +2385,13 @@
     "key": "DataPackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Error",
-    "context": "DataPackPage | [unfinished]"
+    "context": "DataPackPage"
   },
   {
     "key": "DataPackPage:1430f976c596",
     "original": "Warnings",
     "translation": "Avisos",
-    "context": "DataPackPage | [unfinished]"
+    "context": "DataPackPage"
   },
   {
     "key": "DataPackPage:90f1d34fc8d2",
@@ -2439,7 +2439,7 @@
     "key": "DataPackPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Confirmar Eliminació",
-    "context": "DataPackPage | [unfinished]"
+    "context": "DataPackPage"
   },
   {
     "key": "DataPackPage:e782c83c33cc",
@@ -2577,7 +2577,7 @@
     "key": "EnvironmentVariables:05842917076f",
     "original": "Override &Global Settings",
     "translation": "Sobreescriure configuració global",
-    "context": "EnvironmentVariables | [unfinished]"
+    "context": "EnvironmentVariables"
   },
   {
     "key": "EnvironmentVariables:763c2ebc2799",
@@ -2637,7 +2637,7 @@
     "key": "ExportPackDialog:7b6e69434658",
     "original": "&Name:",
     "translation": "&Nom:",
-    "context": "ExportPackDialog | [unfinished]"
+    "context": "ExportPackDialog"
   },
   {
     "key": "ExportPackDialog:05a13ccd3dd7",
@@ -2913,7 +2913,7 @@
     "key": "ExternalResourcesPage:bce06414177f",
     "original": "Search",
     "translation": "Cercar",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:256b10b1d26d",
@@ -3159,7 +3159,7 @@
     "key": "ExternalToolsPage:d3c88b119527",
     "original": "&Add",
     "translation": "&Afegir",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:763c2ebc2799",
@@ -3171,7 +3171,7 @@
     "key": "ExternalToolsPage:709a23220f2c",
     "original": "Name",
     "translation": "Nom",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:8901895fb1b1",
@@ -3207,7 +3207,7 @@
     "key": "ExternalToolsPage:dbd1bd5e0ce3",
     "original": "&VisualVM",
     "translation": "&VisualVM",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:8dbcf085d23b",
@@ -3309,7 +3309,7 @@
     "key": "ExternalToolsPage:4fa8cc860c52",
     "original": "Tools",
     "translation": "Eines",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExtractNatives:84b0b7872a3d",
@@ -3327,7 +3327,7 @@
     "key": "FTB::PackInstallTask:150d6ddfa9a9",
     "original": "Failed to find pack version %1",
     "translation": "No s'ha pogut trobar la versió %1 del paquet",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:93fc42ea75d6",
@@ -3387,13 +3387,13 @@
     "key": "FTB::PackInstallTask:9c36196243f9",
     "original": "Copying Blocked Mods...",
     "translation": "Copiant mods bloquejats...",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:07670e4b121a",
     "original": "Copying Blocked Mods (%1 out of %2 are done)",
     "translation": "Copiant mods bloquejats (%1 de %2 finalitzats)",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTBImportAPP::FilterModel:5fa541307296",
@@ -3585,19 +3585,19 @@
     "key": "FlameCreationTask:361e5a2ab174",
     "original": "The specified overrides folder (%1) is missing. Maybe the modpack was already used before?",
     "translation": "Falta la carpeta d'anul·lacions especificada (%1). Potser el paquet de mods ja ha estat utilitzat anteriorment?",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:9c5200fa604d",
     "original": "Unknown mod loader in manifest: %1",
     "translation": "Error desconegut mentre es carregava la instància %1",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:4b6cde791e93",
     "original": "Mysterious trailing dots removed from Minecraft version while importing pack.",
     "translation": "Punts finals misteriosos eliminats de la versió de Minecraft al importar el paquet.",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:3d7f960a1e9b",
@@ -3609,13 +3609,13 @@
     "key": "FlameCreationTask:f10f1d3c0be1",
     "original": "Unable to resolve mod IDs:\n",
     "translation": "Impossible actualitzar les ID dels mods:",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:327b7e57d4e1",
     "original": "Blocked mods found",
     "translation": "S'han trobat mods bloquejats",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:7ff827f8d900",
@@ -3639,7 +3639,7 @@
     "key": "FlameCreationTask:f9bc7a615403",
     "original": "%1 out of %2 complete",
     "translation": "%1 de %2 completat",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:9c36196243f9",
@@ -3657,13 +3657,13 @@
     "key": "FlameCreationTask:ec8e76990081",
     "original": "Removing old conflicting files...",
     "translation": "Eliminant fitxers conflictius antics...",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:95678dd3a029",
     "original": "Failed to remove old conflicting files.",
     "translation": "No s'han pogut eliminar els arxius conflictius antics.",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:df237503973c",
@@ -3693,7 +3693,7 @@
     "key": "FlameManagedPackPage:f98e6c416295",
     "original": "CurseForge pack",
     "translation": "Pack de CurseForge",
-    "context": "FlameManagedPackPage | [unfinished]"
+    "context": "FlameManagedPackPage"
   },
   {
     "key": "FlamePackExportTask:4c74a1167874",
@@ -3747,13 +3747,13 @@
     "key": "FlamePage:2ba9121211dd",
     "original": "Note: CurseForge allows creators to block access to third-party tools like Komorebi Launcher. As such, you may need to manually download some mods to be able to install a modpack.",
     "translation": "Nota: L'API de CurseForge és molt imprevisible. CurseForge i alguns autors de mods han desactivat la capacitat de llançadors de tercers com PolyMC de descarregar mods. Tanmateix, potser és necessari que descarreguis manualment alguns mods per poder instal·lar un paquet de mods.",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:c3c949f932a9",
     "original": "Filter options",
     "translation": "Filtrar opcions",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:0b01b2fd319f",
@@ -3807,7 +3807,7 @@
     "key": "FlamePage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Error",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:876074b47592",
@@ -3987,7 +3987,7 @@
     "key": "IconPickerDialog:fb74bcaf7699",
     "original": "Legacy",
     "translation": "Antic",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:2a652ab1d9fa",
@@ -3999,7 +3999,7 @@
     "key": "IconPickerDialog:081ae3fdc403",
     "original": "Custom",
     "translation": "Personalitzat",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:a825bf9821f9",
@@ -4017,13 +4017,13 @@
     "key": "IconPickerDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Cancel·lar",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "D'acord",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:027760ffe7da",
@@ -4059,7 +4059,7 @@
     "key": "ImportPage:1fe944988905",
     "original": "- CurseForge modpacks (ZIP / curseforge:// URL)",
     "translation": "- Paquet de mods de Curseforge (ZIP)",
-    "context": "ImportPage | [unfinished]"
+    "context": "ImportPage"
   },
   {
     "key": "ImportPage:0a22a4b06351",
@@ -4071,7 +4071,7 @@
     "key": "ImportPage:1e420fcd904d",
     "original": "- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)",
     "translation": "- Instàncies exportades des de PolyMC / MultiMC (ZIP)",
-    "context": "ImportPage | [unfinished]"
+    "context": "ImportPage"
   },
   {
     "key": "ImportPage:d7397d7eed88",
@@ -4089,7 +4089,7 @@
     "key": "ImportPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Error",
-    "context": "ImportPage | [unfinished]"
+    "context": "ImportPage"
   },
   {
     "key": "ImportPage:757d7c1814fd",
@@ -4113,7 +4113,7 @@
     "key": "ImportPage:421a3cbacf93",
     "original": "Modrinth pack",
     "translation": "Pack de Modrinth",
-    "context": "ImportPage | Option for filtering for *.mrpack files when importing | [unfinished]"
+    "context": "ImportPage | Option for filtering for *.mrpack files when importing"
   },
   {
     "key": "ImportPage:a9eec263e1fd",
@@ -4125,7 +4125,7 @@
     "key": "ImportPage:d6fbc9d2bdd5",
     "original": "Import",
     "translation": "Importa des d'un fitxer .zip",
-    "context": "ImportPage | [unfinished]"
+    "context": "ImportPage"
   },
   {
     "key": "ImportResourceDialog:69838205b65c",
@@ -4155,13 +4155,13 @@
     "key": "ImportResourceDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Cancel·lar",
-    "context": "ImportResourceDialog | [unfinished]"
+    "context": "ImportResourceDialog"
   },
   {
     "key": "ImportResourceDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "D'acord",
-    "context": "ImportResourceDialog | [unfinished]"
+    "context": "ImportResourceDialog"
   },
   {
     "key": "InfoFrame:f806c6f1da3f",
@@ -4203,43 +4203,43 @@
     "key": "InstallLoaderDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "D'acord",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Cancel·lar",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:b5165545b367",
     "original": "NeoForge",
     "translation": "NeoForge",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:3ab11b75ca36",
     "original": "Forge",
     "translation": "Forge",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:a010de5c6165",
     "original": "Fabric",
     "translation": "Fabric",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:01aa488891b0",
     "original": "Quilt",
     "translation": "Quilt",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:bf134c686f5c",
     "original": "LiteLoader",
     "translation": "LiteLoader",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:af98ab0d8ec5",
@@ -4281,7 +4281,7 @@
     "key": "InstallLoaderPage:46c15b2a8e17",
     "original": "No versions are currently available for Minecraft %1",
     "translation": "No hi ha versions disponibles actualment per Minecraft %1",
-    "context": "InstallLoaderPage | [unfinished]"
+    "context": "InstallLoaderPage"
   },
   {
     "key": "InstallWorldTask:2c5d1322a3c8",
@@ -4365,7 +4365,7 @@
     "key": "InstancePageProvider:2025e506c1db",
     "original": "Other Logs",
     "translation": "Altres registres",
-    "context": "InstancePageProvider | [unfinished]"
+    "context": "InstancePageProvider"
   },
   {
     "key": "InstancePageProvider:5d7bded4cc13",
@@ -4395,25 +4395,25 @@
     "key": "InstanceTask:3da474537ac3",
     "original": "Skip",
     "translation": "Omet",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Error",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:dd17662eb1c4",
     "original": "Could not download game files: %1",
     "translation": "No s'han pogut descarregar els fitxers del joc: %1",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:8d4223d64584",
     "original": "Downloading game files",
     "translation": "Descarregant fitxers del joc",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceView:e52e5e6cd50e",
@@ -4461,13 +4461,13 @@
     "key": "InstanceWindow:226c31898705",
     "original": "&Kill",
     "translation": "&Forçar tancada",
-    "context": "InstanceWindow | [unfinished]"
+    "context": "InstanceWindow"
   },
   {
     "key": "InstanceWindow:769b0d960405",
     "original": "Ctrl+K",
     "translation": "Ctrl+K",
-    "context": "InstanceWindow | [unfinished]"
+    "context": "InstanceWindow"
   },
   {
     "key": "InstanceWindow:bbfa773e5a63",
@@ -4551,25 +4551,25 @@
     "key": "Java::InstallDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Cancel·lar",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:723ba985328e",
     "original": "Mojang",
     "translation": "Mojang",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:360564b906a1",
     "original": "Adoptium",
     "translation": "Adoptium",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:18aa4fed483c",
     "original": "Azul Zulu",
     "translation": "Azul Zulu",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:f2e0df978bbe",
@@ -4581,19 +4581,19 @@
     "key": "Java::InstallDialog:7086081c2d30",
     "original": "Install Java",
     "translation": "Instal·li Java",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:27edb4c40008",
     "original": "Could not determine Java download type!",
     "translation": "No s'ha pogut determinar el tipus de baixada de Java!",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Error",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::LocalJavaScanTask:52cef86f41c6",
@@ -4677,7 +4677,7 @@
     "key": "JavaPage:56e3badc4e6c",
     "original": "Refresh",
     "translation": "Recarrega",
-    "context": "JavaPage | [unfinished]"
+    "context": "JavaPage"
   },
   {
     "key": "JavaPage:b4dae444a41b",
@@ -4725,7 +4725,7 @@
     "key": "JavaSettingsWidget:80446347ede5",
     "original": "Form",
     "translation": "Forma",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:179f88d38199",
@@ -4797,7 +4797,7 @@
     "key": "JavaSettingsWidget:2cb0893a9f02",
     "original": "Skip Java compatibility checks",
     "translation": "Saltar-se comprovacions de compatibilitat de Java",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:a60f6ade30d1",
@@ -4839,7 +4839,7 @@
     "key": "JavaSettingsWidget:7069c551dad0",
     "original": "Memor&y",
     "translation": "Memòr&ia",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:7122bd25df03",
@@ -4875,13 +4875,13 @@
     "key": "JavaSettingsWidget:992bc1b4261f",
     "original": "(-XX:PermSize)",
     "translation": "(-XX:PermSize)",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:b07398683f89",
     "original": "(-Xmx)",
     "translation": "(-Xmx)",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:dd79f7640608",
@@ -4899,7 +4899,7 @@
     "key": "JavaSettingsWidget:6e414f4e96ba",
     "original": "(-Xms)",
     "translation": "(-Xms)",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:459cee84de2e",
@@ -4935,7 +4935,7 @@
     "key": "JavaSettingsWidget:e088eab74d48",
     "original": "Select a Java version",
     "translation": "Seleccionar una versió de Java",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:2ded65911985",
@@ -5037,7 +5037,7 @@
     "key": "JavaWizardWidget:5dc9c1298895",
     "original": "No Java version selected",
     "translation": "Cap versió de Java seleccionada",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:52f8da4ff531",
@@ -5055,49 +5055,49 @@
     "key": "JavaWizardWidget:89c8a2851d17",
     "original": "Memory",
     "translation": "Memòria",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:a948355e4e3c",
     "original": "The maximum amount of memory Minecraft is allowed to use.",
     "translation": "La quantitat màxima de memòria permesa per a Minecraft.",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:8538a075e966",
     "original": "Minimum memory allocation:",
     "translation": "Assignació mínima de memòria:",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:a4aec57dd6f3",
     "original": "Maximum memory allocation:",
     "translation": "Assignació màxima de memòria:",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:dd79f7640608",
     "original": "The amount of memory Minecraft is started with.",
     "translation": "La quantitat de memòria amb la qual Minecraft s'inicia.",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:44a58b758316",
     "original": "The amount of memory available to store loaded Java classes.",
     "translation": "Quantitat de memòria disponible per emmagatzemar classes carregades de Java.",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:2f3b5c55bc27",
     "original": "Browse",
     "translation": "Cerca",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:93afc3efadc5",
     "original": "Auto-download Mojang Java",
     "translation": "Baixar automàticament Java de Mojang",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:dff0e361bd13",
@@ -5109,7 +5109,7 @@
     "key": "JavaWizardWidget:5b0b5d4caf6d",
     "original": "Autodetect Java",
     "translation": "Detectar automàticament Java",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:1cd3b29484dc",
@@ -5559,7 +5559,7 @@
     "key": "LauncherPage:2f3b5c55bc27",
     "original": "Browse",
     "translation": "Cerca",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:19347a71a725",
@@ -5649,7 +5649,7 @@
     "key": "LauncherPage:61cc55aa0453",
     "original": "Add",
     "translation": "Afegir",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:e963907dac5c",
@@ -5907,7 +5907,7 @@
     "key": "LauncherPage:34bdf3ea50d4",
     "original": "You're trying to specify an instance folder which was granted temporarily via Flatpak.\nThis is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.\n\nGranting %1 access to it via Flatseal is recommended.",
     "translation": "Estàs intentant especificar una carpeta d'instància que va ser concedida temporalment per Flatpak.\nÉs conegut que això dona problemes. Després de reiniciar el llançador pot trencar-se i ja no tindràs accés al directori.\n\nEs recomana que li donis permisos a PolyMC a través de Flatseal.",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:5f8d81522d8d",
@@ -6009,37 +6009,37 @@
     "key": "LegacyFMLLibrariesTask:914b462ecb84",
     "original": "Checking for FML libraries...",
     "translation": "Comprovant biblioteques FML...",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:1906289a3356",
     "original": "Downloading FML libraries...",
     "translation": "Baixant biblioteques FML...",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:4a36e8560168",
     "original": "Copying FML libraries into the instance...",
     "translation": "Copiant les biblioteques FML a la instància...",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:cd9d55688469",
     "original": "Failed creating FML library folder inside the instance.",
     "translation": "No s'ha pogut crear la carpeta per guardar les biblioteques FML dins de la instància.",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:12c0e533752f",
     "original": "Failed copying Forge/FML library: %1.",
     "translation": "No s'ha pogut copiar les biblioteques de Forge/FML: %1.",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:aa54605f20ac",
     "original": "Failed to download the following files:\n%1\n\nReason:%2\nPlease try again.",
     "translation": "No s'ha pogut baixar els següents fitxers:\n%1\n\nRaó:%2\nSi us plau, intenta-ho una altra vegada.",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFTB::FilterModel:5fa541307296",
@@ -6111,7 +6111,7 @@
     "key": "LegacyFTB::PackInstallTask:44d2b46ad2a3",
     "original": "Failed to move unpacked Minecraft!",
     "translation": "Error en moure l'arxiu descomprimit de Minecraft!",
-    "context": "LegacyFTB::PackInstallTask | [unfinished]"
+    "context": "LegacyFTB::PackInstallTask"
   },
   {
     "key": "LegacyFTB::PackInstallTask:8fbd03d30f77",
@@ -6123,7 +6123,7 @@
     "key": "LegacyFTB::Page:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Cercar i filtrar...",
-    "context": "LegacyFTB::Page | [unfinished]"
+    "context": "LegacyFTB::Page"
   },
   {
     "key": "LegacyFTB::Page:dc5eb704bbca",
@@ -6165,7 +6165,7 @@
     "key": "LegacyFTB::Page:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Error",
-    "context": "LegacyFTB::Page | [unfinished]"
+    "context": "LegacyFTB::Page"
   },
   {
     "key": "LegacyFTB::Page:e8ea0b767876",
@@ -6207,7 +6207,7 @@
     "key": "LibrariesTask:657c0a335b23",
     "original": "Downloading required library files...",
     "translation": "Obtenint les arxius de llibreria de Mojang...",
-    "context": "LibrariesTask | [unfinished]"
+    "context": "LibrariesTask"
   },
   {
     "key": "LibrariesTask:ab1441aae808",
@@ -6237,7 +6237,7 @@
     "key": "ListModel:c4a7e601008a",
     "original": "Minecraft %1",
     "translation": "Minecraft %1",
-    "context": "ListModel | [unfinished]"
+    "context": "ListModel"
   },
   {
     "key": "LocalResourceUpdateTask:2245cdef5363",
@@ -6309,7 +6309,7 @@
     "key": "LogPage:bce06414177f",
     "original": "Search",
     "translation": "Cercar",
-    "context": "LogPage | [unfinished]"
+    "context": "LogPage"
   },
   {
     "key": "LogPage:df251b06eefd",
@@ -6369,7 +6369,7 @@
     "key": "LoginWizardPage:80446347ede5",
     "original": "Form",
     "translation": "Forma",
-    "context": "LoginWizardPage | [unfinished]"
+    "context": "LoginWizardPage"
   },
   {
     "key": "LoginWizardPage:2f589123ceb2",
@@ -6483,13 +6483,13 @@
     "key": "MSALoginDialog:89e944f8eb37",
     "original": "Please wait...",
     "translation": "Espereu-vos...",
-    "context": "MSALoginDialog | [unfinished]"
+    "context": "MSALoginDialog"
   },
   {
     "key": "MSALoginDialog:bae7d5be7082",
     "original": "Status",
     "translation": "Estat",
-    "context": "MSALoginDialog | [unfinished]"
+    "context": "MSALoginDialog"
   },
   {
     "key": "MSALoginDialog:fd62c61f849b",
@@ -6531,7 +6531,7 @@
     "key": "MSALoginDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Cancel·lar",
-    "context": "MSALoginDialog | [unfinished]"
+    "context": "MSALoginDialog"
   },
   {
     "key": "MSALoginDialog:95234f4e13e8",
@@ -7065,7 +7065,7 @@
     "key": "MainWindow:769b0d960405",
     "original": "Ctrl+K",
     "translation": "Ctrl+K",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:e36004564f5b",
@@ -7101,7 +7101,7 @@
     "key": "MainWindow:36bae31694f8",
     "original": "Accounts",
     "translation": "Comptes",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:416c5c33e6d2",
@@ -7191,13 +7191,13 @@
     "key": "MainWindow:0b71510c3cd6",
     "original": "&Create instance",
     "translation": "Crear instància",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:8cf964d759e7",
     "original": "&Delete group",
     "translation": "Eliminar grup '%1'",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:638fbc0d2c2f",
@@ -7275,7 +7275,7 @@
     "key": "MainWindow:58340cf23de3",
     "original": "Modpack download",
     "translation": "Descàrrega del paquet de mods",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:5b0c2aa91847",
@@ -7376,14 +7376,14 @@
   {
     "key": "MainWindow:7561aee92c50",
     "original": " and its %n registered shortcut(s)",
-    "translation": " i el seu %n enllaç directe registrat\n i els seus %n enllaços directes registrats",
+    "translation": "i el seu %n enllaç directe registrat\n i els seus %n enllaços directes registrats",
     "context": "MainWindow | [plural]"
   },
   {
     "key": "MainWindow:8953e5799431",
     "original": "Confirm Deletion",
     "translation": "Confirmar eliminació",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:6feaa281a00c",
@@ -7569,13 +7569,13 @@
     "key": "ManagedPackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Error",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:1430f976c596",
     "original": "Warnings",
     "translation": "Avisos",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:d7a9ac115449",
@@ -7629,7 +7629,7 @@
     "key": "ManagedPackPage:9d4741838842",
     "original": "Update Failed",
     "translation": "Actualització fallida",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:cd2dbd6fb8fc",
@@ -7647,7 +7647,7 @@
     "key": "ManagedPackPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "Confirmar actualització",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:f701d3d7d9eb",
@@ -7665,7 +7665,7 @@
     "key": "Meta::Index:709a23220f2c",
     "original": "Name",
     "translation": "Nom",
-    "context": "Meta::Index | [unfinished]"
+    "context": "Meta::Index"
   },
   {
     "key": "Meta::Index:04099ec66644",
@@ -7683,7 +7683,7 @@
     "key": "MinecraftAccount:b1590d210090",
     "original": "Aborted",
     "translation": "Avortat",
-    "context": "MinecraftAccount | [unfinished]"
+    "context": "MinecraftAccount"
   },
   {
     "key": "MinecraftInstance:5fd059949516",
@@ -7701,7 +7701,7 @@
     "key": "MinecraftInstance:c78612ec9560",
     "original": "Ctrl+Shift+O",
     "translation": "Ctrl+Shift+O",
-    "context": "MinecraftInstance | [unfinished]"
+    "context": "MinecraftInstance"
   },
   {
     "key": "MinecraftInstance:d4885c522ed8",
@@ -7713,7 +7713,7 @@
     "key": "MinecraftInstance:1f8fc66933d4",
     "original": "Ctrl+Alt+O",
     "translation": "Ctrl+Alt+O",
-    "context": "MinecraftInstance | [unfinished]"
+    "context": "MinecraftInstance"
   },
   {
     "key": "MinecraftInstance:0ac5c4c9e408",
@@ -7725,7 +7725,7 @@
     "key": "MinecraftInstance:c5cc610a677f",
     "original": "Profilers",
     "translation": "Perfiladors",
-    "context": "MinecraftInstance | [unfinished]"
+    "context": "MinecraftInstance"
   },
   {
     "key": "MinecraftInstance:f5622bc0a31c",
@@ -7761,7 +7761,7 @@
     "key": "MinecraftInstance:c4a7e601008a",
     "original": "Minecraft %1",
     "translation": "Minecraft %1",
-    "context": "MinecraftInstance | [unfinished]"
+    "context": "MinecraftInstance"
   },
   {
     "key": "MinecraftInstance:db046cdffefb",
@@ -7845,13 +7845,13 @@
     "key": "MinecraftSettingsWidget:a5f3a11b1ca0",
     "original": "The settings here are overrides for global settings.",
     "translation": "Aquesta configuració anul·la la configuració global.",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:9239ee2cda84",
     "original": "General",
     "translation": "General",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:f5f202c0be43",
@@ -7887,13 +7887,13 @@
     "key": "MinecraftSettingsWidget:d666ae55e54e",
     "original": "Show time spent &playing instances",
     "translation": "Mostrar el tem&ps jugat a les instàncies",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:202fce3b15a2",
     "original": "&Record time spent playing instances",
     "translation": "G&rabar el temps jugant les instàncies",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:e07347bfd77c",
@@ -7911,7 +7911,7 @@
     "key": "MinecraftSettingsWidget:e027e57610f8",
     "original": "Java",
     "translation": "Java",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:eaef77aca961",
@@ -7929,13 +7929,13 @@
     "key": "MinecraftSettingsWidget:1f6cc80444ab",
     "original": "<html><head/><body><p>Emulates usages of old online services which are no longer operating.</p><p>Current fixes include: skin and online mode support.</p></body></html>",
     "translation": "<html><head/><body><p>Emula l'ús de serveis en línia antics que ja no es troben operatius.</p><p>Les correccions inclouen: aspectes i compatibilitat amb el mode en línia.</p></body></html>",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:9f34f6016e25",
     "original": "Enable online fixes (experimental)",
     "translation": "Activa les correccions en línia (experimental)",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:b9afca45abf9",
@@ -7947,13 +7947,13 @@
     "key": "MinecraftSettingsWidget:9b6112ea8b38",
     "original": "Use system installation of OpenAL",
     "translation": "Utilitza la instal·lació de OpenAL del sistema",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:42c2dcde03db",
     "original": "Use system installation of GLFW",
     "translation": "Utilitza la instal·lació de GLFW del sistema",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:a1f325f703fa",
@@ -7977,7 +7977,7 @@
     "key": "MinecraftSettingsWidget:67fba2f357af",
     "original": "×",
     "translation": "×",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:09bc7b2dcc9a",
@@ -8073,61 +8073,61 @@
     "key": "MinecraftSettingsWidget:b5165545b367",
     "original": "NeoForge",
     "translation": "NeoForge",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:3ab11b75ca36",
     "original": "Forge",
     "translation": "Forge",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:a010de5c6165",
     "original": "Fabric",
     "translation": "Fabric",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:01aa488891b0",
     "original": "Quilt",
     "translation": "Quilt",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:bf134c686f5c",
     "original": "LiteLoader",
     "translation": "LiteLoader",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:99e2e94f2566",
     "original": "Babric",
     "translation": "Babric",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:3a3a21e94f44",
     "original": "BTA (Babric)",
     "translation": "BTA (Babric)",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:465d3e90d98f",
     "original": "Legacy Fabric",
     "translation": "Fabric heretat",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:ba0d98ac0a5f",
     "original": "Ornithe",
     "translation": "Ornithe",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:38fa60633a4e",
     "original": "Rift",
     "translation": "Rift",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:ba32602b5a19",
@@ -8139,7 +8139,7 @@
     "key": "MinecraftSettingsWidget:d41f56cea1ac",
     "original": "Release",
     "translation": "Versió estable",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:322444d3bb52",
@@ -8181,73 +8181,73 @@
     "key": "MinecraftSettingsWidget:b591b1f5cbf6",
     "original": "<html><head/><body><p>Enable Feral Interactive's GameMode, to potentially improve gaming performance.</p></body></html>",
     "translation": "<html><head/><body><p>Activa GameMode de Feral Interactive per una possible millora del rendiment dels jocs.</p></body></html>",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:76156755cf90",
     "original": "Enable Feral GameMode",
     "translation": "Activar GameMode de Feral",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:12cf1dbefa20",
     "original": "<html><head/><body><p>Enable MangoHud's advanced performance overlay.</p></body></html>",
     "translation": "<html><head/><body><p>Activa la interfície de rendiment avançat de MangoHud.</p></body></html>",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:d705cfd69aed",
     "original": "Enable MangoHud",
     "translation": "Activa MangoHud",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:1d8ee2797ed3",
     "original": "<html><head/><body><p>Use the discrete GPU instead of the primary GPU.</p></body></html>",
     "translation": "<html><head/><body><p>Utilitza la GPU dedicada en comptes de la GPU integrada.</p></body></html>",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:912fabbb6c4c",
     "original": "Use discrete GPU",
     "translation": "Utilitzar GPU dedicada",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:068e3cc57270",
     "original": "Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.",
     "translation": "Utilitza Zink, un controlador de Mesa OpenGL que implementa OpenGL per sobre de Vulkan. El rendiment pot variar depenent de la situació. Nota: si no es troba cap controlador Vulkan apte, s'utilitzarà el renderitzat per programari.",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:4a6e7953d9d9",
     "original": "Use Zink",
     "translation": "Utilitza Zink",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:ac06ef9ee1f3",
     "original": "Account:",
     "translation": "Compte:",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:47eeadcdfb06",
     "original": "Server address:",
     "translation": "Adreça del servidor:",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:c48e024e0cec",
     "original": "Custom Commands",
     "translation": "Comandaments personalitzats",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:ec072bba7bef",
     "original": "Environment Variables",
     "translation": "Variables d'entorn",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:d9770fdf0002",
@@ -8271,19 +8271,19 @@
     "key": "MinecraftSettingsWidget:864c4da32ff4",
     "original": "Feral Interactive's GameMode could not be found on your system.",
     "translation": "No s'ha trobat el GameMode de Feral Interactive al teu sistema.",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:51902e458f7b",
     "original": "MangoHud could not be found on your system.",
     "translation": "No s'ha trobat el MangoHud al teu sistema.",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:4716024ef395",
     "original": "Path to %1 library file",
     "translation": "Ruta a l'arxiu de la biblioteca %1",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:036b0633c0ad",
@@ -8319,7 +8319,7 @@
     "key": "MirrorListEditor:61cc55aa0453",
     "original": "Add",
     "translation": "Afegir",
-    "context": "MirrorListEditor | [unfinished]"
+    "context": "MirrorListEditor"
   },
   {
     "key": "MirrorListEditor:226188f5c23d",
@@ -8331,7 +8331,7 @@
     "key": "ModFilterWidget:80446347ede5",
     "original": "Form",
     "translation": "Forma",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:6ccb60071be8",
@@ -8349,25 +8349,25 @@
     "key": "ModFilterWidget:b5165545b367",
     "original": "NeoForge",
     "translation": "NeoForge",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:3ab11b75ca36",
     "original": "Forge",
     "translation": "Forge",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:a010de5c6165",
     "original": "Fabric",
     "translation": "Fabric",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:01aa488891b0",
     "original": "Quilt",
     "translation": "Quilt",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:abeed86f05bd",
@@ -8379,7 +8379,7 @@
     "key": "ModFilterWidget:bf134c686f5c",
     "original": "LiteLoader",
     "translation": "LiteLoader",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:99e2e94f2566",
@@ -8481,7 +8481,7 @@
     "key": "ModFilterWidget:bc7819b34ff8",
     "original": "Unknown",
     "translation": "Desconegut",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:0485bc248e29",
@@ -8583,7 +8583,7 @@
     "key": "ModFilterWidget:40ab4c0ce406",
     "original": "All Versions",
     "translation": "Totes les versions",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFolderModel:2c3cafa4db3f",
@@ -8613,13 +8613,13 @@
     "key": "ModFolderModel:4c24525b0aa0",
     "original": "Last Modified",
     "translation": "Última modificació",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:b7152342a267",
     "original": "Size",
     "translation": "Mida",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:26528381ea05",
@@ -8661,13 +8661,13 @@
     "key": "ModFolderModel:2aabcfc2668a",
     "original": "File Name",
     "translation": "Nom d'arxiu",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Actualitzar",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:9f8105907b13",
@@ -8847,7 +8847,7 @@
     "key": "ModFolderPage:59e5bdd43477",
     "original": "Confirm Delete",
     "translation": "Confirmar Eliminació",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:f176315d8c08",
@@ -8895,7 +8895,7 @@
     "key": "ModFolderPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "Confirmar actualització",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:115adb5fe24e",
@@ -8913,13 +8913,13 @@
     "key": "ModFolderPage:2080f0fbd2f0",
     "original": "Update checker",
     "translation": "Comprovador d'actualitzacions",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Confirmar Eliminació",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:7dc75dabfc76",
@@ -8961,7 +8961,7 @@
     "key": "ModFolderPage:76e93d20a40b",
     "original": "'%1' is up-to-date! :)",
     "translation": "'%1' està actualitzat! :)",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:bd70a5fe384e",
@@ -8997,7 +8997,7 @@
     "key": "ModFolderPage:cc459f63a7ae",
     "original": "Mods",
     "translation": "Mods",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModMinecraftJar:a7125c305a12",
@@ -9051,25 +9051,25 @@
     "key": "ModrinthCheckUpdate:1aab9f182430",
     "original": "Not installed",
     "translation": "No està instal·lat",
-    "context": "ModrinthCheckUpdate | [unfinished]"
+    "context": "ModrinthCheckUpdate"
   },
   {
     "key": "ModrinthCheckUpdate:bc7819b34ff8",
     "original": "Unknown",
     "translation": "Desconegut",
-    "context": "ModrinthCheckUpdate | [unfinished]"
+    "context": "ModrinthCheckUpdate"
   },
   {
     "key": "ModrinthCheckUpdate:34affdf46b9d",
     "original": "No valid version found for this resource. It's probably unavailable for the current game version / mod loader.",
     "translation": "No s'ha trobat cap versió vàlida per a aquest recurs. Probablement no estigui disponible per a la versió actual del joc / carregador de mods.",
-    "context": "ModrinthCheckUpdate | [unfinished]"
+    "context": "ModrinthCheckUpdate"
   },
   {
     "key": "ModrinthCheckUpdate:a18af352b22d",
     "original": "No valid version found for this resource. It's probably unavailable for the current game version.",
     "translation": "No s'ha trobat cap versió vàlida per a aquest recurs. Probablement no estigui disponible per a la versió actual del joc.",
-    "context": "ModrinthCheckUpdate | [unfinished]"
+    "context": "ModrinthCheckUpdate"
   },
   {
     "key": "ModrinthCheckUpdate:1716737a67d8",
@@ -9081,25 +9081,25 @@
     "key": "ModrinthCreationTask:e0976e09621d",
     "original": " (version %1)",
     "translation": "(versió %1)",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:1012f49a6020",
     "original": "No index file.",
     "translation": "No n'hi ha fitxer d'índex.",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:234ae1221c43",
     "original": "We couldn't find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?",
     "translation": "No hem pogut trobar un fitxer d'index apropiat per a la versió anterior. Això pot causar la duplicació d'alguns fitxers. Vols continuar?",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:e206ab9751c4",
     "original": "Could not rename the overrides folder:\n",
     "translation": "No hem pogut canviar el nom de la carpeta de substitucions:",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:8e684cf213b5",
@@ -9129,7 +9129,7 @@
     "key": "ModrinthCreationTask:f9bc7a615403",
     "original": "%1 out of %2 complete",
     "translation": "%1 de %2 completat",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:df237503973c",
@@ -9147,25 +9147,25 @@
     "key": "ModrinthCreationTask:b8af712a56fe",
     "original": "Could not understand pack index:\n",
     "translation": "No s'ha pogut processar l'índex del paquet:",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:ec8e76990081",
     "original": "Removing old conflicting files...",
     "translation": "Eliminant fitxers conflictius antics...",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:95678dd3a029",
     "original": "Failed to remove old conflicting files.",
     "translation": "No s'han pogut eliminar els arxius conflictius antics.",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthManagedPackPage:6bbfd857afb9",
     "original": "%1 (Current)",
     "translation": "%1 (Actual)",
-    "context": "ModrinthManagedPackPage | [unfinished]"
+    "context": "ModrinthManagedPackPage"
   },
   {
     "key": "ModrinthManagedPackPage:394d6e5212a4",
@@ -9177,37 +9177,37 @@
     "key": "ModrinthManagedPackPage:7ad1b1948639",
     "original": "Choose update file",
     "translation": "Escollir fitxer d'actualització",
-    "context": "ModrinthManagedPackPage | [unfinished]"
+    "context": "ModrinthManagedPackPage"
   },
   {
     "key": "ModrinthManagedPackPage:421a3cbacf93",
     "original": "Modrinth pack",
     "translation": "Pack de Modrinth",
-    "context": "ModrinthManagedPackPage | [unfinished]"
+    "context": "ModrinthManagedPackPage"
   },
   {
     "key": "ModrinthPackExportTask:4c74a1167874",
     "original": "Searching for files...",
     "translation": "Buscant fitxer...",
-    "context": "ModrinthPackExportTask | [unfinished]"
+    "context": "ModrinthPackExportTask"
   },
   {
     "key": "ModrinthPackExportTask:2c74262ef53e",
     "original": "Could not search for files",
     "translation": "No s'ha pogut cercar fitxers",
-    "context": "ModrinthPackExportTask | [unfinished]"
+    "context": "ModrinthPackExportTask"
   },
   {
     "key": "ModrinthPackExportTask:7dcce6ced11a",
     "original": "Finding file hashes...",
     "translation": "Trobant hashes de fitxers...",
-    "context": "ModrinthPackExportTask | [unfinished]"
+    "context": "ModrinthPackExportTask"
   },
   {
     "key": "ModrinthPackExportTask:67f8ee149173",
     "original": "Finding versions for hashes...",
     "translation": "Trobant versions per a hashes...",
-    "context": "ModrinthPackExportTask | [unfinished]"
+    "context": "ModrinthPackExportTask"
   },
   {
     "key": "ModrinthPackExportTask:a3d4a1cb28a1",
@@ -9219,7 +9219,7 @@
     "key": "ModrinthPackExportTask:b2ee72c5645d",
     "original": "Adding files...",
     "translation": "Afegit fitxers...",
-    "context": "ModrinthPackExportTask | [unfinished]"
+    "context": "ModrinthPackExportTask"
   },
   {
     "key": "ModrinthPage:c2bdba99958f",
@@ -9249,7 +9249,7 @@
     "key": "ModrinthPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Error",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:876074b47592",
@@ -9273,25 +9273,25 @@
     "key": "ModrinthPage:15cdc321f2aa",
     "original": "External links:",
     "translation": "Enllaços externs:",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:d0a1a1d37cdf",
     "original": "Issues: <a href=%1>%1</a>",
     "translation": "Problemes: <a href=%1>%1</a>",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:95ebcf83e931",
     "original": "Wiki: <a href=%1>%1</a>",
     "translation": "Wiki: <a href=%1>%1</a>",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:0a44261695f4",
     "original": "Source code: <a href=%1>%1</a>",
     "translation": "Codi font: <a href=%1>%1</a>",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:92f689616937",
@@ -9309,13 +9309,13 @@
     "key": "ModrinthPage:c3c949f932a9",
     "original": "Filter options",
     "translation": "Filtrar opcions",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Cercar i filtrar...",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:03fec0b5504e",
@@ -9345,31 +9345,31 @@
     "key": "Net::Request:f930959fbc72",
     "original": "Requesting %1",
     "translation": "Sol·licitant %1",
-    "context": "Net::Request | [unfinished]"
+    "context": "Net::Request"
   },
   {
     "key": "Net::Request:d4b2aca736b7",
     "original": "%1 / %2",
     "translation": "%1 / %2",
-    "context": "Net::Request | Current amount of bytes downloaded, out of the total amount of bytes in the download | [unfinished]"
+    "context": "Net::Request | Current amount of bytes downloaded, out of the total amount of bytes in the download"
   },
   {
     "key": "Net::Request:50d8b4a941c2",
     "original": "unknown",
     "translation": "desconegut",
-    "context": "Net::Request | [unfinished]"
+    "context": "Net::Request"
   },
   {
     "key": "Net::Request:5b17125e5647",
     "original": "%1 /s (%2)",
     "translation": "%1 /s (%2)",
-    "context": "Net::Request | Download speed, in bytes per second (remaining download time in parenthesis) | [unfinished]"
+    "context": "Net::Request | Download speed, in bytes per second (remaining download time in parenthesis)"
   },
   {
     "key": "Net::Request:16f20499929f",
     "original": "0 B/s",
     "translation": "0 B/s",
-    "context": "Net::Request | Download speed at 0 bytes per second | [unfinished]"
+    "context": "Net::Request | Download speed at 0 bytes per second"
   },
   {
     "key": "Net::Request:5cd0f72bdf35",
@@ -9393,7 +9393,7 @@
     "key": "Net::Request:f39e4002d474",
     "original": "Rate Limited: Waiting %n second(s)",
     "translation": "Freqüencia limitada: Esprant %n segon\nFreqüencia limitada: Esprant %n segons",
-    "context": "Net::Request | [unfinished, plural]"
+    "context": "Net::Request | [plural]"
   },
   {
     "key": "NetJob:94ab93724d10",
@@ -9405,7 +9405,7 @@
     "key": "NetJob:67a7e9461e7d",
     "original": "Executing %1 task(s) (%2 out of %3 are done)",
     "translation": "Executant %1 tasca(s) (%2 de %3 han finalitzat)",
-    "context": "NetJob | [unfinished]"
+    "context": "NetJob"
   },
   {
     "key": "NetworkJobFailedDialog:6cc153f0e5df",
@@ -9423,13 +9423,13 @@
     "key": "NetworkJobFailedDialog:0e2d9b0777a4",
     "original": "URL",
     "translation": "URL",
-    "context": "NetworkJobFailedDialog | [unfinished]"
+    "context": "NetworkJobFailedDialog"
   },
   {
     "key": "NetworkJobFailedDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Error",
-    "context": "NetworkJobFailedDialog | [unfinished]"
+    "context": "NetworkJobFailedDialog"
   },
   {
     "key": "NetworkJobFailedDialog:7b52603bb25e",
@@ -9483,13 +9483,13 @@
     "key": "NewComponentDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Cancel·lar",
-    "context": "NewComponentDialog | [unfinished]"
+    "context": "NewComponentDialog"
   },
   {
     "key": "NewComponentDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "D'acord",
-    "context": "NewComponentDialog | [unfinished]"
+    "context": "NewComponentDialog"
   },
   {
     "key": "NewInstanceDialog:a8296e726af3",
@@ -9525,19 +9525,19 @@
     "key": "NewInstanceDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "D'acord",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Cancel·lar",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:c47ae15370cf",
     "original": "Help",
     "translation": "Ajuda",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:0e06e81ed34d",
@@ -9855,13 +9855,13 @@
     "key": "OptiFineInstallDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Instal·la",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptiFineInstallDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Cancel·lar",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptionalModDialog:12e9f3729ee6",
@@ -9891,13 +9891,13 @@
     "key": "OptionalModDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Cancel·lar",
-    "context": "OptionalModDialog | [unfinished]"
+    "context": "OptionalModDialog"
   },
   {
     "key": "OptionalModDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "D'acord",
-    "context": "OptionalModDialog | [unfinished]"
+    "context": "OptionalModDialog"
   },
   {
     "key": "OtherLogsPage:d4188c14e699",
@@ -9909,7 +9909,7 @@
     "key": "OtherLogsPage:f54f6c4c05d2",
     "original": "Scroll all the way to bottom",
     "translation": "Llisca fins a baix del tot",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:51ac18f44780",
@@ -9945,19 +9945,19 @@
     "key": "OtherLogsPage:0767c44f5140",
     "original": "Keep updating",
     "translation": "Continua actualitzant",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:a7392043b11d",
     "original": "Wrap lines",
     "translation": "Ajustar línies",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:1d10153b525b",
     "original": "Color lines",
     "translation": "Línies de color",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:9b4ba9e93183",
@@ -9975,7 +9975,7 @@
     "key": "OtherLogsPage:5ece98753399",
     "original": "Upload the log to the paste service configured in preferences",
     "translation": "Puja el registre al servei configurat a les preferències",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:e53bc5b54900",
@@ -9999,7 +9999,7 @@
     "key": "OtherLogsPage:bce06414177f",
     "original": "Search",
     "translation": "Cercar",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:7f2f6a15cf8d",
@@ -10023,7 +10023,7 @@
     "key": "OtherLogsPage:8953e5799431",
     "original": "Confirm Deletion",
     "translation": "Confirmar eliminació",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:4ba919b5c8fd",
@@ -10053,7 +10053,7 @@
     "key": "OtherLogsPage:719ea396ad92",
     "original": "Clear",
     "translation": "Esborra",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:096311b5638e",
@@ -10071,7 +10071,7 @@
     "key": "OtherLogsPage:1919fdb56138",
     "original": "Cannot display this log since the log length surpassed %1 lines.",
     "translation": "No es pot mostrar aquest registre, ja que sobrepassa les %1 línies.",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:12fc009a1488",
@@ -10107,25 +10107,25 @@
     "key": "PackInstallTask:1cc558d32fa4",
     "original": "Unsupported installation mode",
     "translation": "Mode d'instal·lació no admès",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:608a6e16a154",
     "original": "Failed to get local metadata index for '%1' v%2",
     "translation": "No s'ha pogut obtenir l'índex de les metadades locals per '%1' v%2",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:a61c5171cb28",
     "original": "Deleting existing files...",
     "translation": "Eliminant fitxers existents...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:639e6287333c",
     "original": "Unknown mod type: %1",
     "translation": "Tipus de mod desconegut: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:54a1e48a12f3",
@@ -10149,31 +10149,31 @@
     "key": "PackInstallTask:8ea0186a5329",
     "original": "Unknown or unsupported download type: %1",
     "translation": "Tipus de baixada desconeguda o no admesa: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:db82f5ce4d92",
     "original": "Downloading configs...",
     "translation": "Baixant configuracions...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:296053b61434",
     "original": "Config download",
     "translation": "Baixada de configuracions",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:88e116160aff",
     "original": "Extracting configs...",
     "translation": "Extraient configuracions...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:6e97ce93553c",
     "original": "Selecting optional mods...",
     "translation": "Triant mods opcionals...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:df237503973c",
@@ -10191,7 +10191,7 @@
     "key": "PackInstallTask:e91e47f5379a",
     "original": "Unknown download type: %1",
     "translation": "Tipus de baixada desconeguda: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:d4e059888d25",
@@ -10203,7 +10203,7 @@
     "key": "PackInstallTask:327b7e57d4e1",
     "original": "Blocked mods found",
     "translation": "S'han trobat mods bloquejats",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:7ff827f8d900",
@@ -10215,49 +10215,49 @@
     "key": "PackInstallTask:f9bc7a615403",
     "original": "%1 out of %2 complete",
     "translation": "%1 de %2 completat",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:3138740f4b31",
     "original": "Failed to extract mods...",
     "translation": "No s'han pogut extreure els mods...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:e87c1bb107c0",
     "original": "Extracting mods...",
     "translation": "Extraient els mods...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:7d3e34e21534",
     "original": "Installing modpack",
     "translation": "Instal·lant el paquet de mods",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:a568ebaf6ef5",
     "original": "Failed to create libraries component",
     "translation": "Error al crear component de les llibreries",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:c9c9e81a13ed",
     "original": "Unknown loader type: ",
     "translation": "Tipus de carregador desconegut:",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:76fefafc38cf",
     "original": "Failed to create pack component",
     "translation": "Fallida en crear un component del paquet",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackProfile:b1590d210090",
     "original": "Aborted",
     "translation": "Avortat",
-    "context": "PackProfile | [unfinished]"
+    "context": "PackProfile"
   },
   {
     "key": "PackProfile:709a23220f2c",
@@ -10287,7 +10287,7 @@
     "key": "PageDialog:c47ae15370cf",
     "original": "Help",
     "translation": "Ajuda",
-    "context": "PageDialog | [unfinished]"
+    "context": "PageDialog"
   },
   {
     "key": "PasteWizardPage:80446347ede5",
@@ -10317,7 +10317,7 @@
     "key": "PrismExternalUpdater:549981f05abc",
     "original": "Checking for updates...",
     "translation": "Buscant actualitzacions...",
-    "context": "PrismExternalUpdater | [unfinished]"
+    "context": "PrismExternalUpdater"
   },
   {
     "key": "PrismExternalUpdater:8b2f2707936d",
@@ -10797,13 +10797,13 @@
     "key": "ProfileSelectDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Cancel·lar",
-    "context": "ProfileSelectDialog | [unfinished]"
+    "context": "ProfileSelectDialog"
   },
   {
     "key": "ProfileSelectDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "D'acord",
-    "context": "ProfileSelectDialog | [unfinished]"
+    "context": "ProfileSelectDialog"
   },
   {
     "key": "ProfileSetupDialog:ad6e16b3c052",
@@ -10821,13 +10821,13 @@
     "key": "ProfileSetupDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Cancel·lar",
-    "context": "ProfileSetupDialog | [unfinished]"
+    "context": "ProfileSetupDialog"
   },
   {
     "key": "ProfileSetupDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "D'acord",
-    "context": "ProfileSetupDialog | [unfinished]"
+    "context": "ProfileSetupDialog"
   },
   {
     "key": "ProfileSetupDialog:8b0fde7324a8",
@@ -11283,19 +11283,19 @@
     "key": "QObject:2f50d57c75e8",
     "original": "%1min %2s",
     "translation": "%1m %2s",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:cada03d943fd",
     "original": "%1h %2min",
     "translation": "%1h %2m",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:80405900e3b6",
     "original": "%1d %2h %3min",
     "translation": "%1d %2h %3m",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:5548ae4f34cb",
@@ -11307,7 +11307,7 @@
     "key": "QObject:27d5482eebd0",
     "original": "h",
     "translation": "h",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:6b0d31c0d563",
@@ -11319,7 +11319,7 @@
     "key": "QObject:a0f1490a20d0",
     "original": "s",
     "translation": "s",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:26cc3217be64",
@@ -11373,7 +11373,7 @@
     "key": "QObject:db286a36a0f3",
     "original": "Java checker library could not be found. Please check your installation.",
     "translation": "No s'ha pogut trobar la llibreria de comprovació de Java. Si us plau, revisa la teva instal·lació.",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:44bb1beac399",
@@ -11487,7 +11487,7 @@
     "key": "QObject:50d8b4a941c2",
     "original": "unknown",
     "translation": "desconegut",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:754e270ce9ad",
@@ -11499,13 +11499,13 @@
     "key": "QObject:2ebd5dd0cbfe",
     "original": "Sort by Popularity",
     "translation": "Ordenar per popularitat",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3546d8e58e95",
     "original": "Sort by Last Updated",
     "translation": "Ordenar per última actualització",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:5fa541307296",
@@ -11517,13 +11517,13 @@
     "key": "QObject:d1db3d422497",
     "original": "Sort by Author",
     "translation": "Ordenar per autor",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:c462f1bd6be2",
     "original": "Sort by Downloads",
     "translation": "Ordena per nombre de descàrregues",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:8b885badda76",
@@ -11535,25 +11535,25 @@
     "key": "QObject:21eea1c9bdf3",
     "original": "Sort by Game Version",
     "translation": "Ordenar per versió de joc",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:c2bdba99958f",
     "original": "Sort by Relevance",
     "translation": "Ordena per rellevància",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:4fe2ac4e9fcd",
     "original": "Sort by Follows",
     "translation": "Ordena per nombre de seguidors",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:ed2d9ebc327b",
     "original": "Sort by Newest",
     "translation": "Ordenar per novetat",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:a7746fee0fd8",
@@ -11583,7 +11583,7 @@
     "key": "QObject:bc7819b34ff8",
     "original": "Unknown",
     "translation": "Desconegut",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:73b44ec0895a",
@@ -11631,49 +11631,49 @@
     "key": "QObject:1b927decdbb0",
     "original": "Unchecked",
     "translation": "No seleccionat",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:e01fa717bacc",
     "original": "Offline",
     "translation": "Desconnectat",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:20c7c5522fc2",
     "original": "Ready",
     "translation": "Llest",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3b4dfc971393",
     "original": "Working",
     "translation": "Treballant",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:2d4784200261",
     "original": "Errored",
     "translation": "Fallit",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:a689a999a5e6",
     "original": "Expired",
     "translation": "Expirat",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:f4f4473df8cb",
     "original": "Disabled",
     "translation": "Deshabilitat",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:149ecfc76f45",
     "original": "Gone",
     "translation": "Desaparegut",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3b81c344597f",
@@ -11733,7 +11733,7 @@
     "key": "QObject:90f96fa0879f",
     "original": "There are linked instances",
     "translation": "Hi ha instàncies enllaçades",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:d715a70b6eb4",
@@ -11775,13 +11775,13 @@
     "key": "QObject:ec9f9bff4cb7",
     "original": "Create Shortcut",
     "translation": "Crear accés directe",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:9790ab6f7803",
     "original": "The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.",
     "translation": "El llançador es troba a la carpeta en què es va extreure, per tant, no es poden crear accessos directes.",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:20145e24c0b8",
@@ -11799,7 +11799,7 @@
     "key": "QObject:cda57bb1deaf",
     "original": "Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)",
     "translation": "Estàs executant el llançador com una AppImage configurada de forma incorrecta? (Falta la variable d'entorn $APPIMAGE)",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:4173a348eb42",
@@ -11811,13 +11811,13 @@
     "key": "QObject:ba8545f921b1",
     "original": "Failed to create icon for shortcut.",
     "translation": "No s'ha pogut crear la icona per a l'enllaç directe.",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:580b5810c0d0",
     "original": "Not supported on your platform!",
     "translation": "No és compatible amb la teva plataforma!",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:8cb61c4e6d54",
@@ -11829,7 +11829,7 @@
     "key": "QObject:a7df889212ed",
     "original": "Couldn't find desktop?!",
     "translation": "No s'ha pogut trobar l'escriptori?!",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:0674ea46dbf2",
@@ -11859,7 +11859,7 @@
     "key": "QObject:d80c70568e93",
     "original": "Desktop Entries",
     "translation": "Entrades de l'escriptori",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:6064502062d2",
@@ -11877,7 +11877,7 @@
     "key": "QObject:553791773e09",
     "original": "Error: %1 returned a malformed response body",
     "translation": "Error: %1 ha retornat amb un cos de resposta no vàlid",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:9ca436f1e0d0",
@@ -11889,7 +11889,7 @@
     "key": "QObject:7b78907fcd76",
     "original": "Error: %1 returned an error: %2",
     "translation": "Error: %1 ha retornat amb un error: %2",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:0049618ff209",
@@ -11901,7 +11901,7 @@
     "key": "QObject:674cf6424d78",
     "original": "Error: %1 returned an error code: %2\nError message: %3",
     "translation": "Error: %1 ha retornat el codi d'error: %2\nMissatge de l'error: %3",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:63a94438b1cc",
@@ -11931,7 +11931,7 @@
     "key": "QObject:cb638b12586f",
     "original": "%1 Developers",
     "translation": "Desenvolupadors de %1",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:01ec5d0fd4a6",
@@ -11955,7 +11955,7 @@
     "key": "QObject:a9b4889389af",
     "original": "Unrecognized",
     "translation": "No reconegut",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:5a853d21a166",
@@ -12069,25 +12069,25 @@
     "key": "ResourceDownload::ResourceDownloadDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Error",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:1430f976c596",
     "original": "Warnings",
     "translation": "Avisos",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:5eb693bc62ce",
     "original": "Checking for dependencies...",
     "translation": "Buscant dependències...",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:bba785be0ff7",
     "original": "Change %1 version",
     "translation": "Canvia a la versió %1",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:3fc66ee35714",
@@ -12135,7 +12135,7 @@
     "key": "ResourceDownload::ResourceModel:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Error",
-    "context": "ResourceDownload::ResourceModel | [unfinished]"
+    "context": "ResourceDownload::ResourceModel"
   },
   {
     "key": "ResourceDownload::ResourceModel:15bf96b86b8e",
@@ -12159,13 +12159,13 @@
     "key": "ResourceDownload::ResourceModel:98323c53bafd",
     "original": "A network error occurred. Could not load mods.",
     "translation": "Hi ha hagut un error a la xarxa. No s'han pogut carregar els mods.",
-    "context": "ResourceDownload::ResourceModel | [unfinished]"
+    "context": "ResourceDownload::ResourceModel"
   },
   {
     "key": "ResourceDownload::ResourceModel:bb23ebd57e62",
     "original": "API version too old!\nPlease update %1!",
     "translation": "La versió de l'API és molt vella!\nSi us plau, actualitza %1!",
-    "context": "ResourceDownload::ResourceModel | [unfinished]"
+    "context": "ResourceDownload::ResourceModel"
   },
   {
     "key": "ResourceDownload::ResourcePage:84f6be8f6f95",
@@ -12183,49 +12183,49 @@
     "key": "ResourceDownload::ResourcePage:876074b47592",
     "original": " by ",
     "translation": "per",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:f8f69574105d",
     "original": "<b>This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.</b>",
     "translation": "<b>S'ha arxivat aquest projecte. No rebrà cap actualització més mentre l'autor no decideixi desarxivar-lo.</b>",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:2cfb8e70dbcf",
     "original": "Donate information: ",
     "translation": "Donar informació:",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:15cdc321f2aa",
     "original": "External links:",
     "translation": "Enllaços externs:",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:d0a1a1d37cdf",
     "original": "Issues: <a href=%1>%1</a>",
     "translation": "Problemes: <a href=%1>%1</a>",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:95ebcf83e931",
     "original": "Wiki: <a href=%1>%1</a>",
     "translation": "Wiki: <a href=%1>%1</a>",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:0a44261695f4",
     "original": "Source code: <a href=%1>%1</a>",
     "translation": "Codi font: <a href=%1>%1</a>",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:92f689616937",
     "original": "Discord: <a href=%1>%1</a>",
     "translation": "Discord: <a href=%1>%1</a>",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:d95cf4e6a0e5",
@@ -12249,13 +12249,13 @@
     "key": "ResourceDownload::ResourcePage:5a7936328e26",
     "original": "No valid version found.",
     "translation": "No s'han trobat versions vàlides.",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:cfe998f2b973",
     "original": "Cannot select invalid version :(",
     "translation": "No es pot seleccionar una versió invàlida :(",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:124a2a9ef31d",
@@ -12267,7 +12267,7 @@
     "key": "ResourceDownload::ResourcePage:86784b539e56",
     "original": "Loading versions...",
     "translation": "Carregant versions...",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:a4ec98f1b6ef",
@@ -12297,7 +12297,7 @@
     "key": "ResourceDownload::ResourcePage:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Cancel·lar",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:39d43199988a",
@@ -12327,55 +12327,55 @@
     "key": "ResourceFolderModel:62d4750bff7e",
     "original": "\nWarning: This resource is symbolically linked from elsewhere. Editing it will also change the original.\nCanonical Path: %1",
     "translation": "Precaució: Aquest recurs està enllaçat simbòlicament des d'una altra ubicació. Canviar-lo també modificarà l'original.\nRuta canònica: %1",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:d564bd755146",
     "original": "\nWarning: This resource is hard linked elsewhere. Editing it will also change the original.",
     "translation": "Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Canviar-lo també modificarà l'original.",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Nom",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:4c24525b0aa0",
     "original": "Last Modified",
     "translation": "Última modificació",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Versió",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:b7152342a267",
     "original": "Size",
     "translation": "Mida",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:7ceee3f3615a",
     "original": "Provider",
     "translation": "Proveïdor",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:2aabcfc2668a",
     "original": "File Name",
     "translation": "Nom d'arxiu",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Actualitzar",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:bfd722aee774",
@@ -12453,43 +12453,43 @@
     "key": "ResourceFolderModel:50e19fda0d5b",
     "original": "Image",
     "translation": "Imatge",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:4c24525b0aa0",
     "original": "Last Modified",
     "translation": "Última modificació",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Versió",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:b7152342a267",
     "original": "Size",
     "translation": "Mida",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:7ceee3f3615a",
     "original": "Provider",
     "translation": "Proveïdor",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:2aabcfc2668a",
     "original": "File Name",
     "translation": "Nom d'arxiu",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Actualitzar",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:35a599c5f88a",
@@ -12537,13 +12537,13 @@
     "key": "ResourcePackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Nom",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:0092be542f99",
     "original": "Pack Format",
     "translation": "Format del pack",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:919afcd54661",
@@ -12561,7 +12561,7 @@
     "key": "ResourcePackPage:488738cde719",
     "original": "Download Packs",
     "translation": "Baixar paquets",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:e0426347f584",
@@ -12579,19 +12579,19 @@
     "key": "ResourcePackPage:2547f8e4a749",
     "original": "Change a mod's version.",
     "translation": "Canvia la versió d'un mod.",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Error",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:1430f976c596",
     "original": "Warnings",
     "translation": "Avisos",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:e2cabd9e9dcc",
@@ -12603,7 +12603,7 @@
     "key": "ResourcePackPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "Confirmar actualització",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:bfd070362a72",
@@ -12615,7 +12615,7 @@
     "key": "ResourcePackPage:76e93d20a40b",
     "original": "'%1' is up-to-date! :)",
     "translation": "'%1' està actualitzat! :)",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:5b87c4c86fc9",
@@ -12633,13 +12633,13 @@
     "key": "ResourcePackPage:2080f0fbd2f0",
     "original": "Update checker",
     "translation": "Comprovador d'actualitzacions",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Confirmar Eliminació",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:068704d93c40",
@@ -12657,13 +12657,13 @@
     "key": "ResourcePage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "Versió seleccionada:",
-    "context": "ResourcePage | [unfinished]"
+    "context": "ResourcePage"
   },
   {
     "key": "ResourcePage:c3c949f932a9",
     "original": "Filter options",
     "translation": "Filtrar opcions",
-    "context": "ResourcePage | [unfinished]"
+    "context": "ResourcePage"
   },
   {
     "key": "ResourceUpdateDialog:f91b434cbfb3",
@@ -12687,13 +12687,13 @@
     "key": "ResourceUpdateDialog:6bf2dd10d5e5",
     "original": "Mod name: %1<br>File name: %2<br>Reason: %3<br><br>",
     "translation": "Nom del mod: %1<br>Nom del fitxer: %2<br>Raó: %3<br><br>",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:fd02b869f067",
     "original": "Metadata generation failed",
     "translation": "No s'han pogut crear les metadades",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:dfc28406a8ee",
@@ -12705,49 +12705,49 @@
     "key": "ResourceUpdateDialog:78948b2a07ee",
     "original": "Checking for updates",
     "translation": "Buscant actualitzacions",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Error",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:1430f976c596",
     "original": "Warnings",
     "translation": "Avisos",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:549981f05abc",
     "original": "Checking for updates...",
     "translation": "Buscant actualitzacions...",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:eedd8a283bb3",
     "original": "Mod name: %1",
     "translation": "Nom del mod: %1",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:d859e6d705c7",
     "original": "Reason: %1",
     "translation": "Raó: %1",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:0b47b0eed8b3",
     "original": "Possible solution: Getting the latest version manually:<br>%1<br>",
     "translation": "Possible solució: descarregar la darrera versió manualment:<br>%1<br>",
-    "context": "ResourceUpdateDialog | %1 is the link to download it manually | [unfinished]"
+    "context": "ResourceUpdateDialog | %1 is the link to download it manually"
   },
   {
     "key": "ResourceUpdateDialog:4c4052cd6f9b",
     "original": "Failed to check for updates",
     "translation": "No s'ha pogut buscar actualitzacions",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:543fa3abbf5c",
@@ -12765,19 +12765,19 @@
     "key": "ResourceUpdateDialog:5eb693bc62ce",
     "original": "Checking for dependencies...",
     "translation": "Buscant dependències...",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:1aab9f182430",
     "original": "Not installed",
     "translation": "No està instal·lat",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:70d5f8453b33",
     "original": "Looking for metadata",
     "translation": "Buscant metadades",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:2d8b1a9fea6a",
@@ -12789,61 +12789,61 @@
     "key": "ResourceUpdateDialog:d3c6bba27f6b",
     "original": "Generating metadata...",
     "translation": "Creant metadades...",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:feb2a0becdd9",
     "original": "Couldn't find a valid version on the selected mod provider(s)",
     "translation": "No s'ha trobat cap versió vàlida al(s) proveïdor(s) escollit(s)",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:e618688160db",
     "original": "Mod was disabled as it may be already installed.",
     "translation": "S'ha desactivat el mod. Potser ja estava instal·lat.",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:c898a705464e",
     "original": "Provider: %1",
     "translation": "Proveïdor: %1",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:79f1a1a6de78",
     "original": "Old version: %1",
     "translation": "Versió anterior: %1",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:ba7c589c91f7",
     "original": "New version: %1",
     "translation": "Nova versió: %1",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:e9993640f35f",
     "original": "New Version Type: %1",
     "translation": "Estat de la nova versió: %1",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:fad535bc6121",
     "original": "Required by: %1",
     "translation": "Requerit per: %1",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:94f195f2ed54",
     "original": "Required by:",
     "translation": "Requerit per:",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:b0eba1c12652",
     "original": "Changelog of the latest version",
     "translation": "Registre de canvis de la versió anterior",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ReviewMessageBox:b52b36b7269f",
@@ -12855,19 +12855,19 @@
     "key": "ReviewMessageBox:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Cancel·lar",
-    "context": "ReviewMessageBox | [unfinished]"
+    "context": "ReviewMessageBox"
   },
   {
     "key": "ReviewMessageBox:9ce3bd4224c8",
     "original": "OK",
     "translation": "D'acord",
-    "context": "ReviewMessageBox | [unfinished]"
+    "context": "ReviewMessageBox"
   },
   {
     "key": "ReviewMessageBox:e618688160db",
     "original": "Mod was disabled as it may be already installed.",
     "translation": "S'ha desactivat el mod. Potser ja estava instal·lat.",
-    "context": "ReviewMessageBox | [unfinished]"
+    "context": "ReviewMessageBox"
   },
   {
     "key": "ReviewMessageBox:712fc5aa5c10",
@@ -12879,19 +12879,19 @@
     "key": "ReviewMessageBox:c898a705464e",
     "original": "Provider: %1",
     "translation": "Proveïdor: %1",
-    "context": "ReviewMessageBox | [unfinished]"
+    "context": "ReviewMessageBox"
   },
   {
     "key": "ReviewMessageBox:fad535bc6121",
     "original": "Required by: %1",
     "translation": "Requerit per: %1",
-    "context": "ReviewMessageBox | [unfinished]"
+    "context": "ReviewMessageBox"
   },
   {
     "key": "ReviewMessageBox:94f195f2ed54",
     "original": "Required by:",
     "translation": "Requerit per:",
-    "context": "ReviewMessageBox | [unfinished]"
+    "context": "ReviewMessageBox"
   },
   {
     "key": "ReviewMessageBox:29f2b5745b22",
@@ -13023,7 +13023,7 @@
     "key": "ScreenshotsPage:8953e5799431",
     "original": "Confirm Deletion",
     "translation": "Confirmar eliminació",
-    "context": "ScreenshotsPage | [unfinished]"
+    "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:597b6356e6ce",
@@ -13047,19 +13047,19 @@
     "key": "ScrollMessageBox:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Cancel·lar",
-    "context": "ScrollMessageBox | [unfinished]"
+    "context": "ScrollMessageBox"
   },
   {
     "key": "ScrollMessageBox:9ce3bd4224c8",
     "original": "OK",
     "translation": "D'acord",
-    "context": "ScrollMessageBox | [unfinished]"
+    "context": "ScrollMessageBox"
   },
   {
     "key": "SelectReleaseAssetDialog:2da600bf9404",
     "original": "Version",
     "translation": "Versió",
-    "context": "SelectReleaseAssetDialog | [unfinished]"
+    "context": "SelectReleaseAssetDialog"
   },
   {
     "key": "SelectReleaseAssetDialog:89cba7b3e72d",
@@ -13089,7 +13089,7 @@
     "key": "SelectReleaseDialog:2da600bf9404",
     "original": "Version",
     "translation": "Versió",
-    "context": "SelectReleaseDialog | [unfinished]"
+    "context": "SelectReleaseDialog"
   },
   {
     "key": "SelectReleaseDialog:89cba7b3e72d",
@@ -13107,13 +13107,13 @@
     "key": "SelectReleaseDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Cancel·lar",
-    "context": "SelectReleaseDialog | [unfinished]"
+    "context": "SelectReleaseDialog"
   },
   {
     "key": "SelectReleaseDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "D'acord",
-    "context": "SelectReleaseDialog | [unfinished]"
+    "context": "SelectReleaseDialog"
   },
   {
     "key": "SequentialTask:829c6e1cd1e8",
@@ -13149,7 +13149,7 @@
     "key": "ServersModel:2da600bf9404",
     "original": "Version",
     "translation": "Versió",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersModel:6b68e9797399",
@@ -13161,7 +13161,7 @@
     "key": "ServersModel:e01fa717bacc",
     "original": "Offline",
     "translation": "Desconnectat",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersPage:49b93f720a4a",
@@ -13239,7 +13239,7 @@
     "key": "ServersPage:56e3badc4e6c",
     "original": "Refresh",
     "translation": "Recarrega",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:acca64b83535",
@@ -13263,7 +13263,7 @@
     "key": "ServersPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Confirmar Eliminació",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:d11c34744d16",
@@ -13317,7 +13317,7 @@
     "key": "ShaderPackPage:488738cde719",
     "original": "Download Packs",
     "translation": "Baixar paquets",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:18d2a5b13b98",
@@ -13341,13 +13341,13 @@
     "key": "ShaderPackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Error",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:1430f976c596",
     "original": "Warnings",
     "translation": "Avisos",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:292f21077ddf",
@@ -13359,7 +13359,7 @@
     "key": "ShaderPackPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "Confirmar actualització",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:50c4638a5951",
@@ -13371,7 +13371,7 @@
     "key": "ShaderPackPage:76e93d20a40b",
     "original": "'%1' is up-to-date! :)",
     "translation": "'%1' està actualitzat! :)",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:4e2cec7a1363",
@@ -13389,13 +13389,13 @@
     "key": "ShaderPackPage:2080f0fbd2f0",
     "original": "Update checker",
     "translation": "Comprovador d'actualitzacions",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Confirmar Eliminació",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:c3ba31d003fe",
@@ -13449,7 +13449,7 @@
     "key": "SkinManageDialog:ca5403ec7806",
     "original": "Skin Upload",
     "translation": "Pujar aspecte",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:68c2cc7f0cea",
@@ -13473,7 +13473,7 @@
     "key": "SkinManageDialog:d5ffb218bcae",
     "original": "Cape",
     "translation": "Capa",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:f3410407219b",
@@ -13485,7 +13485,7 @@
     "key": "SkinManageDialog:027760ffe7da",
     "original": "Open Folder",
     "translation": "Obri la carpeta",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:cf4da3174d7d",
@@ -13515,7 +13515,7 @@
     "key": "SkinManageDialog:a4540c6e2afe",
     "original": "&Delete Skin",
     "translation": "&Elimina Skin",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:a56fb8960c8b",
@@ -13551,19 +13551,19 @@
     "key": "SkinManageDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Cancel·lar",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "D'acord",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:126f0e0caf65",
     "original": "Select Skin Texture",
     "translation": "Selecciona la textura per l'aspecte",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:6c298737dfdf",
@@ -13575,7 +13575,7 @@
     "key": "SkinManageDialog:4f56a87f3cb9",
     "original": "No Cape",
     "translation": "Sense capa",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:6fc8da40173d",
@@ -13593,13 +13593,13 @@
     "key": "SkinManageDialog:2c8635e6f52b",
     "original": "Skin file does not exist!",
     "translation": "L'arxiu d'aspecte no existeix!",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:6364698d704d",
     "original": "Failed to upload skin!",
     "translation": "No s'ha pogut pujar l'aspecte!",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:a0781bc8f283",
@@ -13611,19 +13611,19 @@
     "key": "SkinManageDialog:67625d998cfa",
     "original": "Skin Delete",
     "translation": "Esborrar Aspecte",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:e002853d1d71",
     "original": "Failed to delete current skin!",
     "translation": "No s'ha pogut eliminar la skin actual!",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Menú contextual",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:abc73e2588f3",
@@ -13641,7 +13641,7 @@
     "key": "SkinManageDialog:8953e5799431",
     "original": "Confirm Deletion",
     "translation": "Confirmar eliminació",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:a610463d67da",
@@ -13731,7 +13731,7 @@
     "key": "SubTaskProgressBar:80446347ede5",
     "original": "Form",
     "translation": "Forma",
-    "context": "SubTaskProgressBar | [unfinished]"
+    "context": "SubTaskProgressBar"
   },
   {
     "key": "SubTaskProgressBar:9f478681f2e2",
@@ -13755,13 +13755,13 @@
     "key": "TaskStepWrapper:7385614b3500",
     "original": "Task aborted.",
     "translation": "Tasca avortada.",
-    "context": "TaskStepWrapper | [unfinished]"
+    "context": "TaskStepWrapper"
   },
   {
     "key": "TaskStepWrapper:56406b3ccd77",
     "original": "Instance update failed because: %1\n\n",
     "translation": "L'actualització de la instància ha fallat per la següent raó: %1",
-    "context": "TaskStepWrapper | [unfinished]"
+    "context": "TaskStepWrapper"
   },
   {
     "key": "Technic::SingleZipPackInstallTask:d90009c115ee",
@@ -13905,7 +13905,7 @@
     "key": "TechnicPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Error",
-    "context": "TechnicPage | [unfinished]"
+    "context": "TechnicPage"
   },
   {
     "key": "TechnicPage:876074b47592",
@@ -13917,37 +13917,37 @@
     "key": "TexturePackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Nom",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:4c24525b0aa0",
     "original": "Last Modified",
     "translation": "Última modificació",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:b7152342a267",
     "original": "Size",
     "translation": "Mida",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:7ceee3f3615a",
     "original": "Provider",
     "translation": "Proveïdor",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:2aabcfc2668a",
     "original": "File Name",
     "translation": "Nom d'arxiu",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Actualitzar",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:b922df5f2870",
@@ -14001,7 +14001,7 @@
     "key": "TexturePackPage:488738cde719",
     "original": "Download Packs",
     "translation": "Baixar paquets",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:85fa4bf8bc83",
@@ -14031,13 +14031,13 @@
     "key": "TexturePackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Error",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:1430f976c596",
     "original": "Warnings",
     "translation": "Avisos",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:936125976ee4",
@@ -14049,7 +14049,7 @@
     "key": "TexturePackPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "Confirmar actualització",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:dd36a08926c7",
@@ -14061,7 +14061,7 @@
     "key": "TexturePackPage:76e93d20a40b",
     "original": "'%1' is up-to-date! :)",
     "translation": "'%1' està actualitzat! :)",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:a39d7646de30",
@@ -14079,13 +14079,13 @@
     "key": "TexturePackPage:2080f0fbd2f0",
     "original": "Update checker",
     "translation": "Comprovador d'actualitzacions",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Confirmar Eliminació",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:b7fbe79a518f",
@@ -14097,7 +14097,7 @@
     "key": "ThemeWizardPage:41def7a0febe",
     "original": "Appearance",
     "translation": "Aparença",
-    "context": "ThemeWizardPage | [unfinished]"
+    "context": "ThemeWizardPage"
   },
   {
     "key": "ThemeWizardPage:8ba2ac6395c2",
@@ -14205,7 +14205,7 @@
     "key": "VanillaCreationTask:1ea5bfc9e90e",
     "original": "Creating instance from version %1",
     "translation": "Creant una instància des de la versió %1",
-    "context": "VanillaCreationTask | [unfinished]"
+    "context": "VanillaCreationTask"
   },
   {
     "key": "VerifyJavaInstall:c15b0eb5b48e",
@@ -14319,13 +14319,13 @@
     "key": "VersionPage:f26357178177",
     "original": "Change Version",
     "translation": "Canviar Versió",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:bce06414177f",
     "original": "Search",
     "translation": "Cercar",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:fdffaea4e563",
@@ -14337,7 +14337,7 @@
     "key": "VersionPage:c6370aded903",
     "original": "Move Up",
     "translation": "Mou amunt",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:9e168a310eed",
@@ -14349,7 +14349,7 @@
     "key": "VersionPage:4158bedc2fcd",
     "original": "Move Down",
     "translation": "Mou avall",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:e369475f4b94",
@@ -14385,7 +14385,7 @@
     "key": "VersionPage:af98ab0d8ec5",
     "original": "Install Loader",
     "translation": "Instal·lar carregador",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:30de6d79b8eb",
@@ -14517,7 +14517,7 @@
     "key": "VersionPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Confirmar Eliminació",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:c8f5d5fa0f19",
@@ -14625,7 +14625,7 @@
     "key": "VersionPage:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Instal·la",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:cae9674c84d8",
@@ -14781,13 +14781,13 @@
     "key": "VersionSelectDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "D'acord",
-    "context": "VersionSelectDialog | [unfinished]"
+    "context": "VersionSelectDialog"
   },
   {
     "key": "VersionSelectDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Cancel·lar",
-    "context": "VersionSelectDialog | [unfinished]"
+    "context": "VersionSelectDialog"
   },
   {
     "key": "VersionSelectDialog:83b94bf4f93a",
@@ -14811,7 +14811,7 @@
     "key": "VersionSelectWidget:bce06414177f",
     "original": "Search",
     "translation": "Cercar",
-    "context": "VersionSelectWidget | [unfinished]"
+    "context": "VersionSelectWidget"
   },
   {
     "key": "VersionSelectWidget:7f2f6a15cf8d",
@@ -14889,7 +14889,7 @@
     "key": "WorldList:4b631f698425",
     "original": "Info",
     "translation": "Informació",
-    "context": "WorldList | special warnings? | [unfinished]"
+    "context": "WorldList | special warnings?"
   },
   {
     "key": "WorldList:9c5a93559664",
@@ -14937,7 +14937,7 @@
     "key": "WorldListPage:e0d73143de80",
     "original": "Join",
     "translation": "Unir-se",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:d3f4cb898fbe",
@@ -14955,7 +14955,7 @@
     "key": "WorldListPage:f6fdbe48dc54",
     "original": "Delete",
     "translation": "Eliminar",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:16397ae2608e",
@@ -14991,7 +14991,7 @@
     "key": "WorldListPage:4fa8cc860c52",
     "original": "Tools",
     "translation": "Eines",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:dbd185310812",
@@ -15051,7 +15051,7 @@
     "key": "WorldListPage:8953e5799431",
     "original": "Confirm Deletion",
     "translation": "Confirmar eliminació",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:86a7a08378ba",
@@ -15297,7 +15297,7 @@
     "key": "YggdrasilLoginDialog:8be3c943b160",
     "original": "Password",
     "translation": "Clau d'accés",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:ada2e9e96fa9",
@@ -15309,7 +15309,7 @@
     "key": "YggdrasilLoginDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Cancel·lar",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:ca359109578d",

@@ -717,7 +717,7 @@
     "key": "Application:4a01bf914644",
     "original": "Update succeeded\n\nYou are now running %1 .\nCheck the Komorebi Launcher updater log at: \n%2\nfor details.",
     "translation": "Uppfærsla tókst\n\nÞú ert núna að keyra % 1 .\nAthugaðu uppfærsluskrá Komorebi Launcher á:\n%1\nfyrir nánari upplýsingar.",
-    "context": "Application | [unfinished]"
+    "context": "Application"
   },
   {
     "key": "Application:843a4c019977",
@@ -789,7 +789,7 @@
     "key": "AssetUpdateTask:e456351b7f41",
     "original": "Getting the asset files from %1...",
     "translation": "Sæki eignaskrár frá %1...",
-    "context": "AssetUpdateTask | [unfinished]"
+    "context": "AssetUpdateTask"
   },
   {
     "key": "AssetUpdateTask:9dceaf3d2bf5",
@@ -951,49 +951,49 @@
     "key": "AuthFlow:594ee0520a59",
     "original": "Authentication task succeeded.",
     "translation": "Auðkenningarverkefni tókst.",
-    "context": "AuthFlow | [unfinished]"
+    "context": "AuthFlow"
   },
   {
     "key": "AuthFlow:c5e25b76fbfc",
     "original": "Failed to contact the authentication server.",
     "translation": "Mistókst að hafa samband við auðkenningarþjóninn.",
-    "context": "AuthFlow | [unfinished]"
+    "context": "AuthFlow"
   },
   {
     "key": "AuthFlow:d0bde33b19b5",
     "original": "Client ID has changed. New session needs to be created.",
     "translation": "Biðlaraauðkenni hefur breyst. Það þarf að búa til nýja lotu.",
-    "context": "AuthFlow | [unfinished]"
+    "context": "AuthFlow"
   },
   {
     "key": "AuthFlow:5bd1550dd6ce",
     "original": "Encountered an error during authentication.",
     "translation": "Villa kom upp við auðkenningu.",
-    "context": "AuthFlow | [unfinished]"
+    "context": "AuthFlow"
   },
   {
     "key": "AuthFlow:c71c03ccfda4",
     "original": "Failed to authenticate. The session has expired.",
     "translation": "Mistókst að auðkenna. Þingið er útrunnið.",
-    "context": "AuthFlow | [unfinished]"
+    "context": "AuthFlow"
   },
   {
     "key": "AuthFlow:f74d586b26e3",
     "original": "Failed to authenticate. The account no longer exists.",
     "translation": "Mistókst að auðkenna. Reikningurinn er ekki lengur til.",
-    "context": "AuthFlow | [unfinished]"
+    "context": "AuthFlow"
   },
   {
     "key": "AuthFlow:6eae3a5b062c",
     "original": "...",
     "translation": "...",
-    "context": "AuthFlow | [unfinished]"
+    "context": "AuthFlow"
   },
   {
     "key": "AuthFlow:c20f8526d864",
     "original": "Unknown account task state: %1",
     "translation": "Óþekkt verkefnastaða reiknings: %1",
-    "context": "AuthFlow | [unfinished]"
+    "context": "AuthFlow"
   },
   {
     "key": "AuthlibInjector::InstallTask:d17b190a4862",
@@ -1089,13 +1089,13 @@
     "key": "AuthlibInjectorDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Setja upp",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AuthlibInjectorDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Hætta við",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AutoInstallJava:d3ace495a5a2",
@@ -1245,13 +1245,13 @@
     "key": "BlockedModsDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Hætta við",
-    "context": "BlockedModsDialog | [unfinished]"
+    "context": "BlockedModsDialog"
   },
   {
     "key": "BlockedModsDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "BlockedModsDialog | [unfinished]"
+    "context": "BlockedModsDialog"
   },
   {
     "key": "BlockedModsDialog:3da474537ac3",
@@ -1305,7 +1305,7 @@
     "key": "BlockedModsDialog:4fd8d8e3eec2",
     "original": "%1: <a href='%2'>%2</a> <p>Hash: %3 %4</p> <br/>",
     "translation": "%1: <a href='%2'>%2</a> <p>Hash: %3 %4</p> <br/>",
-    "context": "BlockedModsDialog | [unfinished]"
+    "context": "BlockedModsDialog"
   },
   {
     "key": "CheckJava:db286a36a0f3",
@@ -1329,7 +1329,7 @@
     "key": "ChooseOfflineNameDialog:84c29015de33",
     "original": "Username",
     "translation": "Notendanafn",
-    "context": "ChooseOfflineNameDialog | [unfinished]"
+    "context": "ChooseOfflineNameDialog"
   },
   {
     "key": "ChooseOfflineNameDialog:2310a5ac292a",
@@ -1347,7 +1347,7 @@
     "key": "ChooseOfflineNameDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Hætta við",
-    "context": "ChooseOfflineNameDialog | [unfinished]"
+    "context": "ChooseOfflineNameDialog"
   },
   {
     "key": "ChooseOfflineNameDialog:9ce3bd4224c8",
@@ -1713,7 +1713,7 @@
     "key": "CopyInstanceDialog:c47ae15370cf",
     "original": "Help",
     "translation": "Hjálp",
-    "context": "CopyInstanceDialog | [unfinished]"
+    "context": "CopyInstanceDialog"
   },
   {
     "key": "CopyInstanceDialog:77dfd2135f4d",
@@ -1977,7 +1977,7 @@
     "key": "CreateShortcutDialog:709a23220f2c",
     "original": "Name",
     "translation": "Nafn",
-    "context": "CreateShortcutDialog | [unfinished]"
+    "context": "CreateShortcutDialog"
   },
   {
     "key": "CreateShortcutDialog:c1253df1495f",
@@ -2061,7 +2061,7 @@
     "key": "CreateShortcutDialog:78e96613d910",
     "original": "%1 (in use)",
     "translation": "%1 (Í notkun)",
-    "context": "CreateShortcutDialog | [unfinished]"
+    "context": "CreateShortcutDialog"
   },
   {
     "key": "CreateShortcutDialog:1492114ea91d",
@@ -2235,7 +2235,7 @@
     "key": "CustomPage:46c15b2a8e17",
     "original": "No versions are currently available for Minecraft %1",
     "translation": "Engar útgáfur eru tiltækar eins og er fyrir Minecraft %1",
-    "context": "CustomPage | [unfinished]"
+    "context": "CustomPage"
   },
   {
     "key": "DataMigrationTask:bf017b023177",
@@ -2265,7 +2265,7 @@
     "key": "DataPackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Nafn",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:0092be542f99",
@@ -2295,13 +2295,13 @@
     "key": "DataPackFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Útgáfa",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Uppfæra",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:b80566e89550",
@@ -2385,7 +2385,7 @@
     "key": "DataPackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Villa",
-    "context": "DataPackPage | [unfinished]"
+    "context": "DataPackPage"
   },
   {
     "key": "DataPackPage:1430f976c596",
@@ -2553,13 +2553,13 @@
     "key": "EnvironmentVariables:80446347ede5",
     "original": "Form",
     "translation": "Form",
-    "context": "EnvironmentVariables | [unfinished]"
+    "context": "EnvironmentVariables"
   },
   {
     "key": "EnvironmentVariables:709a23220f2c",
     "original": "Name",
     "translation": "Nafn",
-    "context": "EnvironmentVariables | [unfinished]"
+    "context": "EnvironmentVariables"
   },
   {
     "key": "EnvironmentVariables:8dce170de238",
@@ -2577,7 +2577,7 @@
     "key": "EnvironmentVariables:05842917076f",
     "original": "Override &Global Settings",
     "translation": "Yfirskrifa &altækar stillingar",
-    "context": "EnvironmentVariables | [unfinished]"
+    "context": "EnvironmentVariables"
   },
   {
     "key": "EnvironmentVariables:763c2ebc2799",
@@ -2601,13 +2601,13 @@
     "key": "ExportInstanceDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Hætta við",
-    "context": "ExportInstanceDialog | [unfinished]"
+    "context": "ExportInstanceDialog"
   },
   {
     "key": "ExportInstanceDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "ExportInstanceDialog | [unfinished]"
+    "context": "ExportInstanceDialog"
   },
   {
     "key": "ExportInstanceDialog:4dee4f40d63e",
@@ -2637,7 +2637,7 @@
     "key": "ExportPackDialog:7b6e69434658",
     "original": "&Name:",
     "translation": "&Nafn:",
-    "context": "ExportPackDialog | [unfinished]"
+    "context": "ExportPackDialog"
   },
   {
     "key": "ExportPackDialog:05a13ccd3dd7",
@@ -2709,13 +2709,13 @@
     "key": "ExportPackDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Hætta við",
-    "context": "ExportPackDialog | [unfinished]"
+    "context": "ExportPackDialog"
   },
   {
     "key": "ExportPackDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "ExportPackDialog | [unfinished]"
+    "context": "ExportPackDialog"
   },
   {
     "key": "ExportPackDialog:4dee4f40d63e",
@@ -2787,7 +2787,7 @@
     "key": "ExportToModListDialog:081ae3fdc403",
     "original": "Custom",
     "translation": "Sérsniðið",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExportToModListDialog:3ec1ae061c27",
@@ -2859,7 +2859,7 @@
     "key": "ExportToModListDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Hætta við",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExportToModListDialog:efc007a393f6",
@@ -2877,7 +2877,7 @@
     "key": "ExportToModListDialog:2c3cafa4db3f",
     "original": "File",
     "translation": "Skrá",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExternalResourcesPage:c3cd636a585b",
@@ -2913,7 +2913,7 @@
     "key": "ExternalResourcesPage:bce06414177f",
     "original": "Search",
     "translation": "Leita",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:256b10b1d26d",
@@ -3063,7 +3063,7 @@
     "key": "ExternalResourcesPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Samhengisvalmynd",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:76cffee45024",
@@ -3159,19 +3159,19 @@
     "key": "ExternalToolsPage:d3c88b119527",
     "original": "&Add",
     "translation": "&Bæta við",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:763c2ebc2799",
     "original": "&Remove",
     "translation": "&Fjarlægja",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:709a23220f2c",
     "original": "Name",
     "translation": "Nafn",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:8901895fb1b1",
@@ -3375,7 +3375,7 @@
     "key": "FTB::PackInstallTask:7b02e924aa02",
     "original": "Mod download",
     "translation": "Viðbótarniðurhal",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:d4e059888d25",
@@ -3387,13 +3387,13 @@
     "key": "FTB::PackInstallTask:9c36196243f9",
     "original": "Copying Blocked Mods...",
     "translation": "Afrita bannaðar viðbætur...",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:07670e4b121a",
     "original": "Copying Blocked Mods (%1 out of %2 are done)",
     "translation": "Afrita bannaðar viðbætur (%1 af %2 afritað)",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTBImportAPP::FilterModel:5fa541307296",
@@ -3459,7 +3459,7 @@
     "key": "Flame::FileResolvingTask:ca80a34aa5d0",
     "original": "Parsing API response from CurseForge for '%1'...",
     "translation": "Greini API-svar frá CurseForge fyrir '%1'...",
-    "context": "Flame::FileResolvingTask | [unfinished]"
+    "context": "Flame::FileResolvingTask"
   },
   {
     "key": "FlameCheckUpdate:b2a3efe94b2f",
@@ -3489,7 +3489,7 @@
     "key": "FlameCheckUpdate:ca80a34aa5d0",
     "original": "Parsing API response from CurseForge for '%1'...",
     "translation": "Greini API-svar frá CurseForge fyrir '%1'...",
-    "context": "FlameCheckUpdate | [unfinished]"
+    "context": "FlameCheckUpdate"
   },
   {
     "key": "FlameCheckUpdate:cbc329711a29",
@@ -3507,13 +3507,13 @@
     "key": "FlameCheckUpdate:bc7819b34ff8",
     "original": "Unknown",
     "translation": "Óþekktur",
-    "context": "FlameCheckUpdate | [unfinished]"
+    "context": "FlameCheckUpdate"
   },
   {
     "key": "FlameCreationTask:93fc42ea75d6",
     "original": "Could not understand pack manifest:\n",
     "translation": "Gat ekki skilið pakkann manifest",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:e0976e09621d",
@@ -3555,19 +3555,19 @@
     "key": "FlameCreationTask:54a1e48a12f3",
     "original": "Failed to get local metadata index for %1",
     "translation": "Mistókst að sækja staðbundna lýsigagnavísitölu fyrir %1",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:9638c0cc0435",
     "original": "Failed to find version for %1 loader",
     "translation": "Mistókst að finna útgáfu fyrir %1 hleðslutæki",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:394b0f2a985e",
     "original": "No loader version set for modpack!",
     "translation": "Engin hleðsluútgáfa sett fyrir modpack!",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:e75af2bdf614",
@@ -3615,13 +3615,13 @@
     "key": "FlameCreationTask:327b7e57d4e1",
     "original": "Blocked mods found",
     "translation": "Útilokaðir mods fundust",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:7ff827f8d900",
     "original": "The following files are not available for download in third party launchers.<br/>You will need to manually download them and add them to the instance.",
     "translation": "Eftirfarandi skrár eru ekki tiltækar til niðurhals í ræsiforritum þriðja aðila.<br/>Þú þarft að hlaða þeim niður handvirkt og bæta þeim við tilvikið.",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:193c1dffab3c",
@@ -3639,7 +3639,7 @@
     "key": "FlameCreationTask:f9bc7a615403",
     "original": "%1 out of %2 complete",
     "translation": "%1 af %2 lokið",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:9c36196243f9",
@@ -3657,19 +3657,19 @@
     "key": "FlameCreationTask:ec8e76990081",
     "original": "Removing old conflicting files...",
     "translation": "Fjarlægi gamlar skrár sem stangast á…",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:95678dd3a029",
     "original": "Failed to remove old conflicting files.",
     "translation": "Mistókst að fjarlægja gamlar skrár sem stangast á.",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:df237503973c",
     "original": "Downloading mods...",
     "translation": "Er að niðurhala mods...",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameManagedPackPage:df87bd3ab69c",
@@ -3693,7 +3693,7 @@
     "key": "FlameManagedPackPage:f98e6c416295",
     "original": "CurseForge pack",
     "translation": "CurseForge pakki",
-    "context": "FlameManagedPackPage | [unfinished]"
+    "context": "FlameManagedPackPage"
   },
   {
     "key": "FlamePackExportTask:4c74a1167874",
@@ -3723,7 +3723,7 @@
     "key": "FlamePackExportTask:ca80a34aa5d0",
     "original": "Parsing API response from CurseForge for '%1'...",
     "translation": "Greini API-svar frá CurseForge fyrir '%1'...",
-    "context": "FlamePackExportTask | [unfinished]"
+    "context": "FlamePackExportTask"
   },
   {
     "key": "FlamePackExportTask:dd6a9c0d177e",
@@ -3861,7 +3861,7 @@
     "key": "Ftb::FilterModel:5fa541307296",
     "original": "Sort by Name",
     "translation": "Raða eftir nafni",
-    "context": "Ftb::FilterModel | [unfinished]"
+    "context": "Ftb::FilterModel"
   },
   {
     "key": "FtbPage:03fec0b5504e",
@@ -3873,7 +3873,7 @@
     "key": "FtbPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Leita og sía ...",
-    "context": "FtbPage | [unfinished]"
+    "context": "FtbPage"
   },
   {
     "key": "FtbPage:8bb246929d5d",
@@ -3999,7 +3999,7 @@
     "key": "IconPickerDialog:081ae3fdc403",
     "original": "Custom",
     "translation": "Sérsniðið",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:a825bf9821f9",
@@ -4017,19 +4017,19 @@
     "key": "IconPickerDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Hætta við",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:027760ffe7da",
     "original": "Open Folder",
     "translation": "Opna möppu",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:456860ea149a",
@@ -4113,7 +4113,7 @@
     "key": "ImportPage:421a3cbacf93",
     "original": "Modrinth pack",
     "translation": "Modrinth pakki",
-    "context": "ImportPage | Option for filtering for *.mrpack files when importing | [unfinished]"
+    "context": "ImportPage | Option for filtering for *.mrpack files when importing"
   },
   {
     "key": "ImportPage:a9eec263e1fd",
@@ -4155,13 +4155,13 @@
     "key": "ImportResourceDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Hætta við",
-    "context": "ImportResourceDialog | [unfinished]"
+    "context": "ImportResourceDialog"
   },
   {
     "key": "ImportResourceDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "ImportResourceDialog | [unfinished]"
+    "context": "ImportResourceDialog"
   },
   {
     "key": "InfoFrame:f806c6f1da3f",
@@ -4197,7 +4197,7 @@
     "key": "InstallLoaderDialog:e38044ca5f26",
     "original": "&Refresh",
     "translation": "&Endurnýja",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:9ce3bd4224c8",
@@ -4209,13 +4209,13 @@
     "key": "InstallLoaderDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Hætta við",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:b5165545b367",
     "original": "NeoForge",
     "translation": "NeoForge",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:3ab11b75ca36",
@@ -4281,7 +4281,7 @@
     "key": "InstallLoaderPage:46c15b2a8e17",
     "original": "No versions are currently available for Minecraft %1",
     "translation": "Engar útgáfur eru tiltækar eins og er fyrir Minecraft %1",
-    "context": "InstallLoaderPage | [unfinished]"
+    "context": "InstallLoaderPage"
   },
   {
     "key": "InstallWorldTask:2c5d1322a3c8",
@@ -4395,13 +4395,13 @@
     "key": "InstanceTask:3da474537ac3",
     "original": "Skip",
     "translation": "Sleppa",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Villa",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:dd17662eb1c4",
@@ -4461,7 +4461,7 @@
     "key": "InstanceWindow:226c31898705",
     "original": "&Kill",
     "translation": "&Drepa",
-    "context": "InstanceWindow | [unfinished]"
+    "context": "InstanceWindow"
   },
   {
     "key": "InstanceWindow:769b0d960405",
@@ -4497,7 +4497,7 @@
     "key": "JProfiler:122e80b33e98",
     "original": "Profiler aborted",
     "translation": "Prófíllari hætt við",
-    "context": "JProfiler | [unfinished]"
+    "context": "JProfiler"
   },
   {
     "key": "JVisualVM:91625854647b",
@@ -4509,7 +4509,7 @@
     "key": "JVisualVM:122e80b33e98",
     "original": "Profiler aborted",
     "translation": "Prófíllari hætt við",
-    "context": "JVisualVM | [unfinished]"
+    "context": "JVisualVM"
   },
   {
     "key": "Java::ArchiveDownloadTask:032eefb2c549",
@@ -4539,7 +4539,7 @@
     "key": "Java::InstallDialog:e38044ca5f26",
     "original": "&Refresh",
     "translation": "&Endurnýja",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:a479c9c34e87",
@@ -4551,13 +4551,13 @@
     "key": "Java::InstallDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Hætta við",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:723ba985328e",
     "original": "Mojang",
     "translation": "Mojang",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:360564b906a1",
@@ -4581,19 +4581,19 @@
     "key": "Java::InstallDialog:7086081c2d30",
     "original": "Install Java",
     "translation": "Setja upp Java",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:27edb4c40008",
     "original": "Could not determine Java download type!",
     "translation": "Gat ekki ákvarðað gerð Java niðurhals!",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Villa",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::LocalJavaScanTask:52cef86f41c6",
@@ -4671,13 +4671,13 @@
     "key": "JavaPage:e963907dac5c",
     "original": "Remove",
     "translation": "Fjarlægja",
-    "context": "JavaPage | [unfinished]"
+    "context": "JavaPage"
   },
   {
     "key": "JavaPage:56e3badc4e6c",
     "original": "Refresh",
     "translation": "Endurnýja",
-    "context": "JavaPage | [unfinished]"
+    "context": "JavaPage"
   },
   {
     "key": "JavaPage:b4dae444a41b",
@@ -4725,7 +4725,7 @@
     "key": "JavaSettingsWidget:80446347ede5",
     "original": "Form",
     "translation": "Form",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:179f88d38199",
@@ -4935,7 +4935,7 @@
     "key": "JavaSettingsWidget:e088eab74d48",
     "original": "Select a Java version",
     "translation": "Velja Java útgáfu",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:2ded65911985",
@@ -5037,7 +5037,7 @@
     "key": "JavaWizardWidget:5dc9c1298895",
     "original": "No Java version selected",
     "translation": "Engin Java útgáfa valin",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:52f8da4ff531",
@@ -5055,7 +5055,7 @@
     "key": "JavaWizardWidget:89c8a2851d17",
     "original": "Memory",
     "translation": "Vinnsluminni",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:a948355e4e3c",
@@ -5067,13 +5067,13 @@
     "key": "JavaWizardWidget:8538a075e966",
     "original": "Minimum memory allocation:",
     "translation": "Lágmarks vinnsluminnis úthlutun:",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:a4aec57dd6f3",
     "original": "Maximum memory allocation:",
     "translation": "Hámarks vinnsluminnis úthlutun:",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:dd79f7640608",
@@ -5091,7 +5091,7 @@
     "key": "JavaWizardWidget:2f3b5c55bc27",
     "original": "Browse",
     "translation": "Skoða",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:93afc3efadc5",
@@ -5241,7 +5241,7 @@
     "key": "LaunchController:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Hætta við",
-    "context": "LaunchController | [unfinished]"
+    "context": "LaunchController"
   },
   {
     "key": "LaunchController:d873f6d526a3",
@@ -5559,7 +5559,7 @@
     "key": "LauncherPage:2f3b5c55bc27",
     "original": "Browse",
     "translation": "Skoða",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:19347a71a725",
@@ -5655,7 +5655,7 @@
     "key": "LauncherPage:e963907dac5c",
     "original": "Remove",
     "translation": "Fjarlægja",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:9b824218dd00",
@@ -6015,31 +6015,31 @@
     "key": "LegacyFMLLibrariesTask:1906289a3356",
     "original": "Downloading FML libraries...",
     "translation": "Sæki FML söfn...",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:4a36e8560168",
     "original": "Copying FML libraries into the instance...",
     "translation": "Afrita FML söfn inn í tilvikið...",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:cd9d55688469",
     "original": "Failed creating FML library folder inside the instance.",
     "translation": "Mistókst að skapa FML safnmöppu inni í tilvikinu.",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:12c0e533752f",
     "original": "Failed copying Forge/FML library: %1.",
     "translation": "Mistókst að afrita Forge/FML safn: %1.",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:aa54605f20ac",
     "original": "Failed to download the following files:\n%1\n\nReason:%2\nPlease try again.",
     "translation": "Mistókst að sækja eftirfarandi skrár:\n%1\n\nÁstæða: %2\nVinsamlegast reyndu aftur.",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFTB::FilterModel:5fa541307296",
@@ -6099,13 +6099,13 @@
     "key": "LegacyFTB::PackInstallTask:947d98cb6a3e",
     "original": "Extracting modpack",
     "translation": "Afþjappa viðbótarpakka",
-    "context": "LegacyFTB::PackInstallTask | [unfinished]"
+    "context": "LegacyFTB::PackInstallTask"
   },
   {
     "key": "LegacyFTB::PackInstallTask:7d3e34e21534",
     "original": "Installing modpack",
     "translation": "Er að setja upp modpack",
-    "context": "LegacyFTB::PackInstallTask | [unfinished]"
+    "context": "LegacyFTB::PackInstallTask"
   },
   {
     "key": "LegacyFTB::PackInstallTask:44d2b46ad2a3",
@@ -6237,7 +6237,7 @@
     "key": "ListModel:c4a7e601008a",
     "original": "Minecraft %1",
     "translation": "Minecraft %1",
-    "context": "ListModel | [unfinished]"
+    "context": "ListModel"
   },
   {
     "key": "LocalResourceUpdateTask:2245cdef5363",
@@ -6309,7 +6309,7 @@
     "key": "LogPage:bce06414177f",
     "original": "Search",
     "translation": "Leita",
-    "context": "LogPage | [unfinished]"
+    "context": "LogPage"
   },
   {
     "key": "LogPage:df251b06eefd",
@@ -6369,7 +6369,7 @@
     "key": "LoginWizardPage:80446347ede5",
     "original": "Form",
     "translation": "Form",
-    "context": "LoginWizardPage | [unfinished]"
+    "context": "LoginWizardPage"
   },
   {
     "key": "LoginWizardPage:2f589123ceb2",
@@ -6483,13 +6483,13 @@
     "key": "MSALoginDialog:89e944f8eb37",
     "original": "Please wait...",
     "translation": "Vinsamlegast bíðið...",
-    "context": "MSALoginDialog | [unfinished]"
+    "context": "MSALoginDialog"
   },
   {
     "key": "MSALoginDialog:bae7d5be7082",
     "original": "Status",
     "translation": "Staða",
-    "context": "MSALoginDialog | [unfinished]"
+    "context": "MSALoginDialog"
   },
   {
     "key": "MSALoginDialog:fd62c61f849b",
@@ -6531,7 +6531,7 @@
     "key": "MSALoginDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Hætta við",
-    "context": "MSALoginDialog | [unfinished]"
+    "context": "MSALoginDialog"
   },
   {
     "key": "MSALoginDialog:95234f4e13e8",
@@ -7233,7 +7233,7 @@
     "key": "MainWindow:1430f976c596",
     "original": "Warnings",
     "translation": "Aðvaranir",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:28c54654fe51",
@@ -7275,7 +7275,7 @@
     "key": "MainWindow:58340cf23de3",
     "original": "Modpack download",
     "translation": "Niðurhal viðbótarpakka",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:5b0c2aa91847",
@@ -7575,7 +7575,7 @@
     "key": "ManagedPackPage:1430f976c596",
     "original": "Warnings",
     "translation": "Aðvaranir",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:d7a9ac115449",
@@ -7629,7 +7629,7 @@
     "key": "ManagedPackPage:9d4741838842",
     "original": "Update Failed",
     "translation": "Uppfærsla Mistókst",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:cd2dbd6fb8fc",
@@ -7647,7 +7647,7 @@
     "key": "ManagedPackPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "Staðfesta uppfærslu",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:f701d3d7d9eb",
@@ -7665,7 +7665,7 @@
     "key": "Meta::Index:709a23220f2c",
     "original": "Name",
     "translation": "Nafn",
-    "context": "Meta::Index | [unfinished]"
+    "context": "Meta::Index"
   },
   {
     "key": "Meta::Index:04099ec66644",
@@ -7683,13 +7683,13 @@
     "key": "MinecraftAccount:b1590d210090",
     "original": "Aborted",
     "translation": "Hætt við",
-    "context": "MinecraftAccount | [unfinished]"
+    "context": "MinecraftAccount"
   },
   {
     "key": "MinecraftInstance:5fd059949516",
     "original": "&Launch",
     "translation": "&Ræsiforrita",
-    "context": "MinecraftInstance | [unfinished]"
+    "context": "MinecraftInstance"
   },
   {
     "key": "MinecraftInstance:8d09bd0679ff",
@@ -7761,7 +7761,7 @@
     "key": "MinecraftInstance:c4a7e601008a",
     "original": "Minecraft %1",
     "translation": "Minecraft %1",
-    "context": "MinecraftInstance | [unfinished]"
+    "context": "MinecraftInstance"
   },
   {
     "key": "MinecraftInstance:db046cdffefb",
@@ -7845,7 +7845,7 @@
     "key": "MinecraftSettingsWidget:a5f3a11b1ca0",
     "original": "The settings here are overrides for global settings.",
     "translation": "Stillingarnar hér eru hnekkjanir fyrir alþjóðlegarstillingar.",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:9239ee2cda84",
@@ -7911,7 +7911,7 @@
     "key": "MinecraftSettingsWidget:e027e57610f8",
     "original": "Java",
     "translation": "Java",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:eaef77aca961",
@@ -8037,7 +8037,7 @@
     "key": "MinecraftSettingsWidget:2f3b5c55bc27",
     "original": "Browse",
     "translation": "Skoða",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:dd2ae46a1914",
@@ -8073,7 +8073,7 @@
     "key": "MinecraftSettingsWidget:b5165545b367",
     "original": "NeoForge",
     "translation": "NeoForge",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:3ab11b75ca36",
@@ -8235,19 +8235,19 @@
     "key": "MinecraftSettingsWidget:47eeadcdfb06",
     "original": "Server address:",
     "translation": "Vistfang þjóns:",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:c48e024e0cec",
     "original": "Custom Commands",
     "translation": "Sérsniðnar skipanir",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:ec072bba7bef",
     "original": "Environment Variables",
     "translation": "Umhverfisbreytur",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:d9770fdf0002",
@@ -8307,7 +8307,7 @@
     "key": "MirrorListEditor:e963907dac5c",
     "original": "Remove",
     "translation": "Fjarlægja",
-    "context": "MirrorListEditor | [unfinished]"
+    "context": "MirrorListEditor"
   },
   {
     "key": "MirrorListEditor:cb0ad25e7101",
@@ -8331,7 +8331,7 @@
     "key": "ModFilterWidget:80446347ede5",
     "original": "Form",
     "translation": "Form",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:6ccb60071be8",
@@ -8349,7 +8349,7 @@
     "key": "ModFilterWidget:b5165545b367",
     "original": "NeoForge",
     "translation": "NeoForge",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:3ab11b75ca36",
@@ -8481,7 +8481,7 @@
     "key": "ModFilterWidget:bc7819b34ff8",
     "original": "Unknown",
     "translation": "Óþekktur",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:0485bc248e29",
@@ -8583,7 +8583,7 @@
     "key": "ModFilterWidget:40ab4c0ce406",
     "original": "All Versions",
     "translation": "Allar útgáfur",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFolderModel:2c3cafa4db3f",
@@ -8595,7 +8595,7 @@
     "key": "ModFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Nafn",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:2da600bf9404",
@@ -8613,7 +8613,7 @@
     "key": "ModFolderModel:4c24525b0aa0",
     "original": "Last Modified",
     "translation": "Seinast breytt",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:b7152342a267",
@@ -8667,7 +8667,7 @@
     "key": "ModFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Uppfæra",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:9f8105907b13",
@@ -8847,7 +8847,7 @@
     "key": "ModFolderPage:59e5bdd43477",
     "original": "Confirm Delete",
     "translation": "Staðfesta eyðingu",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:f176315d8c08",
@@ -8883,7 +8883,7 @@
     "key": "ModFolderPage:1430f976c596",
     "original": "Warnings",
     "translation": "Aðvaranir",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:02f4ac38781c",
@@ -8895,7 +8895,7 @@
     "key": "ModFolderPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "Staðfesta uppfærslu",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:115adb5fe24e",
@@ -8913,13 +8913,13 @@
     "key": "ModFolderPage:2080f0fbd2f0",
     "original": "Update checker",
     "translation": "Uppfærsluleit",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Staðfesta fjarlægingu",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:7dc75dabfc76",
@@ -8961,7 +8961,7 @@
     "key": "ModFolderPage:76e93d20a40b",
     "original": "'%1' is up-to-date! :)",
     "translation": "'&1' er uppfært! :)",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:bd70a5fe384e",
@@ -9051,25 +9051,25 @@
     "key": "ModrinthCheckUpdate:1aab9f182430",
     "original": "Not installed",
     "translation": "Ekki sett upp",
-    "context": "ModrinthCheckUpdate | [unfinished]"
+    "context": "ModrinthCheckUpdate"
   },
   {
     "key": "ModrinthCheckUpdate:bc7819b34ff8",
     "original": "Unknown",
     "translation": "Óþekktur",
-    "context": "ModrinthCheckUpdate | [unfinished]"
+    "context": "ModrinthCheckUpdate"
   },
   {
     "key": "ModrinthCheckUpdate:34affdf46b9d",
     "original": "No valid version found for this resource. It's probably unavailable for the current game version / mod loader.",
     "translation": "Engin gild útgáfa fannst fyrir þessa auðlind. Hún er líklega ekki tiltæk fyrir núverandi leikútgáfu / viðbótarhleðara.",
-    "context": "ModrinthCheckUpdate | [unfinished]"
+    "context": "ModrinthCheckUpdate"
   },
   {
     "key": "ModrinthCheckUpdate:a18af352b22d",
     "original": "No valid version found for this resource. It's probably unavailable for the current game version.",
     "translation": "Engin gild útgáfa fannst fyrir þessa auðlind. Hún er líklega ekki tiltæk fyrir núverandi leikútgáfu.",
-    "context": "ModrinthCheckUpdate | [unfinished]"
+    "context": "ModrinthCheckUpdate"
   },
   {
     "key": "ModrinthCheckUpdate:1716737a67d8",
@@ -9081,25 +9081,25 @@
     "key": "ModrinthCreationTask:e0976e09621d",
     "original": " (version %1)",
     "translation": ".(útgáfa %1)",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:1012f49a6020",
     "original": "No index file.",
     "translation": "Engin vísiskrá.",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:234ae1221c43",
     "original": "We couldn't find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?",
     "translation": "Við gátum ekki fundið viðeigandi vísiskrá fyrir eldri úgáfuna. Þetta gæti valdið því að sumar skrárnar verði tvíteknar. Viltu halda áfram?",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:e206ab9751c4",
     "original": "Could not rename the overrides folder:\n",
     "translation": "Gat ekki endurnefnt yfirskriftamöppuna:",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:8e684cf213b5",
@@ -9129,13 +9129,13 @@
     "key": "ModrinthCreationTask:f9bc7a615403",
     "original": "%1 out of %2 complete",
     "translation": "%1 af %2 lokið",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:df237503973c",
     "original": "Downloading mods...",
     "translation": "Er að niðurhala mods...",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:823f8fa08edc",
@@ -9153,19 +9153,19 @@
     "key": "ModrinthCreationTask:ec8e76990081",
     "original": "Removing old conflicting files...",
     "translation": "Fjarlægi gamlar skrár sem stangast á…",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:95678dd3a029",
     "original": "Failed to remove old conflicting files.",
     "translation": "Mistókst að fjarlægja gamlar skrár sem stangast á.",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthManagedPackPage:6bbfd857afb9",
     "original": "%1 (Current)",
     "translation": "%1 (Núverandi)",
-    "context": "ModrinthManagedPackPage | [unfinished]"
+    "context": "ModrinthManagedPackPage"
   },
   {
     "key": "ModrinthManagedPackPage:394d6e5212a4",
@@ -9177,37 +9177,37 @@
     "key": "ModrinthManagedPackPage:7ad1b1948639",
     "original": "Choose update file",
     "translation": "Veldu uppfærsluskrá",
-    "context": "ModrinthManagedPackPage | [unfinished]"
+    "context": "ModrinthManagedPackPage"
   },
   {
     "key": "ModrinthManagedPackPage:421a3cbacf93",
     "original": "Modrinth pack",
     "translation": "Modrinth pakki",
-    "context": "ModrinthManagedPackPage | [unfinished]"
+    "context": "ModrinthManagedPackPage"
   },
   {
     "key": "ModrinthPackExportTask:4c74a1167874",
     "original": "Searching for files...",
     "translation": "Leita að skrám...",
-    "context": "ModrinthPackExportTask | [unfinished]"
+    "context": "ModrinthPackExportTask"
   },
   {
     "key": "ModrinthPackExportTask:2c74262ef53e",
     "original": "Could not search for files",
     "translation": "Gat ekki leitað að skrám",
-    "context": "ModrinthPackExportTask | [unfinished]"
+    "context": "ModrinthPackExportTask"
   },
   {
     "key": "ModrinthPackExportTask:7dcce6ced11a",
     "original": "Finding file hashes...",
     "translation": "Finn skráarkóðunargildi…",
-    "context": "ModrinthPackExportTask | [unfinished]"
+    "context": "ModrinthPackExportTask"
   },
   {
     "key": "ModrinthPackExportTask:67f8ee149173",
     "original": "Finding versions for hashes...",
     "translation": "Finn útgáfur fyrir kóðagildi...",
-    "context": "ModrinthPackExportTask | [unfinished]"
+    "context": "ModrinthPackExportTask"
   },
   {
     "key": "ModrinthPackExportTask:a3d4a1cb28a1",
@@ -9219,7 +9219,7 @@
     "key": "ModrinthPackExportTask:b2ee72c5645d",
     "original": "Adding files...",
     "translation": "Bæti við skrám...",
-    "context": "ModrinthPackExportTask | [unfinished]"
+    "context": "ModrinthPackExportTask"
   },
   {
     "key": "ModrinthPage:c2bdba99958f",
@@ -9231,7 +9231,7 @@
     "key": "ModrinthPage:dbcc650e8de5",
     "original": "Sort by Total Downloads",
     "translation": "Raða eftir heildarfjölda niðurhala",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:4fe2ac4e9fcd",
@@ -9243,7 +9243,7 @@
     "key": "ModrinthPage:3546d8e58e95",
     "original": "Sort by Last Updated",
     "translation": "Raða eftir seinast uppfært",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:7f2f6a15cf8d",
@@ -9273,25 +9273,25 @@
     "key": "ModrinthPage:15cdc321f2aa",
     "original": "External links:",
     "translation": "Ytri hlekkir:",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:d0a1a1d37cdf",
     "original": "Issues: <a href=%1>%1</a>",
     "translation": "Vandamál: <a href=%1>%1</a>",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:95ebcf83e931",
     "original": "Wiki: <a href=%1>%1</a>",
     "translation": "Wiki: <a href=%1>%1</a>",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:0a44261695f4",
     "original": "Source code: <a href=%1>%1</a>",
     "translation": "Frumkóði: <a href=%1>%1</a>",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:92f689616937",
@@ -9309,13 +9309,13 @@
     "key": "ModrinthPage:c3c949f932a9",
     "original": "Filter options",
     "translation": "Síunarvalkostir",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Leita og sía ...",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:03fec0b5504e",
@@ -9405,7 +9405,7 @@
     "key": "NetJob:67a7e9461e7d",
     "original": "Executing %1 task(s) (%2 out of %3 are done)",
     "translation": "Framkvæmir %1 verkefni (%2 af %3 er lokið)",
-    "context": "NetJob | [unfinished]"
+    "context": "NetJob"
   },
   {
     "key": "NetworkJobFailedDialog:6cc153f0e5df",
@@ -9423,13 +9423,13 @@
     "key": "NetworkJobFailedDialog:0e2d9b0777a4",
     "original": "URL",
     "translation": "Slóð",
-    "context": "NetworkJobFailedDialog | [unfinished]"
+    "context": "NetworkJobFailedDialog"
   },
   {
     "key": "NetworkJobFailedDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Villa",
-    "context": "NetworkJobFailedDialog | [unfinished]"
+    "context": "NetworkJobFailedDialog"
   },
   {
     "key": "NetworkJobFailedDialog:7b52603bb25e",
@@ -9471,7 +9471,7 @@
     "key": "NewComponentDialog:709a23220f2c",
     "original": "Name",
     "translation": "Nafn",
-    "context": "NewComponentDialog | [unfinished]"
+    "context": "NewComponentDialog"
   },
   {
     "key": "NewComponentDialog:e2577dd78b54",
@@ -9483,13 +9483,13 @@
     "key": "NewComponentDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Hætta við",
-    "context": "NewComponentDialog | [unfinished]"
+    "context": "NewComponentDialog"
   },
   {
     "key": "NewComponentDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "NewComponentDialog | [unfinished]"
+    "context": "NewComponentDialog"
   },
   {
     "key": "NewInstanceDialog:a8296e726af3",
@@ -9525,19 +9525,19 @@
     "key": "NewInstanceDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Hætta við",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:c47ae15370cf",
     "original": "Help",
     "translation": "Hjálp",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:0e06e81ed34d",
@@ -9855,13 +9855,13 @@
     "key": "OptiFineInstallDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Setja upp",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptiFineInstallDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Hætta við",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptionalModDialog:12e9f3729ee6",
@@ -9891,13 +9891,13 @@
     "key": "OptionalModDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Hætta við",
-    "context": "OptionalModDialog | [unfinished]"
+    "context": "OptionalModDialog"
   },
   {
     "key": "OptionalModDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "OptionalModDialog | [unfinished]"
+    "context": "OptionalModDialog"
   },
   {
     "key": "OtherLogsPage:d4188c14e699",
@@ -9999,7 +9999,7 @@
     "key": "OtherLogsPage:bce06414177f",
     "original": "Search",
     "translation": "Leita",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:7f2f6a15cf8d",
@@ -10053,7 +10053,7 @@
     "key": "OtherLogsPage:719ea396ad92",
     "original": "Clear",
     "translation": "Hreinsa",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:096311b5638e",
@@ -10071,7 +10071,7 @@
     "key": "OtherLogsPage:1919fdb56138",
     "original": "Cannot display this log since the log length surpassed %1 lines.",
     "translation": "Get ekki birt þessa skrá þar sem lengd hennar fór yfir %1 línur.",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:12fc009a1488",
@@ -10107,25 +10107,25 @@
     "key": "PackInstallTask:1cc558d32fa4",
     "original": "Unsupported installation mode",
     "translation": "Óstuddur uppsetningarhamur",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:608a6e16a154",
     "original": "Failed to get local metadata index for '%1' v%2",
     "translation": "Mistókst að ná í staðbundinn lýsigagnavísi fyrir '%1' v%2",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:a61c5171cb28",
     "original": "Deleting existing files...",
     "translation": "Eyði núverandi skrám...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:639e6287333c",
     "original": "Unknown mod type: %1",
     "translation": "Óþekkt viðbótartegund: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:54a1e48a12f3",
@@ -10149,31 +10149,31 @@
     "key": "PackInstallTask:8ea0186a5329",
     "original": "Unknown or unsupported download type: %1",
     "translation": "Óþekkt eða óstudd niðurhalstegund: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:db82f5ce4d92",
     "original": "Downloading configs...",
     "translation": "Sæki stillingar...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:296053b61434",
     "original": "Config download",
     "translation": "Stillinganiðurhal",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:88e116160aff",
     "original": "Extracting configs...",
     "translation": "Afþjappa stillingum...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:6e97ce93553c",
     "original": "Selecting optional mods...",
     "translation": "Vel valfrjálsar viðbætur...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:df237503973c",
@@ -10185,13 +10185,13 @@
     "key": "PackInstallTask:7b02e924aa02",
     "original": "Mod download",
     "translation": "Viðbótarniðurhal",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:e91e47f5379a",
     "original": "Unknown download type: %1",
     "translation": "Óþekkt niðurhalstegund: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:d4e059888d25",
@@ -10215,19 +10215,19 @@
     "key": "PackInstallTask:f9bc7a615403",
     "original": "%1 out of %2 complete",
     "translation": "%1 af %2 lokið",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:3138740f4b31",
     "original": "Failed to extract mods...",
     "translation": "Mistókst að afþjappa viðbótum...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:e87c1bb107c0",
     "original": "Extracting mods...",
     "translation": "Afþjappa viðbótum...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:7d3e34e21534",
@@ -10239,31 +10239,31 @@
     "key": "PackInstallTask:a568ebaf6ef5",
     "original": "Failed to create libraries component",
     "translation": "Mistókst að búa til safneiningu",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:c9c9e81a13ed",
     "original": "Unknown loader type: ",
     "translation": "Óþekkt hleðarategund:",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:76fefafc38cf",
     "original": "Failed to create pack component",
     "translation": "Mistókst að búa til pakkaeiningu",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackProfile:b1590d210090",
     "original": "Aborted",
     "translation": "Hætt við",
-    "context": "PackProfile | [unfinished]"
+    "context": "PackProfile"
   },
   {
     "key": "PackProfile:709a23220f2c",
     "original": "Name",
     "translation": "Nafn",
-    "context": "PackProfile | [unfinished]"
+    "context": "PackProfile"
   },
   {
     "key": "PackProfile:2da600bf9404",
@@ -10287,13 +10287,13 @@
     "key": "PageDialog:c47ae15370cf",
     "original": "Help",
     "translation": "Hjálp",
-    "context": "PageDialog | [unfinished]"
+    "context": "PageDialog"
   },
   {
     "key": "PasteWizardPage:80446347ede5",
     "original": "Form",
     "translation": "Form",
-    "context": "PasteWizardPage | [unfinished]"
+    "context": "PasteWizardPage"
   },
   {
     "key": "PasteWizardPage:98f17818733b",
@@ -10797,13 +10797,13 @@
     "key": "ProfileSelectDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Hætta við",
-    "context": "ProfileSelectDialog | [unfinished]"
+    "context": "ProfileSelectDialog"
   },
   {
     "key": "ProfileSelectDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "ProfileSelectDialog | [unfinished]"
+    "context": "ProfileSelectDialog"
   },
   {
     "key": "ProfileSetupDialog:ad6e16b3c052",
@@ -10821,13 +10821,13 @@
     "key": "ProfileSetupDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Hætta við",
-    "context": "ProfileSetupDialog | [unfinished]"
+    "context": "ProfileSetupDialog"
   },
   {
     "key": "ProfileSetupDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "ProfileSetupDialog | [unfinished]"
+    "context": "ProfileSetupDialog"
   },
   {
     "key": "ProfileSetupDialog:8b0fde7324a8",
@@ -10875,7 +10875,7 @@
     "key": "ProgressDialog:89e944f8eb37",
     "original": "Please wait...",
     "translation": "Vinsamlegast bíðið...",
-    "context": "ProgressDialog | [unfinished]"
+    "context": "ProgressDialog"
   },
   {
     "key": "ProgressDialog:4e6ee2001d34",
@@ -10893,13 +10893,13 @@
     "key": "ProgressDialog:3da474537ac3",
     "original": "Skip",
     "translation": "Sleppa",
-    "context": "ProgressDialog | [unfinished]"
+    "context": "ProgressDialog"
   },
   {
     "key": "ProgressDialog:6f3abbe484ab",
     "original": "Abort",
     "translation": "Stöðva",
-    "context": "ProgressDialog | [unfinished]"
+    "context": "ProgressDialog"
   },
   {
     "key": "ProjectItemDelegate:517f9bea1d3e",
@@ -11373,7 +11373,7 @@
     "key": "QObject:db286a36a0f3",
     "original": "Java checker library could not be found. Please check your installation.",
     "translation": "Java afgreiðslusafn fannst ekki. Vinsamlegast athugaðu uppsetninguna þína.",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:44bb1beac399",
@@ -11493,7 +11493,7 @@
     "key": "QObject:754e270ce9ad",
     "original": "Sort by Featured",
     "translation": "Raða eftir áherslu",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:2ebd5dd0cbfe",
@@ -11505,7 +11505,7 @@
     "key": "QObject:3546d8e58e95",
     "original": "Sort by Last Updated",
     "translation": "Raða eftir seinast uppfært",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:5fa541307296",
@@ -11517,7 +11517,7 @@
     "key": "QObject:d1db3d422497",
     "original": "Sort by Author",
     "translation": "Raða eftir höfundi",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:c462f1bd6be2",
@@ -11583,7 +11583,7 @@
     "key": "QObject:bc7819b34ff8",
     "original": "Unknown",
     "translation": "Óþekktur",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:73b44ec0895a",
@@ -11631,49 +11631,49 @@
     "key": "QObject:1b927decdbb0",
     "original": "Unchecked",
     "translation": "Ómerkt",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:e01fa717bacc",
     "original": "Offline",
     "translation": "Ótengdur",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:20c7c5522fc2",
     "original": "Ready",
     "translation": "Tilbúið",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3b4dfc971393",
     "original": "Working",
     "translation": "Er að vinna",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:2d4784200261",
     "original": "Errored",
     "translation": "Villa kom upp",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:a689a999a5e6",
     "original": "Expired",
     "translation": "Útrunnið",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:f4f4473df8cb",
     "original": "Disabled",
     "translation": "Fötluð",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:149ecfc76f45",
     "original": "Gone",
     "translation": "Farinn",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3b81c344597f",
@@ -11775,7 +11775,7 @@
     "key": "QObject:ec9f9bff4cb7",
     "original": "Create Shortcut",
     "translation": "Búa til flýtileið",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:9790ab6f7803",
@@ -11955,7 +11955,7 @@
     "key": "QObject:a9b4889389af",
     "original": "Unrecognized",
     "translation": "Óþekkt",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:5a853d21a166",
@@ -12075,7 +12075,7 @@
     "key": "ResourceDownload::ResourceDownloadDialog:1430f976c596",
     "original": "Warnings",
     "translation": "Aðvaranir",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:5eb693bc62ce",
@@ -12201,25 +12201,25 @@
     "key": "ResourceDownload::ResourcePage:15cdc321f2aa",
     "original": "External links:",
     "translation": "Ytri hlekkir:",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:d0a1a1d37cdf",
     "original": "Issues: <a href=%1>%1</a>",
     "translation": "Vandamál: <a href=%1>%1</a>",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:95ebcf83e931",
     "original": "Wiki: <a href=%1>%1</a>",
     "translation": "Wiki: <a href=%1>%1</a>",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:0a44261695f4",
     "original": "Source code: <a href=%1>%1</a>",
     "translation": "Frumkóði: <a href=%1>%1</a>",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:92f689616937",
@@ -12297,7 +12297,7 @@
     "key": "ResourceDownload::ResourcePage:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Hætta við",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:39d43199988a",
@@ -12339,19 +12339,19 @@
     "key": "ResourceFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Nafn",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:4c24525b0aa0",
     "original": "Last Modified",
     "translation": "Seinast breytt",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Útgáfa",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:b7152342a267",
@@ -12375,7 +12375,7 @@
     "key": "ResourceFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Uppfæra",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:bfd722aee774",
@@ -12453,19 +12453,19 @@
     "key": "ResourceFolderModel:50e19fda0d5b",
     "original": "Image",
     "translation": "Mynd",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:4c24525b0aa0",
     "original": "Last Modified",
     "translation": "Seinast breytt",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Útgáfa",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:b7152342a267",
@@ -12489,7 +12489,7 @@
     "key": "ResourcePackFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Uppfæra",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:35a599c5f88a",
@@ -12537,13 +12537,13 @@
     "key": "ResourcePackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Nafn",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:0092be542f99",
     "original": "Pack Format",
     "translation": "Pakkasnið",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:919afcd54661",
@@ -12561,7 +12561,7 @@
     "key": "ResourcePackPage:488738cde719",
     "original": "Download Packs",
     "translation": "Hala niður pökkum",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:e0426347f584",
@@ -12591,7 +12591,7 @@
     "key": "ResourcePackPage:1430f976c596",
     "original": "Warnings",
     "translation": "Aðvaranir",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:e2cabd9e9dcc",
@@ -12603,7 +12603,7 @@
     "key": "ResourcePackPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "Staðfesta uppfærslu",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:bfd070362a72",
@@ -12615,7 +12615,7 @@
     "key": "ResourcePackPage:76e93d20a40b",
     "original": "'%1' is up-to-date! :)",
     "translation": "'&1' er uppfært! :)",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:5b87c4c86fc9",
@@ -12633,13 +12633,13 @@
     "key": "ResourcePackPage:2080f0fbd2f0",
     "original": "Update checker",
     "translation": "Uppfærsluleit",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Staðfesta fjarlægingu",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:068704d93c40",
@@ -12663,7 +12663,7 @@
     "key": "ResourcePage:c3c949f932a9",
     "original": "Filter options",
     "translation": "Síunarvalkostir",
-    "context": "ResourcePage | [unfinished]"
+    "context": "ResourcePage"
   },
   {
     "key": "ResourceUpdateDialog:f91b434cbfb3",
@@ -12711,13 +12711,13 @@
     "key": "ResourceUpdateDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Villa",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:1430f976c596",
     "original": "Warnings",
     "translation": "Aðvaranir",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:549981f05abc",
@@ -12771,7 +12771,7 @@
     "key": "ResourceUpdateDialog:1aab9f182430",
     "original": "Not installed",
     "translation": "Ekki sett upp",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:70d5f8453b33",
@@ -12855,13 +12855,13 @@
     "key": "ReviewMessageBox:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Hætta við",
-    "context": "ReviewMessageBox | [unfinished]"
+    "context": "ReviewMessageBox"
   },
   {
     "key": "ReviewMessageBox:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "ReviewMessageBox | [unfinished]"
+    "context": "ReviewMessageBox"
   },
   {
     "key": "ReviewMessageBox:e618688160db",
@@ -12933,7 +12933,7 @@
     "key": "ScreenshotsPage:c3cd636a585b",
     "original": "Actions",
     "translation": "Aðgerðir",
-    "context": "ScreenshotsPage | [unfinished]"
+    "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:8bdf057f91e7",
@@ -12963,7 +12963,7 @@
     "key": "ScreenshotsPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Samhengisvalmynd",
-    "context": "ScreenshotsPage | [unfinished]"
+    "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:69f424ee3a3e",
@@ -13047,13 +13047,13 @@
     "key": "ScrollMessageBox:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Hætta við",
-    "context": "ScrollMessageBox | [unfinished]"
+    "context": "ScrollMessageBox"
   },
   {
     "key": "ScrollMessageBox:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "ScrollMessageBox | [unfinished]"
+    "context": "ScrollMessageBox"
   },
   {
     "key": "SelectReleaseAssetDialog:2da600bf9404",
@@ -13107,13 +13107,13 @@
     "key": "SelectReleaseDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Hætta við",
-    "context": "SelectReleaseDialog | [unfinished]"
+    "context": "SelectReleaseDialog"
   },
   {
     "key": "SelectReleaseDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "SelectReleaseDialog | [unfinished]"
+    "context": "SelectReleaseDialog"
   },
   {
     "key": "SequentialTask:829c6e1cd1e8",
@@ -13131,7 +13131,7 @@
     "key": "ServersModel:709a23220f2c",
     "original": "Name",
     "translation": "Nafn",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersModel:d70f93df5e8f",
@@ -13149,7 +13149,7 @@
     "key": "ServersModel:2da600bf9404",
     "original": "Version",
     "translation": "Útgáfa",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersModel:6b68e9797399",
@@ -13161,13 +13161,13 @@
     "key": "ServersModel:e01fa717bacc",
     "original": "Offline",
     "translation": "Ótengdur",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersPage:49b93f720a4a",
     "original": "&Name",
     "translation": "&Nafn",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:d70f93df5e8f",
@@ -13203,7 +13203,7 @@
     "key": "ServersPage:c3cd636a585b",
     "original": "Actions",
     "translation": "Aðgerðir",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:61cc55aa0453",
@@ -13239,7 +13239,7 @@
     "key": "ServersPage:56e3badc4e6c",
     "original": "Refresh",
     "translation": "Endurnýja",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:acca64b83535",
@@ -13251,7 +13251,7 @@
     "key": "ServersPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Samhengisvalmynd",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:b056ceb4156f",
@@ -13263,7 +13263,7 @@
     "key": "ServersPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Staðfesta fjarlægingu",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:d11c34744d16",
@@ -13293,7 +13293,7 @@
     "key": "SetupWizard:e38044ca5f26",
     "original": "&Refresh",
     "translation": "&Endurnýja",
-    "context": "SetupWizard | [unfinished]"
+    "context": "SetupWizard"
   },
   {
     "key": "SetupWizard:89e35727270b",
@@ -13317,7 +13317,7 @@
     "key": "ShaderPackPage:488738cde719",
     "original": "Download Packs",
     "translation": "Hala niður pökkum",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:18d2a5b13b98",
@@ -13347,7 +13347,7 @@
     "key": "ShaderPackPage:1430f976c596",
     "original": "Warnings",
     "translation": "Aðvaranir",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:292f21077ddf",
@@ -13359,7 +13359,7 @@
     "key": "ShaderPackPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "Staðfesta uppfærslu",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:50c4638a5951",
@@ -13371,7 +13371,7 @@
     "key": "ShaderPackPage:76e93d20a40b",
     "original": "'%1' is up-to-date! :)",
     "translation": "'&1' er uppfært! :)",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:4e2cec7a1363",
@@ -13389,13 +13389,13 @@
     "key": "ShaderPackPage:2080f0fbd2f0",
     "original": "Update checker",
     "translation": "Uppfærsluleit",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Staðfesta fjarlægingu",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:c3ba31d003fe",
@@ -13473,7 +13473,7 @@
     "key": "SkinManageDialog:d5ffb218bcae",
     "original": "Cape",
     "translation": "Kápa",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:f3410407219b",
@@ -13485,7 +13485,7 @@
     "key": "SkinManageDialog:027760ffe7da",
     "original": "Open Folder",
     "translation": "Opna möppu",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:cf4da3174d7d",
@@ -13515,7 +13515,7 @@
     "key": "SkinManageDialog:a4540c6e2afe",
     "original": "&Delete Skin",
     "translation": "&Eyða Skinn",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:a56fb8960c8b",
@@ -13551,13 +13551,13 @@
     "key": "SkinManageDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Hætta við",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:126f0e0caf65",
@@ -13575,7 +13575,7 @@
     "key": "SkinManageDialog:4f56a87f3cb9",
     "original": "No Cape",
     "translation": "Engin kápa",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:6fc8da40173d",
@@ -13611,19 +13611,19 @@
     "key": "SkinManageDialog:67625d998cfa",
     "original": "Skin Delete",
     "translation": "Húðeyðing",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:e002853d1d71",
     "original": "Failed to delete current skin!",
     "translation": "Mistókst að eyða núverandi skinni!",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Samhengisvalmynd",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:abc73e2588f3",
@@ -13731,7 +13731,7 @@
     "key": "SubTaskProgressBar:80446347ede5",
     "original": "Form",
     "translation": "Form",
-    "context": "SubTaskProgressBar | [unfinished]"
+    "context": "SubTaskProgressBar"
   },
   {
     "key": "SubTaskProgressBar:9f478681f2e2",
@@ -13749,7 +13749,7 @@
     "key": "Task:b1590d210090",
     "original": "Aborted",
     "translation": "Hætt við",
-    "context": "Task | [unfinished]"
+    "context": "Task"
   },
   {
     "key": "TaskStepWrapper:7385614b3500",
@@ -13767,19 +13767,19 @@
     "key": "Technic::SingleZipPackInstallTask:d90009c115ee",
     "original": "Downloading modpack:\n%1",
     "translation": "Sæki viðbótarpakka:\n%1",
-    "context": "Technic::SingleZipPackInstallTask | [unfinished]"
+    "context": "Technic::SingleZipPackInstallTask"
   },
   {
     "key": "Technic::SingleZipPackInstallTask:58340cf23de3",
     "original": "Modpack download",
     "translation": "Niðurhal viðbótarpakka",
-    "context": "Technic::SingleZipPackInstallTask | [unfinished]"
+    "context": "Technic::SingleZipPackInstallTask"
   },
   {
     "key": "Technic::SingleZipPackInstallTask:947d98cb6a3e",
     "original": "Extracting modpack",
     "translation": "Afþjappa viðbótarpakka",
-    "context": "Technic::SingleZipPackInstallTask | [unfinished]"
+    "context": "Technic::SingleZipPackInstallTask"
   },
   {
     "key": "Technic::SingleZipPackInstallTask:8677f022f1b1",
@@ -13815,13 +13815,13 @@
     "key": "Technic::SolderPackInstallTask:93fc42ea75d6",
     "original": "Could not understand pack manifest:\n",
     "translation": "Gat ekki skilið pakkann manifest",
-    "context": "Technic::SolderPackInstallTask | [unfinished]"
+    "context": "Technic::SolderPackInstallTask"
   },
   {
     "key": "Technic::SolderPackInstallTask:947d98cb6a3e",
     "original": "Extracting modpack",
     "translation": "Afþjappa viðbótarpakka",
-    "context": "Technic::SolderPackInstallTask | [unfinished]"
+    "context": "Technic::SolderPackInstallTask"
   },
   {
     "key": "Technic::SolderPackInstallTask:8677f022f1b1",
@@ -13917,13 +13917,13 @@
     "key": "TexturePackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Nafn",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:4c24525b0aa0",
     "original": "Last Modified",
     "translation": "Seinast breytt",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:b7152342a267",
@@ -13947,7 +13947,7 @@
     "key": "TexturePackFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Uppfæra",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:b922df5f2870",
@@ -14001,7 +14001,7 @@
     "key": "TexturePackPage:488738cde719",
     "original": "Download Packs",
     "translation": "Hala niður pökkum",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:85fa4bf8bc83",
@@ -14037,7 +14037,7 @@
     "key": "TexturePackPage:1430f976c596",
     "original": "Warnings",
     "translation": "Aðvaranir",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:936125976ee4",
@@ -14049,7 +14049,7 @@
     "key": "TexturePackPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "Staðfesta uppfærslu",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:dd36a08926c7",
@@ -14061,7 +14061,7 @@
     "key": "TexturePackPage:76e93d20a40b",
     "original": "'%1' is up-to-date! :)",
     "translation": "'&1' er uppfært! :)",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:a39d7646de30",
@@ -14079,13 +14079,13 @@
     "key": "TexturePackPage:2080f0fbd2f0",
     "original": "Update checker",
     "translation": "Uppfærsluleit",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Staðfesta fjarlægingu",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:b7fbe79a518f",
@@ -14097,7 +14097,7 @@
     "key": "ThemeWizardPage:41def7a0febe",
     "original": "Appearance",
     "translation": "Útlit",
-    "context": "ThemeWizardPage | [unfinished]"
+    "context": "ThemeWizardPage"
   },
   {
     "key": "ThemeWizardPage:8ba2ac6395c2",
@@ -14247,7 +14247,7 @@
     "key": "VersionPage:c3cd636a585b",
     "original": "Actions",
     "translation": "Aðgerðir",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:e963907dac5c",
@@ -14319,13 +14319,13 @@
     "key": "VersionPage:f26357178177",
     "original": "Change Version",
     "translation": "Breyta útgáfu",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:bce06414177f",
     "original": "Search",
     "translation": "Leita",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:fdffaea4e563",
@@ -14385,7 +14385,7 @@
     "key": "VersionPage:af98ab0d8ec5",
     "original": "Install Loader",
     "translation": "Setja upp hleðara",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:30de6d79b8eb",
@@ -14481,7 +14481,7 @@
     "key": "VersionPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Samhengisvalmynd",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:e9571bf1f2e1",
@@ -14517,7 +14517,7 @@
     "key": "VersionPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Staðfesta fjarlægingu",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:c8f5d5fa0f19",
@@ -14625,7 +14625,7 @@
     "key": "VersionPage:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Setja upp",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:cae9674c84d8",
@@ -14787,7 +14787,7 @@
     "key": "VersionSelectDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Hætta við",
-    "context": "VersionSelectDialog | [unfinished]"
+    "context": "VersionSelectDialog"
   },
   {
     "key": "VersionSelectDialog:83b94bf4f93a",
@@ -14805,7 +14805,7 @@
     "key": "VersionSelectDialog:e38044ca5f26",
     "original": "&Refresh",
     "translation": "&Endurnýja",
-    "context": "VersionSelectDialog | [unfinished]"
+    "context": "VersionSelectDialog"
   },
   {
     "key": "VersionSelectWidget:bce06414177f",
@@ -14865,7 +14865,7 @@
     "key": "WorldList:709a23220f2c",
     "original": "Name",
     "translation": "Nafn",
-    "context": "WorldList | [unfinished]"
+    "context": "WorldList"
   },
   {
     "key": "WorldList:9424db05db84",
@@ -14925,7 +14925,7 @@
     "key": "WorldListPage:c3cd636a585b",
     "original": "Actions",
     "translation": "Aðgerðir",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:61cc55aa0453",
@@ -14967,7 +14967,7 @@
     "key": "WorldListPage:56e3badc4e6c",
     "original": "Refresh",
     "translation": "Endurnýja",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:b2253ecc0070",
@@ -15021,7 +15021,7 @@
     "key": "WorldListPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Samhengisvalmynd",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:828d183e802e",
@@ -15291,13 +15291,13 @@
     "key": "YggdrasilLoginDialog:84c29015de33",
     "original": "Username",
     "translation": "Notendanafn",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:8be3c943b160",
     "original": "Password",
     "translation": "Lykilorð",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:ada2e9e96fa9",
@@ -15309,7 +15309,7 @@
     "key": "YggdrasilLoginDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Hætta við",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:ca359109578d",

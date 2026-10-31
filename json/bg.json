@@ -1089,13 +1089,13 @@
     "key": "AuthlibInjectorDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Инсталирай",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AuthlibInjectorDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Отказ",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AutoInstallJava:d3ace495a5a2",
@@ -2295,13 +2295,13 @@
     "key": "DataPackFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Версия",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Актуализирай",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:b80566e89550",
@@ -2985,13 +2985,13 @@
     "key": "ExternalResourcesPage:81705cf0126c",
     "original": "Reset Update Metadata",
     "translation": "Нулиране на метаданните за актуализация",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:a8c960e1966b",
     "original": "Verify Dependencies",
     "translation": "Проверете зависимостите",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:f76d4d057fcc",
@@ -3123,7 +3123,7 @@
     "key": "ExternalToolsPage:3df40ae95283",
     "original": "&Editors",
     "translation": "&Редактори",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:068cf505ed95",
@@ -3159,19 +3159,19 @@
     "key": "ExternalToolsPage:d3c88b119527",
     "original": "&Add",
     "translation": "&Добави",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:763c2ebc2799",
     "original": "&Remove",
     "translation": "&Премахни",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:709a23220f2c",
     "original": "Name",
     "translation": "Име",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:8901895fb1b1",
@@ -3189,25 +3189,25 @@
     "key": "ExternalToolsPage:fa7eb50a362c",
     "original": "&Profilers",
     "translation": "&Профилатори",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:adcb2c585d66",
     "original": "Profilers are accessible through the Launch dropdown menu.",
     "translation": "Профилатори са достъпни чрез падащото меню „Стартиране“.",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:f38a02957b12",
     "original": "J&Profiler",
     "translation": "J&Профилатор",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:dbd1bd5e0ce3",
     "original": "&VisualVM",
     "translation": "&VisualVM",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:8dbcf085d23b",
@@ -3279,19 +3279,19 @@
     "key": "ExternalToolsPage:3cc5f90b8ce8",
     "original": "Error while checking VisualVM install:\n%1",
     "translation": "Грешка при проверка на инсталацията на VisualVM:\n%1",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:9236cb485b61",
     "original": "VisualVM setup seems to be OK",
     "translation": "Настройката на VisualVM изглежда е в ред.",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:35b97fcdedac",
     "original": "Text Editor",
     "translation": "Текстов редактор",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:54e07aad9d8e",
@@ -3393,7 +3393,7 @@
     "key": "FTB::PackInstallTask:07670e4b121a",
     "original": "Copying Blocked Mods (%1 out of %2 are done)",
     "translation": "Копиране на блокирани модификации...(%1 от %2 готови)",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTBImportAPP::FilterModel:5fa541307296",
@@ -3459,7 +3459,7 @@
     "key": "Flame::FileResolvingTask:ca80a34aa5d0",
     "original": "Parsing API response from CurseForge for '%1'...",
     "translation": "Анализ на API отговор от CurseForge за '%1'...",
-    "context": "Flame::FileResolvingTask | [unfinished]"
+    "context": "Flame::FileResolvingTask"
   },
   {
     "key": "FlameCheckUpdate:b2a3efe94b2f",
@@ -3657,13 +3657,13 @@
     "key": "FlameCreationTask:ec8e76990081",
     "original": "Removing old conflicting files...",
     "translation": "Премахване на стари конфликтни файлове...",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:95678dd3a029",
     "original": "Failed to remove old conflicting files.",
     "translation": "Неуспешно премахване на стари конфликтни файлове.",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:df237503973c",
@@ -3849,13 +3849,13 @@
     "key": "Ftb::FilterModel:7950a17196df",
     "original": "Sort by Plays",
     "translation": "Сортирай по изигравания",
-    "context": "Ftb::FilterModel | [unfinished]"
+    "context": "Ftb::FilterModel"
   },
   {
     "key": "Ftb::FilterModel:3d20233879cb",
     "original": "Sort by Installs",
     "translation": "Сортирай по инсталации",
-    "context": "Ftb::FilterModel | [unfinished]"
+    "context": "Ftb::FilterModel"
   },
   {
     "key": "Ftb::FilterModel:5fa541307296",
@@ -3873,7 +3873,7 @@
     "key": "FtbPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Търси и филтрирай...",
-    "context": "FtbPage | [unfinished]"
+    "context": "FtbPage"
   },
   {
     "key": "FtbPage:8bb246929d5d",
@@ -3933,7 +3933,7 @@
     "key": "GetModDependenciesTask:280102717c4c",
     "original": "Get dependencies",
     "translation": "Вземи зависимости",
-    "context": "GetModDependenciesTask | [unfinished]"
+    "context": "GetModDependenciesTask"
   },
   {
     "key": "GetModDependenciesTask:125d21f7d445",
@@ -3987,7 +3987,7 @@
     "key": "IconPickerDialog:fb74bcaf7699",
     "original": "Legacy",
     "translation": "Стари",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:2a652ab1d9fa",
@@ -3999,7 +3999,7 @@
     "key": "IconPickerDialog:081ae3fdc403",
     "original": "Custom",
     "translation": "Собствен",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:a825bf9821f9",
@@ -4017,13 +4017,13 @@
     "key": "IconPickerDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Отказ",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Добре",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:027760ffe7da",
@@ -4155,7 +4155,7 @@
     "key": "ImportResourceDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Отказ",
-    "context": "ImportResourceDialog | [unfinished]"
+    "context": "ImportResourceDialog"
   },
   {
     "key": "ImportResourceDialog:9ce3bd4224c8",
@@ -4203,13 +4203,13 @@
     "key": "InstallLoaderDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Добре",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Отказ",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:b5165545b367",
@@ -4329,7 +4329,7 @@
     "key": "InstanceImportTask:08e30e5cb21a",
     "original": "Attempting to determine instance type",
     "translation": "Опит на идентифициране на типа на инстанцията",
-    "context": "InstanceImportTask | [unfinished]"
+    "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:947d98cb6a3e",
@@ -4347,7 +4347,7 @@
     "key": "InstanceImportTask:6f4a462f44e7",
     "original": "Archive does not contain a recognized modpack type.",
     "translation": "Архивър не съдържа разпознат тип модпак.",
-    "context": "InstanceImportTask | [unfinished]"
+    "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:5bb4f8a4650e",
@@ -4365,7 +4365,7 @@
     "key": "InstancePageProvider:2025e506c1db",
     "original": "Other Logs",
     "translation": "Други дневници",
-    "context": "InstancePageProvider | [unfinished]"
+    "context": "InstancePageProvider"
   },
   {
     "key": "InstancePageProvider:5d7bded4cc13",
@@ -4395,25 +4395,25 @@
     "key": "InstanceTask:3da474537ac3",
     "original": "Skip",
     "translation": "Пропусни",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Грешка",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:dd17662eb1c4",
     "original": "Could not download game files: %1",
     "translation": "Неуспешно изтегляне на файловете на играта: %1",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:8d4223d64584",
     "original": "Downloading game files",
     "translation": "Изтегляне на файловете на играта",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceView:e52e5e6cd50e",
@@ -4515,7 +4515,7 @@
     "key": "Java::ArchiveDownloadTask:032eefb2c549",
     "original": "Downloading Java",
     "translation": "Java се изтегля",
-    "context": "Java::ArchiveDownloadTask | [unfinished]"
+    "context": "Java::ArchiveDownloadTask"
   },
   {
     "key": "Java::ArchiveDownloadTask:47363ca6c274",
@@ -4551,13 +4551,13 @@
     "key": "Java::InstallDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Отказ",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:723ba985328e",
     "original": "Mojang",
     "translation": "Mojang",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:360564b906a1",
@@ -4581,7 +4581,7 @@
     "key": "Java::InstallDialog:7086081c2d30",
     "original": "Install Java",
     "translation": "Инсталиране на Java",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:27edb4c40008",
@@ -4593,7 +4593,7 @@
     "key": "Java::InstallDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Грешка",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::LocalJavaScanTask:52cef86f41c6",
@@ -4671,13 +4671,13 @@
     "key": "JavaPage:e963907dac5c",
     "original": "Remove",
     "translation": "Премахни",
-    "context": "JavaPage | [unfinished]"
+    "context": "JavaPage"
   },
   {
     "key": "JavaPage:56e3badc4e6c",
     "original": "Refresh",
     "translation": "Обновяване",
-    "context": "JavaPage | [unfinished]"
+    "context": "JavaPage"
   },
   {
     "key": "JavaPage:b4dae444a41b",
@@ -4713,7 +4713,7 @@
     "key": "JavaSettingsWidget:720891fd2e15",
     "original": "Find Java executable",
     "translation": "Намери изпълнимият файл на Java",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:a948355e4e3c",
@@ -4725,7 +4725,7 @@
     "key": "JavaSettingsWidget:80446347ede5",
     "original": "Form",
     "translation": "Форма",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:179f88d38199",
@@ -4839,7 +4839,7 @@
     "key": "JavaSettingsWidget:7069c551dad0",
     "original": "Memor&y",
     "translation": "Па&мет",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:7122bd25df03",
@@ -4887,7 +4887,7 @@
     "key": "JavaSettingsWidget:dd79f7640608",
     "original": "The amount of memory Minecraft is started with.",
     "translation": "Количеството памет, с което Minecraft се стартира.",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:3ee245a820f8",
@@ -4929,13 +4929,13 @@
     "key": "JavaSettingsWidget:44a58b758316",
     "original": "The amount of memory available to store loaded Java classes.",
     "translation": "Количеството памет, което може да се използва за съхранение на заредени Java класове.",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:e088eab74d48",
     "original": "Select a Java version",
     "translation": "Избери версия на Java",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:2ded65911985",
@@ -4947,7 +4947,7 @@
     "key": "JavaSettingsWidget:0322bf18790c",
     "original": "You selected a 32-bit version of Java.\nThis installation does not support more than 2048MiB of RAM.\nPlease make sure that the maximum memory value is lower.",
     "translation": "Вие избрахте 32-битова версия на Java.\nТази инсталация не поддържа повече от 2048MiB RAM памет.\nМоля, уверете се че стойността за максимална памет е по-малка.",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:13d7b44bb06c",
@@ -4983,7 +4983,7 @@
     "key": "JavaSettingsWidget:1cd3b29484dc",
     "original": "Your maximum memory allocation exceeds your system memory capacity.",
     "translation": "Вашето максимално разпределение на паметта надвишава капацитета за памет на вашата система.",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:16095ced296c",
@@ -5019,7 +5019,7 @@
     "key": "JavaWizardWidget:77a9e8a347d8",
     "original": "Download Java",
     "translation": "Изтегли Java",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:77607407e10c",
@@ -5049,19 +5049,19 @@
     "key": "JavaWizardWidget:720891fd2e15",
     "original": "Find Java executable",
     "translation": "Намери изпълнимият файл на Java",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:89c8a2851d17",
     "original": "Memory",
     "translation": "Памет",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:a948355e4e3c",
     "original": "The maximum amount of memory Minecraft is allowed to use.",
     "translation": "Максималното количество памет, което Minecraft може да ползва.",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:8538a075e966",
@@ -5073,25 +5073,25 @@
     "key": "JavaWizardWidget:a4aec57dd6f3",
     "original": "Maximum memory allocation:",
     "translation": "Максимално разпределение на паметта:",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:dd79f7640608",
     "original": "The amount of memory Minecraft is started with.",
     "translation": "Количеството памет, с което Minecraft се стартира.",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:44a58b758316",
     "original": "The amount of memory available to store loaded Java classes.",
     "translation": "Количеството памет, което може да се използва за съхранение на заредени Java класове.",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:2f3b5c55bc27",
     "original": "Browse",
     "translation": "Разгледай",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:93afc3efadc5",
@@ -5115,7 +5115,7 @@
     "key": "JavaWizardWidget:1cd3b29484dc",
     "original": "Your maximum memory allocation exceeds your system memory capacity.",
     "translation": "Вашето максимално разпределение на паметта надвишава капацитета за памет на вашата система.",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:6b090ee94fac",
@@ -5151,7 +5151,7 @@
     "key": "LanguageSelectionWidget:57c01fd5e832",
     "original": "Use system regional standards",
     "translation": "Използвай системни настройки за регионални стандарти",
-    "context": "LanguageSelectionWidget | [unfinished]"
+    "context": "LanguageSelectionWidget"
   },
   {
     "key": "LanguageWizardPage:89b86ab0e66f",
@@ -5241,7 +5241,7 @@
     "key": "LaunchController:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Отказ",
-    "context": "LaunchController | [unfinished]"
+    "context": "LaunchController"
   },
   {
     "key": "LaunchController:d873f6d526a3",
@@ -5331,13 +5331,13 @@
     "key": "LaunchController:5fd059949516",
     "original": "&Launch",
     "translation": "&Стартирай",
-    "context": "LaunchController | [unfinished]"
+    "context": "LaunchController"
   },
   {
     "key": "LaunchController:1f0904256633",
     "original": "The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.\n\n%1",
     "translation": "Пускането на играта е спряно докато не натиснете бутона. Това е правилното време да настроите профaйлър, тъй като диагностичният съръвр върви.\n\n%1",
-    "context": "LaunchController | [unfinished]"
+    "context": "LaunchController"
   },
   {
     "key": "LaunchController:eddd04ce0deb",
@@ -5349,7 +5349,7 @@
     "key": "LaunchController:bd9347eb7be4",
     "original": "Couldn't start the profiler: %1",
     "translation": "Не може да се стартира диагностика: %1",
-    "context": "LaunchController | [unfinished]"
+    "context": "LaunchController"
   },
   {
     "key": "LaunchController:7f2f6a15cf8d",
@@ -5385,13 +5385,13 @@
     "key": "LaunchController:bc9f78fd1101",
     "original": "This account does not own Minecraft.\nYou need to purchase the game first to play the full version.",
     "translation": "Този акаунт не притежава Minecraft.\nТрябва да купите играта да играете пулната версия.",
-    "context": "LaunchController | [unfinished]"
+    "context": "LaunchController"
   },
   {
     "key": "LaunchController:032ef893a61b",
     "original": "No account was selected for launch.",
     "translation": "Няма избран акаунт за старт.",
-    "context": "LaunchController | [unfinished]"
+    "context": "LaunchController"
   },
   {
     "key": "LaunchController:379450e6f0c2",
@@ -5403,13 +5403,13 @@
     "key": "LaunchController:f4f2c2654769",
     "original": "Choose your demo mode player name",
     "translation": "Изберете името за демо режим играч",
-    "context": "LaunchController | [unfinished]"
+    "context": "LaunchController"
   },
   {
     "key": "LaunchController:99fc23fea599",
     "original": "Choose your offline mode player name",
     "translation": "Изберете името за офлайн играч",
-    "context": "LaunchController | [unfinished]"
+    "context": "LaunchController"
   },
   {
     "key": "LaunchController:9ec0cf798024",
@@ -5421,7 +5421,7 @@
     "key": "LaunchController:c587a2862995",
     "original": "%1. Do you want to reauthenticate this account?",
     "translation": "%1. Искате ли да удостоверите повторно този акаунт?",
-    "context": "LaunchController | [unfinished]"
+    "context": "LaunchController"
   },
   {
     "key": "LaunchController:3854d26e9ebc",
@@ -5469,7 +5469,7 @@
     "key": "LauncherLoginStep:067f11643966",
     "original": "Fetching Minecraft access token",
     "translation": "Извличане жетон за достъп на Minecraft",
-    "context": "LauncherLoginStep | [unfinished]"
+    "context": "LauncherLoginStep"
   },
   {
     "key": "LauncherLoginStep:d18156d469d4",
@@ -5481,7 +5481,7 @@
     "key": "LauncherLoginStep:64e21b2b62f2",
     "original": "Failed to get Minecraft access token: %1",
     "translation": "Неупсешно извличане на жетон за достъп за Minecraft: %1",
-    "context": "LauncherLoginStep | [unfinished]"
+    "context": "LauncherLoginStep"
   },
   {
     "key": "LauncherLoginStep:aa93929a1578",
@@ -5493,7 +5493,7 @@
     "key": "LauncherLoginStep:b8469cb66af6",
     "original": "Got Minecraft access token",
     "translation": "Придобит жетон за достъп на Minecraft",
-    "context": "LauncherLoginStep | [unfinished]"
+    "context": "LauncherLoginStep"
   },
   {
     "key": "LauncherPage:69de3ccf58d0",
@@ -5505,7 +5505,7 @@
     "key": "LauncherPage:19adc47be34b",
     "original": "Folders",
     "translation": "Папки",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:657406cb807e",
@@ -5517,7 +5517,7 @@
     "key": "LauncherPage:7abf5f798b52",
     "original": "Ask what to do",
     "translation": "Питай какво да правя",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:67aefcda6c2f",
@@ -5535,7 +5535,7 @@
     "key": "LauncherPage:ed5170cd339b",
     "original": "User Interface",
     "translation": "Потребителски интерфейс",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:007e80f1953c",
@@ -5559,7 +5559,7 @@
     "key": "LauncherPage:2f3b5c55bc27",
     "original": "Browse",
     "translation": "Разгледай",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:19347a71a725",
@@ -5655,7 +5655,7 @@
     "key": "LauncherPage:e963907dac5c",
     "original": "Remove",
     "translation": "Премахни",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:9b824218dd00",
@@ -5889,7 +5889,7 @@
     "key": "LauncherPage:e5e64f3889b5",
     "original": "Instance Folder",
     "translation": "Папка с инстанциите",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:4bb8bf4adfb4",
@@ -6009,49 +6009,49 @@
     "key": "LegacyFMLLibrariesTask:914b462ecb84",
     "original": "Checking for FML libraries...",
     "translation": "Проверяване на FML библиотеки...",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:1906289a3356",
     "original": "Downloading FML libraries...",
     "translation": "Изтегляне на FML библиотеки...",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:4a36e8560168",
     "original": "Copying FML libraries into the instance...",
     "translation": "Копиране на FML библиотеки в инстанцията...",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:cd9d55688469",
     "original": "Failed creating FML library folder inside the instance.",
     "translation": "Неуспешно създаване на папка с FML библиотека в екземпляра.",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:12c0e533752f",
     "original": "Failed copying Forge/FML library: %1.",
     "translation": "Провалено копиране на Forge/FML библиотека: %1.",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:aa54605f20ac",
     "original": "Failed to download the following files:\n%1\n\nReason:%2\nPlease try again.",
     "translation": "Провалено изтегляне на следните файлове:\n%1\n\nПричина: %2\nМоля опитайте отново.",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFTB::FilterModel:5fa541307296",
     "original": "Sort by Name",
     "translation": "Подреждане по име",
-    "context": "LegacyFTB::FilterModel | [unfinished]"
+    "context": "LegacyFTB::FilterModel"
   },
   {
     "key": "LegacyFTB::FilterModel:21eea1c9bdf3",
     "original": "Sort by Game Version",
     "translation": "Подреждане по версия на играта",
-    "context": "LegacyFTB::FilterModel | [unfinished]"
+    "context": "LegacyFTB::FilterModel"
   },
   {
     "key": "LegacyFTB::ListModel:d3b215ad8872",
@@ -6111,7 +6111,7 @@
     "key": "LegacyFTB::PackInstallTask:44d2b46ad2a3",
     "original": "Failed to move unpacked Minecraft!",
     "translation": "Неуспешно преместване на разархивирания minecraft!",
-    "context": "LegacyFTB::PackInstallTask | [unfinished]"
+    "context": "LegacyFTB::PackInstallTask"
   },
   {
     "key": "LegacyFTB::PackInstallTask:8fbd03d30f77",
@@ -6123,7 +6123,7 @@
     "key": "LegacyFTB::Page:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Търси и филтрирай...",
-    "context": "LegacyFTB::Page | [unfinished]"
+    "context": "LegacyFTB::Page"
   },
   {
     "key": "LegacyFTB::Page:dc5eb704bbca",
@@ -6165,7 +6165,7 @@
     "key": "LegacyFTB::Page:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Грешка",
-    "context": "LegacyFTB::Page | [unfinished]"
+    "context": "LegacyFTB::Page"
   },
   {
     "key": "LegacyFTB::Page:e8ea0b767876",
@@ -6207,7 +6207,7 @@
     "key": "LibrariesTask:657c0a335b23",
     "original": "Downloading required library files...",
     "translation": "Взимане библиотечните файлове от Mojang...",
-    "context": "LibrariesTask | [unfinished]"
+    "context": "LibrariesTask"
   },
   {
     "key": "LibrariesTask:ab1441aae808",
@@ -6237,7 +6237,7 @@
     "key": "ListModel:c4a7e601008a",
     "original": "Minecraft %1",
     "translation": "Minecraft %1",
-    "context": "ListModel | [unfinished]"
+    "context": "ListModel"
   },
   {
     "key": "LocalResourceUpdateTask:2245cdef5363",
@@ -6309,7 +6309,7 @@
     "key": "LogPage:bce06414177f",
     "original": "Search",
     "translation": "Търси",
-    "context": "LogPage | [unfinished]"
+    "context": "LogPage"
   },
   {
     "key": "LogPage:df251b06eefd",
@@ -6369,7 +6369,7 @@
     "key": "LoginWizardPage:80446347ede5",
     "original": "Form",
     "translation": "Форма",
-    "context": "LoginWizardPage | [unfinished]"
+    "context": "LoginWizardPage"
   },
   {
     "key": "LoginWizardPage:2f589123ceb2",
@@ -6483,13 +6483,13 @@
     "key": "MSALoginDialog:89e944f8eb37",
     "original": "Please wait...",
     "translation": "Моля, изчакайте...",
-    "context": "MSALoginDialog | [unfinished]"
+    "context": "MSALoginDialog"
   },
   {
     "key": "MSALoginDialog:bae7d5be7082",
     "original": "Status",
     "translation": "Статус",
-    "context": "MSALoginDialog | [unfinished]"
+    "context": "MSALoginDialog"
   },
   {
     "key": "MSALoginDialog:fd62c61f849b",
@@ -6531,7 +6531,7 @@
     "key": "MSALoginDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Отказ",
-    "context": "MSALoginDialog | [unfinished]"
+    "context": "MSALoginDialog"
   },
   {
     "key": "MSALoginDialog:95234f4e13e8",
@@ -6717,13 +6717,13 @@
     "key": "MainWindow:226c31898705",
     "original": "&Kill",
     "translation": "&Прекрати",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:5fd059949516",
     "original": "&Launch",
     "translation": "&Стартирай",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:fbeabe834d23",
@@ -7065,7 +7065,7 @@
     "key": "MainWindow:769b0d960405",
     "original": "Ctrl+K",
     "translation": "Ctrl+K",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:e36004564f5b",
@@ -7101,7 +7101,7 @@
     "key": "MainWindow:36bae31694f8",
     "original": "Accounts",
     "translation": "Профили",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:416c5c33e6d2",
@@ -7125,7 +7125,7 @@
     "key": "MainWindow:07f5d9e348c4",
     "original": "Delete the selected instance.",
     "translation": "Изтрий избраната инстанция.",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:d1854817a293",
@@ -7191,13 +7191,13 @@
     "key": "MainWindow:0b71510c3cd6",
     "original": "&Create instance",
     "translation": "Създай инстанция",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:8cf964d759e7",
     "original": "&Delete group",
     "translation": "Изтрий група '%1'",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:638fbc0d2c2f",
@@ -7233,7 +7233,7 @@
     "key": "MainWindow:1430f976c596",
     "original": "Warnings",
     "translation": "Предупреждения",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:28c54654fe51",
@@ -7275,7 +7275,7 @@
     "key": "MainWindow:58340cf23de3",
     "original": "Modpack download",
     "translation": "Изтегляне на пакет с модификации",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:5b0c2aa91847",
@@ -7383,7 +7383,7 @@
     "key": "MainWindow:8953e5799431",
     "original": "Confirm Deletion",
     "translation": "Потвърди Изтриване",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:6feaa281a00c",
@@ -7569,13 +7569,13 @@
     "key": "ManagedPackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Грешка",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:1430f976c596",
     "original": "Warnings",
     "translation": "Предупреждения",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:d7a9ac115449",
@@ -7629,7 +7629,7 @@
     "key": "ManagedPackPage:9d4741838842",
     "original": "Update Failed",
     "translation": "Актуализацията се провали",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:cd2dbd6fb8fc",
@@ -7647,7 +7647,7 @@
     "key": "ManagedPackPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "Потвърди актуализацията",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:f701d3d7d9eb",
@@ -7665,7 +7665,7 @@
     "key": "Meta::Index:709a23220f2c",
     "original": "Name",
     "translation": "Име",
-    "context": "Meta::Index | [unfinished]"
+    "context": "Meta::Index"
   },
   {
     "key": "Meta::Index:04099ec66644",
@@ -7689,7 +7689,7 @@
     "key": "MinecraftInstance:5fd059949516",
     "original": "&Launch",
     "translation": "&Стартирай",
-    "context": "MinecraftInstance | [unfinished]"
+    "context": "MinecraftInstance"
   },
   {
     "key": "MinecraftInstance:8d09bd0679ff",
@@ -7761,7 +7761,7 @@
     "key": "MinecraftInstance:c4a7e601008a",
     "original": "Minecraft %1",
     "translation": "Minecraft %1",
-    "context": "MinecraftInstance | [unfinished]"
+    "context": "MinecraftInstance"
   },
   {
     "key": "MinecraftInstance:db046cdffefb",
@@ -7845,7 +7845,7 @@
     "key": "MinecraftSettingsWidget:a5f3a11b1ca0",
     "original": "The settings here are overrides for global settings.",
     "translation": "Настройките тук заместват глобалните настройки.",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:9239ee2cda84",
@@ -7869,7 +7869,7 @@
     "key": "MinecraftSettingsWidget:e8d1532c24bb",
     "original": "Start Minecraft maximized",
     "translation": "Пусни Minecraft максимизиран",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:477d0b075c21",
@@ -7911,7 +7911,7 @@
     "key": "MinecraftSettingsWidget:e027e57610f8",
     "original": "Java",
     "translation": "Java",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:eaef77aca961",
@@ -7929,13 +7929,13 @@
     "key": "MinecraftSettingsWidget:1f6cc80444ab",
     "original": "<html><head/><body><p>Emulates usages of old online services which are no longer operating.</p><p>Current fixes include: skin and online mode support.</p></body></html>",
     "translation": "<html><head/><body><p>Емулира използването на стари онлайн услуги, които вече не функционират.</p><p>Текущите поправки включват: поддръжка на скинове и онлайн режим.</p></body></html>",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:9f34f6016e25",
     "original": "Enable online fixes (experimental)",
     "translation": "Активиране на онлайн поправки (експериментално)",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:b9afca45abf9",
@@ -7947,13 +7947,13 @@
     "key": "MinecraftSettingsWidget:9b6112ea8b38",
     "original": "Use system installation of OpenAL",
     "translation": "Използвай системна инсталация на OpenAL",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:42c2dcde03db",
     "original": "Use system installation of GLFW",
     "translation": "Използвай системна инсталация на GLFW",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:a1f325f703fa",
@@ -8037,7 +8037,7 @@
     "key": "MinecraftSettingsWidget:2f3b5c55bc27",
     "original": "Browse",
     "translation": "Разгледай",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:dd2ae46a1914",
@@ -8187,7 +8187,7 @@
     "key": "MinecraftSettingsWidget:76156755cf90",
     "original": "Enable Feral GameMode",
     "translation": "Активиране на Feral GameMode",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:12cf1dbefa20",
@@ -8199,55 +8199,55 @@
     "key": "MinecraftSettingsWidget:d705cfd69aed",
     "original": "Enable MangoHud",
     "translation": "Активирай MangoHud",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:1d8ee2797ed3",
     "original": "<html><head/><body><p>Use the discrete GPU instead of the primary GPU.</p></body></html>",
     "translation": "<html><head/><body><p>Използвайте дискретния GPU вместо основния GPU.</p></body></html>",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:912fabbb6c4c",
     "original": "Use discrete GPU",
     "translation": "Използвайте дискретен графичен процесор",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:068e3cc57270",
     "original": "Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.",
     "translation": "Използвай Zink, драйвер за Mesa OpenGL, който имплементира OpenGL върху Vulkan. Производителността може да варира в зависимост от ситуацията. Забележка: Ако не бъде намерен подходящ драйвер за Vulkan, ще се използва софтуерно рендиране.",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:4a6e7953d9d9",
     "original": "Use Zink",
     "translation": "Използвай Zink",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:ac06ef9ee1f3",
     "original": "Account:",
     "translation": "Акаунт:",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:47eeadcdfb06",
     "original": "Server address:",
     "translation": "Адрес на сървър:",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:c48e024e0cec",
     "original": "Custom Commands",
     "translation": "Собствени команди",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:ec072bba7bef",
     "original": "Environment Variables",
     "translation": "Променливи на средата",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:d9770fdf0002",
@@ -8307,7 +8307,7 @@
     "key": "MirrorListEditor:e963907dac5c",
     "original": "Remove",
     "translation": "Премахни",
-    "context": "MirrorListEditor | [unfinished]"
+    "context": "MirrorListEditor"
   },
   {
     "key": "MirrorListEditor:cb0ad25e7101",
@@ -8331,7 +8331,7 @@
     "key": "ModFilterWidget:80446347ede5",
     "original": "Form",
     "translation": "Форма",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:6ccb60071be8",
@@ -8349,25 +8349,25 @@
     "key": "ModFilterWidget:b5165545b367",
     "original": "NeoForge",
     "translation": "NeoForge (НеоФордж)",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:3ab11b75ca36",
     "original": "Forge",
     "translation": "Forge (Фордж)",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:a010de5c6165",
     "original": "Fabric",
     "translation": "Fabric (Фабрик)",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:01aa488891b0",
     "original": "Quilt",
     "translation": "Quilt (Куилт)",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:abeed86f05bd",
@@ -8481,7 +8481,7 @@
     "key": "ModFilterWidget:bc7819b34ff8",
     "original": "Unknown",
     "translation": "Неизвестно",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:0485bc248e29",
@@ -8583,7 +8583,7 @@
     "key": "ModFilterWidget:40ab4c0ce406",
     "original": "All Versions",
     "translation": "Всички версии",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFolderModel:2c3cafa4db3f",
@@ -8613,13 +8613,13 @@
     "key": "ModFolderModel:4c24525b0aa0",
     "original": "Last Modified",
     "translation": "Последна промяна",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:b7152342a267",
     "original": "Size",
     "translation": "Размер",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:26528381ea05",
@@ -8661,13 +8661,13 @@
     "key": "ModFolderModel:2aabcfc2668a",
     "original": "File Name",
     "translation": "Име на файла",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Актуализирай",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:9f8105907b13",
@@ -8847,7 +8847,7 @@
     "key": "ModFolderPage:59e5bdd43477",
     "original": "Confirm Delete",
     "translation": "Потвърдете изтриването",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:f176315d8c08",
@@ -8877,13 +8877,13 @@
     "key": "ModFolderPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Грешка",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:1430f976c596",
     "original": "Warnings",
     "translation": "Предупреждения",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:02f4ac38781c",
@@ -8895,7 +8895,7 @@
     "key": "ModFolderPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "Потвърди актуализацията",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:115adb5fe24e",
@@ -8913,13 +8913,13 @@
     "key": "ModFolderPage:2080f0fbd2f0",
     "original": "Update checker",
     "translation": "Проверка за актуализации",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Потвърди за премахване",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:7dc75dabfc76",
@@ -8961,7 +8961,7 @@
     "key": "ModFolderPage:76e93d20a40b",
     "original": "'%1' is up-to-date! :)",
     "translation": "'%1' е актуален! :)",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:bd70a5fe384e",
@@ -9021,7 +9021,7 @@
     "key": "Modrinth::ModpackListModel:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Грешка",
-    "context": "Modrinth::ModpackListModel | [unfinished]"
+    "context": "Modrinth::ModpackListModel"
   },
   {
     "key": "Modrinth::ModpackListModel:e7235f672e3a",
@@ -9051,25 +9051,25 @@
     "key": "ModrinthCheckUpdate:1aab9f182430",
     "original": "Not installed",
     "translation": "Не е инсталирано",
-    "context": "ModrinthCheckUpdate | [unfinished]"
+    "context": "ModrinthCheckUpdate"
   },
   {
     "key": "ModrinthCheckUpdate:bc7819b34ff8",
     "original": "Unknown",
     "translation": "Неизвестно",
-    "context": "ModrinthCheckUpdate | [unfinished]"
+    "context": "ModrinthCheckUpdate"
   },
   {
     "key": "ModrinthCheckUpdate:34affdf46b9d",
     "original": "No valid version found for this resource. It's probably unavailable for the current game version / mod loader.",
     "translation": "Не е намерена валидна версия за този ресурс. Вероятно не е наличен за текущата версия на играта / мод лоудър.",
-    "context": "ModrinthCheckUpdate | [unfinished]"
+    "context": "ModrinthCheckUpdate"
   },
   {
     "key": "ModrinthCheckUpdate:a18af352b22d",
     "original": "No valid version found for this resource. It's probably unavailable for the current game version.",
     "translation": "Не е намерена валидна версия за този ресурс. Вероятно той не е наличен за текущата версия на играта.",
-    "context": "ModrinthCheckUpdate | [unfinished]"
+    "context": "ModrinthCheckUpdate"
   },
   {
     "key": "ModrinthCheckUpdate:1716737a67d8",
@@ -9081,25 +9081,25 @@
     "key": "ModrinthCreationTask:e0976e09621d",
     "original": " (version %1)",
     "translation": ".(версия %1)",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:1012f49a6020",
     "original": "No index file.",
     "translation": "Няма индексен файл.",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:234ae1221c43",
     "original": "We couldn't find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?",
     "translation": "Не успяхме да намерим подходящ индекс файл за по-старата версия. Това може да доведе до дублиране на някои от файловете. Желаете ли да продължите?",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:e206ab9751c4",
     "original": "Could not rename the overrides folder:\n",
     "translation": "Папката за заместване, не можа да бъде преименувана:",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:8e684cf213b5",
@@ -9129,13 +9129,13 @@
     "key": "ModrinthCreationTask:f9bc7a615403",
     "original": "%1 out of %2 complete",
     "translation": "%1 от %2 готово",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:df237503973c",
     "original": "Downloading mods...",
     "translation": "Изтегляне на модификациите...",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:823f8fa08edc",
@@ -9153,19 +9153,19 @@
     "key": "ModrinthCreationTask:ec8e76990081",
     "original": "Removing old conflicting files...",
     "translation": "Премахване на стари конфликтни файлове...",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:95678dd3a029",
     "original": "Failed to remove old conflicting files.",
     "translation": "Неуспешно премахване на стари конфликтни файлове.",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthManagedPackPage:6bbfd857afb9",
     "original": "%1 (Current)",
     "translation": "%1 (Текущ)",
-    "context": "ModrinthManagedPackPage | [unfinished]"
+    "context": "ModrinthManagedPackPage"
   },
   {
     "key": "ModrinthManagedPackPage:394d6e5212a4",
@@ -9177,37 +9177,37 @@
     "key": "ModrinthManagedPackPage:7ad1b1948639",
     "original": "Choose update file",
     "translation": "Изберете обновяващ файл",
-    "context": "ModrinthManagedPackPage | [unfinished]"
+    "context": "ModrinthManagedPackPage"
   },
   {
     "key": "ModrinthManagedPackPage:421a3cbacf93",
     "original": "Modrinth pack",
     "translation": "Modrinth пакети",
-    "context": "ModrinthManagedPackPage | [unfinished]"
+    "context": "ModrinthManagedPackPage"
   },
   {
     "key": "ModrinthPackExportTask:4c74a1167874",
     "original": "Searching for files...",
     "translation": "Търсене на файлове...",
-    "context": "ModrinthPackExportTask | [unfinished]"
+    "context": "ModrinthPackExportTask"
   },
   {
     "key": "ModrinthPackExportTask:2c74262ef53e",
     "original": "Could not search for files",
     "translation": "Неуспешно търсене на файлове",
-    "context": "ModrinthPackExportTask | [unfinished]"
+    "context": "ModrinthPackExportTask"
   },
   {
     "key": "ModrinthPackExportTask:7dcce6ced11a",
     "original": "Finding file hashes...",
     "translation": "Намиране на файлови хешове...",
-    "context": "ModrinthPackExportTask | [unfinished]"
+    "context": "ModrinthPackExportTask"
   },
   {
     "key": "ModrinthPackExportTask:67f8ee149173",
     "original": "Finding versions for hashes...",
     "translation": "Намиране на версии за хешове...",
-    "context": "ModrinthPackExportTask | [unfinished]"
+    "context": "ModrinthPackExportTask"
   },
   {
     "key": "ModrinthPackExportTask:a3d4a1cb28a1",
@@ -9219,7 +9219,7 @@
     "key": "ModrinthPackExportTask:b2ee72c5645d",
     "original": "Adding files...",
     "translation": "Добавяне на файлове...",
-    "context": "ModrinthPackExportTask | [unfinished]"
+    "context": "ModrinthPackExportTask"
   },
   {
     "key": "ModrinthPage:c2bdba99958f",
@@ -9231,7 +9231,7 @@
     "key": "ModrinthPage:dbcc650e8de5",
     "original": "Sort by Total Downloads",
     "translation": "Сортиране по общо изтегляния",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:4fe2ac4e9fcd",
@@ -9243,19 +9243,19 @@
     "key": "ModrinthPage:3546d8e58e95",
     "original": "Sort by Last Updated",
     "translation": "Сортиране по последно обновени",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Грешка",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:876074b47592",
     "original": " by ",
     "translation": "по",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:f8f69574105d",
@@ -9273,25 +9273,25 @@
     "key": "ModrinthPage:15cdc321f2aa",
     "original": "External links:",
     "translation": "Външни връзки:",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:d0a1a1d37cdf",
     "original": "Issues: <a href=%1>%1</a>",
     "translation": "Проблеми: <a href=%1>%1</a>",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:95ebcf83e931",
     "original": "Wiki: <a href=%1>%1</a>",
     "translation": "Уики: <a href=%1>%1</a>",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:0a44261695f4",
     "original": "Source code: <a href=%1>%1</a>",
     "translation": "Програмен код: <a href=%1>%1</a>",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:92f689616937",
@@ -9309,19 +9309,19 @@
     "key": "ModrinthPage:c3c949f932a9",
     "original": "Filter options",
     "translation": "Опции за филтриране",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Търси и филтрирай...",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "Избрана версия:",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:edcad43541b4",
@@ -9405,7 +9405,7 @@
     "key": "NetJob:67a7e9461e7d",
     "original": "Executing %1 task(s) (%2 out of %3 are done)",
     "translation": "Изпълнява се задача(и) %1 (%2 от %3 са изпълнени)",
-    "context": "NetJob | [unfinished]"
+    "context": "NetJob"
   },
   {
     "key": "NetworkJobFailedDialog:6cc153f0e5df",
@@ -9423,13 +9423,13 @@
     "key": "NetworkJobFailedDialog:0e2d9b0777a4",
     "original": "URL",
     "translation": "URL",
-    "context": "NetworkJobFailedDialog | [unfinished]"
+    "context": "NetworkJobFailedDialog"
   },
   {
     "key": "NetworkJobFailedDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Грешка",
-    "context": "NetworkJobFailedDialog | [unfinished]"
+    "context": "NetworkJobFailedDialog"
   },
   {
     "key": "NetworkJobFailedDialog:7b52603bb25e",
@@ -9483,13 +9483,13 @@
     "key": "NewComponentDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Отказ",
-    "context": "NewComponentDialog | [unfinished]"
+    "context": "NewComponentDialog"
   },
   {
     "key": "NewComponentDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Добре",
-    "context": "NewComponentDialog | [unfinished]"
+    "context": "NewComponentDialog"
   },
   {
     "key": "NewInstanceDialog:a8296e726af3",
@@ -9525,19 +9525,19 @@
     "key": "NewInstanceDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Добре",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Отказ",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:c47ae15370cf",
     "original": "Help",
     "translation": "Помощ",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:0e06e81ed34d",
@@ -9855,13 +9855,13 @@
     "key": "OptiFineInstallDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Инсталирай",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptiFineInstallDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Отказ",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptionalModDialog:12e9f3729ee6",
@@ -9891,13 +9891,13 @@
     "key": "OptionalModDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Отказ",
-    "context": "OptionalModDialog | [unfinished]"
+    "context": "OptionalModDialog"
   },
   {
     "key": "OptionalModDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Добре",
-    "context": "OptionalModDialog | [unfinished]"
+    "context": "OptionalModDialog"
   },
   {
     "key": "OtherLogsPage:d4188c14e699",
@@ -9909,7 +9909,7 @@
     "key": "OtherLogsPage:f54f6c4c05d2",
     "original": "Scroll all the way to bottom",
     "translation": "Скролни до края на прозореца",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:51ac18f44780",
@@ -9945,7 +9945,7 @@
     "key": "OtherLogsPage:0767c44f5140",
     "original": "Keep updating",
     "translation": "Продължаване на актуализирането",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:a7392043b11d",
@@ -9963,13 +9963,13 @@
     "key": "OtherLogsPage:9b4ba9e93183",
     "original": "Copy the whole log into the clipboard",
     "translation": "Копирай целия дневник в клипборда",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:e990b1645555",
     "original": "&Copy",
     "translation": "&Копирай",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:5ece98753399",
@@ -9999,13 +9999,13 @@
     "key": "OtherLogsPage:bce06414177f",
     "original": "Search",
     "translation": "Търси",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Грешка",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:a2c32945bddc",
@@ -10023,7 +10023,7 @@
     "key": "OtherLogsPage:8953e5799431",
     "original": "Confirm Deletion",
     "translation": "Потвърди Изтриване",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:4ba919b5c8fd",
@@ -10053,13 +10053,13 @@
     "key": "OtherLogsPage:719ea396ad92",
     "original": "Clear",
     "translation": "Изчисти",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:096311b5638e",
     "original": "Clear the log",
     "translation": "Изчисти дневника",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:7ad77902b780",
@@ -10071,7 +10071,7 @@
     "key": "OtherLogsPage:1919fdb56138",
     "original": "Cannot display this log since the log length surpassed %1 lines.",
     "translation": "Не може да се покаже този лог, тъй като дължината на лога надхвърли %1 реда.",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:12fc009a1488",
@@ -10107,25 +10107,25 @@
     "key": "PackInstallTask:1cc558d32fa4",
     "original": "Unsupported installation mode",
     "translation": "Неподдържан инсталационен режим",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:608a6e16a154",
     "original": "Failed to get local metadata index for '%1' v%2",
     "translation": "Неуспешно извличане на локалния индекс с метаданни за '%1' v%2",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:a61c5171cb28",
     "original": "Deleting existing files...",
     "translation": "Изтриване на съществуващи файлове...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:639e6287333c",
     "original": "Unknown mod type: %1",
     "translation": "Неизвестен тип мод: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:54a1e48a12f3",
@@ -10149,31 +10149,31 @@
     "key": "PackInstallTask:8ea0186a5329",
     "original": "Unknown or unsupported download type: %1",
     "translation": "Неизвестен или неподдържан тип на изтегляне: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:db82f5ce4d92",
     "original": "Downloading configs...",
     "translation": "Изтегляне на конфигурации...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:296053b61434",
     "original": "Config download",
     "translation": "Изтегляне на конфигурация",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:88e116160aff",
     "original": "Extracting configs...",
     "translation": "Извличане на конфигурации...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:6e97ce93553c",
     "original": "Selecting optional mods...",
     "translation": "Избиране на незадължителни модове...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:df237503973c",
@@ -10191,7 +10191,7 @@
     "key": "PackInstallTask:e91e47f5379a",
     "original": "Unknown download type: %1",
     "translation": "Неизвестен тип на изтегляне: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:d4e059888d25",
@@ -10221,13 +10221,13 @@
     "key": "PackInstallTask:3138740f4b31",
     "original": "Failed to extract mods...",
     "translation": "Неуспешно извличане на модове...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:e87c1bb107c0",
     "original": "Extracting mods...",
     "translation": "Извличане на модове...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:7d3e34e21534",
@@ -10239,19 +10239,19 @@
     "key": "PackInstallTask:a568ebaf6ef5",
     "original": "Failed to create libraries component",
     "translation": "Неуспешно създаване на библиотечен компонент",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:c9c9e81a13ed",
     "original": "Unknown loader type: ",
     "translation": "Неизвестен тип лоудър:",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:76fefafc38cf",
     "original": "Failed to create pack component",
     "translation": "Неуспешно създаване на пакетен компонент",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackProfile:b1590d210090",
@@ -10287,13 +10287,13 @@
     "key": "PageDialog:c47ae15370cf",
     "original": "Help",
     "translation": "Помощ",
-    "context": "PageDialog | [unfinished]"
+    "context": "PageDialog"
   },
   {
     "key": "PasteWizardPage:80446347ede5",
     "original": "Form",
     "translation": "Форма",
-    "context": "PasteWizardPage | [unfinished]"
+    "context": "PasteWizardPage"
   },
   {
     "key": "PasteWizardPage:98f17818733b",
@@ -10797,13 +10797,13 @@
     "key": "ProfileSelectDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Отказ",
-    "context": "ProfileSelectDialog | [unfinished]"
+    "context": "ProfileSelectDialog"
   },
   {
     "key": "ProfileSelectDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Добре",
-    "context": "ProfileSelectDialog | [unfinished]"
+    "context": "ProfileSelectDialog"
   },
   {
     "key": "ProfileSetupDialog:ad6e16b3c052",
@@ -10821,13 +10821,13 @@
     "key": "ProfileSetupDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Отказ",
-    "context": "ProfileSetupDialog | [unfinished]"
+    "context": "ProfileSetupDialog"
   },
   {
     "key": "ProfileSetupDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Добре",
-    "context": "ProfileSetupDialog | [unfinished]"
+    "context": "ProfileSetupDialog"
   },
   {
     "key": "ProfileSetupDialog:8b0fde7324a8",
@@ -10875,7 +10875,7 @@
     "key": "ProgressDialog:89e944f8eb37",
     "original": "Please wait...",
     "translation": "Моля, изчакайте...",
-    "context": "ProgressDialog | [unfinished]"
+    "context": "ProgressDialog"
   },
   {
     "key": "ProgressDialog:4e6ee2001d34",
@@ -10893,13 +10893,13 @@
     "key": "ProgressDialog:3da474537ac3",
     "original": "Skip",
     "translation": "Пропусни",
-    "context": "ProgressDialog | [unfinished]"
+    "context": "ProgressDialog"
   },
   {
     "key": "ProgressDialog:6f3abbe484ab",
     "original": "Abort",
     "translation": "Отмени",
-    "context": "ProgressDialog | [unfinished]"
+    "context": "ProgressDialog"
   },
   {
     "key": "ProjectItemDelegate:517f9bea1d3e",
@@ -10917,7 +10917,7 @@
     "key": "ProxyPage:3deb74565196",
     "original": "Type",
     "translation": "Тип",
-    "context": "ProxyPage | [unfinished]"
+    "context": "ProxyPage"
   },
   {
     "key": "ProxyPage:9a2029660bcc",
@@ -10965,13 +10965,13 @@
     "key": "ProxyPage:78ec4c601a41",
     "original": "&Username:",
     "translation": "Потребителско име:",
-    "context": "ProxyPage | [unfinished]"
+    "context": "ProxyPage"
   },
   {
     "key": "ProxyPage:c0d007dcaadb",
     "original": "&Password:",
     "translation": "Парола:",
-    "context": "ProxyPage | [unfinished]"
+    "context": "ProxyPage"
   },
   {
     "key": "ProxyPage:d45c02f81ade",
@@ -11163,7 +11163,7 @@
     "key": "QObject:78e96613d910",
     "original": "%1 (in use)",
     "translation": "(използван)",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:cabe4b7a8cf3",
@@ -11373,7 +11373,7 @@
     "key": "QObject:db286a36a0f3",
     "original": "Java checker library could not be found. Please check your installation.",
     "translation": "Не беше намерена библиотека за проверка на Java. Моля, проверете инсталацията си.",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:44bb1beac399",
@@ -11493,19 +11493,19 @@
     "key": "QObject:754e270ce9ad",
     "original": "Sort by Featured",
     "translation": "Сортиране по особеност",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:2ebd5dd0cbfe",
     "original": "Sort by Popularity",
     "translation": "Сортирай по популярност",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3546d8e58e95",
     "original": "Sort by Last Updated",
     "translation": "Сортиране по последно обновени",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:5fa541307296",
@@ -11517,7 +11517,7 @@
     "key": "QObject:d1db3d422497",
     "original": "Sort by Author",
     "translation": "Сортиране по създател",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:c462f1bd6be2",
@@ -11583,7 +11583,7 @@
     "key": "QObject:bc7819b34ff8",
     "original": "Unknown",
     "translation": "Неизвестно",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:73b44ec0895a",
@@ -11631,49 +11631,49 @@
     "key": "QObject:1b927decdbb0",
     "original": "Unchecked",
     "translation": "Не отметнато",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:e01fa717bacc",
     "original": "Offline",
     "translation": "Офлайн",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:20c7c5522fc2",
     "original": "Ready",
     "translation": "Готов",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3b4dfc971393",
     "original": "Working",
     "translation": "Работейки",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:2d4784200261",
     "original": "Errored",
     "translation": "Грешка",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:a689a999a5e6",
     "original": "Expired",
     "translation": "Изтекал",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:f4f4473df8cb",
     "original": "Disabled",
     "translation": "Изключен",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:149ecfc76f45",
     "original": "Gone",
     "translation": "Изчезнал",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3b81c344597f",
@@ -11955,7 +11955,7 @@
     "key": "QObject:a9b4889389af",
     "original": "Unrecognized",
     "translation": "Неразпознато",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:5a853d21a166",
@@ -12003,7 +12003,7 @@
     "key": "QObject:1ba86caa483a",
     "original": "Could not open file %1 for reading: %2",
     "translation": "Неуспешно отваряне на файла %1 за четене: %2",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:f05c9bfd5730",
@@ -12069,13 +12069,13 @@
     "key": "ResourceDownload::ResourceDownloadDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Грешка",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:1430f976c596",
     "original": "Warnings",
     "translation": "Предупреждения",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:5eb693bc62ce",
@@ -12135,7 +12135,7 @@
     "key": "ResourceDownload::ResourceModel:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Грешка",
-    "context": "ResourceDownload::ResourceModel | [unfinished]"
+    "context": "ResourceDownload::ResourceModel"
   },
   {
     "key": "ResourceDownload::ResourceModel:15bf96b86b8e",
@@ -12183,7 +12183,7 @@
     "key": "ResourceDownload::ResourcePage:876074b47592",
     "original": " by ",
     "translation": "по",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:f8f69574105d",
@@ -12201,25 +12201,25 @@
     "key": "ResourceDownload::ResourcePage:15cdc321f2aa",
     "original": "External links:",
     "translation": "Външни връзки:",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:d0a1a1d37cdf",
     "original": "Issues: <a href=%1>%1</a>",
     "translation": "Проблеми: <a href=%1>%1</a>",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:95ebcf83e931",
     "original": "Wiki: <a href=%1>%1</a>",
     "translation": "Уики: <a href=%1>%1</a>",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:0a44261695f4",
     "original": "Source code: <a href=%1>%1</a>",
     "translation": "Програмен код: <a href=%1>%1</a>",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:92f689616937",
@@ -12297,7 +12297,7 @@
     "key": "ResourceDownload::ResourcePage:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Отказ",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:39d43199988a",
@@ -12327,37 +12327,37 @@
     "key": "ResourceFolderModel:62d4750bff7e",
     "original": "\nWarning: This resource is symbolically linked from elsewhere. Editing it will also change the original.\nCanonical Path: %1",
     "translation": "Внимание: Този ресурс е символично свързан от друго място. Редактирането му ще промени и оригинала.\nКаноничен път: %1",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:d564bd755146",
     "original": "\nWarning: This resource is hard linked elsewhere. Editing it will also change the original.",
     "translation": "Внимание: Този ресурс е свързан чрез твърда връзка другаде. Редактирането му ще промени и оригинала.",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Име",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:4c24525b0aa0",
     "original": "Last Modified",
     "translation": "Последна промяна",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Версия",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:b7152342a267",
     "original": "Size",
     "translation": "Размер",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:7ceee3f3615a",
@@ -12369,13 +12369,13 @@
     "key": "ResourceFolderModel:2aabcfc2668a",
     "original": "File Name",
     "translation": "Име на файла",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Актуализирай",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:bfd722aee774",
@@ -12453,25 +12453,25 @@
     "key": "ResourceFolderModel:50e19fda0d5b",
     "original": "Image",
     "translation": "Снимка",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:4c24525b0aa0",
     "original": "Last Modified",
     "translation": "Последна промяна",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Версия",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:b7152342a267",
     "original": "Size",
     "translation": "Размер",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:7ceee3f3615a",
@@ -12483,13 +12483,13 @@
     "key": "ResourcePackFolderModel:2aabcfc2668a",
     "original": "File Name",
     "translation": "Име на файла",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Актуализирай",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:35a599c5f88a",
@@ -12537,13 +12537,13 @@
     "key": "ResourcePackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Име",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:0092be542f99",
     "original": "Pack Format",
     "translation": "Формат на пакета",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:919afcd54661",
@@ -12561,7 +12561,7 @@
     "key": "ResourcePackPage:488738cde719",
     "original": "Download Packs",
     "translation": "Изтегли пакети",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:e0426347f584",
@@ -12585,13 +12585,13 @@
     "key": "ResourcePackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Грешка",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:1430f976c596",
     "original": "Warnings",
     "translation": "Предупреждения",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:e2cabd9e9dcc",
@@ -12603,7 +12603,7 @@
     "key": "ResourcePackPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "Потвърди актуализацията",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:bfd070362a72",
@@ -12615,7 +12615,7 @@
     "key": "ResourcePackPage:76e93d20a40b",
     "original": "'%1' is up-to-date! :)",
     "translation": "'%1' е актуален! :)",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:5b87c4c86fc9",
@@ -12633,13 +12633,13 @@
     "key": "ResourcePackPage:2080f0fbd2f0",
     "original": "Update checker",
     "translation": "Проверка за актуализации",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Потвърди за премахване",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:068704d93c40",
@@ -12657,13 +12657,13 @@
     "key": "ResourcePage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "Избрана версия:",
-    "context": "ResourcePage | [unfinished]"
+    "context": "ResourcePage"
   },
   {
     "key": "ResourcePage:c3c949f932a9",
     "original": "Filter options",
     "translation": "Опции за филтриране",
-    "context": "ResourcePage | [unfinished]"
+    "context": "ResourcePage"
   },
   {
     "key": "ResourceUpdateDialog:f91b434cbfb3",
@@ -12711,13 +12711,13 @@
     "key": "ResourceUpdateDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Грешка",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:1430f976c596",
     "original": "Warnings",
     "translation": "Предупреждения",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:549981f05abc",
@@ -12771,7 +12771,7 @@
     "key": "ResourceUpdateDialog:1aab9f182430",
     "original": "Not installed",
     "translation": "Не е инсталирано",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:70d5f8453b33",
@@ -12855,13 +12855,13 @@
     "key": "ReviewMessageBox:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Отказ",
-    "context": "ReviewMessageBox | [unfinished]"
+    "context": "ReviewMessageBox"
   },
   {
     "key": "ReviewMessageBox:9ce3bd4224c8",
     "original": "OK",
     "translation": "Добре",
-    "context": "ReviewMessageBox | [unfinished]"
+    "context": "ReviewMessageBox"
   },
   {
     "key": "ReviewMessageBox:e618688160db",
@@ -12993,7 +12993,7 @@
     "key": "ScreenshotsPage:74d7266ffe89",
     "original": "Upload finished",
     "translation": "Качването завърши",
-    "context": "ScreenshotsPage | [unfinished]"
+    "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:5755447c61f4",
@@ -13023,7 +13023,7 @@
     "key": "ScreenshotsPage:8953e5799431",
     "original": "Confirm Deletion",
     "translation": "Потвърди Изтриване",
-    "context": "ScreenshotsPage | [unfinished]"
+    "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:597b6356e6ce",
@@ -13047,19 +13047,19 @@
     "key": "ScrollMessageBox:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Отказ",
-    "context": "ScrollMessageBox | [unfinished]"
+    "context": "ScrollMessageBox"
   },
   {
     "key": "ScrollMessageBox:9ce3bd4224c8",
     "original": "OK",
     "translation": "Добре",
-    "context": "ScrollMessageBox | [unfinished]"
+    "context": "ScrollMessageBox"
   },
   {
     "key": "SelectReleaseAssetDialog:2da600bf9404",
     "original": "Version",
     "translation": "Версия",
-    "context": "SelectReleaseAssetDialog | [unfinished]"
+    "context": "SelectReleaseAssetDialog"
   },
   {
     "key": "SelectReleaseAssetDialog:89cba7b3e72d",
@@ -13089,7 +13089,7 @@
     "key": "SelectReleaseDialog:2da600bf9404",
     "original": "Version",
     "translation": "Версия",
-    "context": "SelectReleaseDialog | [unfinished]"
+    "context": "SelectReleaseDialog"
   },
   {
     "key": "SelectReleaseDialog:89cba7b3e72d",
@@ -13107,13 +13107,13 @@
     "key": "SelectReleaseDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Отказ",
-    "context": "SelectReleaseDialog | [unfinished]"
+    "context": "SelectReleaseDialog"
   },
   {
     "key": "SelectReleaseDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Добре",
-    "context": "SelectReleaseDialog | [unfinished]"
+    "context": "SelectReleaseDialog"
   },
   {
     "key": "SequentialTask:829c6e1cd1e8",
@@ -13149,7 +13149,7 @@
     "key": "ServersModel:2da600bf9404",
     "original": "Version",
     "translation": "Версия",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersModel:6b68e9797399",
@@ -13161,7 +13161,7 @@
     "key": "ServersModel:e01fa717bacc",
     "original": "Offline",
     "translation": "Офлайн",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersPage:49b93f720a4a",
@@ -13239,7 +13239,7 @@
     "key": "ServersPage:56e3badc4e6c",
     "original": "Refresh",
     "translation": "Обновяване",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:acca64b83535",
@@ -13263,7 +13263,7 @@
     "key": "ServersPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Потвърди за премахване",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:d11c34744d16",
@@ -13317,7 +13317,7 @@
     "key": "ShaderPackPage:488738cde719",
     "original": "Download Packs",
     "translation": "Изтегли пакети",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:18d2a5b13b98",
@@ -13341,13 +13341,13 @@
     "key": "ShaderPackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Грешка",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:1430f976c596",
     "original": "Warnings",
     "translation": "Предупреждения",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:292f21077ddf",
@@ -13359,7 +13359,7 @@
     "key": "ShaderPackPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "Потвърди актуализацията",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:50c4638a5951",
@@ -13371,7 +13371,7 @@
     "key": "ShaderPackPage:76e93d20a40b",
     "original": "'%1' is up-to-date! :)",
     "translation": "'%1' е актуален! :)",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:4e2cec7a1363",
@@ -13389,13 +13389,13 @@
     "key": "ShaderPackPage:2080f0fbd2f0",
     "original": "Update checker",
     "translation": "Проверка за актуализации",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Потвърди за премахване",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:c3ba31d003fe",
@@ -13485,7 +13485,7 @@
     "key": "SkinManageDialog:027760ffe7da",
     "original": "Open Folder",
     "translation": "Отвори папка",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:cf4da3174d7d",
@@ -13515,7 +13515,7 @@
     "key": "SkinManageDialog:a4540c6e2afe",
     "original": "&Delete Skin",
     "translation": "&Изтрий Облик",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:a56fb8960c8b",
@@ -13551,13 +13551,13 @@
     "key": "SkinManageDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Отказ",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Добре",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:126f0e0caf65",
@@ -13611,19 +13611,19 @@
     "key": "SkinManageDialog:67625d998cfa",
     "original": "Skin Delete",
     "translation": "Изтриване на облика",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:e002853d1d71",
     "original": "Failed to delete current skin!",
     "translation": "Неуспешно изтриване на настоящия облик!",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Контекстно меню",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:abc73e2588f3",
@@ -13641,7 +13641,7 @@
     "key": "SkinManageDialog:8953e5799431",
     "original": "Confirm Deletion",
     "translation": "Потвърди Изтриване",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:a610463d67da",
@@ -13731,7 +13731,7 @@
     "key": "SubTaskProgressBar:80446347ede5",
     "original": "Form",
     "translation": "Форма",
-    "context": "SubTaskProgressBar | [unfinished]"
+    "context": "SubTaskProgressBar"
   },
   {
     "key": "SubTaskProgressBar:9f478681f2e2",
@@ -13791,13 +13791,13 @@
     "key": "Technic::SingleZipPackInstallTask:5bb4f8a4650e",
     "original": "Could not fix permissions for %1",
     "translation": "Неуспешна поправка на разрешенията за %1",
-    "context": "Technic::SingleZipPackInstallTask | [unfinished]"
+    "context": "Technic::SingleZipPackInstallTask"
   },
   {
     "key": "Technic::SingleZipPackInstallTask:1bd4c5db3167",
     "original": "Instance import has been aborted.",
     "translation": "Внасяането на инстанцията бе спряно.",
-    "context": "Technic::SingleZipPackInstallTask | [unfinished]"
+    "context": "Technic::SingleZipPackInstallTask"
   },
   {
     "key": "Technic::SolderPackInstallTask:77503cf62009",
@@ -13815,13 +13815,13 @@
     "key": "Technic::SolderPackInstallTask:93fc42ea75d6",
     "original": "Could not understand pack manifest:\n",
     "translation": "Нямаше възможност да се разбере манифестът на пакета:",
-    "context": "Technic::SolderPackInstallTask | [unfinished]"
+    "context": "Technic::SolderPackInstallTask"
   },
   {
     "key": "Technic::SolderPackInstallTask:947d98cb6a3e",
     "original": "Extracting modpack",
     "translation": "Извличане на пакет с модификации",
-    "context": "Technic::SolderPackInstallTask | [unfinished]"
+    "context": "Technic::SolderPackInstallTask"
   },
   {
     "key": "Technic::SolderPackInstallTask:8677f022f1b1",
@@ -13833,13 +13833,13 @@
     "key": "Technic::SolderPackInstallTask:5bb4f8a4650e",
     "original": "Could not fix permissions for %1",
     "translation": "Неуспешна поправка на разрешенията за %1",
-    "context": "Technic::SolderPackInstallTask | [unfinished]"
+    "context": "Technic::SolderPackInstallTask"
   },
   {
     "key": "Technic::SolderPackInstallTask:1bd4c5db3167",
     "original": "Instance import has been aborted.",
     "translation": "Внасяането на инстанцията бе спряно.",
-    "context": "Technic::SolderPackInstallTask | [unfinished]"
+    "context": "Technic::SolderPackInstallTask"
   },
   {
     "key": "Technic::TechnicPackProcessor:c960a8884961",
@@ -13893,19 +13893,19 @@
     "key": "TechnicPage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "Избрана версия:",
-    "context": "TechnicPage | [unfinished]"
+    "context": "TechnicPage"
   },
   {
     "key": "TechnicPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Търси и филтрирай...",
-    "context": "TechnicPage | [unfinished]"
+    "context": "TechnicPage"
   },
   {
     "key": "TechnicPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Грешка",
-    "context": "TechnicPage | [unfinished]"
+    "context": "TechnicPage"
   },
   {
     "key": "TechnicPage:876074b47592",
@@ -13917,19 +13917,19 @@
     "key": "TexturePackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Име",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:4c24525b0aa0",
     "original": "Last Modified",
     "translation": "Последна промяна",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:b7152342a267",
     "original": "Size",
     "translation": "Размер",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:7ceee3f3615a",
@@ -13941,13 +13941,13 @@
     "key": "TexturePackFolderModel:2aabcfc2668a",
     "original": "File Name",
     "translation": "Име на файла",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Актуализирай",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:b922df5f2870",
@@ -14001,7 +14001,7 @@
     "key": "TexturePackPage:488738cde719",
     "original": "Download Packs",
     "translation": "Изтегли пакети",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:85fa4bf8bc83",
@@ -14031,13 +14031,13 @@
     "key": "TexturePackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Грешка",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:1430f976c596",
     "original": "Warnings",
     "translation": "Предупреждения",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:936125976ee4",
@@ -14049,7 +14049,7 @@
     "key": "TexturePackPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "Потвърди актуализацията",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:dd36a08926c7",
@@ -14061,7 +14061,7 @@
     "key": "TexturePackPage:76e93d20a40b",
     "original": "'%1' is up-to-date! :)",
     "translation": "'%1' е актуален! :)",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:a39d7646de30",
@@ -14079,13 +14079,13 @@
     "key": "TexturePackPage:2080f0fbd2f0",
     "original": "Update checker",
     "translation": "Проверка за актуализации",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Потвърди за премахване",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:b7fbe79a518f",
@@ -14097,7 +14097,7 @@
     "key": "ThemeWizardPage:41def7a0febe",
     "original": "Appearance",
     "translation": "Изглед",
-    "context": "ThemeWizardPage | [unfinished]"
+    "context": "ThemeWizardPage"
   },
   {
     "key": "ThemeWizardPage:8ba2ac6395c2",
@@ -14109,7 +14109,7 @@
     "key": "TranslationsModel:89b86ab0e66f",
     "original": "Language",
     "translation": "Език",
-    "context": "TranslationsModel | [unfinished]"
+    "context": "TranslationsModel"
   },
   {
     "key": "TranslationsModel:778184da86df",
@@ -14205,7 +14205,7 @@
     "key": "VanillaCreationTask:1ea5bfc9e90e",
     "original": "Creating instance from version %1",
     "translation": "Създаване на инстанция от версия %1",
-    "context": "VanillaCreationTask | [unfinished]"
+    "context": "VanillaCreationTask"
   },
   {
     "key": "VerifyJavaInstall:c15b0eb5b48e",
@@ -14247,13 +14247,13 @@
     "key": "VersionPage:c3cd636a585b",
     "original": "Actions",
     "translation": "Действия",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:e963907dac5c",
     "original": "Remove",
     "translation": "Премахни",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:239dce622324",
@@ -14319,13 +14319,13 @@
     "key": "VersionPage:f26357178177",
     "original": "Change Version",
     "translation": "Промяна на версия",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:bce06414177f",
     "original": "Search",
     "translation": "Търси",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:fdffaea4e563",
@@ -14337,7 +14337,7 @@
     "key": "VersionPage:c6370aded903",
     "original": "Move Up",
     "translation": "Премести нагоре",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:9e168a310eed",
@@ -14349,7 +14349,7 @@
     "key": "VersionPage:4158bedc2fcd",
     "original": "Move Down",
     "translation": "Премести надолу",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:e369475f4b94",
@@ -14385,7 +14385,7 @@
     "key": "VersionPage:af98ab0d8ec5",
     "original": "Install Loader",
     "translation": "Инсталирайте Стартер",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:30de6d79b8eb",
@@ -14481,7 +14481,7 @@
     "key": "VersionPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Контекстно меню",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:e9571bf1f2e1",
@@ -14511,13 +14511,13 @@
     "key": "VersionPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Грешка",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Потвърди за премахване",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:c8f5d5fa0f19",
@@ -14625,7 +14625,7 @@
     "key": "VersionPage:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Инсталирай",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:cae9674c84d8",
@@ -14649,19 +14649,19 @@
     "key": "VersionPage:2da600bf9404",
     "original": "Version",
     "translation": "Версия",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionProxyModel:2da600bf9404",
     "original": "Version",
     "translation": "Версия",
-    "context": "VersionProxyModel | [unfinished]"
+    "context": "VersionProxyModel"
   },
   {
     "key": "VersionProxyModel:f1416844b9ec",
     "original": "Minecraft",
     "translation": "Minecraft",
-    "context": "VersionProxyModel | [unfinished]"
+    "context": "VersionProxyModel"
   },
   {
     "key": "VersionProxyModel:1627510b242f",
@@ -14673,7 +14673,7 @@
     "key": "VersionProxyModel:3deb74565196",
     "original": "Type",
     "translation": "Тип",
-    "context": "VersionProxyModel | [unfinished]"
+    "context": "VersionProxyModel"
   },
   {
     "key": "VersionProxyModel:b040b4179b8b",
@@ -14769,7 +14769,7 @@
     "key": "VersionProxyModel:9ef937556efe",
     "original": "Recommended",
     "translation": "Препоръчва се",
-    "context": "VersionProxyModel | [unfinished]"
+    "context": "VersionProxyModel"
   },
   {
     "key": "VersionProxyModel:decd7ca80010",
@@ -14781,13 +14781,13 @@
     "key": "VersionSelectDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Добре",
-    "context": "VersionSelectDialog | [unfinished]"
+    "context": "VersionSelectDialog"
   },
   {
     "key": "VersionSelectDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Отказ",
-    "context": "VersionSelectDialog | [unfinished]"
+    "context": "VersionSelectDialog"
   },
   {
     "key": "VersionSelectDialog:83b94bf4f93a",
@@ -14805,19 +14805,19 @@
     "key": "VersionSelectDialog:e38044ca5f26",
     "original": "&Refresh",
     "translation": "&Обнови",
-    "context": "VersionSelectDialog | [unfinished]"
+    "context": "VersionSelectDialog"
   },
   {
     "key": "VersionSelectWidget:bce06414177f",
     "original": "Search",
     "translation": "Търси",
-    "context": "VersionSelectWidget | [unfinished]"
+    "context": "VersionSelectWidget"
   },
   {
     "key": "VersionSelectWidget:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Грешка",
-    "context": "VersionSelectWidget | [unfinished]"
+    "context": "VersionSelectWidget"
   },
   {
     "key": "VersionSelectWidget:4cb9e107bc5a",
@@ -14865,7 +14865,7 @@
     "key": "WorldList:709a23220f2c",
     "original": "Name",
     "translation": "Име",
-    "context": "WorldList | [unfinished]"
+    "context": "WorldList"
   },
   {
     "key": "WorldList:9424db05db84",
@@ -14883,7 +14883,7 @@
     "key": "WorldList:b7152342a267",
     "original": "Size",
     "translation": "Размер",
-    "context": "WorldList | World size on disk | [unfinished]"
+    "context": "WorldList | World size on disk"
   },
   {
     "key": "WorldList:4b631f698425",
@@ -14925,13 +14925,13 @@
     "key": "WorldListPage:c3cd636a585b",
     "original": "Actions",
     "translation": "Действия",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:61cc55aa0453",
     "original": "Add",
     "translation": "Добави",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:e0d73143de80",
@@ -14943,19 +14943,19 @@
     "key": "WorldListPage:d3f4cb898fbe",
     "original": "Rename",
     "translation": "Преименувай",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:af74f7c5362a",
     "original": "Copy",
     "translation": "Копирай",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:f6fdbe48dc54",
     "original": "Delete",
     "translation": "Изтрий",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:16397ae2608e",
@@ -14967,13 +14967,13 @@
     "key": "WorldListPage:56e3badc4e6c",
     "original": "Refresh",
     "translation": "Обновяване",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:b2253ecc0070",
     "original": "View Folder",
     "translation": "Разгледай папката",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:96ca978796c2",
@@ -14991,7 +14991,7 @@
     "key": "WorldListPage:4fa8cc860c52",
     "original": "Tools",
     "translation": "Инструменти",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:dbd185310812",
@@ -15021,7 +15021,7 @@
     "key": "WorldListPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Контекстно меню",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:828d183e802e",
@@ -15051,7 +15051,7 @@
     "key": "WorldListPage:8953e5799431",
     "original": "Confirm Deletion",
     "translation": "Потвърди Изтриване",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:86a7a08378ba",
@@ -15099,7 +15099,7 @@
     "key": "WorldListPage:7ac533f58d61",
     "original": "Invalid command",
     "translation": "Невалидна команда",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:1f7cec127456",
@@ -15291,13 +15291,13 @@
     "key": "YggdrasilLoginDialog:84c29015de33",
     "original": "Username",
     "translation": "Потребителско име",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:8be3c943b160",
     "original": "Password",
     "translation": "Парола",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:ada2e9e96fa9",
@@ -15309,7 +15309,7 @@
     "key": "YggdrasilLoginDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Отказ",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:ca359109578d",

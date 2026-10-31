@@ -693,7 +693,7 @@
     "key": "Application:e8ff2cb9fbea",
     "original": "This installation has a update lock file present at: %1\n\nTimestamp: %2\nUpdating from version %3 to %4\nTarget install path: %5\nData Path: %6\nThis likely means that a update attempt failed. Please ensure your installation is in working order before proceeding.\nCheck the Komorebi Launcher updater log at: \n%7\nfor details on the last update attempt.\n\nTo delete this lock and proceed select \"Ignore\" below.",
     "translation": "Instalazio honek eguneraketa blokeatzeko fitxategi bat dauka hemen: %1\n\nTimestamp: %2\n%3 bertsiotik %4 bertsiora eguneratzea\nHelburua instalatzea: %5\nDatuen bidea: %6\nHorrek esan nahi du eguneratze saio batek porrot egin duela. Ziurtatu zure instalazioa behar bezala dagoela aurrera egin aurretik.\nBegiratu Komorebi Launcher updaterraren erregistroan:\n%7\nazken eguneratze-saioari buruzko xehetasunetarako.\n\nSarraila hau ezabatzeko eta beheko \"Ez ikusiarena\" hautatzeko.",
-    "context": "Application | [unfinished]"
+    "context": "Application"
   },
   {
     "key": "Application:b7d27a425f35",
@@ -987,7 +987,7 @@
     "key": "AuthFlow:6eae3a5b062c",
     "original": "...",
     "translation": "...",
-    "context": "AuthFlow | [unfinished]"
+    "context": "AuthFlow"
   },
   {
     "key": "AuthFlow:c20f8526d864",
@@ -1089,13 +1089,13 @@
     "key": "AuthlibInjectorDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Instalatu",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AuthlibInjectorDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Ezeztatu",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AutoInstallJava:d3ace495a5a2",
@@ -1245,19 +1245,19 @@
     "key": "BlockedModsDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Ezeztatu",
-    "context": "BlockedModsDialog | [unfinished]"
+    "context": "BlockedModsDialog"
   },
   {
     "key": "BlockedModsDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Ados",
-    "context": "BlockedModsDialog | [unfinished]"
+    "context": "BlockedModsDialog"
   },
   {
     "key": "BlockedModsDialog:3da474537ac3",
     "original": "Skip",
     "translation": "Saltatu",
-    "context": "BlockedModsDialog | [unfinished]"
+    "context": "BlockedModsDialog"
   },
   {
     "key": "BlockedModsDialog:fca41d5d010e",
@@ -1329,7 +1329,7 @@
     "key": "ChooseOfflineNameDialog:84c29015de33",
     "original": "Username",
     "translation": "Erabiltzaile-izena",
-    "context": "ChooseOfflineNameDialog | [unfinished]"
+    "context": "ChooseOfflineNameDialog"
   },
   {
     "key": "ChooseOfflineNameDialog:2310a5ac292a",
@@ -1347,13 +1347,13 @@
     "key": "ChooseOfflineNameDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Ezeztatu",
-    "context": "ChooseOfflineNameDialog | [unfinished]"
+    "context": "ChooseOfflineNameDialog"
   },
   {
     "key": "ChooseOfflineNameDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Ados",
-    "context": "ChooseOfflineNameDialog | [unfinished]"
+    "context": "ChooseOfflineNameDialog"
   },
   {
     "key": "ChooseProviderDialog:e31cf2b37509",
@@ -1479,7 +1479,7 @@
     "key": "ConcurrentTask:89e944f8eb37",
     "original": "Please wait...",
     "translation": "Itxaron mesedez...",
-    "context": "ConcurrentTask | [unfinished]"
+    "context": "ConcurrentTask"
   },
   {
     "key": "ConcurrentTask:e9b33b98f318",
@@ -1713,19 +1713,19 @@
     "key": "CopyInstanceDialog:c47ae15370cf",
     "original": "Help",
     "translation": "Laguntza",
-    "context": "CopyInstanceDialog | [unfinished]"
+    "context": "CopyInstanceDialog"
   },
   {
     "key": "CopyInstanceDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Ezeztatu",
-    "context": "CopyInstanceDialog | [unfinished]"
+    "context": "CopyInstanceDialog"
   },
   {
     "key": "CopyInstanceDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Ados",
-    "context": "CopyInstanceDialog | [unfinished]"
+    "context": "CopyInstanceDialog"
   },
   {
     "key": "CopyWorldTask:5cb8f4ad25e0",
@@ -1977,7 +1977,7 @@
     "key": "CreateShortcutDialog:709a23220f2c",
     "original": "Name",
     "translation": "Izena",
-    "context": "CreateShortcutDialog | [unfinished]"
+    "context": "CreateShortcutDialog"
   },
   {
     "key": "CreateShortcutDialog:c1253df1495f",
@@ -2133,7 +2133,7 @@
     "key": "CustomPage:d7decf1aa22b",
     "original": "Filter",
     "translation": "Iragazkia",
-    "context": "CustomPage | [unfinished]"
+    "context": "CustomPage"
   },
   {
     "key": "CustomPage:8fa41d59c259",
@@ -2151,25 +2151,25 @@
     "key": "CustomPage:b3f445893cac",
     "original": "Betas",
     "translation": "Betak",
-    "context": "CustomPage | [unfinished]"
+    "context": "CustomPage"
   },
   {
     "key": "CustomPage:7368c73dda80",
     "original": "Alphas",
     "translation": "Alfak",
-    "context": "CustomPage | [unfinished]"
+    "context": "CustomPage"
   },
   {
     "key": "CustomPage:e8f296b5904f",
     "original": "Experiments",
     "translation": "Experimentuak",
-    "context": "CustomPage | [unfinished]"
+    "context": "CustomPage"
   },
   {
     "key": "CustomPage:56e3badc4e6c",
     "original": "Refresh",
     "translation": "Freskatu",
-    "context": "CustomPage | [unfinished]"
+    "context": "CustomPage"
   },
   {
     "key": "CustomPage:74944fbb9862",
@@ -2181,7 +2181,7 @@
     "key": "CustomPage:6eef6648406c",
     "original": "None",
     "translation": "Ezta bat",
-    "context": "CustomPage | [unfinished]"
+    "context": "CustomPage"
   },
   {
     "key": "CustomPage:b5165545b367",
@@ -2193,19 +2193,19 @@
     "key": "CustomPage:3ab11b75ca36",
     "original": "Forge",
     "translation": "Forge",
-    "context": "CustomPage | [unfinished]"
+    "context": "CustomPage"
   },
   {
     "key": "CustomPage:a010de5c6165",
     "original": "Fabric",
     "translation": "Fabric",
-    "context": "CustomPage | [unfinished]"
+    "context": "CustomPage"
   },
   {
     "key": "CustomPage:01aa488891b0",
     "original": "Quilt",
     "translation": "Quilt",
-    "context": "CustomPage | [unfinished]"
+    "context": "CustomPage"
   },
   {
     "key": "CustomPage:bf134c686f5c",
@@ -2235,7 +2235,7 @@
     "key": "CustomPage:46c15b2a8e17",
     "original": "No versions are currently available for Minecraft %1",
     "translation": "Gaur egun ez dago Minecraft %1en bertsiorik erabilgarri",
-    "context": "CustomPage | [unfinished]"
+    "context": "CustomPage"
   },
   {
     "key": "DataMigrationTask:bf017b023177",
@@ -2265,13 +2265,13 @@
     "key": "DataPackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Izena",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:0092be542f99",
     "original": "Pack Format",
     "translation": "Pakete-formatua",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:4c24525b0aa0",
@@ -2283,7 +2283,7 @@
     "key": "DataPackFolderModel:b7152342a267",
     "original": "Size",
     "translation": "Tamaina",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:2aabcfc2668a",
@@ -2295,7 +2295,7 @@
     "key": "DataPackFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Bertsioa",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:fb91e24fa52d",
@@ -2385,7 +2385,7 @@
     "key": "DataPackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Errorea",
-    "context": "DataPackPage | [unfinished]"
+    "context": "DataPackPage"
   },
   {
     "key": "DataPackPage:1430f976c596",
@@ -2559,13 +2559,13 @@
     "key": "EnvironmentVariables:709a23220f2c",
     "original": "Name",
     "translation": "Izena",
-    "context": "EnvironmentVariables | [unfinished]"
+    "context": "EnvironmentVariables"
   },
   {
     "key": "EnvironmentVariables:8dce170de238",
     "original": "Value",
     "translation": "Balioa",
-    "context": "EnvironmentVariables | [unfinished]"
+    "context": "EnvironmentVariables"
   },
   {
     "key": "EnvironmentVariables:d3c88b119527",
@@ -2601,13 +2601,13 @@
     "key": "ExportInstanceDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Ezeztatu",
-    "context": "ExportInstanceDialog | [unfinished]"
+    "context": "ExportInstanceDialog"
   },
   {
     "key": "ExportInstanceDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Ados",
-    "context": "ExportInstanceDialog | [unfinished]"
+    "context": "ExportInstanceDialog"
   },
   {
     "key": "ExportInstanceDialog:4dee4f40d63e",
@@ -2709,25 +2709,25 @@
     "key": "ExportPackDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Ezeztatu",
-    "context": "ExportPackDialog | [unfinished]"
+    "context": "ExportPackDialog"
   },
   {
     "key": "ExportPackDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Ados",
-    "context": "ExportPackDialog | [unfinished]"
+    "context": "ExportPackDialog"
   },
   {
     "key": "ExportPackDialog:4dee4f40d63e",
     "original": "Export %1",
     "translation": "Esportatu %1",
-    "context": "ExportPackDialog | [unfinished]"
+    "context": "ExportPackDialog"
   },
   {
     "key": "ExportPackDialog:421a3cbacf93",
     "original": "Modrinth pack",
     "translation": "Modrinth paketea",
-    "context": "ExportPackDialog | [unfinished]"
+    "context": "ExportPackDialog"
   },
   {
     "key": "ExportPackDialog:f98e6c416295",
@@ -2739,7 +2739,7 @@
     "key": "ExportPackDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Errorea",
-    "context": "ExportPackDialog | [unfinished]"
+    "context": "ExportPackDialog"
   },
   {
     "key": "ExportToModListDialog:5d7f82640e98",
@@ -2751,7 +2751,7 @@
     "key": "ExportToModListDialog:c7f73bb54d92",
     "original": "Settings",
     "translation": "Ezarpenak",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExportToModListDialog:9f738ce8457f",
@@ -2811,7 +2811,7 @@
     "key": "ExportToModListDialog:2da600bf9404",
     "original": "Version",
     "translation": "Bertsioa",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExportToModListDialog:d2a52548bd08",
@@ -2853,13 +2853,13 @@
     "key": "ExportToModListDialog:af74f7c5362a",
     "original": "Copy",
     "translation": "Kopiatu",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExportToModListDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Ezeztatu",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExportToModListDialog:efc007a393f6",
@@ -2871,13 +2871,13 @@
     "key": "ExportToModListDialog:4dee4f40d63e",
     "original": "Export %1",
     "translation": "Esportatu %1",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExportToModListDialog:2c3cafa4db3f",
     "original": "File",
     "translation": "Fitxategia",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExternalResourcesPage:c3cd636a585b",
@@ -2913,7 +2913,7 @@
     "key": "ExternalResourcesPage:bce06414177f",
     "original": "Search",
     "translation": "Bilatu",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:256b10b1d26d",
@@ -3171,7 +3171,7 @@
     "key": "ExternalToolsPage:709a23220f2c",
     "original": "Name",
     "translation": "Izena",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:8901895fb1b1",
@@ -3309,7 +3309,7 @@
     "key": "ExternalToolsPage:4fa8cc860c52",
     "original": "Tools",
     "translation": "Erramintak",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExtractNatives:84b0b7872a3d",
@@ -3333,7 +3333,7 @@
     "key": "FTB::PackInstallTask:93fc42ea75d6",
     "original": "Could not understand pack manifest:\n",
     "translation": "Ezin izan da paketearen manifest paketea ulertu:",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:ef42318f68d9",
@@ -3357,7 +3357,7 @@
     "key": "FTB::PackInstallTask:7ff827f8d900",
     "original": "The following files are not available for download in third party launchers.<br/>You will need to manually download them and add them to the instance.",
     "translation": "Hurrengo fitxategiak ez daude eskuragarri hirugarren mailako launcherretan deskargatzeko.<br/> Eskuz deskargatu behar dituzu eta instanziari gehitu.",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:2df48fae0ac2",
@@ -3369,7 +3369,7 @@
     "key": "FTB::PackInstallTask:df237503973c",
     "original": "Downloading mods...",
     "translation": "Mod-ak deskargatzen...",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:7b02e924aa02",
@@ -3399,13 +3399,13 @@
     "key": "FTBImportAPP::FilterModel:5fa541307296",
     "original": "Sort by Name",
     "translation": "Ordenatu izenaren arabera",
-    "context": "FTBImportAPP::FilterModel | [unfinished]"
+    "context": "FTBImportAPP::FilterModel"
   },
   {
     "key": "FTBImportAPP::FilterModel:21eea1c9bdf3",
     "original": "Sort by Game Version",
     "translation": "Ordenatu jokoaren bertsioaren arabera",
-    "context": "FTBImportAPP::FilterModel | [unfinished]"
+    "context": "FTBImportAPP::FilterModel"
   },
   {
     "key": "FTBImportAPP::ImportFTBPage:ceaaa2c12d49",
@@ -3423,7 +3423,7 @@
     "key": "FTBImportAPP::ImportFTBPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Bilatu eta iragazi...",
-    "context": "FTBImportAPP::ImportFTBPage | [unfinished]"
+    "context": "FTBImportAPP::ImportFTBPage"
   },
   {
     "key": "FTBImportAPP::ImportFTBPage:dcf6a4fa462f",
@@ -3501,19 +3501,19 @@
     "key": "FlameCheckUpdate:1aab9f182430",
     "original": "Not installed",
     "translation": "Instalatu gabe",
-    "context": "FlameCheckUpdate | [unfinished]"
+    "context": "FlameCheckUpdate"
   },
   {
     "key": "FlameCheckUpdate:bc7819b34ff8",
     "original": "Unknown",
     "translation": "Ezezaguna",
-    "context": "FlameCheckUpdate | [unfinished]"
+    "context": "FlameCheckUpdate"
   },
   {
     "key": "FlameCreationTask:93fc42ea75d6",
     "original": "Could not understand pack manifest:\n",
     "translation": "Ezin izan da paketearen manifest paketea ulertu:",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:e0976e09621d",
@@ -3555,19 +3555,19 @@
     "key": "FlameCreationTask:54a1e48a12f3",
     "original": "Failed to get local metadata index for %1",
     "translation": "Ezin izan da lortu % 1eko metadatuen indizea",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:9638c0cc0435",
     "original": "Failed to find version for %1 loader",
     "translation": "Ezin izan da %1 kargatzailearentzat bertsioa aurkitu",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:394b0f2a985e",
     "original": "No loader version set for modpack!",
     "translation": "Ez da modpack-arentzat vertsioa ezarri!",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:e75af2bdf614",
@@ -3615,13 +3615,13 @@
     "key": "FlameCreationTask:327b7e57d4e1",
     "original": "Blocked mods found",
     "translation": "Blokeatutako modak aurkitu dira",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:7ff827f8d900",
     "original": "The following files are not available for download in third party launchers.<br/>You will need to manually download them and add them to the instance.",
     "translation": "Hurrengo fitxategiak ez daude eskuragarri hirugarren mailako launcherretan deskargatzeko.<br/> Eskuz deskargatu behar dituzu eta instanziari gehitu.",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:193c1dffab3c",
@@ -3639,7 +3639,7 @@
     "key": "FlameCreationTask:f9bc7a615403",
     "original": "%1 out of %2 complete",
     "translation": "%1 /%2 tik osatuta",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:9c36196243f9",
@@ -3741,7 +3741,7 @@
     "key": "FlamePage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "Hautatutako bertsioa:",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:2ba9121211dd",
@@ -3759,7 +3759,7 @@
     "key": "FlamePage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Bilatu eta iragazi...",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:754e270ce9ad",
@@ -3771,7 +3771,7 @@
     "key": "FlamePage:2ebd5dd0cbfe",
     "original": "Sort by Popularity",
     "translation": "Ospearen arabera ordenatu",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:3546d8e58e95",
@@ -3783,7 +3783,7 @@
     "key": "FlamePage:5fa541307296",
     "original": "Sort by Name",
     "translation": "Ordenatu izenaren arabera",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:d1db3d422497",
@@ -3807,7 +3807,7 @@
     "key": "FlamePage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Errorea",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:876074b47592",
@@ -3861,19 +3861,19 @@
     "key": "Ftb::FilterModel:5fa541307296",
     "original": "Sort by Name",
     "translation": "Ordenatu izenaren arabera",
-    "context": "Ftb::FilterModel | [unfinished]"
+    "context": "Ftb::FilterModel"
   },
   {
     "key": "FtbPage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "Hautatutako bertsioa:",
-    "context": "FtbPage | [unfinished]"
+    "context": "FtbPage"
   },
   {
     "key": "FtbPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Bilatu eta iragazi...",
-    "context": "FtbPage | [unfinished]"
+    "context": "FtbPage"
   },
   {
     "key": "FtbPage:8bb246929d5d",
@@ -3987,7 +3987,7 @@
     "key": "IconPickerDialog:fb74bcaf7699",
     "original": "Legacy",
     "translation": "Egonkorra",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:2a652ab1d9fa",
@@ -4017,13 +4017,13 @@
     "key": "IconPickerDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Ezeztatu",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Ados",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:027760ffe7da",
@@ -4089,7 +4089,7 @@
     "key": "ImportPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Errorea",
-    "context": "ImportPage | [unfinished]"
+    "context": "ImportPage"
   },
   {
     "key": "ImportPage:757d7c1814fd",
@@ -4155,13 +4155,13 @@
     "key": "ImportResourceDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Ezeztatu",
-    "context": "ImportResourceDialog | [unfinished]"
+    "context": "ImportResourceDialog"
   },
   {
     "key": "ImportResourceDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Ados",
-    "context": "ImportResourceDialog | [unfinished]"
+    "context": "ImportResourceDialog"
   },
   {
     "key": "InfoFrame:f806c6f1da3f",
@@ -4197,19 +4197,19 @@
     "key": "InstallLoaderDialog:e38044ca5f26",
     "original": "&Refresh",
     "translation": "&Freskatu",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Ados",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Ezeztatu",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:b5165545b367",
@@ -4221,25 +4221,25 @@
     "key": "InstallLoaderDialog:3ab11b75ca36",
     "original": "Forge",
     "translation": "Forge",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:a010de5c6165",
     "original": "Fabric",
     "translation": "Fabric",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:01aa488891b0",
     "original": "Quilt",
     "translation": "Quilt",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:bf134c686f5c",
     "original": "LiteLoader",
     "translation": "LiteLoader",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:af98ab0d8ec5",
@@ -4281,7 +4281,7 @@
     "key": "InstallLoaderPage:46c15b2a8e17",
     "original": "No versions are currently available for Minecraft %1",
     "translation": "Gaur egun ez dago Minecraft %1en bertsiorik erabilgarri",
-    "context": "InstallLoaderPage | [unfinished]"
+    "context": "InstallLoaderPage"
   },
   {
     "key": "InstallWorldTask:2c5d1322a3c8",
@@ -4395,13 +4395,13 @@
     "key": "InstanceTask:3da474537ac3",
     "original": "Skip",
     "translation": "Saltatu",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Errorea",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:dd17662eb1c4",
@@ -4467,13 +4467,13 @@
     "key": "InstanceWindow:769b0d960405",
     "original": "Ctrl+K",
     "translation": "Ktrl+K",
-    "context": "InstanceWindow | [unfinished]"
+    "context": "InstanceWindow"
   },
   {
     "key": "InstanceWindow:bbfa773e5a63",
     "original": "Close",
     "translation": "Itxi",
-    "context": "InstanceWindow | [unfinished]"
+    "context": "InstanceWindow"
   },
   {
     "key": "InstanceWindow:608d16441fb2",
@@ -4539,7 +4539,7 @@
     "key": "Java::InstallDialog:e38044ca5f26",
     "original": "&Refresh",
     "translation": "&Freskatu",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:a479c9c34e87",
@@ -4551,7 +4551,7 @@
     "key": "Java::InstallDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Ezeztatu",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:723ba985328e",
@@ -4593,7 +4593,7 @@
     "key": "Java::InstallDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Errorea",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::LocalJavaScanTask:52cef86f41c6",
@@ -4671,13 +4671,13 @@
     "key": "JavaPage:e963907dac5c",
     "original": "Remove",
     "translation": "Ezabatu",
-    "context": "JavaPage | [unfinished]"
+    "context": "JavaPage"
   },
   {
     "key": "JavaPage:56e3badc4e6c",
     "original": "Refresh",
     "translation": "Freskatu",
-    "context": "JavaPage | [unfinished]"
+    "context": "JavaPage"
   },
   {
     "key": "JavaPage:b4dae444a41b",
@@ -4695,7 +4695,7 @@
     "key": "JavaPage:8953e5799431",
     "original": "Confirm Deletion",
     "translation": "Ezabapena baieztatu",
-    "context": "JavaPage | [unfinished]"
+    "context": "JavaPage"
   },
   {
     "key": "JavaPage:8878b22d42a0",
@@ -5055,7 +5055,7 @@
     "key": "JavaWizardWidget:89c8a2851d17",
     "original": "Memory",
     "translation": "Memoria",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:a948355e4e3c",
@@ -5223,7 +5223,7 @@
     "key": "LaunchController:489d9b718140",
     "original": "Play demo?",
     "translation": "Demoa jokatu?",
-    "context": "LaunchController | [unfinished]"
+    "context": "LaunchController"
   },
   {
     "key": "LaunchController:977dc46abf35",
@@ -5235,7 +5235,7 @@
     "key": "LaunchController:f360b36bd072",
     "original": "Play Demo",
     "translation": "Demoa jokatu",
-    "context": "LaunchController | [unfinished]"
+    "context": "LaunchController"
   },
   {
     "key": "LaunchController:77dfd2135f4d",
@@ -5355,7 +5355,7 @@
     "key": "LaunchController:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Errorea",
-    "context": "LaunchController | [unfinished]"
+    "context": "LaunchController"
   },
   {
     "key": "LaunchController:08bb8f4f9b31",
@@ -5649,13 +5649,13 @@
     "key": "LauncherPage:61cc55aa0453",
     "original": "Add",
     "translation": "Gehitu",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:e963907dac5c",
     "original": "Remove",
     "translation": "Ezabatu",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:9b824218dd00",
@@ -6009,13 +6009,13 @@
     "key": "LegacyFMLLibrariesTask:914b462ecb84",
     "original": "Checking for FML libraries...",
     "translation": "FML liburutegiak bilatzen...",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:1906289a3356",
     "original": "Downloading FML libraries...",
     "translation": "FML liburutegiak deskargatzen...",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:4a36e8560168",
@@ -6045,13 +6045,13 @@
     "key": "LegacyFTB::FilterModel:5fa541307296",
     "original": "Sort by Name",
     "translation": "Ordenatu izenaren arabera",
-    "context": "LegacyFTB::FilterModel | [unfinished]"
+    "context": "LegacyFTB::FilterModel"
   },
   {
     "key": "LegacyFTB::FilterModel:21eea1c9bdf3",
     "original": "Sort by Game Version",
     "translation": "Ordenatu jokoaren bertsioaren arabera",
-    "context": "LegacyFTB::FilterModel | [unfinished]"
+    "context": "LegacyFTB::FilterModel"
   },
   {
     "key": "LegacyFTB::ListModel:d3b215ad8872",
@@ -6123,7 +6123,7 @@
     "key": "LegacyFTB::Page:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Bilatu eta iragazi...",
-    "context": "LegacyFTB::Page | [unfinished]"
+    "context": "LegacyFTB::Page"
   },
   {
     "key": "LegacyFTB::Page:dc5eb704bbca",
@@ -6159,13 +6159,13 @@
     "key": "LegacyFTB::Page:03fec0b5504e",
     "original": "Version selected:",
     "translation": "Hautatutako bertsioa:",
-    "context": "LegacyFTB::Page | [unfinished]"
+    "context": "LegacyFTB::Page"
   },
   {
     "key": "LegacyFTB::Page:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Errorea",
-    "context": "LegacyFTB::Page | [unfinished]"
+    "context": "LegacyFTB::Page"
   },
   {
     "key": "LegacyFTB::Page:e8ea0b767876",
@@ -6309,7 +6309,7 @@
     "key": "LogPage:bce06414177f",
     "original": "Search",
     "translation": "Bilatu",
-    "context": "LogPage | [unfinished]"
+    "context": "LogPage"
   },
   {
     "key": "LogPage:df251b06eefd",
@@ -6483,13 +6483,13 @@
     "key": "MSALoginDialog:89e944f8eb37",
     "original": "Please wait...",
     "translation": "Itxaron mesedez...",
-    "context": "MSALoginDialog | [unfinished]"
+    "context": "MSALoginDialog"
   },
   {
     "key": "MSALoginDialog:bae7d5be7082",
     "original": "Status",
     "translation": "Egoera",
-    "context": "MSALoginDialog | [unfinished]"
+    "context": "MSALoginDialog"
   },
   {
     "key": "MSALoginDialog:fd62c61f849b",
@@ -6519,7 +6519,7 @@
     "key": "MSALoginDialog:4b631f698425",
     "original": "Info",
     "translation": "informazioa",
-    "context": "MSALoginDialog | [unfinished]"
+    "context": "MSALoginDialog"
   },
   {
     "key": "MSALoginDialog:aa0b59de558f",
@@ -6645,7 +6645,7 @@
     "key": "MainWindow:19adc47be34b",
     "original": "Folders",
     "translation": "Karpetak",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:06a6f50d63ad",
@@ -6681,7 +6681,7 @@
     "key": "MainWindow:c47ae15370cf",
     "original": "Help",
     "translation": "Laguntza",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:a7163d114d1f",
@@ -7191,7 +7191,7 @@
     "key": "MainWindow:0b71510c3cd6",
     "original": "&Create instance",
     "translation": "Instantzia sortu",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:8cf964d759e7",
@@ -7227,7 +7227,7 @@
     "key": "MainWindow:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Errorea",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:1430f976c596",
@@ -7275,7 +7275,7 @@
     "key": "MainWindow:58340cf23de3",
     "original": "Modpack download",
     "translation": "Mod-paketea deskargatu",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:5b0c2aa91847",
@@ -7383,7 +7383,7 @@
     "key": "MainWindow:8953e5799431",
     "original": "Confirm Deletion",
     "translation": "Ezabapena baieztatu",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:6feaa281a00c",
@@ -7545,7 +7545,7 @@
     "key": "ManagedPackPage:164b3d4809f9",
     "original": "Changelog",
     "translation": "Aldaketak",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:becbf06fc51f",
@@ -7569,7 +7569,7 @@
     "key": "ManagedPackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Errorea",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:1430f976c596",
@@ -7629,7 +7629,7 @@
     "key": "ManagedPackPage:9d4741838842",
     "original": "Update Failed",
     "translation": "Eguneraketa huts egin du",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:cd2dbd6fb8fc",
@@ -7665,7 +7665,7 @@
     "key": "Meta::Index:709a23220f2c",
     "original": "Name",
     "translation": "Izena",
-    "context": "Meta::Index | [unfinished]"
+    "context": "Meta::Index"
   },
   {
     "key": "Meta::Index:04099ec66644",
@@ -7713,7 +7713,7 @@
     "key": "MinecraftInstance:1f8fc66933d4",
     "original": "Ctrl+Alt+O",
     "translation": "Ktrl+Alt+O",
-    "context": "MinecraftInstance | [unfinished]"
+    "context": "MinecraftInstance"
   },
   {
     "key": "MinecraftInstance:0ac5c4c9e408",
@@ -7911,7 +7911,7 @@
     "key": "MinecraftSettingsWidget:e027e57610f8",
     "original": "Java",
     "translation": "Java",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:eaef77aca961",
@@ -8079,25 +8079,25 @@
     "key": "MinecraftSettingsWidget:3ab11b75ca36",
     "original": "Forge",
     "translation": "Forge",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:a010de5c6165",
     "original": "Fabric",
     "translation": "Fabric",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:01aa488891b0",
     "original": "Quilt",
     "translation": "Quilt",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:bf134c686f5c",
     "original": "LiteLoader",
     "translation": "LiteLoader",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:99e2e94f2566",
@@ -8199,7 +8199,7 @@
     "key": "MinecraftSettingsWidget:d705cfd69aed",
     "original": "Enable MangoHud",
     "translation": "MangoHud gaitu",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:1d8ee2797ed3",
@@ -8229,13 +8229,13 @@
     "key": "MinecraftSettingsWidget:ac06ef9ee1f3",
     "original": "Account:",
     "translation": "Kontua:",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:47eeadcdfb06",
     "original": "Server address:",
     "translation": "Zerbitzariaren helbidea:",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:c48e024e0cec",
@@ -8307,7 +8307,7 @@
     "key": "MirrorListEditor:e963907dac5c",
     "original": "Remove",
     "translation": "Ezabatu",
-    "context": "MirrorListEditor | [unfinished]"
+    "context": "MirrorListEditor"
   },
   {
     "key": "MirrorListEditor:cb0ad25e7101",
@@ -8319,7 +8319,7 @@
     "key": "MirrorListEditor:61cc55aa0453",
     "original": "Add",
     "translation": "Gehitu",
-    "context": "MirrorListEditor | [unfinished]"
+    "context": "MirrorListEditor"
   },
   {
     "key": "MirrorListEditor:226188f5c23d",
@@ -8355,19 +8355,19 @@
     "key": "ModFilterWidget:3ab11b75ca36",
     "original": "Forge",
     "translation": "Forge",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:a010de5c6165",
     "original": "Fabric",
     "translation": "Fabric",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:01aa488891b0",
     "original": "Quilt",
     "translation": "Quilt",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:abeed86f05bd",
@@ -8379,7 +8379,7 @@
     "key": "ModFilterWidget:bf134c686f5c",
     "original": "LiteLoader",
     "translation": "LiteLoader",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:99e2e94f2566",
@@ -8481,7 +8481,7 @@
     "key": "ModFilterWidget:bc7819b34ff8",
     "original": "Unknown",
     "translation": "Ezezaguna",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:0485bc248e29",
@@ -8583,7 +8583,7 @@
     "key": "ModFilterWidget:40ab4c0ce406",
     "original": "All Versions",
     "translation": "Bertsio guztiak",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFolderModel:2c3cafa4db3f",
@@ -8595,7 +8595,7 @@
     "key": "ModFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Izena",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:2da600bf9404",
@@ -8619,7 +8619,7 @@
     "key": "ModFolderModel:b7152342a267",
     "original": "Size",
     "translation": "Tamaina",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:26528381ea05",
@@ -8877,7 +8877,7 @@
     "key": "ModFolderPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Errorea",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:1430f976c596",
@@ -8997,7 +8997,7 @@
     "key": "ModFolderPage:cc459f63a7ae",
     "original": "Mods",
     "translation": "Mod-ak",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModMinecraftJar:a7125c305a12",
@@ -9021,7 +9021,7 @@
     "key": "Modrinth::ModpackListModel:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Errorea",
-    "context": "Modrinth::ModpackListModel | [unfinished]"
+    "context": "Modrinth::ModpackListModel"
   },
   {
     "key": "Modrinth::ModpackListModel:e7235f672e3a",
@@ -9051,13 +9051,13 @@
     "key": "ModrinthCheckUpdate:1aab9f182430",
     "original": "Not installed",
     "translation": "Instalatu gabe",
-    "context": "ModrinthCheckUpdate | [unfinished]"
+    "context": "ModrinthCheckUpdate"
   },
   {
     "key": "ModrinthCheckUpdate:bc7819b34ff8",
     "original": "Unknown",
     "translation": "Ezezaguna",
-    "context": "ModrinthCheckUpdate | [unfinished]"
+    "context": "ModrinthCheckUpdate"
   },
   {
     "key": "ModrinthCheckUpdate:34affdf46b9d",
@@ -9129,7 +9129,7 @@
     "key": "ModrinthCreationTask:f9bc7a615403",
     "original": "%1 out of %2 complete",
     "translation": "%1 /%2 tik osatuta",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:df237503973c",
@@ -9183,7 +9183,7 @@
     "key": "ModrinthManagedPackPage:421a3cbacf93",
     "original": "Modrinth pack",
     "translation": "Modrinth paketea",
-    "context": "ModrinthManagedPackPage | [unfinished]"
+    "context": "ModrinthManagedPackPage"
   },
   {
     "key": "ModrinthPackExportTask:4c74a1167874",
@@ -9249,7 +9249,7 @@
     "key": "ModrinthPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Errorea",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:876074b47592",
@@ -9315,13 +9315,13 @@
     "key": "ModrinthPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Bilatu eta iragazi...",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "Hautatutako bertsioa:",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:edcad43541b4",
@@ -9357,7 +9357,7 @@
     "key": "Net::Request:50d8b4a941c2",
     "original": "unknown",
     "translation": "ezezaguna",
-    "context": "Net::Request | [unfinished]"
+    "context": "Net::Request"
   },
   {
     "key": "Net::Request:5b17125e5647",
@@ -9429,7 +9429,7 @@
     "key": "NetworkJobFailedDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Errorea",
-    "context": "NetworkJobFailedDialog | [unfinished]"
+    "context": "NetworkJobFailedDialog"
   },
   {
     "key": "NetworkJobFailedDialog:7b52603bb25e",
@@ -9471,7 +9471,7 @@
     "key": "NewComponentDialog:709a23220f2c",
     "original": "Name",
     "translation": "Izena",
-    "context": "NewComponentDialog | [unfinished]"
+    "context": "NewComponentDialog"
   },
   {
     "key": "NewComponentDialog:e2577dd78b54",
@@ -9483,13 +9483,13 @@
     "key": "NewComponentDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Ezeztatu",
-    "context": "NewComponentDialog | [unfinished]"
+    "context": "NewComponentDialog"
   },
   {
     "key": "NewComponentDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Ados",
-    "context": "NewComponentDialog | [unfinished]"
+    "context": "NewComponentDialog"
   },
   {
     "key": "NewInstanceDialog:a8296e726af3",
@@ -9519,25 +9519,25 @@
     "key": "NewInstanceDialog:f6b2246c64fa",
     "original": "No group",
     "translation": "Talderik ez",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Ados",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Ezeztatu",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:c47ae15370cf",
     "original": "Help",
     "translation": "Laguntza",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:0e06e81ed34d",
@@ -9573,7 +9573,7 @@
     "key": "NewsDialog:bbfa773e5a63",
     "original": "Close",
     "translation": "Itxi",
-    "context": "NewsDialog | [unfinished]"
+    "context": "NewsDialog"
   },
   {
     "key": "NewsDialog:a5601a63d0ae",
@@ -9855,13 +9855,13 @@
     "key": "OptiFineInstallDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Instalatu",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptiFineInstallDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Ezeztatu",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptionalModDialog:12e9f3729ee6",
@@ -9891,13 +9891,13 @@
     "key": "OptionalModDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Ezeztatu",
-    "context": "OptionalModDialog | [unfinished]"
+    "context": "OptionalModDialog"
   },
   {
     "key": "OptionalModDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Ados",
-    "context": "OptionalModDialog | [unfinished]"
+    "context": "OptionalModDialog"
   },
   {
     "key": "OtherLogsPage:d4188c14e699",
@@ -9945,7 +9945,7 @@
     "key": "OtherLogsPage:0767c44f5140",
     "original": "Keep updating",
     "translation": "Jarraitu eguneraketarekin",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:a7392043b11d",
@@ -9999,13 +9999,13 @@
     "key": "OtherLogsPage:bce06414177f",
     "original": "Search",
     "translation": "Bilatu",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Errorea",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:a2c32945bddc",
@@ -10023,7 +10023,7 @@
     "key": "OtherLogsPage:8953e5799431",
     "original": "Confirm Deletion",
     "translation": "Ezabapena baieztatu",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:4ba919b5c8fd",
@@ -10053,7 +10053,7 @@
     "key": "OtherLogsPage:719ea396ad92",
     "original": "Clear",
     "translation": "Garbitu",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:096311b5638e",
@@ -10101,85 +10101,85 @@
     "key": "PackInstallTask:93fc42ea75d6",
     "original": "Could not understand pack manifest:\n",
     "translation": "Ezin izan da paketearen manifest paketea ulertu:",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:1cc558d32fa4",
     "original": "Unsupported installation mode",
     "translation": "Instalazio Modua ez dago onartuta",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:608a6e16a154",
     "original": "Failed to get local metadata index for '%1' v%2",
     "translation": "Ezin izan da lortu metadatuen indizea % 1 eta % 2 artean",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:a61c5171cb28",
     "original": "Deleting existing files...",
     "translation": "Dauden artxiboak ezabatzen...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:639e6287333c",
     "original": "Unknown mod type: %1",
     "translation": "Ezezaguna den mod mota: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:54a1e48a12f3",
     "original": "Failed to get local metadata index for %1",
     "translation": "Ezin izan da lortu % 1eko metadatuen indizea",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:9638c0cc0435",
     "original": "Failed to find version for %1 loader",
     "translation": "Ezin izan da %1 kargatzailearentzat bertsioa aurkitu",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:394b0f2a985e",
     "original": "No loader version set for modpack!",
     "translation": "Ez da modpack-arentzat vertsioa ezarri!",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:8ea0186a5329",
     "original": "Unknown or unsupported download type: %1",
     "translation": "Ezezaguna edo onartezina den download mota: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:db82f5ce4d92",
     "original": "Downloading configs...",
     "translation": "Konfigurazioak deskargatzen...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:296053b61434",
     "original": "Config download",
     "translation": "Konfigurazioak deskargatuta",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:88e116160aff",
     "original": "Extracting configs...",
     "translation": "Konfigurazioak erauzten...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:6e97ce93553c",
     "original": "Selecting optional mods...",
     "translation": "Aukerako moda -ak hautatzen...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:df237503973c",
     "original": "Downloading mods...",
     "translation": "Mod-ak deskargatzen...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:7b02e924aa02",
@@ -10191,7 +10191,7 @@
     "key": "PackInstallTask:e91e47f5379a",
     "original": "Unknown download type: %1",
     "translation": "Ezezaguna den download mota: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:d4e059888d25",
@@ -10203,55 +10203,55 @@
     "key": "PackInstallTask:327b7e57d4e1",
     "original": "Blocked mods found",
     "translation": "Blokeatutako modak aurkitu dira",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:7ff827f8d900",
     "original": "The following files are not available for download in third party launchers.<br/>You will need to manually download them and add them to the instance.",
     "translation": "Hurrengo fitxategiak ez daude eskuragarri hirugarren mailako launcherretan deskargatzeko.<br/> Eskuz deskargatu behar dituzu eta instanziari gehitu.",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:f9bc7a615403",
     "original": "%1 out of %2 complete",
     "translation": "%1 /%2 tik osatuta",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:3138740f4b31",
     "original": "Failed to extract mods...",
     "translation": "Arazoa Mod-ak erauzten...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:e87c1bb107c0",
     "original": "Extracting mods...",
     "translation": "Mod-ak erauzten...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:7d3e34e21534",
     "original": "Installing modpack",
     "translation": "Mod-paketea instalatzen",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:a568ebaf6ef5",
     "original": "Failed to create libraries component",
     "translation": "Errorea liburutegien osagaia sortzean",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:c9c9e81a13ed",
     "original": "Unknown loader type: ",
     "translation": "Ezezaguna den loader-a:",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:76fefafc38cf",
     "original": "Failed to create pack component",
     "translation": "Ez da sortu pakete-osagairik",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackProfile:b1590d210090",
@@ -10263,7 +10263,7 @@
     "key": "PackProfile:709a23220f2c",
     "original": "Name",
     "translation": "Izena",
-    "context": "PackProfile | [unfinished]"
+    "context": "PackProfile"
   },
   {
     "key": "PackProfile:2da600bf9404",
@@ -10287,7 +10287,7 @@
     "key": "PageDialog:c47ae15370cf",
     "original": "Help",
     "translation": "Laguntza",
-    "context": "PageDialog | [unfinished]"
+    "context": "PageDialog"
   },
   {
     "key": "PasteWizardPage:80446347ede5",
@@ -10797,13 +10797,13 @@
     "key": "ProfileSelectDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Ezeztatu",
-    "context": "ProfileSelectDialog | [unfinished]"
+    "context": "ProfileSelectDialog"
   },
   {
     "key": "ProfileSelectDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Ados",
-    "context": "ProfileSelectDialog | [unfinished]"
+    "context": "ProfileSelectDialog"
   },
   {
     "key": "ProfileSetupDialog:ad6e16b3c052",
@@ -10821,13 +10821,13 @@
     "key": "ProfileSetupDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Ezeztatu",
-    "context": "ProfileSetupDialog | [unfinished]"
+    "context": "ProfileSetupDialog"
   },
   {
     "key": "ProfileSetupDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Ados",
-    "context": "ProfileSetupDialog | [unfinished]"
+    "context": "ProfileSetupDialog"
   },
   {
     "key": "ProfileSetupDialog:8b0fde7324a8",
@@ -10917,7 +10917,7 @@
     "key": "ProxyPage:3deb74565196",
     "original": "Type",
     "translation": "Mota",
-    "context": "ProxyPage | [unfinished]"
+    "context": "ProxyPage"
   },
   {
     "key": "ProxyPage:9a2029660bcc",
@@ -11481,7 +11481,7 @@
     "key": "QObject:7dd30f0a95d5",
     "original": "mod",
     "translation": "mod-ak",
-    "context": "QObject | The singular version of 'mods' | [unfinished]"
+    "context": "QObject | The singular version of 'mods'"
   },
   {
     "key": "QObject:50d8b4a941c2",
@@ -11499,7 +11499,7 @@
     "key": "QObject:2ebd5dd0cbfe",
     "original": "Sort by Popularity",
     "translation": "Ospearen arabera ordenatu",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3546d8e58e95",
@@ -11511,7 +11511,7 @@
     "key": "QObject:5fa541307296",
     "original": "Sort by Name",
     "translation": "Ordenatu izenaren arabera",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:d1db3d422497",
@@ -11535,7 +11535,7 @@
     "key": "QObject:21eea1c9bdf3",
     "original": "Sort by Game Version",
     "translation": "Ordenatu jokoaren bertsioaren arabera",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:c2bdba99958f",
@@ -11583,7 +11583,7 @@
     "key": "QObject:bc7819b34ff8",
     "original": "Unknown",
     "translation": "Ezezaguna",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:73b44ec0895a",
@@ -11631,49 +11631,49 @@
     "key": "QObject:1b927decdbb0",
     "original": "Unchecked",
     "translation": "Markatu gabea",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:e01fa717bacc",
     "original": "Offline",
     "translation": "Konexiorik gabe",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:20c7c5522fc2",
     "original": "Ready",
     "translation": "Prest",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3b4dfc971393",
     "original": "Working",
     "translation": "Lanean",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:2d4784200261",
     "original": "Errored",
     "translation": "Erroreagaz",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:a689a999a5e6",
     "original": "Expired",
     "translation": "Iraungia",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:f4f4473df8cb",
     "original": "Disabled",
     "translation": "Desgaituta",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:149ecfc76f45",
     "original": "Gone",
     "translation": "Desagertua",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3b81c344597f",
@@ -11967,7 +11967,7 @@
     "key": "QObject:3fc66ee35714",
     "original": "mods",
     "translation": "mod-ak",
-    "context": "QObject | The plural version of 'mod' | [unfinished]"
+    "context": "QObject | The plural version of 'mod'"
   },
   {
     "key": "QObject:2ad8259fa9ee",
@@ -12069,7 +12069,7 @@
     "key": "ResourceDownload::ResourceDownloadDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Errorea",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:1430f976c596",
@@ -12087,13 +12087,13 @@
     "key": "ResourceDownload::ResourceDownloadDialog:bba785be0ff7",
     "original": "Change %1 version",
     "translation": "%1 Bertsioa aldatu",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:3fc66ee35714",
     "original": "mods",
     "translation": "mod-ak",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:2ad8259fa9ee",
@@ -12135,7 +12135,7 @@
     "key": "ResourceDownload::ResourceModel:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Errorea",
-    "context": "ResourceDownload::ResourceModel | [unfinished]"
+    "context": "ResourceDownload::ResourceModel"
   },
   {
     "key": "ResourceDownload::ResourceModel:15bf96b86b8e",
@@ -12201,7 +12201,7 @@
     "key": "ResourceDownload::ResourcePage:15cdc321f2aa",
     "original": "External links:",
     "translation": "Kanpo-loturak:",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:d0a1a1d37cdf",
@@ -12297,7 +12297,7 @@
     "key": "ResourceDownload::ResourcePage:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Ezeztatu",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:39d43199988a",
@@ -12339,7 +12339,7 @@
     "key": "ResourceFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Izena",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:4c24525b0aa0",
@@ -12351,13 +12351,13 @@
     "key": "ResourceFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Bertsioa",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:b7152342a267",
     "original": "Size",
     "translation": "Tamaina",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:7ceee3f3615a",
@@ -12465,13 +12465,13 @@
     "key": "ResourcePackFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Bertsioa",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:b7152342a267",
     "original": "Size",
     "translation": "Tamaina",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:7ceee3f3615a",
@@ -12537,7 +12537,7 @@
     "key": "ResourcePackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Izena",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:0092be542f99",
@@ -12585,7 +12585,7 @@
     "key": "ResourcePackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Errorea",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:1430f976c596",
@@ -12657,7 +12657,7 @@
     "key": "ResourcePage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "Hautatutako bertsioa:",
-    "context": "ResourcePage | [unfinished]"
+    "context": "ResourcePage"
   },
   {
     "key": "ResourcePage:c3c949f932a9",
@@ -12711,7 +12711,7 @@
     "key": "ResourceUpdateDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Errorea",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:1430f976c596",
@@ -12771,7 +12771,7 @@
     "key": "ResourceUpdateDialog:1aab9f182430",
     "original": "Not installed",
     "translation": "Instalatu gabe",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:70d5f8453b33",
@@ -12789,7 +12789,7 @@
     "key": "ResourceUpdateDialog:d3c6bba27f6b",
     "original": "Generating metadata...",
     "translation": "Metadata sortzen...",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:feb2a0becdd9",
@@ -12855,13 +12855,13 @@
     "key": "ReviewMessageBox:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Ezeztatu",
-    "context": "ReviewMessageBox | [unfinished]"
+    "context": "ReviewMessageBox"
   },
   {
     "key": "ReviewMessageBox:9ce3bd4224c8",
     "original": "OK",
     "translation": "Ados",
-    "context": "ReviewMessageBox | [unfinished]"
+    "context": "ReviewMessageBox"
   },
   {
     "key": "ReviewMessageBox:e618688160db",
@@ -13023,7 +13023,7 @@
     "key": "ScreenshotsPage:8953e5799431",
     "original": "Confirm Deletion",
     "translation": "Ezabapena baieztatu",
-    "context": "ScreenshotsPage | [unfinished]"
+    "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:597b6356e6ce",
@@ -13047,19 +13047,19 @@
     "key": "ScrollMessageBox:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Ezeztatu",
-    "context": "ScrollMessageBox | [unfinished]"
+    "context": "ScrollMessageBox"
   },
   {
     "key": "ScrollMessageBox:9ce3bd4224c8",
     "original": "OK",
     "translation": "Ados",
-    "context": "ScrollMessageBox | [unfinished]"
+    "context": "ScrollMessageBox"
   },
   {
     "key": "SelectReleaseAssetDialog:2da600bf9404",
     "original": "Version",
     "translation": "Bertsioa",
-    "context": "SelectReleaseAssetDialog | [unfinished]"
+    "context": "SelectReleaseAssetDialog"
   },
   {
     "key": "SelectReleaseAssetDialog:89cba7b3e72d",
@@ -13089,7 +13089,7 @@
     "key": "SelectReleaseDialog:2da600bf9404",
     "original": "Version",
     "translation": "Bertsioa",
-    "context": "SelectReleaseDialog | [unfinished]"
+    "context": "SelectReleaseDialog"
   },
   {
     "key": "SelectReleaseDialog:89cba7b3e72d",
@@ -13107,13 +13107,13 @@
     "key": "SelectReleaseDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Ezeztatu",
-    "context": "SelectReleaseDialog | [unfinished]"
+    "context": "SelectReleaseDialog"
   },
   {
     "key": "SelectReleaseDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Ados",
-    "context": "SelectReleaseDialog | [unfinished]"
+    "context": "SelectReleaseDialog"
   },
   {
     "key": "SequentialTask:829c6e1cd1e8",
@@ -13131,7 +13131,7 @@
     "key": "ServersModel:709a23220f2c",
     "original": "Name",
     "translation": "Izena",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersModel:d70f93df5e8f",
@@ -13149,7 +13149,7 @@
     "key": "ServersModel:2da600bf9404",
     "original": "Version",
     "translation": "Bertsioa",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersModel:6b68e9797399",
@@ -13161,13 +13161,13 @@
     "key": "ServersModel:e01fa717bacc",
     "original": "Offline",
     "translation": "Konexiorik gabe",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersPage:49b93f720a4a",
     "original": "&Name",
     "translation": "Izena",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:d70f93df5e8f",
@@ -13209,7 +13209,7 @@
     "key": "ServersPage:61cc55aa0453",
     "original": "Add",
     "translation": "Gehitu",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:e963907dac5c",
@@ -13239,7 +13239,7 @@
     "key": "ServersPage:56e3badc4e6c",
     "original": "Refresh",
     "translation": "Freskatu",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:acca64b83535",
@@ -13293,7 +13293,7 @@
     "key": "SetupWizard:e38044ca5f26",
     "original": "&Refresh",
     "translation": "&Freskatu",
-    "context": "SetupWizard | [unfinished]"
+    "context": "SetupWizard"
   },
   {
     "key": "SetupWizard:89e35727270b",
@@ -13341,7 +13341,7 @@
     "key": "ShaderPackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Errorea",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:1430f976c596",
@@ -13473,7 +13473,7 @@
     "key": "SkinManageDialog:d5ffb218bcae",
     "original": "Cape",
     "translation": "Kapa",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:f3410407219b",
@@ -13485,7 +13485,7 @@
     "key": "SkinManageDialog:027760ffe7da",
     "original": "Open Folder",
     "translation": "Karpeta ireki",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:cf4da3174d7d",
@@ -13551,13 +13551,13 @@
     "key": "SkinManageDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Ezeztatu",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Ados",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:126f0e0caf65",
@@ -13641,7 +13641,7 @@
     "key": "SkinManageDialog:8953e5799431",
     "original": "Confirm Deletion",
     "translation": "Ezabapena baieztatu",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:a610463d67da",
@@ -13749,7 +13749,7 @@
     "key": "Task:b1590d210090",
     "original": "Aborted",
     "translation": "Bertan behera utzita",
-    "context": "Task | [unfinished]"
+    "context": "Task"
   },
   {
     "key": "TaskStepWrapper:7385614b3500",
@@ -13773,13 +13773,13 @@
     "key": "Technic::SingleZipPackInstallTask:58340cf23de3",
     "original": "Modpack download",
     "translation": "Mod-paketea deskargatu",
-    "context": "Technic::SingleZipPackInstallTask | [unfinished]"
+    "context": "Technic::SingleZipPackInstallTask"
   },
   {
     "key": "Technic::SingleZipPackInstallTask:947d98cb6a3e",
     "original": "Extracting modpack",
     "translation": "Mod-paketea erauzten",
-    "context": "Technic::SingleZipPackInstallTask | [unfinished]"
+    "context": "Technic::SingleZipPackInstallTask"
   },
   {
     "key": "Technic::SingleZipPackInstallTask:8677f022f1b1",
@@ -13815,13 +13815,13 @@
     "key": "Technic::SolderPackInstallTask:93fc42ea75d6",
     "original": "Could not understand pack manifest:\n",
     "translation": "Ezin izan da paketearen manifest paketea ulertu:",
-    "context": "Technic::SolderPackInstallTask | [unfinished]"
+    "context": "Technic::SolderPackInstallTask"
   },
   {
     "key": "Technic::SolderPackInstallTask:947d98cb6a3e",
     "original": "Extracting modpack",
     "translation": "Mod-paketea erauzten",
-    "context": "Technic::SolderPackInstallTask | [unfinished]"
+    "context": "Technic::SolderPackInstallTask"
   },
   {
     "key": "Technic::SolderPackInstallTask:8677f022f1b1",
@@ -13893,19 +13893,19 @@
     "key": "TechnicPage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "Hautatutako bertsioa:",
-    "context": "TechnicPage | [unfinished]"
+    "context": "TechnicPage"
   },
   {
     "key": "TechnicPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Bilatu eta iragazi...",
-    "context": "TechnicPage | [unfinished]"
+    "context": "TechnicPage"
   },
   {
     "key": "TechnicPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Errorea",
-    "context": "TechnicPage | [unfinished]"
+    "context": "TechnicPage"
   },
   {
     "key": "TechnicPage:876074b47592",
@@ -13917,7 +13917,7 @@
     "key": "TexturePackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Izena",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:4c24525b0aa0",
@@ -13929,7 +13929,7 @@
     "key": "TexturePackFolderModel:b7152342a267",
     "original": "Size",
     "translation": "Tamaina",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:7ceee3f3615a",
@@ -14031,7 +14031,7 @@
     "key": "TexturePackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Errorea",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:1430f976c596",
@@ -14097,7 +14097,7 @@
     "key": "ThemeWizardPage:41def7a0febe",
     "original": "Appearance",
     "translation": "Itxura",
-    "context": "ThemeWizardPage | [unfinished]"
+    "context": "ThemeWizardPage"
   },
   {
     "key": "ThemeWizardPage:8ba2ac6395c2",
@@ -14325,7 +14325,7 @@
     "key": "VersionPage:bce06414177f",
     "original": "Search",
     "translation": "Bilatu",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:fdffaea4e563",
@@ -14337,7 +14337,7 @@
     "key": "VersionPage:c6370aded903",
     "original": "Move Up",
     "translation": "Gora mugitu",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:9e168a310eed",
@@ -14349,7 +14349,7 @@
     "key": "VersionPage:4158bedc2fcd",
     "original": "Move Down",
     "translation": "Behera mugitu",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:e369475f4b94",
@@ -14511,7 +14511,7 @@
     "key": "VersionPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Errorea",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:5e50cf25a163",
@@ -14625,7 +14625,7 @@
     "key": "VersionPage:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Instalatu",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:cae9674c84d8",
@@ -14673,7 +14673,7 @@
     "key": "VersionProxyModel:3deb74565196",
     "original": "Type",
     "translation": "Mota",
-    "context": "VersionProxyModel | [unfinished]"
+    "context": "VersionProxyModel"
   },
   {
     "key": "VersionProxyModel:b040b4179b8b",
@@ -14781,13 +14781,13 @@
     "key": "VersionSelectDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Ados",
-    "context": "VersionSelectDialog | [unfinished]"
+    "context": "VersionSelectDialog"
   },
   {
     "key": "VersionSelectDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Ezeztatu",
-    "context": "VersionSelectDialog | [unfinished]"
+    "context": "VersionSelectDialog"
   },
   {
     "key": "VersionSelectDialog:83b94bf4f93a",
@@ -14805,19 +14805,19 @@
     "key": "VersionSelectDialog:e38044ca5f26",
     "original": "&Refresh",
     "translation": "&Freskatu",
-    "context": "VersionSelectDialog | [unfinished]"
+    "context": "VersionSelectDialog"
   },
   {
     "key": "VersionSelectWidget:bce06414177f",
     "original": "Search",
     "translation": "Bilatu",
-    "context": "VersionSelectWidget | [unfinished]"
+    "context": "VersionSelectWidget"
   },
   {
     "key": "VersionSelectWidget:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Errorea",
-    "context": "VersionSelectWidget | [unfinished]"
+    "context": "VersionSelectWidget"
   },
   {
     "key": "VersionSelectWidget:4cb9e107bc5a",
@@ -14937,7 +14937,7 @@
     "key": "WorldListPage:e0d73143de80",
     "original": "Join",
     "translation": "Sartu",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:d3f4cb898fbe",
@@ -14991,7 +14991,7 @@
     "key": "WorldListPage:4fa8cc860c52",
     "original": "Tools",
     "translation": "Erramintak",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:dbd185310812",
@@ -15291,13 +15291,13 @@
     "key": "YggdrasilLoginDialog:84c29015de33",
     "original": "Username",
     "translation": "Erabiltzaile-izena",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:8be3c943b160",
     "original": "Password",
     "translation": "Pasahitza",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:ada2e9e96fa9",
@@ -15309,7 +15309,7 @@
     "key": "YggdrasilLoginDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Ezeztatu",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:ca359109578d",

@@ -9,7 +9,7 @@
     "key": "APIPage:4330668061cc",
     "original": "Paste Service &Type",
     "translation": "Տեղադրել ծառայության &տեսակը",
-    "context": "APIPage | [unfinished]"
+    "context": "APIPage"
   },
   {
     "key": "APIPage:ce2a22194682",
@@ -135,7 +135,7 @@
     "key": "APIPage:3e217d37be41",
     "original": "Mod&rinth",
     "translation": "Mod&rinth",
-    "context": "APIPage | [unfinished]"
+    "context": "APIPage"
   },
   {
     "key": "APIPage:80e98dac7423",
@@ -147,7 +147,7 @@
     "key": "APIPage:9967c117bdbc",
     "original": "&CurseForge",
     "translation": "&CurseForge",
-    "context": "APIPage | [unfinished]"
+    "context": "APIPage"
   },
   {
     "key": "APIPage:8cf74655ad44",
@@ -267,7 +267,7 @@
     "key": "AboutDialog:93e906e11b63",
     "original": "Build Date:",
     "translation": "Տարբերակի համարը:",
-    "context": "AboutDialog | [unfinished]"
+    "context": "AboutDialog"
   },
   {
     "key": "AboutDialog:8da5456dbc7a",
@@ -399,7 +399,7 @@
     "key": "AccountListPage:26292bff63ee",
     "original": "Remo&ve",
     "translation": "Հեռացնել",
-    "context": "AccountListPage | [unfinished]"
+    "context": "AccountListPage"
   },
   {
     "key": "AccountListPage:a7beb323e9ef",
@@ -501,7 +501,7 @@
     "key": "AccountListPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Սխալ",
-    "context": "AccountListPage | [unfinished]"
+    "context": "AccountListPage"
   },
   {
     "key": "AccountListPage:e1fa0520510c",
@@ -687,7 +687,7 @@
     "key": "Application:c7f73bb54d92",
     "original": "Settings",
     "translation": "Կարգավորումներ",
-    "context": "Application | [unfinished]"
+    "context": "Application"
   },
   {
     "key": "Application:e8ff2cb9fbea",
@@ -1251,7 +1251,7 @@
     "key": "BlockedModsDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Լավ",
-    "context": "BlockedModsDialog | [unfinished]"
+    "context": "BlockedModsDialog"
   },
   {
     "key": "BlockedModsDialog:3da474537ac3",
@@ -1353,7 +1353,7 @@
     "key": "ChooseOfflineNameDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Լավ",
-    "context": "ChooseOfflineNameDialog | [unfinished]"
+    "context": "ChooseOfflineNameDialog"
   },
   {
     "key": "ChooseProviderDialog:e31cf2b37509",
@@ -1713,7 +1713,7 @@
     "key": "CopyInstanceDialog:c47ae15370cf",
     "original": "Help",
     "translation": "Օգնություն",
-    "context": "CopyInstanceDialog | [unfinished]"
+    "context": "CopyInstanceDialog"
   },
   {
     "key": "CopyInstanceDialog:77dfd2135f4d",
@@ -1725,7 +1725,7 @@
     "key": "CopyInstanceDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Լավ",
-    "context": "CopyInstanceDialog | [unfinished]"
+    "context": "CopyInstanceDialog"
   },
   {
     "key": "CopyWorldTask:5cb8f4ad25e0",
@@ -1977,7 +1977,7 @@
     "key": "CreateShortcutDialog:709a23220f2c",
     "original": "Name",
     "translation": "Անուն",
-    "context": "CreateShortcutDialog | [unfinished]"
+    "context": "CreateShortcutDialog"
   },
   {
     "key": "CreateShortcutDialog:c1253df1495f",
@@ -2265,7 +2265,7 @@
     "key": "DataPackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Անուն",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:0092be542f99",
@@ -2385,7 +2385,7 @@
     "key": "DataPackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Սխալ",
-    "context": "DataPackPage | [unfinished]"
+    "context": "DataPackPage"
   },
   {
     "key": "DataPackPage:1430f976c596",
@@ -2559,19 +2559,19 @@
     "key": "EnvironmentVariables:709a23220f2c",
     "original": "Name",
     "translation": "Անուն",
-    "context": "EnvironmentVariables | [unfinished]"
+    "context": "EnvironmentVariables"
   },
   {
     "key": "EnvironmentVariables:8dce170de238",
     "original": "Value",
     "translation": "Արժեքը",
-    "context": "EnvironmentVariables | [unfinished]"
+    "context": "EnvironmentVariables"
   },
   {
     "key": "EnvironmentVariables:d3c88b119527",
     "original": "&Add",
     "translation": "&Ավելացնել",
-    "context": "EnvironmentVariables | [unfinished]"
+    "context": "EnvironmentVariables"
   },
   {
     "key": "EnvironmentVariables:05842917076f",
@@ -2583,7 +2583,7 @@
     "key": "EnvironmentVariables:763c2ebc2799",
     "original": "&Remove",
     "translation": "&Հեռացնել",
-    "context": "EnvironmentVariables | [unfinished]"
+    "context": "EnvironmentVariables"
   },
   {
     "key": "EnvironmentVariables:a2f5bd7a7693",
@@ -2607,7 +2607,7 @@
     "key": "ExportInstanceDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Լավ",
-    "context": "ExportInstanceDialog | [unfinished]"
+    "context": "ExportInstanceDialog"
   },
   {
     "key": "ExportInstanceDialog:4dee4f40d63e",
@@ -2637,7 +2637,7 @@
     "key": "ExportPackDialog:7b6e69434658",
     "original": "&Name:",
     "translation": "&Անուն:",
-    "context": "ExportPackDialog | [unfinished]"
+    "context": "ExportPackDialog"
   },
   {
     "key": "ExportPackDialog:05a13ccd3dd7",
@@ -2715,7 +2715,7 @@
     "key": "ExportPackDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Լավ",
-    "context": "ExportPackDialog | [unfinished]"
+    "context": "ExportPackDialog"
   },
   {
     "key": "ExportPackDialog:4dee4f40d63e",
@@ -2739,7 +2739,7 @@
     "key": "ExportPackDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Սխալ",
-    "context": "ExportPackDialog | [unfinished]"
+    "context": "ExportPackDialog"
   },
   {
     "key": "ExportToModListDialog:5d7f82640e98",
@@ -2751,7 +2751,7 @@
     "key": "ExportToModListDialog:c7f73bb54d92",
     "original": "Settings",
     "translation": "Կարգավորումներ",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExportToModListDialog:9f738ce8457f",
@@ -2877,7 +2877,7 @@
     "key": "ExportToModListDialog:2c3cafa4db3f",
     "original": "File",
     "translation": "Ֆայլ",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExternalResourcesPage:c3cd636a585b",
@@ -2889,7 +2889,7 @@
     "key": "ExternalResourcesPage:763c2ebc2799",
     "original": "&Remove",
     "translation": "&Հեռացնել",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:45cc38d09787",
@@ -3135,7 +3135,7 @@
     "key": "ExternalToolsPage:2f3b5c55bc27",
     "original": "Browse",
     "translation": "Դիտել",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:01c692d9a030",
@@ -3159,19 +3159,19 @@
     "key": "ExternalToolsPage:d3c88b119527",
     "original": "&Add",
     "translation": "&Ավելացնել",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:763c2ebc2799",
     "original": "&Remove",
     "translation": "&Հեռացնել",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:709a23220f2c",
     "original": "Name",
     "translation": "Անուն",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:8901895fb1b1",
@@ -3807,7 +3807,7 @@
     "key": "FlamePage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Սխալ",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:876074b47592",
@@ -4023,7 +4023,7 @@
     "key": "IconPickerDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Լավ",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:027760ffe7da",
@@ -4089,7 +4089,7 @@
     "key": "ImportPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Սխալ",
-    "context": "ImportPage | [unfinished]"
+    "context": "ImportPage"
   },
   {
     "key": "ImportPage:757d7c1814fd",
@@ -4161,7 +4161,7 @@
     "key": "ImportResourceDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Լավ",
-    "context": "ImportResourceDialog | [unfinished]"
+    "context": "ImportResourceDialog"
   },
   {
     "key": "InfoFrame:f806c6f1da3f",
@@ -4203,7 +4203,7 @@
     "key": "InstallLoaderDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Լավ",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:77dfd2135f4d",
@@ -4401,7 +4401,7 @@
     "key": "InstanceTask:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Սխալ",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:dd17662eb1c4",
@@ -4593,7 +4593,7 @@
     "key": "Java::InstallDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Սխալ",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::LocalJavaScanTask:52cef86f41c6",
@@ -4671,7 +4671,7 @@
     "key": "JavaPage:e963907dac5c",
     "original": "Remove",
     "translation": "Հեռացնել",
-    "context": "JavaPage | [unfinished]"
+    "context": "JavaPage"
   },
   {
     "key": "JavaPage:56e3badc4e6c",
@@ -5055,7 +5055,7 @@
     "key": "JavaWizardWidget:89c8a2851d17",
     "original": "Memory",
     "translation": "Հիշողություն",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:a948355e4e3c",
@@ -5091,7 +5091,7 @@
     "key": "JavaWizardWidget:2f3b5c55bc27",
     "original": "Browse",
     "translation": "Դիտել",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:93afc3efadc5",
@@ -5433,7 +5433,7 @@
     "key": "LaunchController:944674da45cd",
     "original": "Kill Minecraft?",
     "translation": "Սպանե՞լ Minecraft- ը?",
-    "context": "LaunchController | [unfinished]"
+    "context": "LaunchController"
   },
   {
     "key": "LaunchController:2049a168cccf",
@@ -5505,7 +5505,7 @@
     "key": "LauncherPage:19adc47be34b",
     "original": "Folders",
     "translation": "Թղթապանակներ",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:657406cb807e",
@@ -5559,7 +5559,7 @@
     "key": "LauncherPage:2f3b5c55bc27",
     "original": "Browse",
     "translation": "Դիտել",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:19347a71a725",
@@ -5649,13 +5649,13 @@
     "key": "LauncherPage:61cc55aa0453",
     "original": "Add",
     "translation": "Ավելացնել",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:e963907dac5c",
     "original": "Remove",
     "translation": "Հեռացնել",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:9b824218dd00",
@@ -6165,7 +6165,7 @@
     "key": "LegacyFTB::Page:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Սխալ",
-    "context": "LegacyFTB::Page | [unfinished]"
+    "context": "LegacyFTB::Page"
   },
   {
     "key": "LegacyFTB::Page:e8ea0b767876",
@@ -6681,7 +6681,7 @@
     "key": "MainWindow:c47ae15370cf",
     "original": "Help",
     "translation": "Օգնություն",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:a7163d114d1f",
@@ -7569,7 +7569,7 @@
     "key": "ManagedPackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Սխալ",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:1430f976c596",
@@ -7665,7 +7665,7 @@
     "key": "Meta::Index:709a23220f2c",
     "original": "Name",
     "translation": "Անուն",
-    "context": "Meta::Index | [unfinished]"
+    "context": "Meta::Index"
   },
   {
     "key": "Meta::Index:04099ec66644",
@@ -7911,7 +7911,7 @@
     "key": "MinecraftSettingsWidget:e027e57610f8",
     "original": "Java",
     "translation": "Java",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:eaef77aca961",
@@ -8037,7 +8037,7 @@
     "key": "MinecraftSettingsWidget:2f3b5c55bc27",
     "original": "Browse",
     "translation": "Դիտել",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:dd2ae46a1914",
@@ -8307,7 +8307,7 @@
     "key": "MirrorListEditor:e963907dac5c",
     "original": "Remove",
     "translation": "Հեռացնել",
-    "context": "MirrorListEditor | [unfinished]"
+    "context": "MirrorListEditor"
   },
   {
     "key": "MirrorListEditor:cb0ad25e7101",
@@ -8319,7 +8319,7 @@
     "key": "MirrorListEditor:61cc55aa0453",
     "original": "Add",
     "translation": "Ավելացնել",
-    "context": "MirrorListEditor | [unfinished]"
+    "context": "MirrorListEditor"
   },
   {
     "key": "MirrorListEditor:226188f5c23d",
@@ -8877,7 +8877,7 @@
     "key": "ModFolderPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Սխալ",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:1430f976c596",
@@ -9021,7 +9021,7 @@
     "key": "Modrinth::ModpackListModel:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Սխալ",
-    "context": "Modrinth::ModpackListModel | [unfinished]"
+    "context": "Modrinth::ModpackListModel"
   },
   {
     "key": "Modrinth::ModpackListModel:e7235f672e3a",
@@ -9249,7 +9249,7 @@
     "key": "ModrinthPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Սխալ",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:876074b47592",
@@ -9429,7 +9429,7 @@
     "key": "NetworkJobFailedDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Սխալ",
-    "context": "NetworkJobFailedDialog | [unfinished]"
+    "context": "NetworkJobFailedDialog"
   },
   {
     "key": "NetworkJobFailedDialog:7b52603bb25e",
@@ -9489,7 +9489,7 @@
     "key": "NewComponentDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Լավ",
-    "context": "NewComponentDialog | [unfinished]"
+    "context": "NewComponentDialog"
   },
   {
     "key": "NewInstanceDialog:a8296e726af3",
@@ -9525,7 +9525,7 @@
     "key": "NewInstanceDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Լավ",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:77dfd2135f4d",
@@ -9537,7 +9537,7 @@
     "key": "NewInstanceDialog:c47ae15370cf",
     "original": "Help",
     "translation": "Օգնություն",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:0e06e81ed34d",
@@ -9573,7 +9573,7 @@
     "key": "NewsDialog:bbfa773e5a63",
     "original": "Close",
     "translation": "Փակել",
-    "context": "NewsDialog | [unfinished]"
+    "context": "NewsDialog"
   },
   {
     "key": "NewsDialog:a5601a63d0ae",
@@ -9897,7 +9897,7 @@
     "key": "OptionalModDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Լավ",
-    "context": "OptionalModDialog | [unfinished]"
+    "context": "OptionalModDialog"
   },
   {
     "key": "OtherLogsPage:d4188c14e699",
@@ -10053,7 +10053,7 @@
     "key": "OtherLogsPage:719ea396ad92",
     "original": "Clear",
     "translation": "Մաքրել",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:096311b5638e",
@@ -10263,7 +10263,7 @@
     "key": "PackProfile:709a23220f2c",
     "original": "Name",
     "translation": "Անուն",
-    "context": "PackProfile | [unfinished]"
+    "context": "PackProfile"
   },
   {
     "key": "PackProfile:2da600bf9404",
@@ -10287,7 +10287,7 @@
     "key": "PageDialog:c47ae15370cf",
     "original": "Help",
     "translation": "Օգնություն",
-    "context": "PageDialog | [unfinished]"
+    "context": "PageDialog"
   },
   {
     "key": "PasteWizardPage:80446347ede5",
@@ -10803,7 +10803,7 @@
     "key": "ProfileSelectDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Լավ",
-    "context": "ProfileSelectDialog | [unfinished]"
+    "context": "ProfileSelectDialog"
   },
   {
     "key": "ProfileSetupDialog:ad6e16b3c052",
@@ -10827,7 +10827,7 @@
     "key": "ProfileSetupDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Լավ",
-    "context": "ProfileSetupDialog | [unfinished]"
+    "context": "ProfileSetupDialog"
   },
   {
     "key": "ProfileSetupDialog:8b0fde7324a8",
@@ -10899,7 +10899,7 @@
     "key": "ProgressDialog:6f3abbe484ab",
     "original": "Abort",
     "translation": "Դադարեցնել",
-    "context": "ProgressDialog | [unfinished]"
+    "context": "ProgressDialog"
   },
   {
     "key": "ProjectItemDelegate:517f9bea1d3e",
@@ -10953,7 +10953,7 @@
     "key": "ProxyPage:e12c0edf9ec0",
     "original": "&Address and Port",
     "translation": "Հասցե և նավահանգիստ",
-    "context": "ProxyPage | [unfinished]"
+    "context": "ProxyPage"
   },
   {
     "key": "ProxyPage:ee1acfa55eb1",
@@ -10965,7 +10965,7 @@
     "key": "ProxyPage:78ec4c601a41",
     "original": "&Username:",
     "translation": "Անունը:",
-    "context": "ProxyPage | [unfinished]"
+    "context": "ProxyPage"
   },
   {
     "key": "ProxyPage:c0d007dcaadb",
@@ -12069,7 +12069,7 @@
     "key": "ResourceDownload::ResourceDownloadDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Սխալ",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:1430f976c596",
@@ -12135,7 +12135,7 @@
     "key": "ResourceDownload::ResourceModel:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Սխալ",
-    "context": "ResourceDownload::ResourceModel | [unfinished]"
+    "context": "ResourceDownload::ResourceModel"
   },
   {
     "key": "ResourceDownload::ResourceModel:15bf96b86b8e",
@@ -12339,7 +12339,7 @@
     "key": "ResourceFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Անուն",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:4c24525b0aa0",
@@ -12537,7 +12537,7 @@
     "key": "ResourcePackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Անուն",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:0092be542f99",
@@ -12585,7 +12585,7 @@
     "key": "ResourcePackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Սխալ",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:1430f976c596",
@@ -12711,7 +12711,7 @@
     "key": "ResourceUpdateDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Սխալ",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:1430f976c596",
@@ -12861,7 +12861,7 @@
     "key": "ReviewMessageBox:9ce3bd4224c8",
     "original": "OK",
     "translation": "Լավ",
-    "context": "ReviewMessageBox | [unfinished]"
+    "context": "ReviewMessageBox"
   },
   {
     "key": "ReviewMessageBox:e618688160db",
@@ -13053,7 +13053,7 @@
     "key": "ScrollMessageBox:9ce3bd4224c8",
     "original": "OK",
     "translation": "Լավ",
-    "context": "ScrollMessageBox | [unfinished]"
+    "context": "ScrollMessageBox"
   },
   {
     "key": "SelectReleaseAssetDialog:2da600bf9404",
@@ -13113,7 +13113,7 @@
     "key": "SelectReleaseDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Լավ",
-    "context": "SelectReleaseDialog | [unfinished]"
+    "context": "SelectReleaseDialog"
   },
   {
     "key": "SequentialTask:829c6e1cd1e8",
@@ -13167,7 +13167,7 @@
     "key": "ServersPage:49b93f720a4a",
     "original": "&Name",
     "translation": "Անուն",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:d70f93df5e8f",
@@ -13341,7 +13341,7 @@
     "key": "ShaderPackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Սխալ",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:1430f976c596",
@@ -13557,7 +13557,7 @@
     "key": "SkinManageDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Լավ",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:126f0e0caf65",
@@ -13905,7 +13905,7 @@
     "key": "TechnicPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Սխալ",
-    "context": "TechnicPage | [unfinished]"
+    "context": "TechnicPage"
   },
   {
     "key": "TechnicPage:876074b47592",
@@ -13917,7 +13917,7 @@
     "key": "TexturePackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Անուն",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:4c24525b0aa0",
@@ -14031,7 +14031,7 @@
     "key": "TexturePackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Սխալ",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:1430f976c596",
@@ -14109,7 +14109,7 @@
     "key": "TranslationsModel:89b86ab0e66f",
     "original": "Language",
     "translation": "Լեզու",
-    "context": "TranslationsModel | [unfinished]"
+    "context": "TranslationsModel"
   },
   {
     "key": "TranslationsModel:778184da86df",
@@ -14781,7 +14781,7 @@
     "key": "VersionSelectDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Լավ",
-    "context": "VersionSelectDialog | [unfinished]"
+    "context": "VersionSelectDialog"
   },
   {
     "key": "VersionSelectDialog:77dfd2135f4d",
@@ -14955,7 +14955,7 @@
     "key": "WorldListPage:f6fdbe48dc54",
     "original": "Delete",
     "translation": "Ջնջել",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:16397ae2608e",

@@ -1089,7 +1089,7 @@
     "key": "AuthlibInjectorDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Quraşdır",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AuthlibInjectorDialog:77dfd2135f4d",
@@ -1221,7 +1221,7 @@
     "key": "BaseEntityLoadTask:ae327e573ef2",
     "original": "Loading local file",
     "translation": "Yerli fayl yüklənir",
-    "context": "BaseEntityLoadTask | [unfinished]"
+    "context": "BaseEntityLoadTask"
   },
   {
     "key": "BaseProfiler:122e80b33e98",
@@ -2283,7 +2283,7 @@
     "key": "DataPackFolderModel:b7152342a267",
     "original": "Size",
     "translation": "Həcm",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:2aabcfc2668a",
@@ -2295,7 +2295,7 @@
     "key": "DataPackFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Versiya",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:fb91e24fa52d",
@@ -3159,19 +3159,19 @@
     "key": "ExternalToolsPage:d3c88b119527",
     "original": "&Add",
     "translation": "&Əlavə et",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:763c2ebc2799",
     "original": "&Remove",
     "translation": "&Sil",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:709a23220f2c",
     "original": "Name",
     "translation": "Ad",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:8901895fb1b1",
@@ -3657,13 +3657,13 @@
     "key": "FlameCreationTask:ec8e76990081",
     "original": "Removing old conflicting files...",
     "translation": "Köhnə ziddiyyətli fayllar silinir...",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:95678dd3a029",
     "original": "Failed to remove old conflicting files.",
     "translation": "Köhnə ziddiyyətli faylların silinməsi uğursuz oldu.",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:df237503973c",
@@ -3999,7 +3999,7 @@
     "key": "IconPickerDialog:081ae3fdc403",
     "original": "Custom",
     "translation": "Xüsusi",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:a825bf9821f9",
@@ -4203,7 +4203,7 @@
     "key": "InstallLoaderDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Yaxşı",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:77dfd2135f4d",
@@ -4395,25 +4395,25 @@
     "key": "InstanceTask:3da474537ac3",
     "original": "Skip",
     "translation": "Keç",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Xəta",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:dd17662eb1c4",
     "original": "Could not download game files: %1",
     "translation": "Oyun fayllarını yükləmək mümkün olmadı: %1",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:8d4223d64584",
     "original": "Downloading game files",
     "translation": "Oyun faylları yüklənir",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceView:e52e5e6cd50e",
@@ -5649,7 +5649,7 @@
     "key": "LauncherPage:61cc55aa0453",
     "original": "Add",
     "translation": "Əlavə et",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:e963907dac5c",
@@ -6237,7 +6237,7 @@
     "key": "ListModel:c4a7e601008a",
     "original": "Minecraft %1",
     "translation": "Minecraft %1",
-    "context": "ListModel | [unfinished]"
+    "context": "ListModel"
   },
   {
     "key": "LocalResourceUpdateTask:2245cdef5363",
@@ -7376,7 +7376,7 @@
   {
     "key": "MainWindow:7561aee92c50",
     "original": " and its %n registered shortcut(s)",
-    "translation": " və onun %n qeydə alınmış qısayolu\n və onun %n qeydə alınmış qısayolları",
+    "translation": "və onun %n qeydə alınmış qısayolu\n və onun %n qeydə alınmış qısayolları",
     "context": "MainWindow | [plural]"
   },
   {
@@ -7647,7 +7647,7 @@
     "key": "ManagedPackPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "Yeniləməni təsdiqlə",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:f701d3d7d9eb",
@@ -8139,7 +8139,7 @@
     "key": "MinecraftSettingsWidget:d41f56cea1ac",
     "original": "Release",
     "translation": "Stabil buraxılış",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:322444d3bb52",
@@ -8319,7 +8319,7 @@
     "key": "MirrorListEditor:61cc55aa0453",
     "original": "Add",
     "translation": "Əlavə et",
-    "context": "MirrorListEditor | [unfinished]"
+    "context": "MirrorListEditor"
   },
   {
     "key": "MirrorListEditor:226188f5c23d",
@@ -8661,7 +8661,7 @@
     "key": "ModFolderModel:2aabcfc2668a",
     "original": "File Name",
     "translation": "Fayl Adı",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:fb91e24fa52d",
@@ -8768,7 +8768,7 @@
   {
     "key": "ModFolderModel:7344f60ae135",
     "original": "%n mod(s) will be enabled\n",
-    "translation": "%n mod aktivləşdiriləcək\n\n%n ədəd mod(modlar) aktivləşdiriləcək\n",
+    "translation": "%n mod aktivləşdiriləcək\n\n%n ədəd mod(modlar) aktivləşdiriləcək",
     "context": "ModFolderModel | [plural]"
   },
   {
@@ -8780,7 +8780,7 @@
   {
     "key": "ModFolderModel:ffcf72215f76",
     "original": "%n mod(s) will be disabled\n",
-    "translation": "%n mod deaktiv ediləcək\n\n%n mod(modlar) deaktiv ediləcək\n",
+    "translation": "%n mod deaktiv ediləcək\n\n%n mod(modlar) deaktiv ediləcək",
     "context": "ModFolderModel | [plural]"
   },
   {
@@ -9153,13 +9153,13 @@
     "key": "ModrinthCreationTask:ec8e76990081",
     "original": "Removing old conflicting files...",
     "translation": "Köhnə ziddiyyətli fayllar silinir...",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:95678dd3a029",
     "original": "Failed to remove old conflicting files.",
     "translation": "Köhnə ziddiyyətli faylların silinməsi uğursuz oldu.",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthManagedPackPage:6bbfd857afb9",
@@ -9345,31 +9345,31 @@
     "key": "Net::Request:f930959fbc72",
     "original": "Requesting %1",
     "translation": "sorğu edilir %1",
-    "context": "Net::Request | [unfinished]"
+    "context": "Net::Request"
   },
   {
     "key": "Net::Request:d4b2aca736b7",
     "original": "%1 / %2",
     "translation": "%1 / %2",
-    "context": "Net::Request | Current amount of bytes downloaded, out of the total amount of bytes in the download | [unfinished]"
+    "context": "Net::Request | Current amount of bytes downloaded, out of the total amount of bytes in the download"
   },
   {
     "key": "Net::Request:50d8b4a941c2",
     "original": "unknown",
     "translation": "müəyyən edilməmiş",
-    "context": "Net::Request | [unfinished]"
+    "context": "Net::Request"
   },
   {
     "key": "Net::Request:5b17125e5647",
     "original": "%1 /s (%2)",
     "translation": "%1 /s (%2)",
-    "context": "Net::Request | Download speed, in bytes per second (remaining download time in parenthesis) | [unfinished]"
+    "context": "Net::Request | Download speed, in bytes per second (remaining download time in parenthesis)"
   },
   {
     "key": "Net::Request:16f20499929f",
     "original": "0 B/s",
     "translation": "0 B/s",
-    "context": "Net::Request | Download speed at 0 bytes per second | [unfinished]"
+    "context": "Net::Request | Download speed at 0 bytes per second"
   },
   {
     "key": "Net::Request:5cd0f72bdf35",
@@ -9387,13 +9387,13 @@
     "key": "Net::Request:60f870097f24",
     "original": "Request Rate Limited for %n second(s): Retry After %1",
     "translation": "Sorğu tezliyi %n saniyəlik məhdudlaşdırıldı: %1 sonra təkrar cəhd edin\nSorğu tezliyi %n saniyə məhdudlaşdırıldı: %1 sonra təkrar cəhd edin",
-    "context": "Net::Request | [unfinished, plural]"
+    "context": "Net::Request | [plural]"
   },
   {
     "key": "Net::Request:f39e4002d474",
     "original": "Rate Limited: Waiting %n second(s)",
     "translation": "Tezlik məhdudlaşdırıldı: %n saniyəlik gözlənilir\nTezlik məhdudlaşdırıldı: %n saniyə gözlənilir",
-    "context": "Net::Request | [unfinished, plural]"
+    "context": "Net::Request | [plural]"
   },
   {
     "key": "NetJob:94ab93724d10",
@@ -9855,7 +9855,7 @@
     "key": "OptiFineInstallDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Quraşdır",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptiFineInstallDialog:77dfd2135f4d",
@@ -10101,97 +10101,97 @@
     "key": "PackInstallTask:93fc42ea75d6",
     "original": "Could not understand pack manifest:\n",
     "translation": "Paket manifesti anlamaq mümkün olmadı:",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:1cc558d32fa4",
     "original": "Unsupported installation mode",
     "translation": "Dəstəklənməyən quraşdırma rejimi",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:608a6e16a154",
     "original": "Failed to get local metadata index for '%1' v%2",
     "translation": "'%1' v%2 üçün yerli metadata indeksi əldə oluna bilmədi",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:a61c5171cb28",
     "original": "Deleting existing files...",
     "translation": "Mövcud fayllar silinir...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:639e6287333c",
     "original": "Unknown mod type: %1",
     "translation": "Bilinməyən mod növü: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:54a1e48a12f3",
     "original": "Failed to get local metadata index for %1",
     "translation": "%1 üçün yerli metadata indeksi əldə oluna bilmədi",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:9638c0cc0435",
     "original": "Failed to find version for %1 loader",
     "translation": "%1 yükləyicisi üçün versiya tapılmadı",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:394b0f2a985e",
     "original": "No loader version set for modpack!",
     "translation": "Mod paketi üçün yükləyici versiyası seçilməyib!",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:8ea0186a5329",
     "original": "Unknown or unsupported download type: %1",
     "translation": "Bilinməyən və ya dəstəklənməyən yükləmə növü: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:db82f5ce4d92",
     "original": "Downloading configs...",
     "translation": "Konfiqurasiyalar yüklənir...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:296053b61434",
     "original": "Config download",
     "translation": "Konfiqurasiya yükləmə",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:88e116160aff",
     "original": "Extracting configs...",
     "translation": "Konfiqurasiyalar çıxardılır...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:6e97ce93553c",
     "original": "Selecting optional mods...",
     "translation": "İstəyə bağlı modlar seçilir...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:df237503973c",
     "original": "Downloading mods...",
     "translation": "Modlar endirilir...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:7b02e924aa02",
     "original": "Mod download",
     "translation": "Mod endirmə",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:e91e47f5379a",
     "original": "Unknown download type: %1",
     "translation": "Qeyri-müəyyən endirilmə tipi: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:d4e059888d25",
@@ -10203,31 +10203,31 @@
     "key": "PackInstallTask:327b7e57d4e1",
     "original": "Blocked mods found",
     "translation": "Bloklanmış modlar tapıldı",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:7ff827f8d900",
     "original": "The following files are not available for download in third party launchers.<br/>You will need to manually download them and add them to the instance.",
     "translation": "Aşağıdakı fayllar üçüncü tərəf başladıcılarında endirmək üçün mövcud deyil.<br/>Onları əl ilə endirməli və profilə əlavə etməli olacaqsınız.",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:f9bc7a615403",
     "original": "%1 out of %2 complete",
     "translation": "%1 / %2 tamamlandı",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:3138740f4b31",
     "original": "Failed to extract mods...",
     "translation": "Modları çıxarmaq alınmadı...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:e87c1bb107c0",
     "original": "Extracting mods...",
     "translation": "Modlar çıxarılır...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:7d3e34e21534",
@@ -10239,19 +10239,19 @@
     "key": "PackInstallTask:a568ebaf6ef5",
     "original": "Failed to create libraries component",
     "translation": "Kitabxana komponentini yaratmaq mümkün olmadı",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:c9c9e81a13ed",
     "original": "Unknown loader type: ",
     "translation": "Naməlum yükləyici növü:",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:76fefafc38cf",
     "original": "Failed to create pack component",
     "translation": "Paket komponentini yaratmaq mümkün olmadı",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackProfile:b1590d210090",
@@ -11961,13 +11961,13 @@
     "key": "QObject:5a853d21a166",
     "original": "data packs",
     "translation": "məlumat paketləri",
-    "context": "QObject | The plural version of 'data pack' | [unfinished]"
+    "context": "QObject | The plural version of 'data pack'"
   },
   {
     "key": "QObject:3fc66ee35714",
     "original": "mods",
     "translation": "modlar",
-    "context": "QObject | The plural version of 'mod' | [unfinished]"
+    "context": "QObject | The plural version of 'mod'"
   },
   {
     "key": "QObject:2ad8259fa9ee",
@@ -11979,31 +11979,31 @@
     "key": "QObject:7a1047389735",
     "original": "resource",
     "translation": "resurs",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:0189424a5a60",
     "original": "resources",
     "translation": "resurslar",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3e14b9b2fa34",
     "original": "shader packs",
     "translation": "şader paketləri",
-    "context": "QObject | The plural version of 'shader pack' | [unfinished]"
+    "context": "QObject | The plural version of 'shader pack'"
   },
   {
     "key": "QObject:f020945bedf5",
     "original": "texture packs",
     "translation": "tekstur paketləri",
-    "context": "QObject | The plural version of 'texture pack' | [unfinished]"
+    "context": "QObject | The plural version of 'texture pack'"
   },
   {
     "key": "QObject:1ba86caa483a",
     "original": "Could not open file %1 for reading: %2",
     "translation": "%1 faylı oxunmaq üçün açıla bilmədi: %2",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:f05c9bfd5730",
@@ -12093,7 +12093,7 @@
     "key": "ResourceDownload::ResourceDownloadDialog:3fc66ee35714",
     "original": "mods",
     "translation": "modlar",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:2ad8259fa9ee",
@@ -12105,19 +12105,19 @@
     "key": "ResourceDownload::ResourceDownloadDialog:f020945bedf5",
     "original": "texture packs",
     "translation": "tekstur paketləri",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:3e14b9b2fa34",
     "original": "shader packs",
     "translation": "şader paketləri",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:5a853d21a166",
     "original": "data packs",
     "translation": "məlumat paketləri",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:0189424a5a60",
@@ -12351,7 +12351,7 @@
     "key": "ResourceFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Versiya",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:b7152342a267",
@@ -12369,7 +12369,7 @@
     "key": "ResourceFolderModel:2aabcfc2668a",
     "original": "File Name",
     "translation": "Fayl Adı",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:fb91e24fa52d",
@@ -12453,7 +12453,7 @@
     "key": "ResourceFolderModel:50e19fda0d5b",
     "original": "Image",
     "translation": "Təsvir",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:4c24525b0aa0",
@@ -12465,7 +12465,7 @@
     "key": "ResourcePackFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Versiya",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:b7152342a267",
@@ -12483,7 +12483,7 @@
     "key": "ResourcePackFolderModel:2aabcfc2668a",
     "original": "File Name",
     "translation": "Fayl Adı",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:fb91e24fa52d",
@@ -13149,7 +13149,7 @@
     "key": "ServersModel:2da600bf9404",
     "original": "Version",
     "translation": "Versiya",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersModel:6b68e9797399",
@@ -13161,7 +13161,7 @@
     "key": "ServersModel:e01fa717bacc",
     "original": "Offline",
     "translation": "Oflayn",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersPage:49b93f720a4a",
@@ -13941,7 +13941,7 @@
     "key": "TexturePackFolderModel:2aabcfc2668a",
     "original": "File Name",
     "translation": "Fayl Adı",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:fb91e24fa52d",
@@ -14625,7 +14625,7 @@
     "key": "VersionPage:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Quraşdır",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:cae9674c84d8",
@@ -14781,7 +14781,7 @@
     "key": "VersionSelectDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "Yaxşı",
-    "context": "VersionSelectDialog | [unfinished]"
+    "context": "VersionSelectDialog"
   },
   {
     "key": "VersionSelectDialog:77dfd2135f4d",
@@ -14991,7 +14991,7 @@
     "key": "WorldListPage:4fa8cc860c52",
     "original": "Tools",
     "translation": "Alətlər",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:dbd185310812",
@@ -15291,7 +15291,7 @@
     "key": "YggdrasilLoginDialog:84c29015de33",
     "original": "Username",
     "translation": "İstifadəçi adı",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:8be3c943b160",

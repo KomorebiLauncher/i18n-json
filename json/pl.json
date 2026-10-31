@@ -1089,13 +1089,13 @@
     "key": "AuthlibInjectorDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Zainstaluj",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AuthlibInjectorDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Anuluj",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AutoInstallJava:d3ace495a5a2",
@@ -1221,7 +1221,7 @@
     "key": "BaseEntityLoadTask:ae327e573ef2",
     "original": "Loading local file",
     "translation": "Ładowanie pliku lokalnego",
-    "context": "BaseEntityLoadTask | [unfinished]"
+    "context": "BaseEntityLoadTask"
   },
   {
     "key": "BaseProfiler:122e80b33e98",
@@ -2295,13 +2295,13 @@
     "key": "DataPackFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Wersja",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Aktualizuj",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:b80566e89550",
@@ -5703,19 +5703,19 @@
     "key": "LauncherPage:83965f5c6021",
     "original": "All (Release, Beta, Alpha)",
     "translation": "Wszystkie (wydania, bety, alfy)",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:97c3e29118c0",
     "original": "Release only",
     "translation": "Tylko wydania",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:c8981bc0f340",
     "original": "Release and Beta",
     "translation": "Wydanie i Beta",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:65a028c3a02c",
@@ -6237,7 +6237,7 @@
     "key": "ListModel:c4a7e601008a",
     "original": "Minecraft %1",
     "translation": "Minecraft %1",
-    "context": "ListModel | [unfinished]"
+    "context": "ListModel"
   },
   {
     "key": "LocalResourceUpdateTask:2245cdef5363",
@@ -7376,7 +7376,7 @@
   {
     "key": "MainWindow:7561aee92c50",
     "original": " and its %n registered shortcut(s)",
-    "translation": " i jego %n zarejestrowanego skrótu\n i ich %n zarejestrowanych skrótów\n i ich %n zarejestrowanych skrótów",
+    "translation": "i jego %n zarejestrowanego skrótu\n i ich %n zarejestrowanych skrótów\n i ich %n zarejestrowanych skrótów",
     "context": "MainWindow | [plural]"
   },
   {
@@ -7641,7 +7641,7 @@
     "key": "ManagedPackPage:8fdea5a31d6d",
     "original": "You are about to update the modpack to a new version.\nIrreversible changes may be made to the instance's files.\nAs such, it is strongly recommended to create a backup copy of the instance.\n\nAre you sure?",
     "translation": "Właśnie zamierzasz zaktualizować paczkę modyfikacji do nowszej wersji.\nNieodwracalne zmiany mogą nastąpić w plikach instancji.\nDlatego też zaleca się utworzenie lokalnej kopii zapasowej instancji.\n\nKontynuować?",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:2a8cbde53d3a",
@@ -8307,7 +8307,7 @@
     "key": "MirrorListEditor:e963907dac5c",
     "original": "Remove",
     "translation": "Usuń",
-    "context": "MirrorListEditor | [unfinished]"
+    "context": "MirrorListEditor"
   },
   {
     "key": "MirrorListEditor:cb0ad25e7101",
@@ -8319,7 +8319,7 @@
     "key": "MirrorListEditor:61cc55aa0453",
     "original": "Add",
     "translation": "Dodaj",
-    "context": "MirrorListEditor | [unfinished]"
+    "context": "MirrorListEditor"
   },
   {
     "key": "MirrorListEditor:226188f5c23d",
@@ -8667,7 +8667,7 @@
     "key": "ModFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Aktualizuj",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:9f8105907b13",
@@ -8768,7 +8768,7 @@
   {
     "key": "ModFolderModel:7344f60ae135",
     "original": "%n mod(s) will be enabled\n",
-    "translation": "%n mod zostanie włączony\n\n%n mody zostaną włączone\n\n%n modów zostanie włączonych\n",
+    "translation": "%n mod zostanie włączony\n\n%n mody zostaną włączone\n\n%n modów zostanie włączonych",
     "context": "ModFolderModel | [plural]"
   },
   {
@@ -8780,7 +8780,7 @@
   {
     "key": "ModFolderModel:ffcf72215f76",
     "original": "%n mod(s) will be disabled\n",
-    "translation": "%n mod zostanie wyłączony\n\n%n mody zostaną wyłączone\n\n%n modów zostanie wyłączonych\n",
+    "translation": "%n mod zostanie wyłączony\n\n%n mody zostaną wyłączone\n\n%n modów zostanie wyłączonych",
     "context": "ModFolderModel | [plural]"
   },
   {
@@ -8829,13 +8829,13 @@
     "key": "ModFolderPage:4564070f0190",
     "original": "Check for Updates (Release and Beta)",
     "translation": "Sprawdź aktualizacje (tylko wydania i Beta)",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:49938e44b312",
     "original": "Check for Updates (Release, Beta and Alpha)",
     "translation": "Sprawdź aktualizacje (wydania, Beta i Alpha)",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:daee2b15add9",
@@ -9855,13 +9855,13 @@
     "key": "OptiFineInstallDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Zainstaluj",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptiFineInstallDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Anuluj",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptionalModDialog:12e9f3729ee6",
@@ -10899,7 +10899,7 @@
     "key": "ProgressDialog:6f3abbe484ab",
     "original": "Abort",
     "translation": "Przerwij",
-    "context": "ProgressDialog | [unfinished]"
+    "context": "ProgressDialog"
   },
   {
     "key": "ProjectItemDelegate:517f9bea1d3e",
@@ -12351,7 +12351,7 @@
     "key": "ResourceFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Wersja",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:b7152342a267",
@@ -12375,7 +12375,7 @@
     "key": "ResourceFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Aktualizuj",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:bfd722aee774",
@@ -12453,7 +12453,7 @@
     "key": "ResourceFolderModel:50e19fda0d5b",
     "original": "Image",
     "translation": "Obraz",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:4c24525b0aa0",
@@ -12465,7 +12465,7 @@
     "key": "ResourcePackFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Wersja",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:b7152342a267",
@@ -12489,7 +12489,7 @@
     "key": "ResourcePackFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Aktualizuj",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:35a599c5f88a",
@@ -13149,7 +13149,7 @@
     "key": "ServersModel:2da600bf9404",
     "original": "Version",
     "translation": "Wersja",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersModel:6b68e9797399",
@@ -13947,7 +13947,7 @@
     "key": "TexturePackFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Aktualizuj",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:b922df5f2870",
@@ -14625,7 +14625,7 @@
     "key": "VersionPage:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Zainstaluj",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:cae9674c84d8",
@@ -15291,13 +15291,13 @@
     "key": "YggdrasilLoginDialog:84c29015de33",
     "original": "Username",
     "translation": "Nazwa użytkownika",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:8be3c943b160",
     "original": "Password",
     "translation": "Hasło",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:ada2e9e96fa9",
@@ -15309,7 +15309,7 @@
     "key": "YggdrasilLoginDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Anuluj",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:ca359109578d",

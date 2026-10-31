@@ -789,7 +789,7 @@
     "key": "AssetUpdateTask:e456351b7f41",
     "original": "Getting the asset files from %1...",
     "translation": "சொத்து கோப்புகளை %1 இலிருந்து பெறுதல் ...",
-    "context": "AssetUpdateTask | [unfinished]"
+    "context": "AssetUpdateTask"
   },
   {
     "key": "AssetUpdateTask:9dceaf3d2bf5",
@@ -1089,13 +1089,13 @@
     "key": "AuthlibInjectorDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "நிறுவவும்",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AuthlibInjectorDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "ரத்துசெய்",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AutoInstallJava:d3ace495a5a2",
@@ -1221,7 +1221,7 @@
     "key": "BaseEntityLoadTask:ae327e573ef2",
     "original": "Loading local file",
     "translation": "உள்ளக கோப்பை ஏற்றுகிறது",
-    "context": "BaseEntityLoadTask | [unfinished]"
+    "context": "BaseEntityLoadTask"
   },
   {
     "key": "BaseProfiler:122e80b33e98",
@@ -1329,7 +1329,7 @@
     "key": "ChooseOfflineNameDialog:84c29015de33",
     "original": "Username",
     "translation": "பயனர்பெயர்",
-    "context": "ChooseOfflineNameDialog | [unfinished]"
+    "context": "ChooseOfflineNameDialog"
   },
   {
     "key": "ChooseOfflineNameDialog:2310a5ac292a",
@@ -1347,13 +1347,13 @@
     "key": "ChooseOfflineNameDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "ரத்துசெய்",
-    "context": "ChooseOfflineNameDialog | [unfinished]"
+    "context": "ChooseOfflineNameDialog"
   },
   {
     "key": "ChooseOfflineNameDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "சரி",
-    "context": "ChooseOfflineNameDialog | [unfinished]"
+    "context": "ChooseOfflineNameDialog"
   },
   {
     "key": "ChooseProviderDialog:e31cf2b37509",
@@ -2283,7 +2283,7 @@
     "key": "DataPackFolderModel:b7152342a267",
     "original": "Size",
     "translation": "அளவு",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:2aabcfc2668a",
@@ -2295,7 +2295,7 @@
     "key": "DataPackFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "பதிப்பு",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:fb91e24fa52d",
@@ -2913,7 +2913,7 @@
     "key": "ExternalResourcesPage:bce06414177f",
     "original": "Search",
     "translation": "தேடல்",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:256b10b1d26d",
@@ -3159,19 +3159,19 @@
     "key": "ExternalToolsPage:d3c88b119527",
     "original": "&Add",
     "translation": "& சேர்",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:763c2ebc2799",
     "original": "&Remove",
     "translation": "& அகற்று",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:709a23220f2c",
     "original": "Name",
     "translation": "பெயர்",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:8901895fb1b1",
@@ -3333,7 +3333,7 @@
     "key": "FTB::PackInstallTask:93fc42ea75d6",
     "original": "Could not understand pack manifest:\n",
     "translation": "பேக் மேனிஃபெச்டை புரிந்து கொள்ள முடியவில்லை:",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:ef42318f68d9",
@@ -3357,7 +3357,7 @@
     "key": "FTB::PackInstallTask:7ff827f8d900",
     "original": "The following files are not available for download in third party launchers.<br/>You will need to manually download them and add them to the instance.",
     "translation": "மூன்றாம் தரப்பு லாஞ்சர்களில் பதிவிறக்கம் செய்ய பின்வரும் கோப்புகள் கிடைக்கவில்லை. <br/> நீங்கள் அவற்றை கைமுறையாக பதிவிறக்கம் செய்து அவற்றை உதாரணமாக சேர்க்க வேண்டும்.",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:2df48fae0ac2",
@@ -3369,13 +3369,13 @@
     "key": "FTB::PackInstallTask:df237503973c",
     "original": "Downloading mods...",
     "translation": "மோட்சைப் பதிவிறக்குகிறது ...",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:7b02e924aa02",
     "original": "Mod download",
     "translation": "மோட் பதிவிறக்கம்",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:d4e059888d25",
@@ -3387,13 +3387,13 @@
     "key": "FTB::PackInstallTask:9c36196243f9",
     "original": "Copying Blocked Mods...",
     "translation": "தடுக்கப்பட்ட மோட்சை நகலெடுக்கிறது ...",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:07670e4b121a",
     "original": "Copying Blocked Mods (%1 out of %2 are done)",
     "translation": "தடுக்கப்பட்ட மோட்களை நகலெடுப்பது ( %2 இல் %1 செய்யப்படுகிறது)",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTBImportAPP::FilterModel:5fa541307296",
@@ -3657,13 +3657,13 @@
     "key": "FlameCreationTask:ec8e76990081",
     "original": "Removing old conflicting files...",
     "translation": "பழைய முரண்பட்ட கோப்புகளை அகற்றுதல் ...",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:95678dd3a029",
     "original": "Failed to remove old conflicting files.",
     "translation": "பழைய முரண்பட்ட கோப்புகளை அகற்றுவதில் தோல்வி.",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:df237503973c",
@@ -3861,19 +3861,19 @@
     "key": "Ftb::FilterModel:5fa541307296",
     "original": "Sort by Name",
     "translation": "பெயரால் வரிசைப்படுத்துங்கள்",
-    "context": "Ftb::FilterModel | [unfinished]"
+    "context": "Ftb::FilterModel"
   },
   {
     "key": "FtbPage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "பதிப்பு தேர்ந்தெடுக்கப்பட்டது:",
-    "context": "FtbPage | [unfinished]"
+    "context": "FtbPage"
   },
   {
     "key": "FtbPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "தேடல் மற்றும் வடிகட்டி ...",
-    "context": "FtbPage | [unfinished]"
+    "context": "FtbPage"
   },
   {
     "key": "FtbPage:8bb246929d5d",
@@ -3999,7 +3999,7 @@
     "key": "IconPickerDialog:081ae3fdc403",
     "original": "Custom",
     "translation": "தனிப்பயன்",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:a825bf9821f9",
@@ -4203,7 +4203,7 @@
     "key": "InstallLoaderDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "சரி",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:77dfd2135f4d",
@@ -4365,7 +4365,7 @@
     "key": "InstancePageProvider:2025e506c1db",
     "original": "Other Logs",
     "translation": "பிற பதிவுகள்",
-    "context": "InstancePageProvider | [unfinished]"
+    "context": "InstancePageProvider"
   },
   {
     "key": "InstancePageProvider:5d7bded4cc13",
@@ -4395,13 +4395,13 @@
     "key": "InstanceTask:3da474537ac3",
     "original": "Skip",
     "translation": "தவிர்",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:7f2f6a15cf8d",
     "original": "Error",
     "translation": "பிழை",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:dd17662eb1c4",
@@ -5649,13 +5649,13 @@
     "key": "LauncherPage:61cc55aa0453",
     "original": "Add",
     "translation": "கூட்டு",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:e963907dac5c",
     "original": "Remove",
     "translation": "அகற்று",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:9b824218dd00",
@@ -6009,37 +6009,37 @@
     "key": "LegacyFMLLibrariesTask:914b462ecb84",
     "original": "Checking for FML libraries...",
     "translation": "எஃப்எம்எல் நூலகங்களை சரிபார்க்கிறது ...",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:1906289a3356",
     "original": "Downloading FML libraries...",
     "translation": "FML நூலகங்களை பதிவிறக்குகிறது ...",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:4a36e8560168",
     "original": "Copying FML libraries into the instance...",
     "translation": "எஃப்.எம்.எல் நூலகங்களை உதாரணமாக நகலெடுக்கிறது ...",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:cd9d55688469",
     "original": "Failed creating FML library folder inside the instance.",
     "translation": "நிகழ்வுக்குள் எஃப்எம்எல் நூலக கோப்புறையை உருவாக்குவது தோல்வி.",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:12c0e533752f",
     "original": "Failed copying Forge/FML library: %1.",
     "translation": "ஃபோர்ச்/எஃப்எம்எல் நூலகத்தை நகலெடுப்பதில் தோல்வி: %1.",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:aa54605f20ac",
     "original": "Failed to download the following files:\n%1\n\nReason:%2\nPlease try again.",
     "translation": "பின்வரும் கோப்புகளைப் பதிவிறக்குவதில் தோல்வி:\n %1\n\n காரணம்:%2\n மீண்டும் முயற்சிக்கவும்.",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFTB::FilterModel:5fa541307296",
@@ -6237,7 +6237,7 @@
     "key": "ListModel:c4a7e601008a",
     "original": "Minecraft %1",
     "translation": "Minecraft %1",
-    "context": "ListModel | [unfinished]"
+    "context": "ListModel"
   },
   {
     "key": "LocalResourceUpdateTask:2245cdef5363",
@@ -6309,7 +6309,7 @@
     "key": "LogPage:bce06414177f",
     "original": "Search",
     "translation": "தேடல்",
-    "context": "LogPage | [unfinished]"
+    "context": "LogPage"
   },
   {
     "key": "LogPage:df251b06eefd",
@@ -7376,7 +7376,7 @@
   {
     "key": "MainWindow:7561aee92c50",
     "original": " and its %n registered shortcut(s)",
-    "translation": " மற்றும் அதன் %n பதிவு செய்யப்பட்ட குறுக்குவழி\n மற்றும் அதன் %n பதிவு செய்யப்பட்ட குறுக்குவழிகள்",
+    "translation": "மற்றும் அதன் %n பதிவு செய்யப்பட்ட குறுக்குவழி\n மற்றும் அதன் %n பதிவு செய்யப்பட்ட குறுக்குவழிகள்",
     "context": "MainWindow | [plural]"
   },
   {
@@ -7647,7 +7647,7 @@
     "key": "ManagedPackPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "புதுப்பிப்பை உறுதிப்படுத்தவும்",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:f701d3d7d9eb",
@@ -8139,7 +8139,7 @@
     "key": "MinecraftSettingsWidget:d41f56cea1ac",
     "original": "Release",
     "translation": "வெளியீடு",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:322444d3bb52",
@@ -8307,7 +8307,7 @@
     "key": "MirrorListEditor:e963907dac5c",
     "original": "Remove",
     "translation": "அகற்று",
-    "context": "MirrorListEditor | [unfinished]"
+    "context": "MirrorListEditor"
   },
   {
     "key": "MirrorListEditor:cb0ad25e7101",
@@ -8319,7 +8319,7 @@
     "key": "MirrorListEditor:61cc55aa0453",
     "original": "Add",
     "translation": "கூட்டு",
-    "context": "MirrorListEditor | [unfinished]"
+    "context": "MirrorListEditor"
   },
   {
     "key": "MirrorListEditor:226188f5c23d",
@@ -8757,7 +8757,7 @@
     "key": "ModFolderModel:bfd722aee774",
     "original": "Confirm toggle",
     "translation": "மாற்றுவதை உறுதிப்படுத்தவும்",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:8aece0cb2b99",
@@ -9153,13 +9153,13 @@
     "key": "ModrinthCreationTask:ec8e76990081",
     "original": "Removing old conflicting files...",
     "translation": "பழைய முரண்பட்ட கோப்புகளை அகற்றுதல் ...",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:95678dd3a029",
     "original": "Failed to remove old conflicting files.",
     "translation": "பழைய முரண்பட்ட கோப்புகளை அகற்றுவதில் தோல்வி.",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthManagedPackPage:6bbfd857afb9",
@@ -9345,31 +9345,31 @@
     "key": "Net::Request:f930959fbc72",
     "original": "Requesting %1",
     "translation": "%1 கோருகிறது",
-    "context": "Net::Request | [unfinished]"
+    "context": "Net::Request"
   },
   {
     "key": "Net::Request:d4b2aca736b7",
     "original": "%1 / %2",
     "translation": "%1 / %2",
-    "context": "Net::Request | Current amount of bytes downloaded, out of the total amount of bytes in the download | [unfinished]"
+    "context": "Net::Request | Current amount of bytes downloaded, out of the total amount of bytes in the download"
   },
   {
     "key": "Net::Request:50d8b4a941c2",
     "original": "unknown",
     "translation": "தெரியவில்லை",
-    "context": "Net::Request | [unfinished]"
+    "context": "Net::Request"
   },
   {
     "key": "Net::Request:5b17125e5647",
     "original": "%1 /s (%2)",
     "translation": "%1 /s (%2)",
-    "context": "Net::Request | Download speed, in bytes per second (remaining download time in parenthesis) | [unfinished]"
+    "context": "Net::Request | Download speed, in bytes per second (remaining download time in parenthesis)"
   },
   {
     "key": "Net::Request:16f20499929f",
     "original": "0 B/s",
     "translation": "0 பி/வி",
-    "context": "Net::Request | Download speed at 0 bytes per second | [unfinished]"
+    "context": "Net::Request | Download speed at 0 bytes per second"
   },
   {
     "key": "Net::Request:5cd0f72bdf35",
@@ -9423,13 +9423,13 @@
     "key": "NetworkJobFailedDialog:0e2d9b0777a4",
     "original": "URL",
     "translation": "முகவரி",
-    "context": "NetworkJobFailedDialog | [unfinished]"
+    "context": "NetworkJobFailedDialog"
   },
   {
     "key": "NetworkJobFailedDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "பிழை",
-    "context": "NetworkJobFailedDialog | [unfinished]"
+    "context": "NetworkJobFailedDialog"
   },
   {
     "key": "NetworkJobFailedDialog:7b52603bb25e",
@@ -9855,13 +9855,13 @@
     "key": "OptiFineInstallDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "நிறுவவும்",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptiFineInstallDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "ரத்துசெய்",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptionalModDialog:12e9f3729ee6",
@@ -9999,7 +9999,7 @@
     "key": "OtherLogsPage:bce06414177f",
     "original": "Search",
     "translation": "தேடல்",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:7f2f6a15cf8d",
@@ -10053,7 +10053,7 @@
     "key": "OtherLogsPage:719ea396ad92",
     "original": "Clear",
     "translation": "தெளிவான",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:096311b5638e",
@@ -10101,97 +10101,97 @@
     "key": "PackInstallTask:93fc42ea75d6",
     "original": "Could not understand pack manifest:\n",
     "translation": "பேக் மேனிஃபெச்டை புரிந்து கொள்ள முடியவில்லை:",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:1cc558d32fa4",
     "original": "Unsupported installation mode",
     "translation": "ஆதரிக்கப்படாத நிறுவல் முறை",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:608a6e16a154",
     "original": "Failed to get local metadata index for '%1' v%2",
     "translation": "'%1' V%2 க்கு உள்ளக மேனிலை தரவு குறியீட்டைப் பெறுவதில் தோல்வி",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:a61c5171cb28",
     "original": "Deleting existing files...",
     "translation": "இருக்கும் கோப்புகளை நீக்குதல் ...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:639e6287333c",
     "original": "Unknown mod type: %1",
     "translation": "தெரியாத மோட் வகை: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:54a1e48a12f3",
     "original": "Failed to get local metadata index for %1",
     "translation": "%1 க்கு உள்ளக மேனிலை தரவு குறியீட்டைப் பெறுவதில் தோல்வி",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:9638c0cc0435",
     "original": "Failed to find version for %1 loader",
     "translation": "%1 ஏற்றிக்கு பதிப்பைக் கண்டுபிடிக்கத் தவறிவிட்டது",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:394b0f2a985e",
     "original": "No loader version set for modpack!",
     "translation": "மோட்பேக்கிற்கு ஏற்றி பதிப்பு அமைக்கப்படவில்லை!",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:8ea0186a5329",
     "original": "Unknown or unsupported download type: %1",
     "translation": "அறியப்படாத அல்லது ஆதரிக்கப்படாத பதிவிறக்க வகை: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:db82f5ce4d92",
     "original": "Downloading configs...",
     "translation": "உள்ளமைவுகளைப் பதிவிறக்குகிறது ...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:296053b61434",
     "original": "Config download",
     "translation": "கட்டமைப்பு பதிவிறக்கம்",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:88e116160aff",
     "original": "Extracting configs...",
     "translation": "உள்ளமைவுகளைப் பிரித்தெடுக்கிறது ...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:6e97ce93553c",
     "original": "Selecting optional mods...",
     "translation": "விருப்ப மோட்களைத் தேர்ந்தெடுப்பது ...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:df237503973c",
     "original": "Downloading mods...",
     "translation": "மோட்சைப் பதிவிறக்குகிறது ...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:7b02e924aa02",
     "original": "Mod download",
     "translation": "மோட் பதிவிறக்கம்",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:e91e47f5379a",
     "original": "Unknown download type: %1",
     "translation": "தெரியாத பதிவிறக்க வகை: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:d4e059888d25",
@@ -10203,55 +10203,55 @@
     "key": "PackInstallTask:327b7e57d4e1",
     "original": "Blocked mods found",
     "translation": "தடுக்கப்பட்ட மோட்ச் காணப்பட்டது",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:7ff827f8d900",
     "original": "The following files are not available for download in third party launchers.<br/>You will need to manually download them and add them to the instance.",
     "translation": "மூன்றாம் தரப்பு லாஞ்சர்களில் பதிவிறக்கம் செய்ய பின்வரும் கோப்புகள் கிடைக்கவில்லை. <br/> நீங்கள் அவற்றை கைமுறையாக பதிவிறக்கம் செய்து அவற்றை உதாரணமாக சேர்க்க வேண்டும்.",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:f9bc7a615403",
     "original": "%1 out of %2 complete",
     "translation": "%2 இல் %1 முடிந்தது",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:3138740f4b31",
     "original": "Failed to extract mods...",
     "translation": "மோட்சைப் பிரித்தெடுப்பதில் தோல்வி ...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:e87c1bb107c0",
     "original": "Extracting mods...",
     "translation": "மோட்சைப் பிரித்தெடுக்கும் ...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:7d3e34e21534",
     "original": "Installing modpack",
     "translation": "மோட்பேக்கை நிறுவுதல்",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:a568ebaf6ef5",
     "original": "Failed to create libraries component",
     "translation": "நூலகங்களின் கூறுகளை உருவாக்குவதில் தோல்வி",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:c9c9e81a13ed",
     "original": "Unknown loader type: ",
     "translation": "அறியப்படாத ஏற்றி வகை:",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:76fefafc38cf",
     "original": "Failed to create pack component",
     "translation": "பேக் கூறுகளை உருவாக்குவதில் தோல்வி",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackProfile:b1590d210090",
@@ -10899,7 +10899,7 @@
     "key": "ProgressDialog:6f3abbe484ab",
     "original": "Abort",
     "translation": "கருக்கலைப்பு",
-    "context": "ProgressDialog | [unfinished]"
+    "context": "ProgressDialog"
   },
   {
     "key": "ProjectItemDelegate:517f9bea1d3e",
@@ -10929,7 +10929,7 @@
     "key": "ProxyPage:1c5003dfe546",
     "original": "Use s&ystem settings",
     "translation": "S & ystem அமைப்புகளைப் பயன்படுத்தவும்",
-    "context": "ProxyPage | [unfinished]"
+    "context": "ProxyPage"
   },
   {
     "key": "ProxyPage:4961fb2d225b",
@@ -11919,7 +11919,7 @@
     "key": "QObject:d7858fba3b68",
     "original": "Data Packs",
     "translation": "தரவுப் பொதிகள்",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:8d961a2483ee",
@@ -11931,7 +11931,7 @@
     "key": "QObject:cb638b12586f",
     "original": "%1 Developers",
     "translation": "%1 உருவாக்குபவர்கள்",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:01ec5d0fd4a6",
@@ -11955,49 +11955,49 @@
     "key": "QObject:a9b4889389af",
     "original": "Unrecognized",
     "translation": "அங்கீகரிக்கப்படாத",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:5a853d21a166",
     "original": "data packs",
     "translation": "தரவுப் பொதிகள்",
-    "context": "QObject | The plural version of 'data pack' | [unfinished]"
+    "context": "QObject | The plural version of 'data pack'"
   },
   {
     "key": "QObject:3fc66ee35714",
     "original": "mods",
     "translation": "மோட்ச்",
-    "context": "QObject | The plural version of 'mod' | [unfinished]"
+    "context": "QObject | The plural version of 'mod'"
   },
   {
     "key": "QObject:2ad8259fa9ee",
     "original": "resource packs",
     "translation": "வள பொதிகள்",
-    "context": "QObject | The plural version of 'resource pack' | [unfinished]"
+    "context": "QObject | The plural version of 'resource pack'"
   },
   {
     "key": "QObject:7a1047389735",
     "original": "resource",
     "translation": "வள",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:0189424a5a60",
     "original": "resources",
     "translation": "வளங்கள்",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3e14b9b2fa34",
     "original": "shader packs",
     "translation": "சேடர் பொதிகள்",
-    "context": "QObject | The plural version of 'shader pack' | [unfinished]"
+    "context": "QObject | The plural version of 'shader pack'"
   },
   {
     "key": "QObject:f020945bedf5",
     "original": "texture packs",
     "translation": "அமைப்பு பொதிகள்",
-    "context": "QObject | The plural version of 'texture pack' | [unfinished]"
+    "context": "QObject | The plural version of 'texture pack'"
   },
   {
     "key": "QObject:1ba86caa483a",
@@ -12093,31 +12093,31 @@
     "key": "ResourceDownload::ResourceDownloadDialog:3fc66ee35714",
     "original": "mods",
     "translation": "மோட்ச்",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:2ad8259fa9ee",
     "original": "resource packs",
     "translation": "வள பொதிகள்",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:f020945bedf5",
     "original": "texture packs",
     "translation": "அமைப்பு பொதிகள்",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:3e14b9b2fa34",
     "original": "shader packs",
     "translation": "சேடர் பொதிகள்",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:5a853d21a166",
     "original": "data packs",
     "translation": "தரவுப் பொதிகள்",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:0189424a5a60",
@@ -12351,7 +12351,7 @@
     "key": "ResourceFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "பதிப்பு",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:b7152342a267",
@@ -12453,7 +12453,7 @@
     "key": "ResourceFolderModel:50e19fda0d5b",
     "original": "Image",
     "translation": "படம்",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:4c24525b0aa0",
@@ -12465,7 +12465,7 @@
     "key": "ResourcePackFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "பதிப்பு",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:b7152342a267",
@@ -13149,7 +13149,7 @@
     "key": "ServersModel:2da600bf9404",
     "original": "Version",
     "translation": "பதிப்பு",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersModel:6b68e9797399",
@@ -13161,7 +13161,7 @@
     "key": "ServersModel:e01fa717bacc",
     "original": "Offline",
     "translation": "இணையமில்லாமல்",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersPage:49b93f720a4a",
@@ -13749,7 +13749,7 @@
     "key": "Task:b1590d210090",
     "original": "Aborted",
     "translation": "கருக்கலைப்பு",
-    "context": "Task | [unfinished]"
+    "context": "Task"
   },
   {
     "key": "TaskStepWrapper:7385614b3500",
@@ -14325,7 +14325,7 @@
     "key": "VersionPage:bce06414177f",
     "original": "Search",
     "translation": "தேடல்",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:fdffaea4e563",
@@ -14625,7 +14625,7 @@
     "key": "VersionPage:fd6c3ebf7bef",
     "original": "Install",
     "translation": "நிறுவவும்",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:cae9674c84d8",
@@ -14781,7 +14781,7 @@
     "key": "VersionSelectDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "சரி",
-    "context": "VersionSelectDialog | [unfinished]"
+    "context": "VersionSelectDialog"
   },
   {
     "key": "VersionSelectDialog:77dfd2135f4d",
@@ -14991,7 +14991,7 @@
     "key": "WorldListPage:4fa8cc860c52",
     "original": "Tools",
     "translation": "கருவிகள்",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:dbd185310812",
@@ -15291,13 +15291,13 @@
     "key": "YggdrasilLoginDialog:84c29015de33",
     "original": "Username",
     "translation": "பயனர்பெயர்",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:8be3c943b160",
     "original": "Password",
     "translation": "கடவுச்சொல்",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:ada2e9e96fa9",
@@ -15309,7 +15309,7 @@
     "key": "YggdrasilLoginDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "ரத்துசெய்",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:ca359109578d",

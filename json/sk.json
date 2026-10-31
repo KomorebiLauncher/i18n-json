@@ -1089,13 +1089,13 @@
     "key": "AuthlibInjectorDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Inštalovať",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AuthlibInjectorDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Zrušiť",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AutoInstallJava:d3ace495a5a2",
@@ -1221,7 +1221,7 @@
     "key": "BaseEntityLoadTask:ae327e573ef2",
     "original": "Loading local file",
     "translation": "Načítava sa miestny súbor",
-    "context": "BaseEntityLoadTask | [unfinished]"
+    "context": "BaseEntityLoadTask"
   },
   {
     "key": "BaseProfiler:122e80b33e98",
@@ -3051,7 +3051,7 @@
     "key": "ExternalResourcesPage:ef11cfcf0296",
     "original": "Unlock the resource to allow it to be updated",
     "translation": "Odomknite zdroj, aby bolo možné ho aktualizovať",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:ea5ce039d153",
@@ -3657,13 +3657,13 @@
     "key": "FlameCreationTask:ec8e76990081",
     "original": "Removing old conflicting files...",
     "translation": "Odstraňovanie konfliktných starých súborov...",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:95678dd3a029",
     "original": "Failed to remove old conflicting files.",
     "translation": "Nepodarilo sa odstrániť konfliktné staré súbory.",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:df237503973c",
@@ -4401,19 +4401,19 @@
     "key": "InstanceTask:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Chyba",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:dd17662eb1c4",
     "original": "Could not download game files: %1",
     "translation": "Nepodarilo sa stiahnuť súbory hry: %1",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:8d4223d64584",
     "original": "Downloading game files",
     "translation": "Sťahujú sa súbory hry",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceView:e52e5e6cd50e",
@@ -6237,7 +6237,7 @@
     "key": "ListModel:c4a7e601008a",
     "original": "Minecraft %1",
     "translation": "Minecraft %1",
-    "context": "ListModel | [unfinished]"
+    "context": "ListModel"
   },
   {
     "key": "LocalResourceUpdateTask:2245cdef5363",
@@ -7376,7 +7376,7 @@
   {
     "key": "MainWindow:7561aee92c50",
     "original": " and its %n registered shortcut(s)",
-    "translation": " a jej %n registrovanú skratku\n a jej %n registrované skratky\n a jej %n registrovaných skratiek",
+    "translation": "a jej %n registrovanú skratku\n a jej %n registrované skratky\n a jej %n registrovaných skratiek",
     "context": "MainWindow | [plural]"
   },
   {
@@ -8139,7 +8139,7 @@
     "key": "MinecraftSettingsWidget:d41f56cea1ac",
     "original": "Release",
     "translation": "Vydanie",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:322444d3bb52",
@@ -8667,7 +8667,7 @@
     "key": "ModFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Vylepšenie",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:9f8105907b13",
@@ -8768,7 +8768,7 @@
   {
     "key": "ModFolderModel:7344f60ae135",
     "original": "%n mod(s) will be enabled\n",
-    "translation": "%n mód bude povolený\n\n%n módy budú povolené\n\n%n módov bude povolených\n",
+    "translation": "%n mód bude povolený\n\n%n módy budú povolené\n\n%n módov bude povolených",
     "context": "ModFolderModel | [plural]"
   },
   {
@@ -8780,7 +8780,7 @@
   {
     "key": "ModFolderModel:ffcf72215f76",
     "original": "%n mod(s) will be disabled\n",
-    "translation": "%n mód bude zakázaný\n\n%n módy budú zakázané\n\n%n módov bude zakázaných\n",
+    "translation": "%n mód bude zakázaný\n\n%n módy budú zakázané\n\n%n módov bude zakázaných",
     "context": "ModFolderModel | [plural]"
   },
   {
@@ -9153,13 +9153,13 @@
     "key": "ModrinthCreationTask:ec8e76990081",
     "original": "Removing old conflicting files...",
     "translation": "Odstraňovanie konfliktných starých súborov...",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:95678dd3a029",
     "original": "Failed to remove old conflicting files.",
     "translation": "Nepodarilo sa odstrániť konfliktné staré súbory.",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthManagedPackPage:6bbfd857afb9",
@@ -9345,31 +9345,31 @@
     "key": "Net::Request:f930959fbc72",
     "original": "Requesting %1",
     "translation": "Žiadanie o %1",
-    "context": "Net::Request | [unfinished]"
+    "context": "Net::Request"
   },
   {
     "key": "Net::Request:d4b2aca736b7",
     "original": "%1 / %2",
     "translation": "%1 / %2",
-    "context": "Net::Request | Current amount of bytes downloaded, out of the total amount of bytes in the download | [unfinished]"
+    "context": "Net::Request | Current amount of bytes downloaded, out of the total amount of bytes in the download"
   },
   {
     "key": "Net::Request:50d8b4a941c2",
     "original": "unknown",
     "translation": "neznáme",
-    "context": "Net::Request | [unfinished]"
+    "context": "Net::Request"
   },
   {
     "key": "Net::Request:5b17125e5647",
     "original": "%1 /s (%2)",
     "translation": "%1 /s (%2)",
-    "context": "Net::Request | Download speed, in bytes per second (remaining download time in parenthesis) | [unfinished]"
+    "context": "Net::Request | Download speed, in bytes per second (remaining download time in parenthesis)"
   },
   {
     "key": "Net::Request:16f20499929f",
     "original": "0 B/s",
     "translation": "0 B/s",
-    "context": "Net::Request | Download speed at 0 bytes per second | [unfinished]"
+    "context": "Net::Request | Download speed at 0 bytes per second"
   },
   {
     "key": "Net::Request:5cd0f72bdf35",
@@ -9387,13 +9387,13 @@
     "key": "Net::Request:60f870097f24",
     "original": "Request Rate Limited for %n second(s): Retry After %1",
     "translation": "Počet požiadaviek je obmedzený na %n sekundu: Opakovať po %1\nPočet požiadaviek je obmedzený na %n sekundy: Opakovať po %1\nPočet požiadaviek je obmedzený na %n sekúnd: Opakovať po %1",
-    "context": "Net::Request | [unfinished, plural]"
+    "context": "Net::Request | [plural]"
   },
   {
     "key": "Net::Request:f39e4002d474",
     "original": "Rate Limited: Waiting %n second(s)",
     "translation": "Obmedzenie rýchlosti: Čakanie %n sekundu\nObmedzenie rýchlosti: Čakanie %n sekundy\nObmedzenie rýchlosti: Čakanie %n sekúnd",
-    "context": "Net::Request | [unfinished, plural]"
+    "context": "Net::Request | [plural]"
   },
   {
     "key": "NetJob:94ab93724d10",
@@ -9855,13 +9855,13 @@
     "key": "OptiFineInstallDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Inštalovať",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptiFineInstallDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Zrušiť",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptionalModDialog:12e9f3729ee6",
@@ -11127,13 +11127,13 @@
     "key": "QObject:1d07e789d749",
     "original": "The specified Java binary didn't start properly.<br />",
     "translation": "Špecifikovaná java binárka nenaštartovala správne.<br />",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:49594163d7b0",
     "original": "The specified Java binary returned unexpected results:<br />",
     "translation": "Špecifikovaná java binárka vrátila neočakávaný výsledok:<br />",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:459dea5cde73",
@@ -11361,7 +11361,7 @@
     "key": "QObject:22ab8bd0c5ca",
     "original": "The specified Java binary didn't work with the arguments you provided:<br />",
     "translation": "Špecifikovaná java binárka nebude pracovať s argumentami, ktoré ste zadali:<br />",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:508853b3a1f7",
@@ -11373,7 +11373,7 @@
     "key": "QObject:db286a36a0f3",
     "original": "Java checker library could not be found. Please check your installation.",
     "translation": "Knižnica na kontrolu Java nebola nájdená. Skontrolujte prosím svoju inštaláciu.",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:44bb1beac399",
@@ -11781,7 +11781,7 @@
     "key": "QObject:9790ab6f7803",
     "original": "The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.",
     "translation": "Launcher je v priečinku, z ktorého bol extrahovaný a preto nemôže vytvárať skratky.",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:20145e24c0b8",
@@ -11799,7 +11799,7 @@
     "key": "QObject:cda57bb1deaf",
     "original": "Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)",
     "translation": "Launcher je spustený ako zle nakonfigurovaný AppImage? (Chýba premenná prostredia $APPIMAGE)",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:4173a348eb42",
@@ -11859,7 +11859,7 @@
     "key": "QObject:d80c70568e93",
     "original": "Desktop Entries",
     "translation": "Položky na ploche",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:6064502062d2",
@@ -11955,7 +11955,7 @@
     "key": "QObject:a9b4889389af",
     "original": "Unrecognized",
     "translation": "Nerozpoznané",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:5a853d21a166",
@@ -11967,7 +11967,7 @@
     "key": "QObject:3fc66ee35714",
     "original": "mods",
     "translation": "módy",
-    "context": "QObject | The plural version of 'mod' | [unfinished]"
+    "context": "QObject | The plural version of 'mod'"
   },
   {
     "key": "QObject:2ad8259fa9ee",
@@ -12003,7 +12003,7 @@
     "key": "QObject:1ba86caa483a",
     "original": "Could not open file %1 for reading: %2",
     "translation": "Nebolo možné otvoriť súbor %1 na čítanie: %2",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:f05c9bfd5730",
@@ -12093,7 +12093,7 @@
     "key": "ResourceDownload::ResourceDownloadDialog:3fc66ee35714",
     "original": "mods",
     "translation": "módy",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:2ad8259fa9ee",
@@ -12189,7 +12189,7 @@
     "key": "ResourceDownload::ResourcePage:f8f69574105d",
     "original": "<b>This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.</b>",
     "translation": "<b>Tento projekt bol archivovaný. Nebude dostávať žiadne aktualizácie, pokiaľ sa autor nerozhodne archiváciu zrušiť.</b>",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:2cfb8e70dbcf",
@@ -12291,7 +12291,7 @@
     "key": "ResourceDownload::ResourcePage:6282bdee84f1",
     "original": "Ctrl+Return",
     "translation": "Ctrl+Return",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:77dfd2135f4d",
@@ -12327,13 +12327,13 @@
     "key": "ResourceFolderModel:62d4750bff7e",
     "original": "\nWarning: This resource is symbolically linked from elsewhere. Editing it will also change the original.\nCanonical Path: %1",
     "translation": "Upozornenie: Tento prostriedok je symbolicky prevzatý z iného miesta. Jeho modifikovanie ovplyvní aj originál.\nKanonická cesta: %1",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:d564bd755146",
     "original": "\nWarning: This resource is hard linked elsewhere. Editing it will also change the original.",
     "translation": "Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovplyvnia originál.",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:709a23220f2c",
@@ -12351,19 +12351,19 @@
     "key": "ResourceFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Verzia",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:b7152342a267",
     "original": "Size",
     "translation": "Veľkosť",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:7ceee3f3615a",
     "original": "Provider",
     "translation": "Poskytovateľ",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:2aabcfc2668a",
@@ -12375,13 +12375,13 @@
     "key": "ResourceFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Vylepšenie",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:bfd722aee774",
     "original": "Confirm toggle",
     "translation": "Potvrdiť prepnutie",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:3e6f800424a6",
@@ -12459,25 +12459,25 @@
     "key": "ResourcePackFolderModel:4c24525b0aa0",
     "original": "Last Modified",
     "translation": "Posledne upravené",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Verzia",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:b7152342a267",
     "original": "Size",
     "translation": "Veľkosť",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:7ceee3f3615a",
     "original": "Provider",
     "translation": "Poskytovateľ",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:2aabcfc2668a",
@@ -12489,7 +12489,7 @@
     "key": "ResourcePackFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Vylepšenie",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:35a599c5f88a",
@@ -12537,13 +12537,13 @@
     "key": "ResourcePackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Názov",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:0092be542f99",
     "original": "Pack Format",
     "translation": "Formát balíka",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:919afcd54661",
@@ -12561,7 +12561,7 @@
     "key": "ResourcePackPage:488738cde719",
     "original": "Download Packs",
     "translation": "Stiahnuť balíky",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:e0426347f584",
@@ -12579,19 +12579,19 @@
     "key": "ResourcePackPage:2547f8e4a749",
     "original": "Change a mod's version.",
     "translation": "Zmeniť verziu módu.",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Chyba",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:1430f976c596",
     "original": "Warnings",
     "translation": "Upozornenia",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:e2cabd9e9dcc",
@@ -12603,7 +12603,7 @@
     "key": "ResourcePackPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "Potvrdiť Aktualizáciu",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:bfd070362a72",
@@ -12615,7 +12615,7 @@
     "key": "ResourcePackPage:76e93d20a40b",
     "original": "'%1' is up-to-date! :)",
     "translation": "„%1“ je aktuálny! :)",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:5b87c4c86fc9",
@@ -12633,13 +12633,13 @@
     "key": "ResourcePackPage:2080f0fbd2f0",
     "original": "Update checker",
     "translation": "Kontrola aktualizácií",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Potvrdiť odstránenie",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:068704d93c40",
@@ -12657,13 +12657,13 @@
     "key": "ResourcePage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "Zvolená verzia:",
-    "context": "ResourcePage | [unfinished]"
+    "context": "ResourcePage"
   },
   {
     "key": "ResourcePage:c3c949f932a9",
     "original": "Filter options",
     "translation": "Možnosti filtra",
-    "context": "ResourcePage | [unfinished]"
+    "context": "ResourcePage"
   },
   {
     "key": "ResourceUpdateDialog:f91b434cbfb3",
@@ -12711,19 +12711,19 @@
     "key": "ResourceUpdateDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Chyba",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:1430f976c596",
     "original": "Warnings",
     "translation": "Upozornenia",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:549981f05abc",
     "original": "Checking for updates...",
     "translation": "Vyhľadávajú sa aktualizácie...",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:eedd8a283bb3",
@@ -12765,13 +12765,13 @@
     "key": "ResourceUpdateDialog:5eb693bc62ce",
     "original": "Checking for dependencies...",
     "translation": "Kontrolovanie závislostí...",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:1aab9f182430",
     "original": "Not installed",
     "translation": "Nenainštalované",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:70d5f8453b33",
@@ -13023,7 +13023,7 @@
     "key": "ScreenshotsPage:8953e5799431",
     "original": "Confirm Deletion",
     "translation": "Potvrdiť odstránenie",
-    "context": "ScreenshotsPage | [unfinished]"
+    "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:597b6356e6ce",
@@ -13047,19 +13047,19 @@
     "key": "ScrollMessageBox:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Zrušiť",
-    "context": "ScrollMessageBox | [unfinished]"
+    "context": "ScrollMessageBox"
   },
   {
     "key": "ScrollMessageBox:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "ScrollMessageBox | [unfinished]"
+    "context": "ScrollMessageBox"
   },
   {
     "key": "SelectReleaseAssetDialog:2da600bf9404",
     "original": "Version",
     "translation": "Verzia",
-    "context": "SelectReleaseAssetDialog | [unfinished]"
+    "context": "SelectReleaseAssetDialog"
   },
   {
     "key": "SelectReleaseAssetDialog:89cba7b3e72d",
@@ -13089,7 +13089,7 @@
     "key": "SelectReleaseDialog:2da600bf9404",
     "original": "Version",
     "translation": "Verzia",
-    "context": "SelectReleaseDialog | [unfinished]"
+    "context": "SelectReleaseDialog"
   },
   {
     "key": "SelectReleaseDialog:89cba7b3e72d",
@@ -13107,13 +13107,13 @@
     "key": "SelectReleaseDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Zrušiť",
-    "context": "SelectReleaseDialog | [unfinished]"
+    "context": "SelectReleaseDialog"
   },
   {
     "key": "SelectReleaseDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "SelectReleaseDialog | [unfinished]"
+    "context": "SelectReleaseDialog"
   },
   {
     "key": "SequentialTask:829c6e1cd1e8",
@@ -13149,7 +13149,7 @@
     "key": "ServersModel:2da600bf9404",
     "original": "Version",
     "translation": "Verzia",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersModel:6b68e9797399",
@@ -13161,7 +13161,7 @@
     "key": "ServersModel:e01fa717bacc",
     "original": "Offline",
     "translation": "Offline",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersPage:49b93f720a4a",
@@ -13239,7 +13239,7 @@
     "key": "ServersPage:56e3badc4e6c",
     "original": "Refresh",
     "translation": "Obnoviť",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:acca64b83535",
@@ -13263,7 +13263,7 @@
     "key": "ServersPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Potvrdiť odstránenie",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:d11c34744d16",
@@ -13317,7 +13317,7 @@
     "key": "ShaderPackPage:488738cde719",
     "original": "Download Packs",
     "translation": "Stiahnuť balíky",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:18d2a5b13b98",
@@ -13341,13 +13341,13 @@
     "key": "ShaderPackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Chyba",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:1430f976c596",
     "original": "Warnings",
     "translation": "Upozornenia",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:292f21077ddf",
@@ -13359,7 +13359,7 @@
     "key": "ShaderPackPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "Potvrdiť Aktualizáciu",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:50c4638a5951",
@@ -13371,7 +13371,7 @@
     "key": "ShaderPackPage:76e93d20a40b",
     "original": "'%1' is up-to-date! :)",
     "translation": "„%1“ je aktuálny! :)",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:4e2cec7a1363",
@@ -13389,13 +13389,13 @@
     "key": "ShaderPackPage:2080f0fbd2f0",
     "original": "Update checker",
     "translation": "Kontrola aktualizácií",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Potvrdiť odstránenie",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:c3ba31d003fe",
@@ -13449,7 +13449,7 @@
     "key": "SkinManageDialog:ca5403ec7806",
     "original": "Skin Upload",
     "translation": "Odoslať skin",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:68c2cc7f0cea",
@@ -13473,7 +13473,7 @@
     "key": "SkinManageDialog:d5ffb218bcae",
     "original": "Cape",
     "translation": "Plášť",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:f3410407219b",
@@ -13485,7 +13485,7 @@
     "key": "SkinManageDialog:027760ffe7da",
     "original": "Open Folder",
     "translation": "Otvoriť priečinok",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:cf4da3174d7d",
@@ -13515,7 +13515,7 @@
     "key": "SkinManageDialog:a4540c6e2afe",
     "original": "&Delete Skin",
     "translation": "&Odstrániť skin",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:a56fb8960c8b",
@@ -13551,19 +13551,19 @@
     "key": "SkinManageDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Zrušiť",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:126f0e0caf65",
     "original": "Select Skin Texture",
     "translation": "Zvoľte textúru skinu",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:6c298737dfdf",
@@ -13575,7 +13575,7 @@
     "key": "SkinManageDialog:4f56a87f3cb9",
     "original": "No Cape",
     "translation": "Žiaden plášť",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:6fc8da40173d",
@@ -13593,13 +13593,13 @@
     "key": "SkinManageDialog:2c8635e6f52b",
     "original": "Skin file does not exist!",
     "translation": "Súbor skinu neexistuje!",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:6364698d704d",
     "original": "Failed to upload skin!",
     "translation": "Zlyhalo odoslanie skinu!",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:a0781bc8f283",
@@ -13611,19 +13611,19 @@
     "key": "SkinManageDialog:67625d998cfa",
     "original": "Skin Delete",
     "translation": "Odstránenie skinu",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:e002853d1d71",
     "original": "Failed to delete current skin!",
     "translation": "Nepodarilo sa odstrániť aktuálny skin!",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Kontextové menu",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:abc73e2588f3",
@@ -13641,7 +13641,7 @@
     "key": "SkinManageDialog:8953e5799431",
     "original": "Confirm Deletion",
     "translation": "Potvrdiť odstránenie",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:a610463d67da",
@@ -13731,7 +13731,7 @@
     "key": "SubTaskProgressBar:80446347ede5",
     "original": "Form",
     "translation": "Formulár",
-    "context": "SubTaskProgressBar | [unfinished]"
+    "context": "SubTaskProgressBar"
   },
   {
     "key": "SubTaskProgressBar:9f478681f2e2",
@@ -13749,7 +13749,7 @@
     "key": "Task:b1590d210090",
     "original": "Aborted",
     "translation": "Prerušené",
-    "context": "Task | [unfinished]"
+    "context": "Task"
   },
   {
     "key": "TaskStepWrapper:7385614b3500",
@@ -13761,7 +13761,7 @@
     "key": "TaskStepWrapper:56406b3ccd77",
     "original": "Instance update failed because: %1\n\n",
     "translation": "Vylepšenie inštancie sa nepodarilo z dôvodu: %1",
-    "context": "TaskStepWrapper | [unfinished]"
+    "context": "TaskStepWrapper"
   },
   {
     "key": "Technic::SingleZipPackInstallTask:d90009c115ee",
@@ -13845,7 +13845,7 @@
     "key": "Technic::TechnicPackProcessor:c960a8884961",
     "original": "Could not find \"version.json\" inside \"bin/modpack.jar\", but Minecraft version is unknown",
     "translation": "Nepodarilo sa nájsť \"version.json\" vnútri \"bin/modpack.jar\", ale verzia Minecraftu je neznámá",
-    "context": "Technic::TechnicPackProcessor | [unfinished]"
+    "context": "Technic::TechnicPackProcessor"
   },
   {
     "key": "Technic::TechnicPackProcessor:c01d3ec6d41c",
@@ -13893,19 +13893,19 @@
     "key": "TechnicPage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "Zvolená verzia:",
-    "context": "TechnicPage | [unfinished]"
+    "context": "TechnicPage"
   },
   {
     "key": "TechnicPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Hľadať a filtrovať ...",
-    "context": "TechnicPage | [unfinished]"
+    "context": "TechnicPage"
   },
   {
     "key": "TechnicPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Chyba",
-    "context": "TechnicPage | [unfinished]"
+    "context": "TechnicPage"
   },
   {
     "key": "TechnicPage:876074b47592",
@@ -13917,25 +13917,25 @@
     "key": "TexturePackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Názov",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:4c24525b0aa0",
     "original": "Last Modified",
     "translation": "Posledne upravené",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:b7152342a267",
     "original": "Size",
     "translation": "Veľkosť",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:7ceee3f3615a",
     "original": "Provider",
     "translation": "Poskytovateľ",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:2aabcfc2668a",
@@ -13947,7 +13947,7 @@
     "key": "TexturePackFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "Vylepšenie",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:b922df5f2870",
@@ -14001,7 +14001,7 @@
     "key": "TexturePackPage:488738cde719",
     "original": "Download Packs",
     "translation": "Stiahnuť balíky",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:85fa4bf8bc83",
@@ -14031,13 +14031,13 @@
     "key": "TexturePackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Chyba",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:1430f976c596",
     "original": "Warnings",
     "translation": "Upozornenia",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:936125976ee4",
@@ -14049,7 +14049,7 @@
     "key": "TexturePackPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "Potvrdiť Aktualizáciu",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:dd36a08926c7",
@@ -14061,7 +14061,7 @@
     "key": "TexturePackPage:76e93d20a40b",
     "original": "'%1' is up-to-date! :)",
     "translation": "„%1“ je aktuálny! :)",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:a39d7646de30",
@@ -14079,13 +14079,13 @@
     "key": "TexturePackPage:2080f0fbd2f0",
     "original": "Update checker",
     "translation": "Kontrola aktualizácií",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Potvrdiť odstránenie",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:b7fbe79a518f",
@@ -14097,7 +14097,7 @@
     "key": "ThemeWizardPage:41def7a0febe",
     "original": "Appearance",
     "translation": "Vzhľad",
-    "context": "ThemeWizardPage | [unfinished]"
+    "context": "ThemeWizardPage"
   },
   {
     "key": "ThemeWizardPage:8ba2ac6395c2",
@@ -14319,13 +14319,13 @@
     "key": "VersionPage:f26357178177",
     "original": "Change Version",
     "translation": "Zmeniť Verziu",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:bce06414177f",
     "original": "Search",
     "translation": "Hľadať",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:fdffaea4e563",
@@ -14337,7 +14337,7 @@
     "key": "VersionPage:c6370aded903",
     "original": "Move Up",
     "translation": "Presunúť nahor",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:9e168a310eed",
@@ -14349,7 +14349,7 @@
     "key": "VersionPage:4158bedc2fcd",
     "original": "Move Down",
     "translation": "Presunúť nadol",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:e369475f4b94",
@@ -14385,7 +14385,7 @@
     "key": "VersionPage:af98ab0d8ec5",
     "original": "Install Loader",
     "translation": "Nainštalovať Loader",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:30de6d79b8eb",
@@ -14517,7 +14517,7 @@
     "key": "VersionPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Potvrdiť odstránenie",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:c8f5d5fa0f19",
@@ -14625,7 +14625,7 @@
     "key": "VersionPage:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Inštalovať",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:cae9674c84d8",
@@ -14781,13 +14781,13 @@
     "key": "VersionSelectDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "OK",
-    "context": "VersionSelectDialog | [unfinished]"
+    "context": "VersionSelectDialog"
   },
   {
     "key": "VersionSelectDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Zrušiť",
-    "context": "VersionSelectDialog | [unfinished]"
+    "context": "VersionSelectDialog"
   },
   {
     "key": "VersionSelectDialog:83b94bf4f93a",
@@ -14811,7 +14811,7 @@
     "key": "VersionSelectWidget:bce06414177f",
     "original": "Search",
     "translation": "Hľadať",
-    "context": "VersionSelectWidget | [unfinished]"
+    "context": "VersionSelectWidget"
   },
   {
     "key": "VersionSelectWidget:7f2f6a15cf8d",
@@ -14883,13 +14883,13 @@
     "key": "WorldList:b7152342a267",
     "original": "Size",
     "translation": "Veľkosť",
-    "context": "WorldList | World size on disk | [unfinished]"
+    "context": "WorldList | World size on disk"
   },
   {
     "key": "WorldList:4b631f698425",
     "original": "Info",
     "translation": "Informácie",
-    "context": "WorldList | special warnings? | [unfinished]"
+    "context": "WorldList | special warnings?"
   },
   {
     "key": "WorldList:9c5a93559664",
@@ -14937,7 +14937,7 @@
     "key": "WorldListPage:e0d73143de80",
     "original": "Join",
     "translation": "Pripojiť",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:d3f4cb898fbe",
@@ -14991,7 +14991,7 @@
     "key": "WorldListPage:4fa8cc860c52",
     "original": "Tools",
     "translation": "Nástroje",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:dbd185310812",
@@ -15051,7 +15051,7 @@
     "key": "WorldListPage:8953e5799431",
     "original": "Confirm Deletion",
     "translation": "Potvrdiť odstránenie",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:86a7a08378ba",
@@ -15099,7 +15099,7 @@
     "key": "WorldListPage:7ac533f58d61",
     "original": "Invalid command",
     "translation": "Neplatný príkaz",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:1f7cec127456",
@@ -15291,13 +15291,13 @@
     "key": "YggdrasilLoginDialog:84c29015de33",
     "original": "Username",
     "translation": "Používateľské meno",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:8be3c943b160",
     "original": "Password",
     "translation": "Heslo",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:ada2e9e96fa9",
@@ -15309,7 +15309,7 @@
     "key": "YggdrasilLoginDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Zrušiť",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:ca359109578d",

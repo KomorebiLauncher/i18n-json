@@ -1089,7 +1089,7 @@
     "key": "AuthlibInjectorDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "تثبيت",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AuthlibInjectorDialog:77dfd2135f4d",
@@ -2295,13 +2295,13 @@
     "key": "DataPackFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "الإصدار",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "تحديث",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:b80566e89550",
@@ -3171,7 +3171,7 @@
     "key": "ExternalToolsPage:709a23220f2c",
     "original": "Name",
     "translation": "الاسم",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:8901895fb1b1",
@@ -6237,7 +6237,7 @@
     "key": "ListModel:c4a7e601008a",
     "original": "Minecraft %1",
     "translation": "ماين كرافت %1",
-    "context": "ListModel | [unfinished]"
+    "context": "ListModel"
   },
   {
     "key": "LocalResourceUpdateTask:2245cdef5363",
@@ -7376,7 +7376,7 @@
   {
     "key": "MainWindow:7561aee92c50",
     "original": " and its %n registered shortcut(s)",
-    "translation": " مع عدم وجود اختصارات له\n واختصاره المسجل\n واختصارينه المسجلين\n واختصاراته ال%n المسجلات\n وال%n اختصارا مسجلا له\n وال%n اختصار مسجل له",
+    "translation": "مع عدم وجود اختصارات له\n واختصاره المسجل\n واختصارينه المسجلين\n واختصاراته ال%n المسجلات\n وال%n اختصارا مسجلا له\n وال%n اختصار مسجل له",
     "context": "MainWindow | [plural]"
   },
   {
@@ -7647,7 +7647,7 @@
     "key": "ManagedPackPage:2a8cbde53d3a",
     "original": "Confirm Update",
     "translation": "تأكيد التحديث",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:f701d3d7d9eb",
@@ -8307,7 +8307,7 @@
     "key": "MirrorListEditor:e963907dac5c",
     "original": "Remove",
     "translation": "إزالة",
-    "context": "MirrorListEditor | [unfinished]"
+    "context": "MirrorListEditor"
   },
   {
     "key": "MirrorListEditor:cb0ad25e7101",
@@ -8667,7 +8667,7 @@
     "key": "ModFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "تحديث",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:9f8105907b13",
@@ -8768,7 +8768,7 @@
   {
     "key": "ModFolderModel:7344f60ae135",
     "original": "%n mod(s) will be enabled\n",
-    "translation": "سيتم تفعيل صفر مود\n\nسيتم تفعيل المود n%\n\nسيتم تفعيل المودان n%\n\nسيتم تفعيل المودات n%\n\nسيتم تفعيل المودات n%\n\nسيتم تفعيل المودات n%\n",
+    "translation": "سيتم تفعيل صفر مود\n\nسيتم تفعيل المود n%\n\nسيتم تفعيل المودان n%\n\nسيتم تفعيل المودات n%\n\nسيتم تفعيل المودات n%\n\nسيتم تفعيل المودات n%",
     "context": "ModFolderModel | [plural]"
   },
   {
@@ -8780,7 +8780,7 @@
   {
     "key": "ModFolderModel:ffcf72215f76",
     "original": "%n mod(s) will be disabled\n",
-    "translation": "سيتم تعطيل مود n%\n\nسيتم تعطيل المود n%\n\nسيتم تعطيل المودان n%\n\nسيتم تعطيل المودات n%\n\nسيتم تعطيل المودات n%\n\nسيتم تعطيل المودات n%\n",
+    "translation": "سيتم تعطيل مود n%\n\nسيتم تعطيل المود n%\n\nسيتم تعطيل المودان n%\n\nسيتم تعطيل المودات n%\n\nسيتم تعطيل المودات n%\n\nسيتم تعطيل المودات n%",
     "context": "ModFolderModel | [plural]"
   },
   {
@@ -9855,7 +9855,7 @@
     "key": "OptiFineInstallDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "تثبيت",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptiFineInstallDialog:77dfd2135f4d",
@@ -12351,7 +12351,7 @@
     "key": "ResourceFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "الإصدار",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:b7152342a267",
@@ -12375,7 +12375,7 @@
     "key": "ResourceFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "تحديث",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:bfd722aee774",
@@ -12453,7 +12453,7 @@
     "key": "ResourceFolderModel:50e19fda0d5b",
     "original": "Image",
     "translation": "صورة",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:4c24525b0aa0",
@@ -12465,7 +12465,7 @@
     "key": "ResourcePackFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "الإصدار",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:b7152342a267",
@@ -12489,7 +12489,7 @@
     "key": "ResourcePackFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "تحديث",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:35a599c5f88a",
@@ -13149,7 +13149,7 @@
     "key": "ServersModel:2da600bf9404",
     "original": "Version",
     "translation": "الإصدار",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersModel:6b68e9797399",
@@ -13947,7 +13947,7 @@
     "key": "TexturePackFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "تحديث",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:b922df5f2870",
@@ -14625,7 +14625,7 @@
     "key": "VersionPage:fd6c3ebf7bef",
     "original": "Install",
     "translation": "تثبيت",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:cae9674c84d8",
@@ -14991,7 +14991,7 @@
     "key": "WorldListPage:4fa8cc860c52",
     "original": "Tools",
     "translation": "الأدوات",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:dbd185310812",
@@ -15291,13 +15291,13 @@
     "key": "YggdrasilLoginDialog:84c29015de33",
     "original": "Username",
     "translation": "اسم المستخدم",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:8be3c943b160",
     "original": "Password",
     "translation": "كلمة المرور",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:ada2e9e96fa9",

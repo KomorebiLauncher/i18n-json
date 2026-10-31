@@ -1089,13 +1089,13 @@
     "key": "AuthlibInjectorDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Gosod",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AuthlibInjectorDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Canslo",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AutoInstallJava:d3ace495a5a2",
@@ -1245,7 +1245,7 @@
     "key": "BlockedModsDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Canslo",
-    "context": "BlockedModsDialog | [unfinished]"
+    "context": "BlockedModsDialog"
   },
   {
     "key": "BlockedModsDialog:9ce3bd4224c8",
@@ -1329,7 +1329,7 @@
     "key": "ChooseOfflineNameDialog:84c29015de33",
     "original": "Username",
     "translation": "Enw defnyddiwr",
-    "context": "ChooseOfflineNameDialog | [unfinished]"
+    "context": "ChooseOfflineNameDialog"
   },
   {
     "key": "ChooseOfflineNameDialog:2310a5ac292a",
@@ -1347,7 +1347,7 @@
     "key": "ChooseOfflineNameDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Canslo",
-    "context": "ChooseOfflineNameDialog | [unfinished]"
+    "context": "ChooseOfflineNameDialog"
   },
   {
     "key": "ChooseOfflineNameDialog:9ce3bd4224c8",
@@ -2169,7 +2169,7 @@
     "key": "CustomPage:56e3badc4e6c",
     "original": "Refresh",
     "translation": "Loywi",
-    "context": "CustomPage | [unfinished]"
+    "context": "CustomPage"
   },
   {
     "key": "CustomPage:74944fbb9862",
@@ -2181,7 +2181,7 @@
     "key": "CustomPage:6eef6648406c",
     "original": "None",
     "translation": "Dim",
-    "context": "CustomPage | [unfinished]"
+    "context": "CustomPage"
   },
   {
     "key": "CustomPage:b5165545b367",
@@ -2235,7 +2235,7 @@
     "key": "CustomPage:46c15b2a8e17",
     "original": "No versions are currently available for Minecraft %1",
     "translation": "Nid oes fersiynau ar gael ar hyn o bryd ar gyfer Minecraft %1",
-    "context": "CustomPage | [unfinished]"
+    "context": "CustomPage"
   },
   {
     "key": "DataMigrationTask:bf017b023177",
@@ -2289,13 +2289,13 @@
     "key": "DataPackFolderModel:2aabcfc2668a",
     "original": "File Name",
     "translation": "Enw Ffeil",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Fersiwn",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:fb91e24fa52d",
@@ -2385,7 +2385,7 @@
     "key": "DataPackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Gwall",
-    "context": "DataPackPage | [unfinished]"
+    "context": "DataPackPage"
   },
   {
     "key": "DataPackPage:1430f976c596",
@@ -2601,7 +2601,7 @@
     "key": "ExportInstanceDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Canslo",
-    "context": "ExportInstanceDialog | [unfinished]"
+    "context": "ExportInstanceDialog"
   },
   {
     "key": "ExportInstanceDialog:9ce3bd4224c8",
@@ -2709,7 +2709,7 @@
     "key": "ExportPackDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Canslo",
-    "context": "ExportPackDialog | [unfinished]"
+    "context": "ExportPackDialog"
   },
   {
     "key": "ExportPackDialog:9ce3bd4224c8",
@@ -2739,7 +2739,7 @@
     "key": "ExportPackDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Gwall",
-    "context": "ExportPackDialog | [unfinished]"
+    "context": "ExportPackDialog"
   },
   {
     "key": "ExportToModListDialog:5d7f82640e98",
@@ -2751,7 +2751,7 @@
     "key": "ExportToModListDialog:c7f73bb54d92",
     "original": "Settings",
     "translation": "Gosodiadau",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExportToModListDialog:9f738ce8457f",
@@ -2811,7 +2811,7 @@
     "key": "ExportToModListDialog:2da600bf9404",
     "original": "Version",
     "translation": "Fersiwn",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExportToModListDialog:d2a52548bd08",
@@ -2859,7 +2859,7 @@
     "key": "ExportToModListDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Canslo",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExportToModListDialog:efc007a393f6",
@@ -3063,7 +3063,7 @@
     "key": "ExternalResourcesPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Bwydlen cyd-destun",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:76cffee45024",
@@ -3171,7 +3171,7 @@
     "key": "ExternalToolsPage:709a23220f2c",
     "original": "Name",
     "translation": "Enw",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:8901895fb1b1",
@@ -3333,7 +3333,7 @@
     "key": "FTB::PackInstallTask:93fc42ea75d6",
     "original": "Could not understand pack manifest:\n",
     "translation": "Methu deall maniffesto'r pecyn:",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:ef42318f68d9",
@@ -3369,13 +3369,13 @@
     "key": "FTB::PackInstallTask:df237503973c",
     "original": "Downloading mods...",
     "translation": "Wrthi'n lawrlwytho mods...",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:7b02e924aa02",
     "original": "Mod download",
     "translation": "Mod i lawr",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:d4e059888d25",
@@ -3399,13 +3399,13 @@
     "key": "FTBImportAPP::FilterModel:5fa541307296",
     "original": "Sort by Name",
     "translation": "Trefnu yn ol enw",
-    "context": "FTBImportAPP::FilterModel | [unfinished]"
+    "context": "FTBImportAPP::FilterModel"
   },
   {
     "key": "FTBImportAPP::FilterModel:21eea1c9bdf3",
     "original": "Sort by Game Version",
     "translation": "Trefnu yn ol fersiwn gem",
-    "context": "FTBImportAPP::FilterModel | [unfinished]"
+    "context": "FTBImportAPP::FilterModel"
   },
   {
     "key": "FTBImportAPP::ImportFTBPage:ceaaa2c12d49",
@@ -3423,7 +3423,7 @@
     "key": "FTBImportAPP::ImportFTBPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Chwilio a hidlo ...",
-    "context": "FTBImportAPP::ImportFTBPage | [unfinished]"
+    "context": "FTBImportAPP::ImportFTBPage"
   },
   {
     "key": "FTBImportAPP::ImportFTBPage:dcf6a4fa462f",
@@ -3513,7 +3513,7 @@
     "key": "FlameCreationTask:93fc42ea75d6",
     "original": "Could not understand pack manifest:\n",
     "translation": "Methu deall maniffesto'r pecyn:",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:e0976e09621d",
@@ -3555,19 +3555,19 @@
     "key": "FlameCreationTask:54a1e48a12f3",
     "original": "Failed to get local metadata index for %1",
     "translation": "Wedi methu cael mynegai metadata lleol ar gyfer %1",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:9638c0cc0435",
     "original": "Failed to find version for %1 loader",
     "translation": "Wedi methu dod o hyd i fersiwn ar gyfer %1 llwythydd",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:394b0f2a985e",
     "original": "No loader version set for modpack!",
     "translation": "Dim fersiwn llwyth wedi'i osod ar gyfer modpack!",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:e75af2bdf614",
@@ -3639,7 +3639,7 @@
     "key": "FlameCreationTask:f9bc7a615403",
     "original": "%1 out of %2 complete",
     "translation": "%1 allan o %2 gorffenedig",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:9c36196243f9",
@@ -3669,7 +3669,7 @@
     "key": "FlameCreationTask:df237503973c",
     "original": "Downloading mods...",
     "translation": "Wrthi'n lawrlwytho mods...",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameManagedPackPage:df87bd3ab69c",
@@ -3741,7 +3741,7 @@
     "key": "FlamePage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "Fersiwn a ddewiswyd:",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:2ba9121211dd",
@@ -3759,7 +3759,7 @@
     "key": "FlamePage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Chwilio a hidlo ...",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:754e270ce9ad",
@@ -3771,7 +3771,7 @@
     "key": "FlamePage:2ebd5dd0cbfe",
     "original": "Sort by Popularity",
     "translation": "Trefnu yn ol poblogrwydd",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:3546d8e58e95",
@@ -3783,7 +3783,7 @@
     "key": "FlamePage:5fa541307296",
     "original": "Sort by Name",
     "translation": "Trefnu yn ol enw",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:d1db3d422497",
@@ -3807,7 +3807,7 @@
     "key": "FlamePage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Gwall",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:876074b47592",
@@ -3861,19 +3861,19 @@
     "key": "Ftb::FilterModel:5fa541307296",
     "original": "Sort by Name",
     "translation": "Trefnu yn ol enw",
-    "context": "Ftb::FilterModel | [unfinished]"
+    "context": "Ftb::FilterModel"
   },
   {
     "key": "FtbPage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "Fersiwn a ddewiswyd:",
-    "context": "FtbPage | [unfinished]"
+    "context": "FtbPage"
   },
   {
     "key": "FtbPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Chwilio a hidlo ...",
-    "context": "FtbPage | [unfinished]"
+    "context": "FtbPage"
   },
   {
     "key": "FtbPage:8bb246929d5d",
@@ -4017,7 +4017,7 @@
     "key": "IconPickerDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Canslo",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:9ce3bd4224c8",
@@ -4029,7 +4029,7 @@
     "key": "IconPickerDialog:027760ffe7da",
     "original": "Open Folder",
     "translation": "Agor Ffolder",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:456860ea149a",
@@ -4089,7 +4089,7 @@
     "key": "ImportPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Gwall",
-    "context": "ImportPage | [unfinished]"
+    "context": "ImportPage"
   },
   {
     "key": "ImportPage:757d7c1814fd",
@@ -4155,7 +4155,7 @@
     "key": "ImportResourceDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Canslo",
-    "context": "ImportResourceDialog | [unfinished]"
+    "context": "ImportResourceDialog"
   },
   {
     "key": "ImportResourceDialog:9ce3bd4224c8",
@@ -4197,7 +4197,7 @@
     "key": "InstallLoaderDialog:e38044ca5f26",
     "original": "&Refresh",
     "translation": "Loywi",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:9ce3bd4224c8",
@@ -4209,7 +4209,7 @@
     "key": "InstallLoaderDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Canslo",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:b5165545b367",
@@ -4281,7 +4281,7 @@
     "key": "InstallLoaderPage:46c15b2a8e17",
     "original": "No versions are currently available for Minecraft %1",
     "translation": "Nid oes fersiynau ar gael ar hyn o bryd ar gyfer Minecraft %1",
-    "context": "InstallLoaderPage | [unfinished]"
+    "context": "InstallLoaderPage"
   },
   {
     "key": "InstallWorldTask:2c5d1322a3c8",
@@ -4377,7 +4377,7 @@
     "key": "InstanceSettingsPage:c7f73bb54d92",
     "original": "Settings",
     "translation": "Gosodiadau",
-    "context": "InstanceSettingsPage | [unfinished]"
+    "context": "InstanceSettingsPage"
   },
   {
     "key": "InstanceStaging:7f2ec651c8ce",
@@ -4401,7 +4401,7 @@
     "key": "InstanceTask:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Gwall",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:dd17662eb1c4",
@@ -4473,7 +4473,7 @@
     "key": "InstanceWindow:bbfa773e5a63",
     "original": "Close",
     "translation": "Cau",
-    "context": "InstanceWindow | [unfinished]"
+    "context": "InstanceWindow"
   },
   {
     "key": "InstanceWindow:608d16441fb2",
@@ -4539,7 +4539,7 @@
     "key": "Java::InstallDialog:e38044ca5f26",
     "original": "&Refresh",
     "translation": "Loywi",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:a479c9c34e87",
@@ -4551,13 +4551,13 @@
     "key": "Java::InstallDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Canslo",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:723ba985328e",
     "original": "Mojang",
     "translation": "Mojang",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:360564b906a1",
@@ -4593,7 +4593,7 @@
     "key": "Java::InstallDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Gwall",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::LocalJavaScanTask:52cef86f41c6",
@@ -4671,13 +4671,13 @@
     "key": "JavaPage:e963907dac5c",
     "original": "Remove",
     "translation": "Dileu",
-    "context": "JavaPage | [unfinished]"
+    "context": "JavaPage"
   },
   {
     "key": "JavaPage:56e3badc4e6c",
     "original": "Refresh",
     "translation": "Loywi",
-    "context": "JavaPage | [unfinished]"
+    "context": "JavaPage"
   },
   {
     "key": "JavaPage:b4dae444a41b",
@@ -5157,7 +5157,7 @@
     "key": "LanguageWizardPage:89b86ab0e66f",
     "original": "Language",
     "translation": "Iaith",
-    "context": "LanguageWizardPage | [unfinished]"
+    "context": "LanguageWizardPage"
   },
   {
     "key": "LanguageWizardPage:0e56770e598f",
@@ -5241,7 +5241,7 @@
     "key": "LaunchController:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Canslo",
-    "context": "LaunchController | [unfinished]"
+    "context": "LaunchController"
   },
   {
     "key": "LaunchController:d873f6d526a3",
@@ -5649,13 +5649,13 @@
     "key": "LauncherPage:61cc55aa0453",
     "original": "Add",
     "translation": "Ychwanegych",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:e963907dac5c",
     "original": "Remove",
     "translation": "Dileu",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:9b824218dd00",
@@ -6045,13 +6045,13 @@
     "key": "LegacyFTB::FilterModel:5fa541307296",
     "original": "Sort by Name",
     "translation": "Trefnu yn ol enw",
-    "context": "LegacyFTB::FilterModel | [unfinished]"
+    "context": "LegacyFTB::FilterModel"
   },
   {
     "key": "LegacyFTB::FilterModel:21eea1c9bdf3",
     "original": "Sort by Game Version",
     "translation": "Trefnu yn ol fersiwn gem",
-    "context": "LegacyFTB::FilterModel | [unfinished]"
+    "context": "LegacyFTB::FilterModel"
   },
   {
     "key": "LegacyFTB::ListModel:d3b215ad8872",
@@ -6105,7 +6105,7 @@
     "key": "LegacyFTB::PackInstallTask:7d3e34e21534",
     "original": "Installing modpack",
     "translation": "Gosod modpack",
-    "context": "LegacyFTB::PackInstallTask | [unfinished]"
+    "context": "LegacyFTB::PackInstallTask"
   },
   {
     "key": "LegacyFTB::PackInstallTask:44d2b46ad2a3",
@@ -6123,7 +6123,7 @@
     "key": "LegacyFTB::Page:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Chwilio a hidlo ...",
-    "context": "LegacyFTB::Page | [unfinished]"
+    "context": "LegacyFTB::Page"
   },
   {
     "key": "LegacyFTB::Page:dc5eb704bbca",
@@ -6159,7 +6159,7 @@
     "key": "LegacyFTB::Page:03fec0b5504e",
     "original": "Version selected:",
     "translation": "Fersiwn a ddewiswyd:",
-    "context": "LegacyFTB::Page | [unfinished]"
+    "context": "LegacyFTB::Page"
   },
   {
     "key": "LegacyFTB::Page:7f2f6a15cf8d",
@@ -6489,7 +6489,7 @@
     "key": "MSALoginDialog:bae7d5be7082",
     "original": "Status",
     "translation": "Statws",
-    "context": "MSALoginDialog | [unfinished]"
+    "context": "MSALoginDialog"
   },
   {
     "key": "MSALoginDialog:fd62c61f849b",
@@ -6531,7 +6531,7 @@
     "key": "MSALoginDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Canslo",
-    "context": "MSALoginDialog | [unfinished]"
+    "context": "MSALoginDialog"
   },
   {
     "key": "MSALoginDialog:95234f4e13e8",
@@ -7101,7 +7101,7 @@
     "key": "MainWindow:36bae31694f8",
     "original": "Accounts",
     "translation": "Cyfrifon",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:416c5c33e6d2",
@@ -7569,7 +7569,7 @@
     "key": "ManagedPackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Gwall",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:1430f976c596",
@@ -7629,7 +7629,7 @@
     "key": "ManagedPackPage:9d4741838842",
     "original": "Update Failed",
     "translation": "Methodd y diweddariad",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:cd2dbd6fb8fc",
@@ -7665,7 +7665,7 @@
     "key": "Meta::Index:709a23220f2c",
     "original": "Name",
     "translation": "Enw",
-    "context": "Meta::Index | [unfinished]"
+    "context": "Meta::Index"
   },
   {
     "key": "Meta::Index:04099ec66644",
@@ -8307,7 +8307,7 @@
     "key": "MirrorListEditor:e963907dac5c",
     "original": "Remove",
     "translation": "Dileu",
-    "context": "MirrorListEditor | [unfinished]"
+    "context": "MirrorListEditor"
   },
   {
     "key": "MirrorListEditor:cb0ad25e7101",
@@ -8319,7 +8319,7 @@
     "key": "MirrorListEditor:61cc55aa0453",
     "original": "Add",
     "translation": "Ychwanegych",
-    "context": "MirrorListEditor | [unfinished]"
+    "context": "MirrorListEditor"
   },
   {
     "key": "MirrorListEditor:226188f5c23d",
@@ -8583,25 +8583,25 @@
     "key": "ModFilterWidget:40ab4c0ce406",
     "original": "All Versions",
     "translation": "Pob Fersiwn",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFolderModel:2c3cafa4db3f",
     "original": "File",
     "translation": "Ffeil",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Enw",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Fersiwn",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:7ceee3f3615a",
@@ -8661,7 +8661,7 @@
     "key": "ModFolderModel:2aabcfc2668a",
     "original": "File Name",
     "translation": "Enw Ffeil",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:fb91e24fa52d",
@@ -8877,7 +8877,7 @@
     "key": "ModFolderPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Gwall",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:1430f976c596",
@@ -9021,7 +9021,7 @@
     "key": "Modrinth::ModpackListModel:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Gwall",
-    "context": "Modrinth::ModpackListModel | [unfinished]"
+    "context": "Modrinth::ModpackListModel"
   },
   {
     "key": "Modrinth::ModpackListModel:e7235f672e3a",
@@ -9129,13 +9129,13 @@
     "key": "ModrinthCreationTask:f9bc7a615403",
     "original": "%1 out of %2 complete",
     "translation": "%1 allan o %2 gorffenedig",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:df237503973c",
     "original": "Downloading mods...",
     "translation": "Wrthi'n lawrlwytho mods...",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:823f8fa08edc",
@@ -9249,7 +9249,7 @@
     "key": "ModrinthPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Gwall",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:876074b47592",
@@ -9315,13 +9315,13 @@
     "key": "ModrinthPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Chwilio a hidlo ...",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "Fersiwn a ddewiswyd:",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:edcad43541b4",
@@ -9429,7 +9429,7 @@
     "key": "NetworkJobFailedDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Gwall",
-    "context": "NetworkJobFailedDialog | [unfinished]"
+    "context": "NetworkJobFailedDialog"
   },
   {
     "key": "NetworkJobFailedDialog:7b52603bb25e",
@@ -9471,7 +9471,7 @@
     "key": "NewComponentDialog:709a23220f2c",
     "original": "Name",
     "translation": "Enw",
-    "context": "NewComponentDialog | [unfinished]"
+    "context": "NewComponentDialog"
   },
   {
     "key": "NewComponentDialog:e2577dd78b54",
@@ -9483,7 +9483,7 @@
     "key": "NewComponentDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Canslo",
-    "context": "NewComponentDialog | [unfinished]"
+    "context": "NewComponentDialog"
   },
   {
     "key": "NewComponentDialog:9ce3bd4224c8",
@@ -9513,7 +9513,7 @@
     "key": "NewInstanceDialog:7b6e69434658",
     "original": "&Name:",
     "translation": "&Enw:",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:f6b2246c64fa",
@@ -9531,7 +9531,7 @@
     "key": "NewInstanceDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Canslo",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:c47ae15370cf",
@@ -9573,7 +9573,7 @@
     "key": "NewsDialog:bbfa773e5a63",
     "original": "Close",
     "translation": "Cau",
-    "context": "NewsDialog | [unfinished]"
+    "context": "NewsDialog"
   },
   {
     "key": "NewsDialog:a5601a63d0ae",
@@ -9855,13 +9855,13 @@
     "key": "OptiFineInstallDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Gosod",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptiFineInstallDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Canslo",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptionalModDialog:12e9f3729ee6",
@@ -9891,7 +9891,7 @@
     "key": "OptionalModDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Canslo",
-    "context": "OptionalModDialog | [unfinished]"
+    "context": "OptionalModDialog"
   },
   {
     "key": "OptionalModDialog:9ce3bd4224c8",
@@ -10005,7 +10005,7 @@
     "key": "OtherLogsPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Gwall",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:a2c32945bddc",
@@ -10071,7 +10071,7 @@
     "key": "OtherLogsPage:1919fdb56138",
     "original": "Cannot display this log since the log length surpassed %1 lines.",
     "translation": "Methu ddangoswych yr log hwn achos rhagorodd y hyd yr log ar %1 llinell.",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:12fc009a1488",
@@ -10101,97 +10101,97 @@
     "key": "PackInstallTask:93fc42ea75d6",
     "original": "Could not understand pack manifest:\n",
     "translation": "Methu deall maniffesto'r pecyn:",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:1cc558d32fa4",
     "original": "Unsupported installation mode",
     "translation": "Mod gosod heb ei gefnogi",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:608a6e16a154",
     "original": "Failed to get local metadata index for '%1' v%2",
     "translation": "Wedi methu cael mynegai metadata lleol ar gyfer '%1' v%2",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:a61c5171cb28",
     "original": "Deleting existing files...",
     "translation": "Dileu ffeiliau presennol...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:639e6287333c",
     "original": "Unknown mod type: %1",
     "translation": "Math mod anhysbys: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:54a1e48a12f3",
     "original": "Failed to get local metadata index for %1",
     "translation": "Wedi methu cael mynegai metadata lleol ar gyfer %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:9638c0cc0435",
     "original": "Failed to find version for %1 loader",
     "translation": "Wedi methu dod o hyd i fersiwn ar gyfer %1 llwythydd",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:394b0f2a985e",
     "original": "No loader version set for modpack!",
     "translation": "Dim fersiwn llwyth wedi'i osod ar gyfer modpack!",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:8ea0186a5329",
     "original": "Unknown or unsupported download type: %1",
     "translation": "Math lawrlwytho anhysbys neu heb gymorth: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:db82f5ce4d92",
     "original": "Downloading configs...",
     "translation": "Lawrlwytho ffurfweddiad...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:296053b61434",
     "original": "Config download",
     "translation": "Llwytho i lawr cyfluniad",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:88e116160aff",
     "original": "Extracting configs...",
     "translation": "Wrthi'n echdynnu configs...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:6e97ce93553c",
     "original": "Selecting optional mods...",
     "translation": "Dewis modau dewisol...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:df237503973c",
     "original": "Downloading mods...",
     "translation": "Wrthi'n lawrlwytho mods...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:7b02e924aa02",
     "original": "Mod download",
     "translation": "Mod i lawr",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:e91e47f5379a",
     "original": "Unknown download type: %1",
     "translation": "Math llwytho i lawr heb gymorth: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:d4e059888d25",
@@ -10215,43 +10215,43 @@
     "key": "PackInstallTask:f9bc7a615403",
     "original": "%1 out of %2 complete",
     "translation": "%1 allan o %2 gorffenedig",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:3138740f4b31",
     "original": "Failed to extract mods...",
     "translation": "Wedi methu echdynnu mods...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:e87c1bb107c0",
     "original": "Extracting mods...",
     "translation": "Wrthi'n echdynnu mods...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:7d3e34e21534",
     "original": "Installing modpack",
     "translation": "Gosod modpack",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:a568ebaf6ef5",
     "original": "Failed to create libraries component",
     "translation": "Wedi methu creu cydran llyfrgelloedd",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:c9c9e81a13ed",
     "original": "Unknown loader type: ",
     "translation": "Math o lwyth anhysbys:",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:76fefafc38cf",
     "original": "Failed to create pack component",
     "translation": "Wedi methu creu cydran pecyn",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackProfile:b1590d210090",
@@ -10263,13 +10263,13 @@
     "key": "PackProfile:709a23220f2c",
     "original": "Name",
     "translation": "Enw",
-    "context": "PackProfile | [unfinished]"
+    "context": "PackProfile"
   },
   {
     "key": "PackProfile:2da600bf9404",
     "original": "Version",
     "translation": "Fersiwn",
-    "context": "PackProfile | [unfinished]"
+    "context": "PackProfile"
   },
   {
     "key": "PageDialog:5d437e70c666",
@@ -10797,7 +10797,7 @@
     "key": "ProfileSelectDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Canslo",
-    "context": "ProfileSelectDialog | [unfinished]"
+    "context": "ProfileSelectDialog"
   },
   {
     "key": "ProfileSelectDialog:9ce3bd4224c8",
@@ -10821,7 +10821,7 @@
     "key": "ProfileSetupDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Canslo",
-    "context": "ProfileSetupDialog | [unfinished]"
+    "context": "ProfileSetupDialog"
   },
   {
     "key": "ProfileSetupDialog:9ce3bd4224c8",
@@ -10917,7 +10917,7 @@
     "key": "ProxyPage:3deb74565196",
     "original": "Type",
     "translation": "Math",
-    "context": "ProxyPage | [unfinished]"
+    "context": "ProxyPage"
   },
   {
     "key": "ProxyPage:9a2029660bcc",
@@ -11499,7 +11499,7 @@
     "key": "QObject:2ebd5dd0cbfe",
     "original": "Sort by Popularity",
     "translation": "Trefnu yn ol poblogrwydd",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3546d8e58e95",
@@ -11511,7 +11511,7 @@
     "key": "QObject:5fa541307296",
     "original": "Sort by Name",
     "translation": "Trefnu yn ol enw",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:d1db3d422497",
@@ -11535,7 +11535,7 @@
     "key": "QObject:21eea1c9bdf3",
     "original": "Sort by Game Version",
     "translation": "Trefnu yn ol fersiwn gem",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:c2bdba99958f",
@@ -11631,13 +11631,13 @@
     "key": "QObject:1b927decdbb0",
     "original": "Unchecked",
     "translation": "Heb ei wirio",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:e01fa717bacc",
     "original": "Offline",
     "translation": "All-lein",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:20c7c5522fc2",
@@ -11649,31 +11649,31 @@
     "key": "QObject:3b4dfc971393",
     "original": "Working",
     "translation": "Gweithio",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:2d4784200261",
     "original": "Errored",
     "translation": "Gwallus",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:a689a999a5e6",
     "original": "Expired",
     "translation": "Wedi dod i ben",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:f4f4473df8cb",
     "original": "Disabled",
     "translation": "Anabl",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:149ecfc76f45",
     "original": "Gone",
     "translation": "Goll",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3b81c344597f",
@@ -12069,7 +12069,7 @@
     "key": "ResourceDownload::ResourceDownloadDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Gwall",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:1430f976c596",
@@ -12135,7 +12135,7 @@
     "key": "ResourceDownload::ResourceModel:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Gwall",
-    "context": "ResourceDownload::ResourceModel | [unfinished]"
+    "context": "ResourceDownload::ResourceModel"
   },
   {
     "key": "ResourceDownload::ResourceModel:15bf96b86b8e",
@@ -12297,7 +12297,7 @@
     "key": "ResourceDownload::ResourcePage:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Canslo",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:39d43199988a",
@@ -12339,7 +12339,7 @@
     "key": "ResourceFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Enw",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:4c24525b0aa0",
@@ -12351,7 +12351,7 @@
     "key": "ResourceFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Fersiwn",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:b7152342a267",
@@ -12369,7 +12369,7 @@
     "key": "ResourceFolderModel:2aabcfc2668a",
     "original": "File Name",
     "translation": "Enw Ffeil",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:fb91e24fa52d",
@@ -12465,7 +12465,7 @@
     "key": "ResourcePackFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Fersiwn",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:b7152342a267",
@@ -12483,7 +12483,7 @@
     "key": "ResourcePackFolderModel:2aabcfc2668a",
     "original": "File Name",
     "translation": "Enw Ffeil",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:fb91e24fa52d",
@@ -12537,7 +12537,7 @@
     "key": "ResourcePackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Enw",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:0092be542f99",
@@ -12585,7 +12585,7 @@
     "key": "ResourcePackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Gwall",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:1430f976c596",
@@ -12657,7 +12657,7 @@
     "key": "ResourcePage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "Fersiwn a ddewiswyd:",
-    "context": "ResourcePage | [unfinished]"
+    "context": "ResourcePage"
   },
   {
     "key": "ResourcePage:c3c949f932a9",
@@ -12711,7 +12711,7 @@
     "key": "ResourceUpdateDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Gwall",
-    "context": "ResourceUpdateDialog | [unfinished]"
+    "context": "ResourceUpdateDialog"
   },
   {
     "key": "ResourceUpdateDialog:1430f976c596",
@@ -12855,7 +12855,7 @@
     "key": "ReviewMessageBox:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Canslo",
-    "context": "ReviewMessageBox | [unfinished]"
+    "context": "ReviewMessageBox"
   },
   {
     "key": "ReviewMessageBox:9ce3bd4224c8",
@@ -12963,7 +12963,7 @@
     "key": "ScreenshotsPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Bwydlen cyd-destun",
-    "context": "ScreenshotsPage | [unfinished]"
+    "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:69f424ee3a3e",
@@ -13047,7 +13047,7 @@
     "key": "ScrollMessageBox:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Canslo",
-    "context": "ScrollMessageBox | [unfinished]"
+    "context": "ScrollMessageBox"
   },
   {
     "key": "ScrollMessageBox:9ce3bd4224c8",
@@ -13059,7 +13059,7 @@
     "key": "SelectReleaseAssetDialog:2da600bf9404",
     "original": "Version",
     "translation": "Fersiwn",
-    "context": "SelectReleaseAssetDialog | [unfinished]"
+    "context": "SelectReleaseAssetDialog"
   },
   {
     "key": "SelectReleaseAssetDialog:89cba7b3e72d",
@@ -13089,7 +13089,7 @@
     "key": "SelectReleaseDialog:2da600bf9404",
     "original": "Version",
     "translation": "Fersiwn",
-    "context": "SelectReleaseDialog | [unfinished]"
+    "context": "SelectReleaseDialog"
   },
   {
     "key": "SelectReleaseDialog:89cba7b3e72d",
@@ -13107,7 +13107,7 @@
     "key": "SelectReleaseDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Canslo",
-    "context": "SelectReleaseDialog | [unfinished]"
+    "context": "SelectReleaseDialog"
   },
   {
     "key": "SelectReleaseDialog:9ce3bd4224c8",
@@ -13131,7 +13131,7 @@
     "key": "ServersModel:709a23220f2c",
     "original": "Name",
     "translation": "Enw",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersModel:d70f93df5e8f",
@@ -13149,7 +13149,7 @@
     "key": "ServersModel:2da600bf9404",
     "original": "Version",
     "translation": "Fersiwn",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersModel:6b68e9797399",
@@ -13161,7 +13161,7 @@
     "key": "ServersModel:e01fa717bacc",
     "original": "Offline",
     "translation": "All-lein",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersPage:49b93f720a4a",
@@ -13209,13 +13209,13 @@
     "key": "ServersPage:61cc55aa0453",
     "original": "Add",
     "translation": "Ychwanegych",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:e963907dac5c",
     "original": "Remove",
     "translation": "Dileu",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:c6370aded903",
@@ -13239,7 +13239,7 @@
     "key": "ServersPage:56e3badc4e6c",
     "original": "Refresh",
     "translation": "Loywi",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:acca64b83535",
@@ -13251,7 +13251,7 @@
     "key": "ServersPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Bwydlen cyd-destun",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:b056ceb4156f",
@@ -13293,7 +13293,7 @@
     "key": "SetupWizard:e38044ca5f26",
     "original": "&Refresh",
     "translation": "Loywi",
-    "context": "SetupWizard | [unfinished]"
+    "context": "SetupWizard"
   },
   {
     "key": "SetupWizard:89e35727270b",
@@ -13341,7 +13341,7 @@
     "key": "ShaderPackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Gwall",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:1430f976c596",
@@ -13485,7 +13485,7 @@
     "key": "SkinManageDialog:027760ffe7da",
     "original": "Open Folder",
     "translation": "Agor Ffolder",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:cf4da3174d7d",
@@ -13515,7 +13515,7 @@
     "key": "SkinManageDialog:a4540c6e2afe",
     "original": "&Delete Skin",
     "translation": "Dileu Croen",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:a56fb8960c8b",
@@ -13551,7 +13551,7 @@
     "key": "SkinManageDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Canslo",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:9ce3bd4224c8",
@@ -13611,19 +13611,19 @@
     "key": "SkinManageDialog:67625d998cfa",
     "original": "Skin Delete",
     "translation": "Dileu Croen",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:e002853d1d71",
     "original": "Failed to delete current skin!",
     "translation": "Wedi methu dileu'r croen presennol!",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Bwydlen cyd-destun",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:abc73e2588f3",
@@ -13815,7 +13815,7 @@
     "key": "Technic::SolderPackInstallTask:93fc42ea75d6",
     "original": "Could not understand pack manifest:\n",
     "translation": "Methu deall maniffesto'r pecyn:",
-    "context": "Technic::SolderPackInstallTask | [unfinished]"
+    "context": "Technic::SolderPackInstallTask"
   },
   {
     "key": "Technic::SolderPackInstallTask:947d98cb6a3e",
@@ -13893,19 +13893,19 @@
     "key": "TechnicPage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "Fersiwn a ddewiswyd:",
-    "context": "TechnicPage | [unfinished]"
+    "context": "TechnicPage"
   },
   {
     "key": "TechnicPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Chwilio a hidlo ...",
-    "context": "TechnicPage | [unfinished]"
+    "context": "TechnicPage"
   },
   {
     "key": "TechnicPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Gwall",
-    "context": "TechnicPage | [unfinished]"
+    "context": "TechnicPage"
   },
   {
     "key": "TechnicPage:876074b47592",
@@ -13917,7 +13917,7 @@
     "key": "TexturePackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Enw",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:4c24525b0aa0",
@@ -13941,7 +13941,7 @@
     "key": "TexturePackFolderModel:2aabcfc2668a",
     "original": "File Name",
     "translation": "Enw Ffeil",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:fb91e24fa52d",
@@ -14031,7 +14031,7 @@
     "key": "TexturePackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Gwall",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:1430f976c596",
@@ -14097,7 +14097,7 @@
     "key": "ThemeWizardPage:41def7a0febe",
     "original": "Appearance",
     "translation": "Ymddangosiad",
-    "context": "ThemeWizardPage | [unfinished]"
+    "context": "ThemeWizardPage"
   },
   {
     "key": "ThemeWizardPage:8ba2ac6395c2",
@@ -14109,7 +14109,7 @@
     "key": "TranslationsModel:89b86ab0e66f",
     "original": "Language",
     "translation": "Iaith",
-    "context": "TranslationsModel | [unfinished]"
+    "context": "TranslationsModel"
   },
   {
     "key": "TranslationsModel:778184da86df",
@@ -14253,7 +14253,7 @@
     "key": "VersionPage:e963907dac5c",
     "original": "Remove",
     "translation": "Dileu",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:239dce622324",
@@ -14481,7 +14481,7 @@
     "key": "VersionPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Bwydlen cyd-destun",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:e9571bf1f2e1",
@@ -14511,7 +14511,7 @@
     "key": "VersionPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Gwall",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:5e50cf25a163",
@@ -14625,7 +14625,7 @@
     "key": "VersionPage:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Gosod",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:cae9674c84d8",
@@ -14649,13 +14649,13 @@
     "key": "VersionPage:2da600bf9404",
     "original": "Version",
     "translation": "Fersiwn",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionProxyModel:2da600bf9404",
     "original": "Version",
     "translation": "Fersiwn",
-    "context": "VersionProxyModel | [unfinished]"
+    "context": "VersionProxyModel"
   },
   {
     "key": "VersionProxyModel:f1416844b9ec",
@@ -14673,7 +14673,7 @@
     "key": "VersionProxyModel:3deb74565196",
     "original": "Type",
     "translation": "Math",
-    "context": "VersionProxyModel | [unfinished]"
+    "context": "VersionProxyModel"
   },
   {
     "key": "VersionProxyModel:b040b4179b8b",
@@ -14787,7 +14787,7 @@
     "key": "VersionSelectDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Canslo",
-    "context": "VersionSelectDialog | [unfinished]"
+    "context": "VersionSelectDialog"
   },
   {
     "key": "VersionSelectDialog:83b94bf4f93a",
@@ -14805,7 +14805,7 @@
     "key": "VersionSelectDialog:e38044ca5f26",
     "original": "&Refresh",
     "translation": "Loywi",
-    "context": "VersionSelectDialog | [unfinished]"
+    "context": "VersionSelectDialog"
   },
   {
     "key": "VersionSelectWidget:bce06414177f",
@@ -14817,7 +14817,7 @@
     "key": "VersionSelectWidget:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Gwall",
-    "context": "VersionSelectWidget | [unfinished]"
+    "context": "VersionSelectWidget"
   },
   {
     "key": "VersionSelectWidget:4cb9e107bc5a",
@@ -14865,7 +14865,7 @@
     "key": "WorldList:709a23220f2c",
     "original": "Name",
     "translation": "Enw",
-    "context": "WorldList | [unfinished]"
+    "context": "WorldList"
   },
   {
     "key": "WorldList:9424db05db84",
@@ -14967,7 +14967,7 @@
     "key": "WorldListPage:56e3badc4e6c",
     "original": "Refresh",
     "translation": "Loywi",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:b2253ecc0070",
@@ -15021,7 +15021,7 @@
     "key": "WorldListPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Bwydlen cyd-destun",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:828d183e802e",
@@ -15291,7 +15291,7 @@
     "key": "YggdrasilLoginDialog:84c29015de33",
     "original": "Username",
     "translation": "Enw defnyddiwr",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:8be3c943b160",
@@ -15309,7 +15309,7 @@
     "key": "YggdrasilLoginDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Canslo",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:ca359109578d",

@@ -1089,13 +1089,13 @@
     "key": "AuthlibInjectorDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Көшіру",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AuthlibInjectorDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Болдырмау",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AutoInstallJava:d3ace495a5a2",
@@ -1329,7 +1329,7 @@
     "key": "ChooseOfflineNameDialog:84c29015de33",
     "original": "Username",
     "translation": "Пайдаланушының аты",
-    "context": "ChooseOfflineNameDialog | [unfinished]"
+    "context": "ChooseOfflineNameDialog"
   },
   {
     "key": "ChooseOfflineNameDialog:2310a5ac292a",
@@ -1347,7 +1347,7 @@
     "key": "ChooseOfflineNameDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Болдырмау",
-    "context": "ChooseOfflineNameDialog | [unfinished]"
+    "context": "ChooseOfflineNameDialog"
   },
   {
     "key": "ChooseOfflineNameDialog:9ce3bd4224c8",
@@ -1977,7 +1977,7 @@
     "key": "CreateShortcutDialog:709a23220f2c",
     "original": "Name",
     "translation": "Есім",
-    "context": "CreateShortcutDialog | [unfinished]"
+    "context": "CreateShortcutDialog"
   },
   {
     "key": "CreateShortcutDialog:c1253df1495f",
@@ -2265,7 +2265,7 @@
     "key": "DataPackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Есім",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:0092be542f99",
@@ -2385,7 +2385,7 @@
     "key": "DataPackPage:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Қате",
-    "context": "DataPackPage | [unfinished]"
+    "context": "DataPackPage"
   },
   {
     "key": "DataPackPage:1430f976c596",
@@ -2553,13 +2553,13 @@
     "key": "EnvironmentVariables:80446347ede5",
     "original": "Form",
     "translation": "Форма",
-    "context": "EnvironmentVariables | [unfinished]"
+    "context": "EnvironmentVariables"
   },
   {
     "key": "EnvironmentVariables:709a23220f2c",
     "original": "Name",
     "translation": "Есім",
-    "context": "EnvironmentVariables | [unfinished]"
+    "context": "EnvironmentVariables"
   },
   {
     "key": "EnvironmentVariables:8dce170de238",
@@ -2577,13 +2577,13 @@
     "key": "EnvironmentVariables:05842917076f",
     "original": "Override &Global Settings",
     "translation": "Қайта сақтау &Жаһандық Баптаулар",
-    "context": "EnvironmentVariables | [unfinished]"
+    "context": "EnvironmentVariables"
   },
   {
     "key": "EnvironmentVariables:763c2ebc2799",
     "original": "&Remove",
     "translation": "&Алып қою",
-    "context": "EnvironmentVariables | [unfinished]"
+    "context": "EnvironmentVariables"
   },
   {
     "key": "EnvironmentVariables:a2f5bd7a7693",
@@ -2751,7 +2751,7 @@
     "key": "ExportToModListDialog:c7f73bb54d92",
     "original": "Settings",
     "translation": "Параметрлер",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExportToModListDialog:9f738ce8457f",
@@ -2787,7 +2787,7 @@
     "key": "ExportToModListDialog:081ae3fdc403",
     "original": "Custom",
     "translation": "Пайдаланушының",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExportToModListDialog:3ec1ae061c27",
@@ -3063,7 +3063,7 @@
     "key": "ExternalResourcesPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Мәтінмәндік меню",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:76cffee45024",
@@ -3165,13 +3165,13 @@
     "key": "ExternalToolsPage:763c2ebc2799",
     "original": "&Remove",
     "translation": "&Алып қою",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:709a23220f2c",
     "original": "Name",
     "translation": "Есім",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:8901895fb1b1",
@@ -3333,7 +3333,7 @@
     "key": "FTB::PackInstallTask:93fc42ea75d6",
     "original": "Could not understand pack manifest:\n",
     "translation": "Пакет манифестін түсіну мүмкін болмады:",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:ef42318f68d9",
@@ -3357,7 +3357,7 @@
     "key": "FTB::PackInstallTask:7ff827f8d900",
     "original": "The following files are not available for download in third party launchers.<br/>You will need to manually download them and add them to the instance.",
     "translation": "Бұл файлдарды үшінші тарап лаунчерінде жүктеуге болмайды. <br/>Сізге оларды қолмен жүктеп, данаға қосуыңыз қажет.",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:2df48fae0ac2",
@@ -3375,7 +3375,7 @@
     "key": "FTB::PackInstallTask:7b02e924aa02",
     "original": "Mod download",
     "translation": "Mod жүктеу",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:d4e059888d25",
@@ -3399,13 +3399,13 @@
     "key": "FTBImportAPP::FilterModel:5fa541307296",
     "original": "Sort by Name",
     "translation": "Аты бойынша сұрыптау",
-    "context": "FTBImportAPP::FilterModel | [unfinished]"
+    "context": "FTBImportAPP::FilterModel"
   },
   {
     "key": "FTBImportAPP::FilterModel:21eea1c9bdf3",
     "original": "Sort by Game Version",
     "translation": "Ойын нұсқасы бойынша сұрыптау",
-    "context": "FTBImportAPP::FilterModel | [unfinished]"
+    "context": "FTBImportAPP::FilterModel"
   },
   {
     "key": "FTBImportAPP::ImportFTBPage:ceaaa2c12d49",
@@ -3423,7 +3423,7 @@
     "key": "FTBImportAPP::ImportFTBPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Іздеу және сұрыптау...",
-    "context": "FTBImportAPP::ImportFTBPage | [unfinished]"
+    "context": "FTBImportAPP::ImportFTBPage"
   },
   {
     "key": "FTBImportAPP::ImportFTBPage:dcf6a4fa462f",
@@ -3507,7 +3507,7 @@
     "key": "FlameCheckUpdate:bc7819b34ff8",
     "original": "Unknown",
     "translation": "Белгісіз",
-    "context": "FlameCheckUpdate | [unfinished]"
+    "context": "FlameCheckUpdate"
   },
   {
     "key": "FlameCreationTask:93fc42ea75d6",
@@ -3561,7 +3561,7 @@
     "key": "FlameCreationTask:9638c0cc0435",
     "original": "Failed to find version for %1 loader",
     "translation": "%1 жүктегіш нұсқасы табылмады",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:394b0f2a985e",
@@ -3615,13 +3615,13 @@
     "key": "FlameCreationTask:327b7e57d4e1",
     "original": "Blocked mods found",
     "translation": "Бұғатталған модтар табылды",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:7ff827f8d900",
     "original": "The following files are not available for download in third party launchers.<br/>You will need to manually download them and add them to the instance.",
     "translation": "Бұл файлдарды үшінші тарап лаунчерінде жүктеуге болмайды. <br/>Сізге оларды қолмен жүктеп, данаға қосуыңыз қажет.",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:193c1dffab3c",
@@ -3639,7 +3639,7 @@
     "key": "FlameCreationTask:f9bc7a615403",
     "original": "%1 out of %2 complete",
     "translation": "%2 ішінен %1 аяқталды",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:9c36196243f9",
@@ -3741,7 +3741,7 @@
     "key": "FlamePage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "Таңдалынған нұсқа:",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:2ba9121211dd",
@@ -3759,7 +3759,7 @@
     "key": "FlamePage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Іздеу және сұрыптау...",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:754e270ce9ad",
@@ -3771,7 +3771,7 @@
     "key": "FlamePage:2ebd5dd0cbfe",
     "original": "Sort by Popularity",
     "translation": "Танымалдылығы бойынша сұрыптау",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:3546d8e58e95",
@@ -3783,7 +3783,7 @@
     "key": "FlamePage:5fa541307296",
     "original": "Sort by Name",
     "translation": "Аты бойынша сұрыптау",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:d1db3d422497",
@@ -3861,19 +3861,19 @@
     "key": "Ftb::FilterModel:5fa541307296",
     "original": "Sort by Name",
     "translation": "Аты бойынша сұрыптау",
-    "context": "Ftb::FilterModel | [unfinished]"
+    "context": "Ftb::FilterModel"
   },
   {
     "key": "FtbPage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "Таңдалынған нұсқа:",
-    "context": "FtbPage | [unfinished]"
+    "context": "FtbPage"
   },
   {
     "key": "FtbPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Іздеу және сұрыптау...",
-    "context": "FtbPage | [unfinished]"
+    "context": "FtbPage"
   },
   {
     "key": "FtbPage:8bb246929d5d",
@@ -3999,7 +3999,7 @@
     "key": "IconPickerDialog:081ae3fdc403",
     "original": "Custom",
     "translation": "Пайдаланушының",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:a825bf9821f9",
@@ -4029,7 +4029,7 @@
     "key": "IconPickerDialog:027760ffe7da",
     "original": "Open Folder",
     "translation": "Папканы Ашу",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:456860ea149a",
@@ -4197,7 +4197,7 @@
     "key": "InstallLoaderDialog:e38044ca5f26",
     "original": "&Refresh",
     "translation": "&Жаңарту",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:9ce3bd4224c8",
@@ -4215,31 +4215,31 @@
     "key": "InstallLoaderDialog:b5165545b367",
     "original": "NeoForge",
     "translation": "NeoForge",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:3ab11b75ca36",
     "original": "Forge",
     "translation": "Forge",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:a010de5c6165",
     "original": "Fabric",
     "translation": "Fabric",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:01aa488891b0",
     "original": "Quilt",
     "translation": "Quilt",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:bf134c686f5c",
     "original": "LiteLoader",
     "translation": "LiteLoader",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:af98ab0d8ec5",
@@ -4377,7 +4377,7 @@
     "key": "InstanceSettingsPage:c7f73bb54d92",
     "original": "Settings",
     "translation": "Параметрлер",
-    "context": "InstanceSettingsPage | [unfinished]"
+    "context": "InstanceSettingsPage"
   },
   {
     "key": "InstanceStaging:7f2ec651c8ce",
@@ -4395,13 +4395,13 @@
     "key": "InstanceTask:3da474537ac3",
     "original": "Skip",
     "translation": "Тастап кету",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Қате",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:dd17662eb1c4",
@@ -4473,7 +4473,7 @@
     "key": "InstanceWindow:bbfa773e5a63",
     "original": "Close",
     "translation": "Жабу",
-    "context": "InstanceWindow | [unfinished]"
+    "context": "InstanceWindow"
   },
   {
     "key": "InstanceWindow:608d16441fb2",
@@ -4497,7 +4497,7 @@
     "key": "JProfiler:122e80b33e98",
     "original": "Profiler aborted",
     "translation": "Профайлер тоқтатылған",
-    "context": "JProfiler | [unfinished]"
+    "context": "JProfiler"
   },
   {
     "key": "JVisualVM:91625854647b",
@@ -4509,7 +4509,7 @@
     "key": "JVisualVM:122e80b33e98",
     "original": "Profiler aborted",
     "translation": "Профайлер тоқтатылған",
-    "context": "JVisualVM | [unfinished]"
+    "context": "JVisualVM"
   },
   {
     "key": "Java::ArchiveDownloadTask:032eefb2c549",
@@ -4539,7 +4539,7 @@
     "key": "Java::InstallDialog:e38044ca5f26",
     "original": "&Refresh",
     "translation": "&Жаңарту",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:a479c9c34e87",
@@ -4557,7 +4557,7 @@
     "key": "Java::InstallDialog:723ba985328e",
     "original": "Mojang",
     "translation": "Mojang",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:360564b906a1",
@@ -4581,13 +4581,13 @@
     "key": "Java::InstallDialog:7086081c2d30",
     "original": "Install Java",
     "translation": "Java жүктеу",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:27edb4c40008",
     "original": "Could not determine Java download type!",
     "translation": "Java жүктеу нұсқасы белгісіз!",
-    "context": "Java::InstallDialog | [unfinished]"
+    "context": "Java::InstallDialog"
   },
   {
     "key": "Java::InstallDialog:7f2f6a15cf8d",
@@ -4725,7 +4725,7 @@
     "key": "JavaSettingsWidget:80446347ede5",
     "original": "Form",
     "translation": "Форма",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:179f88d38199",
@@ -6045,13 +6045,13 @@
     "key": "LegacyFTB::FilterModel:5fa541307296",
     "original": "Sort by Name",
     "translation": "Аты бойынша сұрыптау",
-    "context": "LegacyFTB::FilterModel | [unfinished]"
+    "context": "LegacyFTB::FilterModel"
   },
   {
     "key": "LegacyFTB::FilterModel:21eea1c9bdf3",
     "original": "Sort by Game Version",
     "translation": "Ойын нұсқасы бойынша сұрыптау",
-    "context": "LegacyFTB::FilterModel | [unfinished]"
+    "context": "LegacyFTB::FilterModel"
   },
   {
     "key": "LegacyFTB::ListModel:d3b215ad8872",
@@ -6123,7 +6123,7 @@
     "key": "LegacyFTB::Page:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Іздеу және сұрыптау...",
-    "context": "LegacyFTB::Page | [unfinished]"
+    "context": "LegacyFTB::Page"
   },
   {
     "key": "LegacyFTB::Page:dc5eb704bbca",
@@ -6159,7 +6159,7 @@
     "key": "LegacyFTB::Page:03fec0b5504e",
     "original": "Version selected:",
     "translation": "Таңдалынған нұсқа:",
-    "context": "LegacyFTB::Page | [unfinished]"
+    "context": "LegacyFTB::Page"
   },
   {
     "key": "LegacyFTB::Page:7f2f6a15cf8d",
@@ -6369,7 +6369,7 @@
     "key": "LoginWizardPage:80446347ede5",
     "original": "Form",
     "translation": "Форма",
-    "context": "LoginWizardPage | [unfinished]"
+    "context": "LoginWizardPage"
   },
   {
     "key": "LoginWizardPage:2f589123ceb2",
@@ -6483,13 +6483,13 @@
     "key": "MSALoginDialog:89e944f8eb37",
     "original": "Please wait...",
     "translation": "Күте тұрыңыз...",
-    "context": "MSALoginDialog | [unfinished]"
+    "context": "MSALoginDialog"
   },
   {
     "key": "MSALoginDialog:bae7d5be7082",
     "original": "Status",
     "translation": "Қалпы",
-    "context": "MSALoginDialog | [unfinished]"
+    "context": "MSALoginDialog"
   },
   {
     "key": "MSALoginDialog:fd62c61f849b",
@@ -7101,7 +7101,7 @@
     "key": "MainWindow:36bae31694f8",
     "original": "Accounts",
     "translation": "Есептік жазбалар",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:416c5c33e6d2",
@@ -7629,7 +7629,7 @@
     "key": "ManagedPackPage:9d4741838842",
     "original": "Update Failed",
     "translation": "Жаңарту сәтсіз аяқталды",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:cd2dbd6fb8fc",
@@ -7665,7 +7665,7 @@
     "key": "Meta::Index:709a23220f2c",
     "original": "Name",
     "translation": "Есім",
-    "context": "Meta::Index | [unfinished]"
+    "context": "Meta::Index"
   },
   {
     "key": "Meta::Index:04099ec66644",
@@ -8073,31 +8073,31 @@
     "key": "MinecraftSettingsWidget:b5165545b367",
     "original": "NeoForge",
     "translation": "NeoForge",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:3ab11b75ca36",
     "original": "Forge",
     "translation": "Forge",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:a010de5c6165",
     "original": "Fabric",
     "translation": "Fabric",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:01aa488891b0",
     "original": "Quilt",
     "translation": "Quilt",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:bf134c686f5c",
     "original": "LiteLoader",
     "translation": "LiteLoader",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:99e2e94f2566",
@@ -8223,7 +8223,7 @@
     "key": "MinecraftSettingsWidget:4a6e7953d9d9",
     "original": "Use Zink",
     "translation": "Zink қолдану",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:ac06ef9ee1f3",
@@ -8331,7 +8331,7 @@
     "key": "ModFilterWidget:80446347ede5",
     "original": "Form",
     "translation": "Форма",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:6ccb60071be8",
@@ -8349,25 +8349,25 @@
     "key": "ModFilterWidget:b5165545b367",
     "original": "NeoForge",
     "translation": "NeoForge",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:3ab11b75ca36",
     "original": "Forge",
     "translation": "Forge",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:a010de5c6165",
     "original": "Fabric",
     "translation": "Fabric",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:01aa488891b0",
     "original": "Quilt",
     "translation": "Quilt",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:abeed86f05bd",
@@ -8379,7 +8379,7 @@
     "key": "ModFilterWidget:bf134c686f5c",
     "original": "LiteLoader",
     "translation": "LiteLoader",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:99e2e94f2566",
@@ -8481,7 +8481,7 @@
     "key": "ModFilterWidget:bc7819b34ff8",
     "original": "Unknown",
     "translation": "Белгісіз",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:0485bc248e29",
@@ -8583,7 +8583,7 @@
     "key": "ModFilterWidget:40ab4c0ce406",
     "original": "All Versions",
     "translation": "Барлық нұсқалар",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFolderModel:2c3cafa4db3f",
@@ -8595,7 +8595,7 @@
     "key": "ModFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Есім",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:2da600bf9404",
@@ -9057,7 +9057,7 @@
     "key": "ModrinthCheckUpdate:bc7819b34ff8",
     "original": "Unknown",
     "translation": "Белгісіз",
-    "context": "ModrinthCheckUpdate | [unfinished]"
+    "context": "ModrinthCheckUpdate"
   },
   {
     "key": "ModrinthCheckUpdate:34affdf46b9d",
@@ -9129,7 +9129,7 @@
     "key": "ModrinthCreationTask:f9bc7a615403",
     "original": "%1 out of %2 complete",
     "translation": "%2 ішінен %1 аяқталды",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:df237503973c",
@@ -9315,13 +9315,13 @@
     "key": "ModrinthPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Іздеу және сұрыптау...",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "Таңдалынған нұсқа:",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:edcad43541b4",
@@ -9405,7 +9405,7 @@
     "key": "NetJob:67a7e9461e7d",
     "original": "Executing %1 task(s) (%2 out of %3 are done)",
     "translation": "%1 есептер орындалуда (%3 ішінен %2 жасалынды)",
-    "context": "NetJob | [unfinished]"
+    "context": "NetJob"
   },
   {
     "key": "NetworkJobFailedDialog:6cc153f0e5df",
@@ -9429,7 +9429,7 @@
     "key": "NetworkJobFailedDialog:7f2f6a15cf8d",
     "original": "Error",
     "translation": "Қате",
-    "context": "NetworkJobFailedDialog | [unfinished]"
+    "context": "NetworkJobFailedDialog"
   },
   {
     "key": "NetworkJobFailedDialog:7b52603bb25e",
@@ -9471,7 +9471,7 @@
     "key": "NewComponentDialog:709a23220f2c",
     "original": "Name",
     "translation": "Есім",
-    "context": "NewComponentDialog | [unfinished]"
+    "context": "NewComponentDialog"
   },
   {
     "key": "NewComponentDialog:e2577dd78b54",
@@ -9519,7 +9519,7 @@
     "key": "NewInstanceDialog:f6b2246c64fa",
     "original": "No group",
     "translation": "Топсыз",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:9ce3bd4224c8",
@@ -9573,7 +9573,7 @@
     "key": "NewsDialog:bbfa773e5a63",
     "original": "Close",
     "translation": "Жабу",
-    "context": "NewsDialog | [unfinished]"
+    "context": "NewsDialog"
   },
   {
     "key": "NewsDialog:a5601a63d0ae",
@@ -9855,13 +9855,13 @@
     "key": "OptiFineInstallDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Көшіру",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptiFineInstallDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Болдырмау",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptionalModDialog:12e9f3729ee6",
@@ -10101,79 +10101,79 @@
     "key": "PackInstallTask:93fc42ea75d6",
     "original": "Could not understand pack manifest:\n",
     "translation": "Пакет манифестін түсіну мүмкін болмады:",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:1cc558d32fa4",
     "original": "Unsupported installation mode",
     "translation": "Қолдау көрсетілмейтін орнату режимі",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:608a6e16a154",
     "original": "Failed to get local metadata index for '%1' v%2",
     "translation": "\"% 1\" v% 2 үшін жергілікті метадеректер индексін алу сәтсіз аяқталды",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:a61c5171cb28",
     "original": "Deleting existing files...",
     "translation": "Бар файлдар жойылуда...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:639e6287333c",
     "original": "Unknown mod type: %1",
     "translation": "Неизвестный тип мода: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:54a1e48a12f3",
     "original": "Failed to get local metadata index for %1",
     "translation": "% 1 үшін жергілікті метадеректер индексін алу сәтсіз аяқталды",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:9638c0cc0435",
     "original": "Failed to find version for %1 loader",
     "translation": "%1 жүктегіш нұсқасы табылмады",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:394b0f2a985e",
     "original": "No loader version set for modpack!",
     "translation": "Modpack үшін жүктеуші нұсқасы орнатылмаған!",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:8ea0186a5329",
     "original": "Unknown or unsupported download type: %1",
     "translation": "Белгісіз немесе келіспейтін жүктеуші нұсқасы: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:db82f5ce4d92",
     "original": "Downloading configs...",
     "translation": "Конфигурациялар жүктеліп жатыр...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:296053b61434",
     "original": "Config download",
     "translation": "Конфигурацияны жүктеу",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:88e116160aff",
     "original": "Extracting configs...",
     "translation": "Конфигурациялар шығарылуда...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:6e97ce93553c",
     "original": "Selecting optional mods...",
     "translation": "Қосымша модтарды таңдау...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:df237503973c",
@@ -10185,13 +10185,13 @@
     "key": "PackInstallTask:7b02e924aa02",
     "original": "Mod download",
     "translation": "Mod жүктеу",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:e91e47f5379a",
     "original": "Unknown download type: %1",
     "translation": "Белгісіз жүктеу нұсқасы: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:d4e059888d25",
@@ -10203,31 +10203,31 @@
     "key": "PackInstallTask:327b7e57d4e1",
     "original": "Blocked mods found",
     "translation": "Бұғатталған модтар табылды",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:7ff827f8d900",
     "original": "The following files are not available for download in third party launchers.<br/>You will need to manually download them and add them to the instance.",
     "translation": "Бұл файлдарды үшінші тарап лаунчерінде жүктеуге болмайды. <br/>Сізге оларды қолмен жүктеп, данаға қосуыңыз қажет.",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:f9bc7a615403",
     "original": "%1 out of %2 complete",
     "translation": "%2 ішінен %1 аяқталды",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:3138740f4b31",
     "original": "Failed to extract mods...",
     "translation": "Модтарды шығару сәтсіз аяқталды...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:e87c1bb107c0",
     "original": "Extracting mods...",
     "translation": "Модтарды шығару...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:7d3e34e21534",
@@ -10239,19 +10239,19 @@
     "key": "PackInstallTask:a568ebaf6ef5",
     "original": "Failed to create libraries component",
     "translation": "Кітапхана бөлігін шығаруда қате кетті",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:c9c9e81a13ed",
     "original": "Unknown loader type: ",
     "translation": "Белгісіз жүкітегіш түрі:",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:76fefafc38cf",
     "original": "Failed to create pack component",
     "translation": "Пак бөлігін құру сәтсіз аяқталды",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackProfile:b1590d210090",
@@ -10263,7 +10263,7 @@
     "key": "PackProfile:709a23220f2c",
     "original": "Name",
     "translation": "Есім",
-    "context": "PackProfile | [unfinished]"
+    "context": "PackProfile"
   },
   {
     "key": "PackProfile:2da600bf9404",
@@ -10293,7 +10293,7 @@
     "key": "PasteWizardPage:80446347ede5",
     "original": "Form",
     "translation": "Форма",
-    "context": "PasteWizardPage | [unfinished]"
+    "context": "PasteWizardPage"
   },
   {
     "key": "PasteWizardPage:98f17818733b",
@@ -10875,7 +10875,7 @@
     "key": "ProgressDialog:89e944f8eb37",
     "original": "Please wait...",
     "translation": "Күте тұрыңыз...",
-    "context": "ProgressDialog | [unfinished]"
+    "context": "ProgressDialog"
   },
   {
     "key": "ProgressDialog:4e6ee2001d34",
@@ -10893,7 +10893,7 @@
     "key": "ProgressDialog:3da474537ac3",
     "original": "Skip",
     "translation": "Тастап кету",
-    "context": "ProgressDialog | [unfinished]"
+    "context": "ProgressDialog"
   },
   {
     "key": "ProgressDialog:6f3abbe484ab",
@@ -10917,7 +10917,7 @@
     "key": "ProxyPage:3deb74565196",
     "original": "Type",
     "translation": "Нұсқа",
-    "context": "ProxyPage | [unfinished]"
+    "context": "ProxyPage"
   },
   {
     "key": "ProxyPage:9a2029660bcc",
@@ -11373,7 +11373,7 @@
     "key": "QObject:db286a36a0f3",
     "original": "Java checker library could not be found. Please check your installation.",
     "translation": "Java тексеретін кітапхана табылмады. Өтініш, жүктеу процесін тексеріңіз.",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:44bb1beac399",
@@ -11499,7 +11499,7 @@
     "key": "QObject:2ebd5dd0cbfe",
     "original": "Sort by Popularity",
     "translation": "Танымалдылығы бойынша сұрыптау",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3546d8e58e95",
@@ -11511,7 +11511,7 @@
     "key": "QObject:5fa541307296",
     "original": "Sort by Name",
     "translation": "Аты бойынша сұрыптау",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:d1db3d422497",
@@ -11535,7 +11535,7 @@
     "key": "QObject:21eea1c9bdf3",
     "original": "Sort by Game Version",
     "translation": "Ойын нұсқасы бойынша сұрыптау",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:c2bdba99958f",
@@ -11583,7 +11583,7 @@
     "key": "QObject:bc7819b34ff8",
     "original": "Unknown",
     "translation": "Белгісіз",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:73b44ec0895a",
@@ -11631,49 +11631,49 @@
     "key": "QObject:1b927decdbb0",
     "original": "Unchecked",
     "translation": "Тексерілмеген",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:e01fa717bacc",
     "original": "Offline",
     "translation": "Желіде емес",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:20c7c5522fc2",
     "original": "Ready",
     "translation": "Дайын",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3b4dfc971393",
     "original": "Working",
     "translation": "Жұмыс істеп жатыр",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:2d4784200261",
     "original": "Errored",
     "translation": "Қате кетті",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:a689a999a5e6",
     "original": "Expired",
     "translation": "Мерзімі өткен",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:f4f4473df8cb",
     "original": "Disabled",
     "translation": "Өшіп тұр",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:149ecfc76f45",
     "original": "Gone",
     "translation": "Жоғалып кетті",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3b81c344597f",
@@ -11775,7 +11775,7 @@
     "key": "QObject:ec9f9bff4cb7",
     "original": "Create Shortcut",
     "translation": "Таңбаша жасау",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:9790ab6f7803",
@@ -11955,7 +11955,7 @@
     "key": "QObject:a9b4889389af",
     "original": "Unrecognized",
     "translation": "Таңылмаған",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:5a853d21a166",
@@ -12339,7 +12339,7 @@
     "key": "ResourceFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Есім",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:4c24525b0aa0",
@@ -12453,7 +12453,7 @@
     "key": "ResourceFolderModel:50e19fda0d5b",
     "original": "Image",
     "translation": "Бейне",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:4c24525b0aa0",
@@ -12537,7 +12537,7 @@
     "key": "ResourcePackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Есім",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:0092be542f99",
@@ -12657,7 +12657,7 @@
     "key": "ResourcePage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "Таңдалынған нұсқа:",
-    "context": "ResourcePage | [unfinished]"
+    "context": "ResourcePage"
   },
   {
     "key": "ResourcePage:c3c949f932a9",
@@ -12963,7 +12963,7 @@
     "key": "ScreenshotsPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Мәтінмәндік меню",
-    "context": "ScreenshotsPage | [unfinished]"
+    "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:69f424ee3a3e",
@@ -13131,7 +13131,7 @@
     "key": "ServersModel:709a23220f2c",
     "original": "Name",
     "translation": "Есім",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersModel:d70f93df5e8f",
@@ -13161,7 +13161,7 @@
     "key": "ServersModel:e01fa717bacc",
     "original": "Offline",
     "translation": "Желіде емес",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersPage:49b93f720a4a",
@@ -13251,7 +13251,7 @@
     "key": "ServersPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Мәтінмәндік меню",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:b056ceb4156f",
@@ -13293,7 +13293,7 @@
     "key": "SetupWizard:e38044ca5f26",
     "original": "&Refresh",
     "translation": "&Жаңарту",
-    "context": "SetupWizard | [unfinished]"
+    "context": "SetupWizard"
   },
   {
     "key": "SetupWizard:89e35727270b",
@@ -13485,7 +13485,7 @@
     "key": "SkinManageDialog:027760ffe7da",
     "original": "Open Folder",
     "translation": "Папканы Ашу",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:cf4da3174d7d",
@@ -13623,7 +13623,7 @@
     "key": "SkinManageDialog:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Мәтінмәндік меню",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:abc73e2588f3",
@@ -13731,7 +13731,7 @@
     "key": "SubTaskProgressBar:80446347ede5",
     "original": "Form",
     "translation": "Форма",
-    "context": "SubTaskProgressBar | [unfinished]"
+    "context": "SubTaskProgressBar"
   },
   {
     "key": "SubTaskProgressBar:9f478681f2e2",
@@ -13893,13 +13893,13 @@
     "key": "TechnicPage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "Таңдалынған нұсқа:",
-    "context": "TechnicPage | [unfinished]"
+    "context": "TechnicPage"
   },
   {
     "key": "TechnicPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "Іздеу және сұрыптау...",
-    "context": "TechnicPage | [unfinished]"
+    "context": "TechnicPage"
   },
   {
     "key": "TechnicPage:7f2f6a15cf8d",
@@ -13917,7 +13917,7 @@
     "key": "TexturePackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Есім",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:4c24525b0aa0",
@@ -14481,7 +14481,7 @@
     "key": "VersionPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Мәтінмәндік меню",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:e9571bf1f2e1",
@@ -14625,7 +14625,7 @@
     "key": "VersionPage:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Көшіру",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:cae9674c84d8",
@@ -14673,7 +14673,7 @@
     "key": "VersionProxyModel:3deb74565196",
     "original": "Type",
     "translation": "Нұсқа",
-    "context": "VersionProxyModel | [unfinished]"
+    "context": "VersionProxyModel"
   },
   {
     "key": "VersionProxyModel:b040b4179b8b",
@@ -14805,7 +14805,7 @@
     "key": "VersionSelectDialog:e38044ca5f26",
     "original": "&Refresh",
     "translation": "&Жаңарту",
-    "context": "VersionSelectDialog | [unfinished]"
+    "context": "VersionSelectDialog"
   },
   {
     "key": "VersionSelectWidget:bce06414177f",
@@ -14865,7 +14865,7 @@
     "key": "WorldList:709a23220f2c",
     "original": "Name",
     "translation": "Есім",
-    "context": "WorldList | [unfinished]"
+    "context": "WorldList"
   },
   {
     "key": "WorldList:9424db05db84",
@@ -15021,7 +15021,7 @@
     "key": "WorldListPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Мәтінмәндік меню",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:828d183e802e",
@@ -15291,7 +15291,7 @@
     "key": "YggdrasilLoginDialog:84c29015de33",
     "original": "Username",
     "translation": "Пайдаланушының аты",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:8be3c943b160",
@@ -15309,7 +15309,7 @@
     "key": "YggdrasilLoginDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Болдырмау",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:ca359109578d",

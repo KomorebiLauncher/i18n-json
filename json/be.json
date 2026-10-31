@@ -1089,7 +1089,7 @@
     "key": "AuthlibInjectorDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Усталяваць",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AuthlibInjectorDialog:77dfd2135f4d",
@@ -1221,7 +1221,7 @@
     "key": "BaseEntityLoadTask:ae327e573ef2",
     "original": "Loading local file",
     "translation": "Загрузка лакальнага файла",
-    "context": "BaseEntityLoadTask | [unfinished]"
+    "context": "BaseEntityLoadTask"
   },
   {
     "key": "BaseProfiler:122e80b33e98",
@@ -2295,7 +2295,7 @@
     "key": "DataPackFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Версія",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:fb91e24fa52d",
@@ -3159,13 +3159,13 @@
     "key": "ExternalToolsPage:d3c88b119527",
     "original": "&Add",
     "translation": "&Дадаць",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:763c2ebc2799",
     "original": "&Remove",
     "translation": "&Выдаліць",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:709a23220f2c",
@@ -6237,7 +6237,7 @@
     "key": "ListModel:c4a7e601008a",
     "original": "Minecraft %1",
     "translation": "Minecraft %1",
-    "context": "ListModel | [unfinished]"
+    "context": "ListModel"
   },
   {
     "key": "LocalResourceUpdateTask:2245cdef5363",
@@ -7376,7 +7376,7 @@
   {
     "key": "MainWindow:7561aee92c50",
     "original": " and its %n registered shortcut(s)",
-    "translation": " і яго %n зарэгістраваная камбінацыя клавіш\n і яго %n зарэгістраваныя камбінацыі клавіш\n і яго %n зарэгістраваных камбінацый клавіш",
+    "translation": "і яго %n зарэгістраваная камбінацыя клавіш\n і яго %n зарэгістраваныя камбінацыі клавіш\n і яго %n зарэгістраваных камбінацый клавіш",
     "context": "MainWindow | [plural]"
   },
   {
@@ -8139,7 +8139,7 @@
     "key": "MinecraftSettingsWidget:d41f56cea1ac",
     "original": "Release",
     "translation": "Выпуск",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:322444d3bb52",
@@ -8181,7 +8181,7 @@
     "key": "MinecraftSettingsWidget:b591b1f5cbf6",
     "original": "<html><head/><body><p>Enable Feral Interactive's GameMode, to potentially improve gaming performance.</p></body></html>",
     "translation": "<html><head/><body><p>Уключыць Feral Interactive's GameMode, каб патэнцыйна палепшыць прадукцыйнасць</p></body></html>",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:76156755cf90",
@@ -8241,7 +8241,7 @@
     "key": "MinecraftSettingsWidget:c48e024e0cec",
     "original": "Custom Commands",
     "translation": "Карыстальніцкія каманды",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:ec072bba7bef",
@@ -8271,7 +8271,7 @@
     "key": "MinecraftSettingsWidget:864c4da32ff4",
     "original": "Feral Interactive's GameMode could not be found on your system.",
     "translation": "Feral Interactive's GameMode не знойдзены ў сістэме.",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:51902e458f7b",
@@ -8307,7 +8307,7 @@
     "key": "MirrorListEditor:e963907dac5c",
     "original": "Remove",
     "translation": "Выдаліць",
-    "context": "MirrorListEditor | [unfinished]"
+    "context": "MirrorListEditor"
   },
   {
     "key": "MirrorListEditor:cb0ad25e7101",
@@ -8319,7 +8319,7 @@
     "key": "MirrorListEditor:61cc55aa0453",
     "original": "Add",
     "translation": "Дадаць",
-    "context": "MirrorListEditor | [unfinished]"
+    "context": "MirrorListEditor"
   },
   {
     "key": "MirrorListEditor:226188f5c23d",
@@ -8768,7 +8768,7 @@
   {
     "key": "ModFolderModel:7344f60ae135",
     "original": "%n mod(s) will be enabled\n",
-    "translation": "будзе ўключаны %n мод\n\nбудзе ўключана %n моды\n\nбудзе ўключана %n модаў\n",
+    "translation": "будзе ўключаны %n мод\n\nбудзе ўключана %n моды\n\nбудзе ўключана %n модаў",
     "context": "ModFolderModel | [plural]"
   },
   {
@@ -8780,7 +8780,7 @@
   {
     "key": "ModFolderModel:ffcf72215f76",
     "original": "%n mod(s) will be disabled\n",
-    "translation": "будзе адключаны %n мод\n\nбудзе адключана %n моды\n\nбудзе адключана %n модаў\n",
+    "translation": "будзе адключаны %n мод\n\nбудзе адключана %n моды\n\nбудзе адключана %n модаў",
     "context": "ModFolderModel | [plural]"
   },
   {
@@ -9057,7 +9057,7 @@
     "key": "ModrinthCheckUpdate:bc7819b34ff8",
     "original": "Unknown",
     "translation": "Невядомы",
-    "context": "ModrinthCheckUpdate | [unfinished]"
+    "context": "ModrinthCheckUpdate"
   },
   {
     "key": "ModrinthCheckUpdate:34affdf46b9d",
@@ -9183,7 +9183,7 @@
     "key": "ModrinthManagedPackPage:421a3cbacf93",
     "original": "Modrinth pack",
     "translation": "Зборка Modrinth",
-    "context": "ModrinthManagedPackPage | [unfinished]"
+    "context": "ModrinthManagedPackPage"
   },
   {
     "key": "ModrinthPackExportTask:4c74a1167874",
@@ -9351,7 +9351,7 @@
     "key": "Net::Request:d4b2aca736b7",
     "original": "%1 / %2",
     "translation": "%1 / %2",
-    "context": "Net::Request | Current amount of bytes downloaded, out of the total amount of bytes in the download | [unfinished]"
+    "context": "Net::Request | Current amount of bytes downloaded, out of the total amount of bytes in the download"
   },
   {
     "key": "Net::Request:50d8b4a941c2",
@@ -9855,7 +9855,7 @@
     "key": "OptiFineInstallDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Усталяваць",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptiFineInstallDialog:77dfd2135f4d",
@@ -9909,7 +9909,7 @@
     "key": "OtherLogsPage:f54f6c4c05d2",
     "original": "Scroll all the way to bottom",
     "translation": "Пракруціць да канца",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:51ac18f44780",
@@ -10167,7 +10167,7 @@
     "key": "PackInstallTask:88e116160aff",
     "original": "Extracting configs...",
     "translation": "Распакоўка налад...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:6e97ce93553c",
@@ -10185,13 +10185,13 @@
     "key": "PackInstallTask:7b02e924aa02",
     "original": "Mod download",
     "translation": "Спампаваць мод",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:e91e47f5379a",
     "original": "Unknown download type: %1",
     "translation": "Незразумелы тып спампоўкі: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:d4e059888d25",
@@ -10215,7 +10215,7 @@
     "key": "PackInstallTask:f9bc7a615403",
     "original": "%1 out of %2 complete",
     "translation": "%1 з %2 гатова",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:3138740f4b31",
@@ -10245,7 +10245,7 @@
     "key": "PackInstallTask:c9c9e81a13ed",
     "original": "Unknown loader type: ",
     "translation": "Незразумелы тып загрузчыка:",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:76fefafc38cf",
@@ -10899,7 +10899,7 @@
     "key": "ProgressDialog:6f3abbe484ab",
     "original": "Abort",
     "translation": "Спыніць",
-    "context": "ProgressDialog | [unfinished]"
+    "context": "ProgressDialog"
   },
   {
     "key": "ProjectItemDelegate:517f9bea1d3e",
@@ -11487,7 +11487,7 @@
     "key": "QObject:50d8b4a941c2",
     "original": "unknown",
     "translation": "невядомы",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:754e270ce9ad",
@@ -11955,7 +11955,7 @@
     "key": "QObject:a9b4889389af",
     "original": "Unrecognized",
     "translation": "Нераспазнанае",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:5a853d21a166",
@@ -12003,7 +12003,7 @@
     "key": "QObject:1ba86caa483a",
     "original": "Could not open file %1 for reading: %2",
     "translation": "Не ўдалося адкрыць файл %1 для чытання: %2",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:f05c9bfd5730",
@@ -12327,13 +12327,13 @@
     "key": "ResourceFolderModel:62d4750bff7e",
     "original": "\nWarning: This resource is symbolically linked from elsewhere. Editing it will also change the original.\nCanonical Path: %1",
     "translation": "Папярэджанне: Гэты рэсурс звязаны з іншымі праз сімвалічную спасылку. Яго рэдагаванне зменіць арыгінал.\nКананічны шлях: %1",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:d564bd755146",
     "original": "\nWarning: This resource is hard linked elsewhere. Editing it will also change the original.",
     "translation": "Папярэджанне: гэты рэсурс звязаны з іншымі праз цвёрдыя спасылкі. Яго рэдагаванне зменіць арыгінал.",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:709a23220f2c",
@@ -12351,7 +12351,7 @@
     "key": "ResourceFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Версія",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:b7152342a267",
@@ -12363,7 +12363,7 @@
     "key": "ResourceFolderModel:7ceee3f3615a",
     "original": "Provider",
     "translation": "Пастаўшчык",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:2aabcfc2668a",
@@ -12453,7 +12453,7 @@
     "key": "ResourceFolderModel:50e19fda0d5b",
     "original": "Image",
     "translation": "Відарыс",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:4c24525b0aa0",
@@ -12465,7 +12465,7 @@
     "key": "ResourcePackFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Версія",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:b7152342a267",
@@ -12477,7 +12477,7 @@
     "key": "ResourcePackFolderModel:7ceee3f3615a",
     "original": "Provider",
     "translation": "Пастаўшчык",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:2aabcfc2668a",
@@ -12561,7 +12561,7 @@
     "key": "ResourcePackPage:488738cde719",
     "original": "Download Packs",
     "translation": "Спампаваць",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:e0426347f584",
@@ -12579,7 +12579,7 @@
     "key": "ResourcePackPage:2547f8e4a749",
     "original": "Change a mod's version.",
     "translation": "Змяніце версію мода.",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:7f2f6a15cf8d",
@@ -12591,7 +12591,7 @@
     "key": "ResourcePackPage:1430f976c596",
     "original": "Warnings",
     "translation": "Папярэджанні",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:e2cabd9e9dcc",
@@ -12633,7 +12633,7 @@
     "key": "ResourcePackPage:2080f0fbd2f0",
     "original": "Update checker",
     "translation": "Праграма праверкі абнаўленняў",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:5e50cf25a163",
@@ -13149,7 +13149,7 @@
     "key": "ServersModel:2da600bf9404",
     "original": "Version",
     "translation": "Версія",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersModel:6b68e9797399",
@@ -13161,7 +13161,7 @@
     "key": "ServersModel:e01fa717bacc",
     "original": "Offline",
     "translation": "Афлайн",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersPage:49b93f720a4a",
@@ -13317,7 +13317,7 @@
     "key": "ShaderPackPage:488738cde719",
     "original": "Download Packs",
     "translation": "Спампаваць",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:18d2a5b13b98",
@@ -13347,7 +13347,7 @@
     "key": "ShaderPackPage:1430f976c596",
     "original": "Warnings",
     "translation": "Папярэджанні",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:292f21077ddf",
@@ -13389,7 +13389,7 @@
     "key": "ShaderPackPage:2080f0fbd2f0",
     "original": "Update checker",
     "translation": "Праграма праверкі абнаўленняў",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:5e50cf25a163",
@@ -13623,7 +13623,7 @@
     "key": "SkinManageDialog:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Кантэкстнае меню",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:abc73e2588f3",
@@ -13935,7 +13935,7 @@
     "key": "TexturePackFolderModel:7ceee3f3615a",
     "original": "Provider",
     "translation": "Пастаўшчык",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:2aabcfc2668a",
@@ -14001,7 +14001,7 @@
     "key": "TexturePackPage:488738cde719",
     "original": "Download Packs",
     "translation": "Спампаваць",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:85fa4bf8bc83",
@@ -14037,7 +14037,7 @@
     "key": "TexturePackPage:1430f976c596",
     "original": "Warnings",
     "translation": "Папярэджанні",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:936125976ee4",
@@ -14079,7 +14079,7 @@
     "key": "TexturePackPage:2080f0fbd2f0",
     "original": "Update checker",
     "translation": "Праграма праверкі абнаўленняў",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:5e50cf25a163",
@@ -14625,7 +14625,7 @@
     "key": "VersionPage:fd6c3ebf7bef",
     "original": "Install",
     "translation": "Усталяваць",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:cae9674c84d8",
@@ -14991,7 +14991,7 @@
     "key": "WorldListPage:4fa8cc860c52",
     "original": "Tools",
     "translation": "Інструменты",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:dbd185310812",
@@ -15291,7 +15291,7 @@
     "key": "YggdrasilLoginDialog:84c29015de33",
     "original": "Username",
     "translation": "Імя карыстальніка",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:8be3c943b160",

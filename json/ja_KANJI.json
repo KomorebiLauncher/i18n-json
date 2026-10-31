@@ -129,7 +129,7 @@
     "key": "APIPage:5e0357fd3e0c",
     "original": "&Microsoft Authentication",
     "translation": "&Microsoft 認証",
-    "context": "APIPage | [unfinished]"
+    "context": "APIPage"
   },
   {
     "key": "APIPage:3e217d37be41",
@@ -267,7 +267,7 @@
     "key": "AboutDialog:93e906e11b63",
     "original": "Build Date:",
     "translation": "構築番号:",
-    "context": "AboutDialog | [unfinished]"
+    "context": "AboutDialog"
   },
   {
     "key": "AboutDialog:8da5456dbc7a",
@@ -357,7 +357,7 @@
     "key": "AccountList:e01fa717bacc",
     "original": "Offline",
     "translation": "脱機",
-    "context": "AccountList | [unfinished]"
+    "context": "AccountList"
   },
   {
     "key": "AccountList:acfe0daf2326",
@@ -399,19 +399,19 @@
     "key": "AccountListPage:26292bff63ee",
     "original": "Remo&ve",
     "translation": "削除",
-    "context": "AccountListPage | [unfinished]"
+    "context": "AccountListPage"
   },
   {
     "key": "AccountListPage:a7beb323e9ef",
     "original": "&Set Default",
     "translation": "既定に設定",
-    "context": "AccountListPage | [unfinished]"
+    "context": "AccountListPage"
   },
   {
     "key": "AccountListPage:d1bab75e33cb",
     "original": "&No Default",
     "translation": "既定を解除",
-    "context": "AccountListPage | [unfinished]"
+    "context": "AccountListPage"
   },
   {
     "key": "AccountListPage:1a4027b72b91",
@@ -429,7 +429,7 @@
     "key": "AccountListPage:ae5e97c2b953",
     "original": "&Add Microsoft",
     "translation": "Microsoft 帳戸を追加",
-    "context": "AccountListPage | [unfinished]"
+    "context": "AccountListPage"
   },
   {
     "key": "AccountListPage:dc56d8f3d717",
@@ -441,7 +441,7 @@
     "key": "AccountListPage:e38044ca5f26",
     "original": "&Refresh",
     "translation": "再読込",
-    "context": "AccountListPage | [unfinished]"
+    "context": "AccountListPage"
   },
   {
     "key": "AccountListPage:1cf07c71f8f4",
@@ -579,7 +579,7 @@
     "key": "AppearanceWidget:380836c62b09",
     "original": "&Icons:",
     "translation": "図標 (&I):",
-    "context": "AppearanceWidget | [unfinished]"
+    "context": "AppearanceWidget"
   },
   {
     "key": "AppearanceWidget:06ece7c582ad",
@@ -807,19 +807,19 @@
     "key": "Atl::FilterModel:2ebd5dd0cbfe",
     "original": "Sort by Popularity",
     "translation": "人気順で並び替え",
-    "context": "Atl::FilterModel | [unfinished]"
+    "context": "Atl::FilterModel"
   },
   {
     "key": "Atl::FilterModel:5fa541307296",
     "original": "Sort by Name",
     "translation": "名前順で並べ替え",
-    "context": "Atl::FilterModel | [unfinished]"
+    "context": "Atl::FilterModel"
   },
   {
     "key": "Atl::FilterModel:21eea1c9bdf3",
     "original": "Sort by Game Version",
     "translation": "遊戯版次順で並べ替え",
-    "context": "Atl::FilterModel | [unfinished]"
+    "context": "Atl::FilterModel"
   },
   {
     "key": "AtlOptionalModDialog:d3fcc8bb5ce6",
@@ -897,25 +897,25 @@
     "key": "AtlPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "検索と濾過...",
-    "context": "AtlPage | [unfinished]"
+    "context": "AtlPage"
   },
   {
     "key": "AtlUserInteractionSupportImpl:46c15b2a8e17",
     "original": "No versions are currently available for Minecraft %1",
     "translation": "現在利用可能な Minecraft %1 の版次情報がありません",
-    "context": "AtlUserInteractionSupportImpl | [unfinished]"
+    "context": "AtlUserInteractionSupportImpl"
   },
   {
     "key": "AtlUserInteractionSupportImpl:7c4129489ebe",
     "original": "No versions are currently available",
     "translation": "現在利用可能な版次情報はありません",
-    "context": "AtlUserInteractionSupportImpl | [unfinished]"
+    "context": "AtlUserInteractionSupportImpl"
   },
   {
     "key": "AtlUserInteractionSupportImpl:cac0430fa73a",
     "original": "Couldn't load or download the version lists!",
     "translation": "版次情報一覧の読込・受信に失敗しました!",
-    "context": "AtlUserInteractionSupportImpl | [unfinished]"
+    "context": "AtlUserInteractionSupportImpl"
   },
   {
     "key": "AtlUserInteractionSupportImpl:e38432618ce4",
@@ -951,13 +951,13 @@
     "key": "AuthFlow:594ee0520a59",
     "original": "Authentication task succeeded.",
     "translation": "認証処理が成功しました。",
-    "context": "AuthFlow | [unfinished]"
+    "context": "AuthFlow"
   },
   {
     "key": "AuthFlow:c5e25b76fbfc",
     "original": "Failed to contact the authentication server.",
     "translation": "認証伺伝機に接続できませんでした。",
-    "context": "AuthFlow | [unfinished]"
+    "context": "AuthFlow"
   },
   {
     "key": "AuthFlow:d0bde33b19b5",
@@ -969,31 +969,31 @@
     "key": "AuthFlow:5bd1550dd6ce",
     "original": "Encountered an error during authentication.",
     "translation": "認証中に錯誤が発生しました。",
-    "context": "AuthFlow | [unfinished]"
+    "context": "AuthFlow"
   },
   {
     "key": "AuthFlow:c71c03ccfda4",
     "original": "Failed to authenticate. The session has expired.",
     "translation": "認証に失敗しました。会話有効期限切れです。",
-    "context": "AuthFlow | [unfinished]"
+    "context": "AuthFlow"
   },
   {
     "key": "AuthFlow:f74d586b26e3",
     "original": "Failed to authenticate. The account no longer exists.",
     "translation": "認証に失敗しました。この帳戸は存在しません。",
-    "context": "AuthFlow | [unfinished]"
+    "context": "AuthFlow"
   },
   {
     "key": "AuthFlow:6eae3a5b062c",
     "original": "...",
     "translation": "...",
-    "context": "AuthFlow | [unfinished]"
+    "context": "AuthFlow"
   },
   {
     "key": "AuthFlow:c20f8526d864",
     "original": "Unknown account task state: %1",
     "translation": "不明な帳戸作動状態: %1",
-    "context": "AuthFlow | [unfinished]"
+    "context": "AuthFlow"
   },
   {
     "key": "AuthlibInjector::InstallTask:d17b190a4862",
@@ -1089,7 +1089,7 @@
     "key": "AuthlibInjectorDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "装入する",
-    "context": "AuthlibInjectorDialog | [unfinished]"
+    "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AuthlibInjectorDialog:77dfd2135f4d",
@@ -1251,13 +1251,13 @@
     "key": "BlockedModsDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "検査終了",
-    "context": "BlockedModsDialog | [unfinished]"
+    "context": "BlockedModsDialog"
   },
   {
     "key": "BlockedModsDialog:3da474537ac3",
     "original": "Skip",
     "translation": "スキップ",
-    "context": "BlockedModsDialog | [unfinished]"
+    "context": "BlockedModsDialog"
   },
   {
     "key": "BlockedModsDialog:fca41d5d010e",
@@ -1353,7 +1353,7 @@
     "key": "ChooseOfflineNameDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "検査終了",
-    "context": "ChooseOfflineNameDialog | [unfinished]"
+    "context": "ChooseOfflineNameDialog"
   },
   {
     "key": "ChooseProviderDialog:e31cf2b37509",
@@ -1479,7 +1479,7 @@
     "key": "ConcurrentTask:89e944f8eb37",
     "original": "Please wait...",
     "translation": "お待ちください...",
-    "context": "ConcurrentTask | [unfinished]"
+    "context": "ConcurrentTask"
   },
   {
     "key": "ConcurrentTask:e9b33b98f318",
@@ -1725,7 +1725,7 @@
     "key": "CopyInstanceDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "検査終了",
-    "context": "CopyInstanceDialog | [unfinished]"
+    "context": "CopyInstanceDialog"
   },
   {
     "key": "CopyWorldTask:5cb8f4ad25e0",
@@ -1977,7 +1977,7 @@
     "key": "CreateShortcutDialog:709a23220f2c",
     "original": "Name",
     "translation": "名前",
-    "context": "CreateShortcutDialog | [unfinished]"
+    "context": "CreateShortcutDialog"
   },
   {
     "key": "CreateShortcutDialog:c1253df1495f",
@@ -2061,7 +2061,7 @@
     "key": "CreateShortcutDialog:78e96613d910",
     "original": "%1 (in use)",
     "translation": "%1 (使用中)",
-    "context": "CreateShortcutDialog | [unfinished]"
+    "context": "CreateShortcutDialog"
   },
   {
     "key": "CreateShortcutDialog:1492114ea91d",
@@ -2133,43 +2133,43 @@
     "key": "CustomPage:d7decf1aa22b",
     "original": "Filter",
     "translation": "フィルター",
-    "context": "CustomPage | [unfinished]"
+    "context": "CustomPage"
   },
   {
     "key": "CustomPage:8fa41d59c259",
     "original": "Releases",
     "translation": "通常のリリース",
-    "context": "CustomPage | [unfinished]"
+    "context": "CustomPage"
   },
   {
     "key": "CustomPage:55420c59a1c2",
     "original": "Snapshots",
     "translation": "スナップショット",
-    "context": "CustomPage | [unfinished]"
+    "context": "CustomPage"
   },
   {
     "key": "CustomPage:b3f445893cac",
     "original": "Betas",
     "translation": "ベータ",
-    "context": "CustomPage | [unfinished]"
+    "context": "CustomPage"
   },
   {
     "key": "CustomPage:7368c73dda80",
     "original": "Alphas",
     "translation": "アルファ",
-    "context": "CustomPage | [unfinished]"
+    "context": "CustomPage"
   },
   {
     "key": "CustomPage:e8f296b5904f",
     "original": "Experiments",
     "translation": "実験的なバージョン",
-    "context": "CustomPage | [unfinished]"
+    "context": "CustomPage"
   },
   {
     "key": "CustomPage:56e3badc4e6c",
     "original": "Refresh",
     "translation": "リフレッシュ",
-    "context": "CustomPage | [unfinished]"
+    "context": "CustomPage"
   },
   {
     "key": "CustomPage:74944fbb9862",
@@ -2217,7 +2217,7 @@
     "key": "CustomPage:081ae3fdc403",
     "original": "Custom",
     "translation": "自定",
-    "context": "CustomPage | [unfinished]"
+    "context": "CustomPage"
   },
   {
     "key": "CustomPage:a113fd6d7093",
@@ -2235,7 +2235,7 @@
     "key": "CustomPage:46c15b2a8e17",
     "original": "No versions are currently available for Minecraft %1",
     "translation": "現在利用可能な Minecraft %1 の版次情報がありません",
-    "context": "CustomPage | [unfinished]"
+    "context": "CustomPage"
   },
   {
     "key": "DataMigrationTask:bf017b023177",
@@ -2265,7 +2265,7 @@
     "key": "DataPackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "名前",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:0092be542f99",
@@ -2301,7 +2301,7 @@
     "key": "DataPackFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "今すぐ更新する",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:b80566e89550",
@@ -2559,19 +2559,19 @@
     "key": "EnvironmentVariables:709a23220f2c",
     "original": "Name",
     "translation": "名前",
-    "context": "EnvironmentVariables | [unfinished]"
+    "context": "EnvironmentVariables"
   },
   {
     "key": "EnvironmentVariables:8dce170de238",
     "original": "Value",
     "translation": "値",
-    "context": "EnvironmentVariables | [unfinished]"
+    "context": "EnvironmentVariables"
   },
   {
     "key": "EnvironmentVariables:d3c88b119527",
     "original": "&Add",
     "translation": "追加",
-    "context": "EnvironmentVariables | [unfinished]"
+    "context": "EnvironmentVariables"
   },
   {
     "key": "EnvironmentVariables:05842917076f",
@@ -2583,7 +2583,7 @@
     "key": "EnvironmentVariables:763c2ebc2799",
     "original": "&Remove",
     "translation": "削除",
-    "context": "EnvironmentVariables | [unfinished]"
+    "context": "EnvironmentVariables"
   },
   {
     "key": "EnvironmentVariables:a2f5bd7a7693",
@@ -2607,7 +2607,7 @@
     "key": "ExportInstanceDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "検査終了",
-    "context": "ExportInstanceDialog | [unfinished]"
+    "context": "ExportInstanceDialog"
   },
   {
     "key": "ExportInstanceDialog:4dee4f40d63e",
@@ -2715,13 +2715,13 @@
     "key": "ExportPackDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "検査終了",
-    "context": "ExportPackDialog | [unfinished]"
+    "context": "ExportPackDialog"
   },
   {
     "key": "ExportPackDialog:4dee4f40d63e",
     "original": "Export %1",
     "translation": "%1 を導出する",
-    "context": "ExportPackDialog | [unfinished]"
+    "context": "ExportPackDialog"
   },
   {
     "key": "ExportPackDialog:421a3cbacf93",
@@ -2787,7 +2787,7 @@
     "key": "ExportToModListDialog:081ae3fdc403",
     "original": "Custom",
     "translation": "自定",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExportToModListDialog:3ec1ae061c27",
@@ -2853,7 +2853,7 @@
     "key": "ExportToModListDialog:af74f7c5362a",
     "original": "Copy",
     "translation": "複製",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExportToModListDialog:77dfd2135f4d",
@@ -2871,13 +2871,13 @@
     "key": "ExportToModListDialog:4dee4f40d63e",
     "original": "Export %1",
     "translation": "%1 を導出する",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExportToModListDialog:2c3cafa4db3f",
     "original": "File",
     "translation": "ファイル",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExternalResourcesPage:c3cd636a585b",
@@ -2889,19 +2889,19 @@
     "key": "ExternalResourcesPage:763c2ebc2799",
     "original": "&Remove",
     "translation": "削除",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:45cc38d09787",
     "original": "&Enable",
     "translation": "有効化",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:906035bd1cc0",
     "original": "&Disable",
     "translation": "無効化",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:a83bca33346e",
@@ -2913,7 +2913,7 @@
     "key": "ExternalResourcesPage:bce06414177f",
     "original": "Search",
     "translation": "検索",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:256b10b1d26d",
@@ -2943,19 +2943,19 @@
     "key": "ExternalResourcesPage:6d1295a3fff5",
     "original": "View &Configs",
     "translation": "Configを見る",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:b610e371c210",
     "original": "Open the 'config' folder in the system file manager.",
     "translation": "ファイルブラウザでconfigフォルダを開きます。",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:c96062f11344",
     "original": "View &Folder",
     "translation": "フォルダーを表示",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:3e3a3d8f99bc",
@@ -3069,7 +3069,7 @@
     "key": "ExternalResourcesPage:76cffee45024",
     "original": "Select %1",
     "translation": "%1 を選択",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:8ffcaf3cce87",
@@ -3135,7 +3135,7 @@
     "key": "ExternalToolsPage:2f3b5c55bc27",
     "original": "Browse",
     "translation": "参照",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:01c692d9a030",
@@ -3159,19 +3159,19 @@
     "key": "ExternalToolsPage:d3c88b119527",
     "original": "&Add",
     "translation": "追加",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:763c2ebc2799",
     "original": "&Remove",
     "translation": "削除",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:709a23220f2c",
     "original": "Name",
     "translation": "名前",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:8901895fb1b1",
@@ -3327,7 +3327,7 @@
     "key": "FTB::PackInstallTask:150d6ddfa9a9",
     "original": "Failed to find pack version %1",
     "translation": "パックのバージョン %1 が見つかりませんでした",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:93fc42ea75d6",
@@ -3555,19 +3555,19 @@
     "key": "FlameCreationTask:54a1e48a12f3",
     "original": "Failed to get local metadata index for %1",
     "translation": "これらの本機の上位数元の索引の取得に失敗しました: %1",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:9638c0cc0435",
     "original": "Failed to find version for %1 loader",
     "translation": "Mod 装載器 %1 の指定した版次が見つかりませんでした",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:394b0f2a985e",
     "original": "No loader version set for modpack!",
     "translation": "Mod 装載器の版次がまだ設定していません!",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:e75af2bdf614",
@@ -3579,25 +3579,25 @@
     "key": "FlameCreationTask:e206ab9751c4",
     "original": "Could not rename the overrides folder:\n",
     "translation": "上書き文件集の名前変更に失敗しました:",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:361e5a2ab174",
     "original": "The specified overrides folder (%1) is missing. Maybe the modpack was already used before?",
     "translation": "指定された上書き文件集 (%1) がありません。この Mod 整合包は以前から使われていたのでしょうか?",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:9c5200fa604d",
     "original": "Unknown mod loader in manifest: %1",
     "translation": "Mod 声明文件に不明な Mod 装載器があります: %1",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:4b6cde791e93",
     "original": "Mysterious trailing dots removed from Minecraft version while importing pack.",
     "translation": "包の導入中に，Minecraft 版次番号から謎の末尾付点を削除した。",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:3d7f960a1e9b",
@@ -3609,7 +3609,7 @@
     "key": "FlameCreationTask:f10f1d3c0be1",
     "original": "Unable to resolve mod IDs:\n",
     "translation": "Mod 識別子を解析不能:",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:327b7e57d4e1",
@@ -3759,43 +3759,43 @@
     "key": "FlamePage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "検索と濾過...",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:754e270ce9ad",
     "original": "Sort by Featured",
     "translation": "注目順で並べ替え",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:2ebd5dd0cbfe",
     "original": "Sort by Popularity",
     "translation": "人気順で並び替え",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:3546d8e58e95",
     "original": "Sort by Last Updated",
     "translation": "更新日順で並べ替え",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:5fa541307296",
     "original": "Sort by Name",
     "translation": "名前順で並べ替え",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:d1db3d422497",
     "original": "Sort by Author",
     "translation": "作成者順で並び替え",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:dbcc650e8de5",
     "original": "Sort by Total Downloads",
     "translation": "総受信数で並び替え",
-    "context": "FlamePage | [unfinished]"
+    "context": "FlamePage"
   },
   {
     "key": "FlamePage:08fcc87fd186",
@@ -3843,25 +3843,25 @@
     "key": "FoldersTask:d97d59a0869c",
     "original": "Failed to create folder for Minecraft binaries.",
     "translation": "Minecraft の二進文件の文件集の作成に失敗しました。",
-    "context": "FoldersTask | [unfinished]"
+    "context": "FoldersTask"
   },
   {
     "key": "Ftb::FilterModel:7950a17196df",
     "original": "Sort by Plays",
     "translation": "遊んだ回数で並べ替え",
-    "context": "Ftb::FilterModel | [unfinished]"
+    "context": "Ftb::FilterModel"
   },
   {
     "key": "Ftb::FilterModel:3d20233879cb",
     "original": "Sort by Installs",
     "translation": "装入数で並べ替え",
-    "context": "Ftb::FilterModel | [unfinished]"
+    "context": "Ftb::FilterModel"
   },
   {
     "key": "Ftb::FilterModel:5fa541307296",
     "original": "Sort by Name",
     "translation": "名前で並べ替え",
-    "context": "Ftb::FilterModel | [unfinished]"
+    "context": "Ftb::FilterModel"
   },
   {
     "key": "FtbPage:03fec0b5504e",
@@ -3873,7 +3873,7 @@
     "key": "FtbPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "検索と濾過...",
-    "context": "FtbPage | [unfinished]"
+    "context": "FtbPage"
   },
   {
     "key": "FtbPage:8bb246929d5d",
@@ -3987,7 +3987,7 @@
     "key": "IconPickerDialog:fb74bcaf7699",
     "original": "Legacy",
     "translation": "旧式",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:2a652ab1d9fa",
@@ -3999,7 +3999,7 @@
     "key": "IconPickerDialog:081ae3fdc403",
     "original": "Custom",
     "translation": "自定",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:a825bf9821f9",
@@ -4023,7 +4023,7 @@
     "key": "IconPickerDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "検査終了",
-    "context": "IconPickerDialog | [unfinished]"
+    "context": "IconPickerDialog"
   },
   {
     "key": "IconPickerDialog:027760ffe7da",
@@ -4125,7 +4125,7 @@
     "key": "ImportPage:d6fbc9d2bdd5",
     "original": "Import",
     "translation": "Zip 圧縮文件から導入",
-    "context": "ImportPage | [unfinished]"
+    "context": "ImportPage"
   },
   {
     "key": "ImportResourceDialog:69838205b65c",
@@ -4161,7 +4161,7 @@
     "key": "ImportResourceDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "検査終了",
-    "context": "ImportResourceDialog | [unfinished]"
+    "context": "ImportResourceDialog"
   },
   {
     "key": "InfoFrame:f806c6f1da3f",
@@ -4203,7 +4203,7 @@
     "key": "InstallLoaderDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "検査終了",
-    "context": "InstallLoaderDialog | [unfinished]"
+    "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:77dfd2135f4d",
@@ -4281,7 +4281,7 @@
     "key": "InstallLoaderPage:46c15b2a8e17",
     "original": "No versions are currently available for Minecraft %1",
     "translation": "現在利用可能な Minecraft %1 の版次情報がありません",
-    "context": "InstallLoaderPage | [unfinished]"
+    "context": "InstallLoaderPage"
   },
   {
     "key": "InstallWorldTask:2c5d1322a3c8",
@@ -4365,7 +4365,7 @@
     "key": "InstancePageProvider:2025e506c1db",
     "original": "Other Logs",
     "translation": "その他のログ",
-    "context": "InstancePageProvider | [unfinished]"
+    "context": "InstancePageProvider"
   },
   {
     "key": "InstancePageProvider:5d7bded4cc13",
@@ -4395,7 +4395,7 @@
     "key": "InstanceTask:3da474537ac3",
     "original": "Skip",
     "translation": "スキップ",
-    "context": "InstanceTask | [unfinished]"
+    "context": "InstanceTask"
   },
   {
     "key": "InstanceTask:7f2f6a15cf8d",
@@ -4671,13 +4671,13 @@
     "key": "JavaPage:e963907dac5c",
     "original": "Remove",
     "translation": "削除",
-    "context": "JavaPage | [unfinished]"
+    "context": "JavaPage"
   },
   {
     "key": "JavaPage:56e3badc4e6c",
     "original": "Refresh",
     "translation": "リフレッシュ",
-    "context": "JavaPage | [unfinished]"
+    "context": "JavaPage"
   },
   {
     "key": "JavaPage:b4dae444a41b",
@@ -4839,7 +4839,7 @@
     "key": "JavaSettingsWidget:7069c551dad0",
     "original": "Memor&y",
     "translation": "実行域の量を個別指定 (&Y)",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:7122bd25df03",
@@ -4935,7 +4935,7 @@
     "key": "JavaSettingsWidget:e088eab74d48",
     "original": "Select a Java version",
     "translation": "Java の版次を選択してください",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:2ded65911985",
@@ -5037,7 +5037,7 @@
     "key": "JavaWizardWidget:5dc9c1298895",
     "original": "No Java version selected",
     "translation": "Javaの版次が未選択",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:52f8da4ff531",
@@ -5049,7 +5049,7 @@
     "key": "JavaWizardWidget:720891fd2e15",
     "original": "Find Java executable",
     "translation": "Java の実行可能文件を探す",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:89c8a2851d17",
@@ -5061,13 +5061,13 @@
     "key": "JavaWizardWidget:a948355e4e3c",
     "original": "The maximum amount of memory Minecraft is allowed to use.",
     "translation": "Minecraft が使用できる最大実行域量です。",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:8538a075e966",
     "original": "Minimum memory allocation:",
     "translation": "最小実行域割り当て:",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:a4aec57dd6f3",
@@ -5079,19 +5079,19 @@
     "key": "JavaWizardWidget:dd79f7640608",
     "original": "The amount of memory Minecraft is started with.",
     "translation": "Minecraft 起動時に割り当てた実行域量です。",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:44a58b758316",
     "original": "The amount of memory available to store loaded Java classes.",
     "translation": "読み込めた Java 類の格納用に割り当てた実行域量です。",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:2f3b5c55bc27",
     "original": "Browse",
     "translation": "参照",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:93afc3efadc5",
@@ -5499,7 +5499,7 @@
     "key": "LauncherPage:69de3ccf58d0",
     "original": "Check for updates automatically",
     "translation": "PolyMC の起動時に更新を確認します?",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:19adc47be34b",
@@ -5541,7 +5541,7 @@
     "key": "LauncherPage:007e80f1953c",
     "original": "&By last launched",
     "translation": "最後に起動した順 (&L)",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:676456616943",
@@ -5559,7 +5559,7 @@
     "key": "LauncherPage:2f3b5c55bc27",
     "original": "Browse",
     "translation": "参照",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:19347a71a725",
@@ -5655,7 +5655,7 @@
     "key": "LauncherPage:e963907dac5c",
     "original": "Remove",
     "translation": "削除",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:9b824218dd00",
@@ -5877,7 +5877,7 @@
     "key": "LauncherPage:113541a8a2ca",
     "original": "&Stop logging when log overflows",
     "translation": "履録が制限超えたときに記録停止",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:d2fb68d5e4de",
@@ -6009,49 +6009,49 @@
     "key": "LegacyFMLLibrariesTask:914b462ecb84",
     "original": "Checking for FML libraries...",
     "translation": "FML 庫を検査中...",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:1906289a3356",
     "original": "Downloading FML libraries...",
     "translation": "FML 庫を受信中...",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:4a36e8560168",
     "original": "Copying FML libraries into the instance...",
     "translation": "FML 庫を構成実例に複製中...",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:cd9d55688469",
     "original": "Failed creating FML library folder inside the instance.",
     "translation": "構成実例の文件集に庫文件集の作成に失敗しました。",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:12c0e533752f",
     "original": "Failed copying Forge/FML library: %1.",
     "translation": "Forge/FML 庫の複製に失敗しました: %1。",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFMLLibrariesTask:aa54605f20ac",
     "original": "Failed to download the following files:\n%1\n\nReason:%2\nPlease try again.",
     "translation": "以下の文件の受信に失敗しました:\n%1\n\n理由: %2\nもう一度やり直してください。",
-    "context": "LegacyFMLLibrariesTask | [unfinished]"
+    "context": "LegacyFMLLibrariesTask"
   },
   {
     "key": "LegacyFTB::FilterModel:5fa541307296",
     "original": "Sort by Name",
     "translation": "名前で並べ替え",
-    "context": "LegacyFTB::FilterModel | [unfinished]"
+    "context": "LegacyFTB::FilterModel"
   },
   {
     "key": "LegacyFTB::FilterModel:21eea1c9bdf3",
     "original": "Sort by Game Version",
     "translation": "版次順で並べ替え",
-    "context": "LegacyFTB::FilterModel | [unfinished]"
+    "context": "LegacyFTB::FilterModel"
   },
   {
     "key": "LegacyFTB::ListModel:d3b215ad8872",
@@ -6111,7 +6111,7 @@
     "key": "LegacyFTB::PackInstallTask:44d2b46ad2a3",
     "original": "Failed to move unpacked Minecraft!",
     "translation": "解凍した Minecraft の文件の移動に失敗しました!",
-    "context": "LegacyFTB::PackInstallTask | [unfinished]"
+    "context": "LegacyFTB::PackInstallTask"
   },
   {
     "key": "LegacyFTB::PackInstallTask:8fbd03d30f77",
@@ -6207,7 +6207,7 @@
     "key": "LibrariesTask:657c0a335b23",
     "original": "Downloading required library files...",
     "translation": "Mojang から依存庫 (library) を取得しています...",
-    "context": "LibrariesTask | [unfinished]"
+    "context": "LibrariesTask"
   },
   {
     "key": "LibrariesTask:ab1441aae808",
@@ -6285,7 +6285,7 @@
     "key": "LogPage:5ece98753399",
     "original": "Upload the log to the paste service configured in preferences",
     "translation": "履録を paste.ee (線上にある貼付板) に複製する - 1か月間の保存期限があります",
-    "context": "LogPage | [unfinished]"
+    "context": "LogPage"
   },
   {
     "key": "LogPage:8bdf057f91e7",
@@ -6309,7 +6309,7 @@
     "key": "LogPage:bce06414177f",
     "original": "Search",
     "translation": "検索",
-    "context": "LogPage | [unfinished]"
+    "context": "LogPage"
   },
   {
     "key": "LogPage:df251b06eefd",
@@ -6483,13 +6483,13 @@
     "key": "MSALoginDialog:89e944f8eb37",
     "original": "Please wait...",
     "translation": "お待ちください...",
-    "context": "MSALoginDialog | [unfinished]"
+    "context": "MSALoginDialog"
   },
   {
     "key": "MSALoginDialog:bae7d5be7082",
     "original": "Status",
     "translation": "状態",
-    "context": "MSALoginDialog | [unfinished]"
+    "context": "MSALoginDialog"
   },
   {
     "key": "MSALoginDialog:fd62c61f849b",
@@ -7101,7 +7101,7 @@
     "key": "MainWindow:36bae31694f8",
     "original": "Accounts",
     "translation": "帳戸管理",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:416c5c33e6d2",
@@ -7125,7 +7125,7 @@
     "key": "MainWindow:07f5d9e348c4",
     "original": "Delete the selected instance.",
     "translation": "選択したインスタンスのワールドを表示します。",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:d1854817a293",
@@ -7191,13 +7191,13 @@
     "key": "MainWindow:0b71510c3cd6",
     "original": "&Create instance",
     "translation": "構成実例の作成",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:8cf964d759e7",
     "original": "&Delete group",
     "translation": "グループ '%1' を削除",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:638fbc0d2c2f",
@@ -7629,7 +7629,7 @@
     "key": "ManagedPackPage:9d4741838842",
     "original": "Update Failed",
     "translation": "更新失敗",
-    "context": "ManagedPackPage | [unfinished]"
+    "context": "ManagedPackPage"
   },
   {
     "key": "ManagedPackPage:cd2dbd6fb8fc",
@@ -7665,7 +7665,7 @@
     "key": "Meta::Index:709a23220f2c",
     "original": "Name",
     "translation": "名前",
-    "context": "Meta::Index | [unfinished]"
+    "context": "Meta::Index"
   },
   {
     "key": "Meta::Index:04099ec66644",
@@ -7725,7 +7725,7 @@
     "key": "MinecraftInstance:c5cc610a677f",
     "original": "Profilers",
     "translation": "プロファイラ",
-    "context": "MinecraftInstance | [unfinished]"
+    "context": "MinecraftInstance"
   },
   {
     "key": "MinecraftInstance:f5622bc0a31c",
@@ -7845,7 +7845,7 @@
     "key": "MinecraftSettingsWidget:a5f3a11b1ca0",
     "original": "The settings here are overrides for global settings.",
     "translation": "ここの設定は全般設定を上書きます。",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:9239ee2cda84",
@@ -7869,7 +7869,7 @@
     "key": "MinecraftSettingsWidget:e8d1532c24bb",
     "original": "Start Minecraft maximized",
     "translation": "Minecraft 起動時に最大化?",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:477d0b075c21",
@@ -7887,13 +7887,13 @@
     "key": "MinecraftSettingsWidget:d666ae55e54e",
     "original": "Show time spent &playing instances",
     "translation": "インスタンスのプレイ時間を表示する",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:202fce3b15a2",
     "original": "&Record time spent playing instances",
     "translation": "インスタンスのプレイ時間を記録する",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:e07347bfd77c",
@@ -7947,13 +7947,13 @@
     "key": "MinecraftSettingsWidget:9b6112ea8b38",
     "original": "Use system installation of OpenAL",
     "translation": "系統にある OpenAL を使う",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:42c2dcde03db",
     "original": "Use system installation of GLFW",
     "translation": "系統にある GLFW を使う",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:a1f325f703fa",
@@ -8037,7 +8037,7 @@
     "key": "MinecraftSettingsWidget:2f3b5c55bc27",
     "original": "Browse",
     "translation": "参照",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:dd2ae46a1914",
@@ -8235,13 +8235,13 @@
     "key": "MinecraftSettingsWidget:47eeadcdfb06",
     "original": "Server address:",
     "translation": "伺伝の番址:",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:c48e024e0cec",
     "original": "Custom Commands",
     "translation": "自定指令管理",
-    "context": "MinecraftSettingsWidget | [unfinished]"
+    "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:ec072bba7bef",
@@ -8307,7 +8307,7 @@
     "key": "MirrorListEditor:e963907dac5c",
     "original": "Remove",
     "translation": "削除",
-    "context": "MirrorListEditor | [unfinished]"
+    "context": "MirrorListEditor"
   },
   {
     "key": "MirrorListEditor:cb0ad25e7101",
@@ -8583,7 +8583,7 @@
     "key": "ModFilterWidget:40ab4c0ce406",
     "original": "All Versions",
     "translation": "全改作",
-    "context": "ModFilterWidget | [unfinished]"
+    "context": "ModFilterWidget"
   },
   {
     "key": "ModFolderModel:2c3cafa4db3f",
@@ -8667,7 +8667,7 @@
     "key": "ModFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "今すぐ更新する",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:9f8105907b13",
@@ -9099,7 +9099,7 @@
     "key": "ModrinthCreationTask:e206ab9751c4",
     "original": "Could not rename the overrides folder:\n",
     "translation": "上書き文件集の名前変更に失敗しました:",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:8e684cf213b5",
@@ -9231,7 +9231,7 @@
     "key": "ModrinthPage:dbcc650e8de5",
     "original": "Sort by Total Downloads",
     "translation": "総受信数で並び替え",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:4fe2ac4e9fcd",
@@ -9243,7 +9243,7 @@
     "key": "ModrinthPage:3546d8e58e95",
     "original": "Sort by Last Updated",
     "translation": "更新日順で並べ替え",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:7f2f6a15cf8d",
@@ -9255,7 +9255,7 @@
     "key": "ModrinthPage:876074b47592",
     "original": " by ",
     "translation": "作成者:",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:f8f69574105d",
@@ -9321,7 +9321,7 @@
     "key": "ModrinthPage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "選択された版次:",
-    "context": "ModrinthPage | [unfinished]"
+    "context": "ModrinthPage"
   },
   {
     "key": "ModrinthPage:edcad43541b4",
@@ -9489,7 +9489,7 @@
     "key": "NewComponentDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "検査終了",
-    "context": "NewComponentDialog | [unfinished]"
+    "context": "NewComponentDialog"
   },
   {
     "key": "NewInstanceDialog:a8296e726af3",
@@ -9525,7 +9525,7 @@
     "key": "NewInstanceDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "検査終了",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:77dfd2135f4d",
@@ -9573,7 +9573,7 @@
     "key": "NewsDialog:bbfa773e5a63",
     "original": "Close",
     "translation": "閉じる",
-    "context": "NewsDialog | [unfinished]"
+    "context": "NewsDialog"
   },
   {
     "key": "NewsDialog:a5601a63d0ae",
@@ -9855,7 +9855,7 @@
     "key": "OptiFineInstallDialog:fd6c3ebf7bef",
     "original": "Install",
     "translation": "装入する",
-    "context": "OptiFineInstallDialog | [unfinished]"
+    "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptiFineInstallDialog:77dfd2135f4d",
@@ -9897,7 +9897,7 @@
     "key": "OptionalModDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "検査終了",
-    "context": "OptionalModDialog | [unfinished]"
+    "context": "OptionalModDialog"
   },
   {
     "key": "OtherLogsPage:d4188c14e699",
@@ -9909,7 +9909,7 @@
     "key": "OtherLogsPage:f54f6c4c05d2",
     "original": "Scroll all the way to bottom",
     "translation": "一番下まで頁巻く",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:51ac18f44780",
@@ -9945,13 +9945,13 @@
     "key": "OtherLogsPage:0767c44f5140",
     "original": "Keep updating",
     "translation": "更新し続ける",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:a7392043b11d",
     "original": "Wrap lines",
     "translation": "行を折り返す",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:1d10153b525b",
@@ -9975,7 +9975,7 @@
     "key": "OtherLogsPage:5ece98753399",
     "original": "Upload the log to the paste service configured in preferences",
     "translation": "履録を paste.ee (線上にある貼付板) に複製する - 1か月間の保存期限があります",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:e53bc5b54900",
@@ -9999,7 +9999,7 @@
     "key": "OtherLogsPage:bce06414177f",
     "original": "Search",
     "translation": "検索",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:7f2f6a15cf8d",
@@ -10053,7 +10053,7 @@
     "key": "OtherLogsPage:719ea396ad92",
     "original": "Clear",
     "translation": "消去",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:096311b5638e",
@@ -10071,7 +10071,7 @@
     "key": "OtherLogsPage:1919fdb56138",
     "original": "Cannot display this log since the log length surpassed %1 lines.",
     "translation": "此乃記録超過 %1 行故、不可表示此乃記録。",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:12fc009a1488",
@@ -10113,7 +10113,7 @@
     "key": "PackInstallTask:608a6e16a154",
     "original": "Failed to get local metadata index for '%1' v%2",
     "translation": "これらの本機の上位数元の索引の取得に失敗しました: '%1' v%2",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:a61c5171cb28",
@@ -10125,55 +10125,55 @@
     "key": "PackInstallTask:639e6287333c",
     "original": "Unknown mod type: %1",
     "translation": "不明なmodの種類: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:54a1e48a12f3",
     "original": "Failed to get local metadata index for %1",
     "translation": "これらの本機の上位数元の索引の取得に失敗しました: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:9638c0cc0435",
     "original": "Failed to find version for %1 loader",
     "translation": "Mod 装載器 %1 の指定した版次が見つかりませんでした",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:394b0f2a985e",
     "original": "No loader version set for modpack!",
     "translation": "Mod 装載器の版次がまだ設定していません!",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:8ea0186a5329",
     "original": "Unknown or unsupported download type: %1",
     "translation": "不明または非対応な受信形式です: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:db82f5ce4d92",
     "original": "Downloading configs...",
     "translation": "配置情報を受信しています…",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:296053b61434",
     "original": "Config download",
     "translation": "配置情報の受信",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:88e116160aff",
     "original": "Extracting configs...",
     "translation": "配置情報を展開しています…",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:6e97ce93553c",
     "original": "Selecting optional mods...",
     "translation": "追加の Mod を選択してください…",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:df237503973c",
@@ -10191,7 +10191,7 @@
     "key": "PackInstallTask:e91e47f5379a",
     "original": "Unknown download type: %1",
     "translation": "不明な受信形式です: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:d4e059888d25",
@@ -10221,13 +10221,13 @@
     "key": "PackInstallTask:3138740f4b31",
     "original": "Failed to extract mods...",
     "translation": "Mod の展開に失敗しました…",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:e87c1bb107c0",
     "original": "Extracting mods...",
     "translation": "Mod を展開しています…",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:7d3e34e21534",
@@ -10239,19 +10239,19 @@
     "key": "PackInstallTask:a568ebaf6ef5",
     "original": "Failed to create libraries component",
     "translation": "庫部品の作成に失敗しました",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:c9c9e81a13ed",
     "original": "Unknown loader type: ",
     "translation": "不明な Mod 装載器種類です:",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:76fefafc38cf",
     "original": "Failed to create pack component",
     "translation": "整合包部品の作成に失敗しました",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackProfile:b1590d210090",
@@ -10803,7 +10803,7 @@
     "key": "ProfileSelectDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "検査終了",
-    "context": "ProfileSelectDialog | [unfinished]"
+    "context": "ProfileSelectDialog"
   },
   {
     "key": "ProfileSetupDialog:ad6e16b3c052",
@@ -10827,7 +10827,7 @@
     "key": "ProfileSetupDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "検査終了",
-    "context": "ProfileSetupDialog | [unfinished]"
+    "context": "ProfileSetupDialog"
   },
   {
     "key": "ProfileSetupDialog:8b0fde7324a8",
@@ -10941,19 +10941,19 @@
     "key": "ProxyPage:303db0e2bda8",
     "original": "&SOCKS5",
     "translation": "SOC&KS5",
-    "context": "ProxyPage | [unfinished]"
+    "context": "ProxyPage"
   },
   {
     "key": "ProxyPage:11d65fb253a7",
     "original": "&HTTP",
     "translation": "H&TTP",
-    "context": "ProxyPage | [unfinished]"
+    "context": "ProxyPage"
   },
   {
     "key": "ProxyPage:e12c0edf9ec0",
     "original": "&Address and Port",
     "translation": "アドレスとポート",
-    "context": "ProxyPage | [unfinished]"
+    "context": "ProxyPage"
   },
   {
     "key": "ProxyPage:ee1acfa55eb1",
@@ -10965,13 +10965,13 @@
     "key": "ProxyPage:78ec4c601a41",
     "original": "&Username:",
     "translation": "ユーザー名:",
-    "context": "ProxyPage | [unfinished]"
+    "context": "ProxyPage"
   },
   {
     "key": "ProxyPage:c0d007dcaadb",
     "original": "&Password:",
     "translation": "暗証文:",
-    "context": "ProxyPage | [unfinished]"
+    "context": "ProxyPage"
   },
   {
     "key": "ProxyPage:d45c02f81ade",
@@ -11127,13 +11127,13 @@
     "key": "QObject:1d07e789d749",
     "original": "The specified Java binary didn't start properly.<br />",
     "translation": "指定されたJavaバイナリが正しく起動しませんでした。<br />",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:49594163d7b0",
     "original": "The specified Java binary returned unexpected results:<br />",
     "translation": "指定されたJavaバイナリは予期しない結果を返しました:<br />",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:459dea5cde73",
@@ -11331,7 +11331,7 @@
     "key": "QObject:cdbecda4d5d4",
     "original": "You tried to manually set a JVM memory option (using \"-XX:PermSize\", \"-XX-MaxHeapSize\", \"-XX:InitialHeapSize\", \"-Xmx\" or \"-Xms\").\nThere are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).\nThis message will be displayed until you remove them from the JVM arguments.",
     "translation": "JVMメモリオプションを(\"-XX:PermSize\",\"-XX-MaxHeapSize\",\"-XX:InitialHeapSize\",\"-Xmx\"または\"-Xms\"\nを使用して)手動で設定しようとしました。設定にはこれらのための専用のボックスがあります(上部のJavaタブのMemoryグループ)。\nこのメッセージは、JVM引数から削除するまで表示されます。",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:a05c65d53ea4",
@@ -11355,13 +11355,13 @@
     "key": "QObject:eeef86f37826",
     "original": "<br />Warnings:<br /><font color=\"orange\">%1</font>",
     "translation": "<br />修正に失敗しました:警告: <br /><font color=\"orange\">%1</font>",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:22ab8bd0c5ca",
     "original": "The specified Java binary didn't work with the arguments you provided:<br />",
     "translation": "指定されたJavaバイナリは、指定された引数では動作しませんでした:<br />",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:508853b3a1f7",
@@ -11493,19 +11493,19 @@
     "key": "QObject:754e270ce9ad",
     "original": "Sort by Featured",
     "translation": "注目順で並べ替え",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:2ebd5dd0cbfe",
     "original": "Sort by Popularity",
     "translation": "人気順で並び替え",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3546d8e58e95",
     "original": "Sort by Last Updated",
     "translation": "更新日順で並べ替え",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:5fa541307296",
@@ -11517,7 +11517,7 @@
     "key": "QObject:d1db3d422497",
     "original": "Sort by Author",
     "translation": "作成者順で並び替え",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:c462f1bd6be2",
@@ -11631,13 +11631,13 @@
     "key": "QObject:1b927decdbb0",
     "original": "Unchecked",
     "translation": "未確認",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:e01fa717bacc",
     "original": "Offline",
     "translation": "脱機",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:20c7c5522fc2",
@@ -11649,19 +11649,19 @@
     "key": "QObject:3b4dfc971393",
     "original": "Working",
     "translation": "処理中",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:2d4784200261",
     "original": "Errored",
     "translation": "異常",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:a689a999a5e6",
     "original": "Expired",
     "translation": "期限切れ",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:f4f4473df8cb",
@@ -11673,7 +11673,7 @@
     "key": "QObject:149ecfc76f45",
     "original": "Gone",
     "translation": "無くなった",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3b81c344597f",
@@ -12087,7 +12087,7 @@
     "key": "ResourceDownload::ResourceDownloadDialog:bba785be0ff7",
     "original": "Change %1 version",
     "translation": "%1のバージョンを変更",
-    "context": "ResourceDownload::ResourceDownloadDialog | [unfinished]"
+    "context": "ResourceDownload::ResourceDownloadDialog"
   },
   {
     "key": "ResourceDownload::ResourceDownloadDialog:3fc66ee35714",
@@ -12183,7 +12183,7 @@
     "key": "ResourceDownload::ResourcePage:876074b47592",
     "original": " by ",
     "translation": "作成者:",
-    "context": "ResourceDownload::ResourcePage | [unfinished]"
+    "context": "ResourceDownload::ResourcePage"
   },
   {
     "key": "ResourceDownload::ResourcePage:f8f69574105d",
@@ -12339,7 +12339,7 @@
     "key": "ResourceFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "名前",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:4c24525b0aa0",
@@ -12375,7 +12375,7 @@
     "key": "ResourceFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "今すぐ更新する",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:bfd722aee774",
@@ -12489,7 +12489,7 @@
     "key": "ResourcePackFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "今すぐ更新する",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:35a599c5f88a",
@@ -12537,7 +12537,7 @@
     "key": "ResourcePackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "名前",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:0092be542f99",
@@ -12657,7 +12657,7 @@
     "key": "ResourcePage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "選択された版次:",
-    "context": "ResourcePage | [unfinished]"
+    "context": "ResourcePage"
   },
   {
     "key": "ResourcePage:c3c949f932a9",
@@ -12861,7 +12861,7 @@
     "key": "ReviewMessageBox:9ce3bd4224c8",
     "original": "OK",
     "translation": "検査終了",
-    "context": "ReviewMessageBox | [unfinished]"
+    "context": "ReviewMessageBox"
   },
   {
     "key": "ReviewMessageBox:e618688160db",
@@ -13053,7 +13053,7 @@
     "key": "ScrollMessageBox:9ce3bd4224c8",
     "original": "OK",
     "translation": "検査終了",
-    "context": "ScrollMessageBox | [unfinished]"
+    "context": "ScrollMessageBox"
   },
   {
     "key": "SelectReleaseAssetDialog:2da600bf9404",
@@ -13113,7 +13113,7 @@
     "key": "SelectReleaseDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "検査終了",
-    "context": "SelectReleaseDialog | [unfinished]"
+    "context": "SelectReleaseDialog"
   },
   {
     "key": "SequentialTask:829c6e1cd1e8",
@@ -13161,7 +13161,7 @@
     "key": "ServersModel:e01fa717bacc",
     "original": "Offline",
     "translation": "脱機",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersPage:49b93f720a4a",
@@ -13239,7 +13239,7 @@
     "key": "ServersPage:56e3badc4e6c",
     "original": "Refresh",
     "translation": "リフレッシュ",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:acca64b83535",
@@ -13449,7 +13449,7 @@
     "key": "SkinManageDialog:ca5403ec7806",
     "original": "Skin Upload",
     "translation": "スキンのアップロード",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:68c2cc7f0cea",
@@ -13473,7 +13473,7 @@
     "key": "SkinManageDialog:d5ffb218bcae",
     "original": "Cape",
     "translation": "マント",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:f3410407219b",
@@ -13485,7 +13485,7 @@
     "key": "SkinManageDialog:027760ffe7da",
     "original": "Open Folder",
     "translation": "文件集を開く",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:cf4da3174d7d",
@@ -13515,7 +13515,7 @@
     "key": "SkinManageDialog:a4540c6e2afe",
     "original": "&Delete Skin",
     "translation": "外見相の設定解除",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:a56fb8960c8b",
@@ -13557,13 +13557,13 @@
     "key": "SkinManageDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "検査終了",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:126f0e0caf65",
     "original": "Select Skin Texture",
     "translation": "スキンを選択",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:6c298737dfdf",
@@ -13575,7 +13575,7 @@
     "key": "SkinManageDialog:4f56a87f3cb9",
     "original": "No Cape",
     "translation": "マントなし",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:6fc8da40173d",
@@ -13593,13 +13593,13 @@
     "key": "SkinManageDialog:2c8635e6f52b",
     "original": "Skin file does not exist!",
     "translation": "スキンファイルが存在しません!",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:6364698d704d",
     "original": "Failed to upload skin!",
     "translation": "スキンをアップロードできませんでした!",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:a0781bc8f283",
@@ -13611,13 +13611,13 @@
     "key": "SkinManageDialog:67625d998cfa",
     "original": "Skin Delete",
     "translation": "外見相の削除",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:e002853d1d71",
     "original": "Failed to delete current skin!",
     "translation": "現在の外見相を削除できませんでした!",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:4d0cd32e3025",
@@ -13755,13 +13755,13 @@
     "key": "TaskStepWrapper:7385614b3500",
     "original": "Task aborted.",
     "translation": "タスクは中断されました。",
-    "context": "TaskStepWrapper | [unfinished]"
+    "context": "TaskStepWrapper"
   },
   {
     "key": "TaskStepWrapper:56406b3ccd77",
     "original": "Instance update failed because: %1\n\n",
     "translation": "インスタンスのアップデートは失敗しました: %1",
-    "context": "TaskStepWrapper | [unfinished]"
+    "context": "TaskStepWrapper"
   },
   {
     "key": "Technic::SingleZipPackInstallTask:d90009c115ee",
@@ -13845,7 +13845,7 @@
     "key": "Technic::TechnicPackProcessor:c960a8884961",
     "original": "Could not find \"version.json\" inside \"bin/modpack.jar\", but Minecraft version is unknown",
     "translation": "\"bin/modpack.jar\" 内に \"version.json\" が見つからず、Minecraft のバージョンが不明です",
-    "context": "Technic::TechnicPackProcessor | [unfinished]"
+    "context": "Technic::TechnicPackProcessor"
   },
   {
     "key": "Technic::TechnicPackProcessor:c01d3ec6d41c",
@@ -13893,13 +13893,13 @@
     "key": "TechnicPage:03fec0b5504e",
     "original": "Version selected:",
     "translation": "選択された版次:",
-    "context": "TechnicPage | [unfinished]"
+    "context": "TechnicPage"
   },
   {
     "key": "TechnicPage:0b01b2fd319f",
     "original": "Search and filter...",
     "translation": "検索＆フィルタ…",
-    "context": "TechnicPage | [unfinished]"
+    "context": "TechnicPage"
   },
   {
     "key": "TechnicPage:7f2f6a15cf8d",
@@ -13917,7 +13917,7 @@
     "key": "TexturePackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "名前",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:4c24525b0aa0",
@@ -13947,7 +13947,7 @@
     "key": "TexturePackFolderModel:fb91e24fa52d",
     "original": "Update",
     "translation": "今すぐ更新する",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:b922df5f2870",
@@ -14097,7 +14097,7 @@
     "key": "ThemeWizardPage:41def7a0febe",
     "original": "Appearance",
     "translation": "外観",
-    "context": "ThemeWizardPage | [unfinished]"
+    "context": "ThemeWizardPage"
   },
   {
     "key": "ThemeWizardPage:8ba2ac6395c2",
@@ -14205,7 +14205,7 @@
     "key": "VanillaCreationTask:1ea5bfc9e90e",
     "original": "Creating instance from version %1",
     "translation": "版次 %1 から構成実例を作成中",
-    "context": "VanillaCreationTask | [unfinished]"
+    "context": "VanillaCreationTask"
   },
   {
     "key": "VerifyJavaInstall:c15b0eb5b48e",
@@ -14325,7 +14325,7 @@
     "key": "VersionPage:bce06414177f",
     "original": "Search",
     "translation": "検索",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:fdffaea4e563",
@@ -14337,7 +14337,7 @@
     "key": "VersionPage:c6370aded903",
     "original": "Move Up",
     "translation": "上へ移動",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:9e168a310eed",
@@ -14349,7 +14349,7 @@
     "key": "VersionPage:4158bedc2fcd",
     "original": "Move Down",
     "translation": "下へ移動",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:e369475f4b94",
@@ -14625,7 +14625,7 @@
     "key": "VersionPage:fd6c3ebf7bef",
     "original": "Install",
     "translation": "装入する",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:cae9674c84d8",
@@ -14781,7 +14781,7 @@
     "key": "VersionSelectDialog:9ce3bd4224c8",
     "original": "OK",
     "translation": "検査終了",
-    "context": "VersionSelectDialog | [unfinished]"
+    "context": "VersionSelectDialog"
   },
   {
     "key": "VersionSelectDialog:77dfd2135f4d",
@@ -14811,7 +14811,7 @@
     "key": "VersionSelectWidget:bce06414177f",
     "original": "Search",
     "translation": "検索",
-    "context": "VersionSelectWidget | [unfinished]"
+    "context": "VersionSelectWidget"
   },
   {
     "key": "VersionSelectWidget:7f2f6a15cf8d",
@@ -14937,7 +14937,7 @@
     "key": "WorldListPage:e0d73143de80",
     "original": "Join",
     "translation": "参加する",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:d3f4cb898fbe",
@@ -14955,7 +14955,7 @@
     "key": "WorldListPage:f6fdbe48dc54",
     "original": "Delete",
     "translation": "削除",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:16397ae2608e",
@@ -15297,7 +15297,7 @@
     "key": "YggdrasilLoginDialog:8be3c943b160",
     "original": "Password",
     "translation": "暗証文",
-    "context": "YggdrasilLoginDialog | [unfinished]"
+    "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:ada2e9e96fa9",

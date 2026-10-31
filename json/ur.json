@@ -27,7 +27,7 @@
     "key": "APIPage:27f158fa18fd",
     "original": "Note: you probably want to change or clear the Base URL after changing the paste service type.",
     "translation": "نوٹ: آپ کو یقیناً پیسٹ ٹائپ سروس کو تبدیل کرنے کے بعد بیس یو آر ایل کو تبدیل یا صاف کرنا ہوگا-",
-    "context": "APIPage | [unfinished]"
+    "context": "APIPage"
   },
   {
     "key": "APIPage:449c720b3cd9",
@@ -45,7 +45,7 @@
     "key": "APIPage:35dc0fcfa043",
     "original": "You can set this to another server if you have problems with downloading assets.",
     "translation": "آپ اس کو دوسرے سرور پر لگا سکتے ہیں اگر آپ کو ڈاؤنلوڈانگ اسیٹس (assets) سے مسئلہ ہو-",
-    "context": "APIPage | [unfinished]"
+    "context": "APIPage"
   },
   {
     "key": "APIPage:fd566f8049ab",
@@ -141,7 +141,7 @@
     "key": "APIPage:80e98dac7423",
     "original": "Use None",
     "translation": "کوئی بھی استعمال نہ کریں",
-    "context": "APIPage | [unfinished]"
+    "context": "APIPage"
   },
   {
     "key": "APIPage:9967c117bdbc",
@@ -159,7 +159,7 @@
     "key": "APIPage:92ab1379b044",
     "original": "Note: you probably don't need to set this if logging in via Microsoft Authentication already works.",
     "translation": "نوٹ: آپ کو یقینا اس کو لگانے کی ضرورت نہیں اگر مائکروسوفٹ کے ذریعے لاگ ان کام کر رہا ہے-",
-    "context": "APIPage | [unfinished]"
+    "context": "APIPage"
   },
   {
     "key": "APIPage:b13d61c0e2f1",

@@ -183,7 +183,7 @@
     "key": "APIPage:8f9f2317df27",
     "original": "User Agent",
     "translation": "L-Aġent tal-User",
-    "context": "APIPage | [unfinished]"
+    "context": "APIPage"
   },
   {
     "key": "APIPage:1ed244b40e11",
@@ -375,7 +375,7 @@
     "key": "AccountList:3deb74565196",
     "original": "Type",
     "translation": "Tip",
-    "context": "AccountList | [unfinished]"
+    "context": "AccountList"
   },
   {
     "key": "AccountList:bae7d5be7082",
@@ -471,7 +471,7 @@
     "key": "AccountListPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Menù tal-kuntest",
-    "context": "AccountListPage | [unfinished]"
+    "context": "AccountListPage"
   },
   {
     "key": "AccountListPage:25dbf4640310",
@@ -687,7 +687,7 @@
     "key": "Application:c7f73bb54d92",
     "original": "Settings",
     "translation": "Issettjar",
-    "context": "Application | [unfinished]"
+    "context": "Application"
   },
   {
     "key": "Application:e8ff2cb9fbea",
@@ -783,7 +783,7 @@
     "key": "AssetUpdateTask:723ba985328e",
     "original": "Mojang",
     "translation": "Mojang",
-    "context": "AssetUpdateTask | [unfinished]"
+    "context": "AssetUpdateTask"
   },
   {
     "key": "AssetUpdateTask:e456351b7f41",
@@ -1173,7 +1173,7 @@
     "key": "AutoInstallJava:7086081c2d30",
     "original": "Install Java",
     "translation": "Niżżel Java",
-    "context": "AutoInstallJava | [unfinished]"
+    "context": "AutoInstallJava"
   },
   {
     "key": "AutoInstallJava:675ba5a076be",
@@ -1509,7 +1509,7 @@
     "key": "CopyInstanceDialog:709a23220f2c",
     "original": "Name",
     "translation": "Isem",
-    "context": "CopyInstanceDialog | [unfinished]"
+    "context": "CopyInstanceDialog"
   },
   {
     "key": "CopyInstanceDialog:cabf7964d2e8",
@@ -1713,7 +1713,7 @@
     "key": "CopyInstanceDialog:c47ae15370cf",
     "original": "Help",
     "translation": "Għajnuna",
-    "context": "CopyInstanceDialog | [unfinished]"
+    "context": "CopyInstanceDialog"
   },
   {
     "key": "CopyInstanceDialog:77dfd2135f4d",
@@ -1977,7 +1977,7 @@
     "key": "CreateShortcutDialog:709a23220f2c",
     "original": "Name",
     "translation": "Isem",
-    "context": "CreateShortcutDialog | [unfinished]"
+    "context": "CreateShortcutDialog"
   },
   {
     "key": "CreateShortcutDialog:c1253df1495f",
@@ -2265,7 +2265,7 @@
     "key": "DataPackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Isem",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:0092be542f99",
@@ -2283,7 +2283,7 @@
     "key": "DataPackFolderModel:b7152342a267",
     "original": "Size",
     "translation": "Qies",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:2aabcfc2668a",
@@ -2295,7 +2295,7 @@
     "key": "DataPackFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Verżjoni",
-    "context": "DataPackFolderModel | [unfinished]"
+    "context": "DataPackFolderModel"
   },
   {
     "key": "DataPackFolderModel:fb91e24fa52d",
@@ -2439,7 +2439,7 @@
     "key": "DataPackPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Ikkonferma t-Tneħħija",
-    "context": "DataPackPage | [unfinished]"
+    "context": "DataPackPage"
   },
   {
     "key": "DataPackPage:e782c83c33cc",
@@ -2559,7 +2559,7 @@
     "key": "EnvironmentVariables:709a23220f2c",
     "original": "Name",
     "translation": "Isem",
-    "context": "EnvironmentVariables | [unfinished]"
+    "context": "EnvironmentVariables"
   },
   {
     "key": "EnvironmentVariables:8dce170de238",
@@ -2751,7 +2751,7 @@
     "key": "ExportToModListDialog:c7f73bb54d92",
     "original": "Settings",
     "translation": "Issettjar",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExportToModListDialog:9f738ce8457f",
@@ -2811,7 +2811,7 @@
     "key": "ExportToModListDialog:2da600bf9404",
     "original": "Version",
     "translation": "Verżjoni",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExportToModListDialog:d2a52548bd08",
@@ -2853,7 +2853,7 @@
     "key": "ExportToModListDialog:af74f7c5362a",
     "original": "Copy",
     "translation": "Ikkopja",
-    "context": "ExportToModListDialog | [unfinished]"
+    "context": "ExportToModListDialog"
   },
   {
     "key": "ExportToModListDialog:77dfd2135f4d",
@@ -2883,7 +2883,7 @@
     "key": "ExternalResourcesPage:c3cd636a585b",
     "original": "Actions",
     "translation": "Azzjonijiet",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:763c2ebc2799",
@@ -2913,7 +2913,7 @@
     "key": "ExternalResourcesPage:bce06414177f",
     "original": "Search",
     "translation": "Fittex",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:256b10b1d26d",
@@ -3063,7 +3063,7 @@
     "key": "ExternalResourcesPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Menù tal-kuntest",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:76cffee45024",
@@ -3087,7 +3087,7 @@
     "key": "ExternalResourcesPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Ikkonferma t-Tneħħija",
-    "context": "ExternalResourcesPage | [unfinished]"
+    "context": "ExternalResourcesPage"
   },
   {
     "key": "ExternalResourcesPage:59e5bdd43477",
@@ -3171,7 +3171,7 @@
     "key": "ExternalToolsPage:709a23220f2c",
     "original": "Name",
     "translation": "Isem",
-    "context": "ExternalToolsPage | [unfinished]"
+    "context": "ExternalToolsPage"
   },
   {
     "key": "ExternalToolsPage:8901895fb1b1",
@@ -3333,7 +3333,7 @@
     "key": "FTB::PackInstallTask:93fc42ea75d6",
     "original": "Could not understand pack manifest:\n",
     "translation": "Ma stajtx nifhem il-manifest tal-pakkett:",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:ef42318f68d9",
@@ -3357,7 +3357,7 @@
     "key": "FTB::PackInstallTask:7ff827f8d900",
     "original": "The following files are not available for download in third party launchers.<br/>You will need to manually download them and add them to the instance.",
     "translation": "Dawn il-fajls mhumiex disponibble għat-tniżżil f'launchers ta' partit terzjarju.\nHemm il-bżonn li tniżżilhom b'idejk u żżidhom fl-instance.",
-    "context": "FTB::PackInstallTask | [unfinished]"
+    "context": "FTB::PackInstallTask"
   },
   {
     "key": "FTB::PackInstallTask:2df48fae0ac2",
@@ -3513,7 +3513,7 @@
     "key": "FlameCreationTask:93fc42ea75d6",
     "original": "Could not understand pack manifest:\n",
     "translation": "Ma stajtx nifhem il-manifest tal-pakkett:",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:e0976e09621d",
@@ -3561,7 +3561,7 @@
     "key": "FlameCreationTask:9638c0cc0435",
     "original": "Failed to find version for %1 loader",
     "translation": "Falla biex jinsab verżjoni għall-%1 loader",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:394b0f2a985e",
@@ -3621,7 +3621,7 @@
     "key": "FlameCreationTask:7ff827f8d900",
     "original": "The following files are not available for download in third party launchers.<br/>You will need to manually download them and add them to the instance.",
     "translation": "Dawn il-fajls mhumiex disponibble għat-tniżżil f'launchers ta' partit terzjarju.\nHemm il-bżonn li tniżżilhom b'idejk u żżidhom fl-instance.",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:193c1dffab3c",
@@ -3639,7 +3639,7 @@
     "key": "FlameCreationTask:f9bc7a615403",
     "original": "%1 out of %2 complete",
     "translation": "%1 minn %2 lesti",
-    "context": "FlameCreationTask | [unfinished]"
+    "context": "FlameCreationTask"
   },
   {
     "key": "FlameCreationTask:9c36196243f9",
@@ -4665,7 +4665,7 @@
     "key": "JavaPage:a479c9c34e87",
     "original": "Download",
     "translation": "Niżżel",
-    "context": "JavaPage | [unfinished]"
+    "context": "JavaPage"
   },
   {
     "key": "JavaPage:e963907dac5c",
@@ -4713,7 +4713,7 @@
     "key": "JavaSettingsWidget:720891fd2e15",
     "original": "Find Java executable",
     "translation": "Sib executable ta' Java",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:a948355e4e3c",
@@ -4935,19 +4935,19 @@
     "key": "JavaSettingsWidget:e088eab74d48",
     "original": "Select a Java version",
     "translation": "Agħżel verżjoni ta' Java",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:2ded65911985",
     "original": "Confirm Selection",
     "translation": "Ikkonferma l-għażla",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:0322bf18790c",
     "original": "You selected a 32-bit version of Java.\nThis installation does not support more than 2048MiB of RAM.\nPlease make sure that the maximum memory value is lower.",
     "translation": "Inti għażilt verżjoni 32-bit ta' java.\nDin l-installazjoni ma jappoġġjax iktar min 2048MiB ta' RAM.\nJekk jogħġbok ara li l-ammont massimu ta' memorja huwa iktar baxx.",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:13d7b44bb06c",
@@ -4983,7 +4983,7 @@
     "key": "JavaSettingsWidget:1cd3b29484dc",
     "original": "Your maximum memory allocation exceeds your system memory capacity.",
     "translation": "L-allokazzjoni massima tal-memorja tiegħek taqbeż il-kapaċità tal-memorja tas-sistema tiegħek.",
-    "context": "JavaSettingsWidget | [unfinished]"
+    "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:16095ced296c",
@@ -5049,7 +5049,7 @@
     "key": "JavaWizardWidget:720891fd2e15",
     "original": "Find Java executable",
     "translation": "Sib executable ta' Java",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:89c8a2851d17",
@@ -5115,19 +5115,19 @@
     "key": "JavaWizardWidget:1cd3b29484dc",
     "original": "Your maximum memory allocation exceeds your system memory capacity.",
     "translation": "L-allokazzjoni massima tal-memorja tiegħek taqbeż il-kapaċità tal-memorja tas-sistema tiegħek.",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:6b090ee94fac",
     "original": "Your maximum memory allocation approaches your system memory capacity.",
     "translation": "L-allokazzjoni massima tal-memorja tiegħek qed joqrob lejn il-kapaċità tal-memorja tas-sistema tiegħek.",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:1996c8e6e0c7",
     "original": "Your maximum memory allocation is smaller than the minimum value",
     "translation": "L-allokazzjoni massima tal-memorja tiegħek hija iżgħar mill-valur minimu",
-    "context": "JavaWizardWidget | [unfinished]"
+    "context": "JavaWizardWidget"
   },
   {
     "key": "JavaWizardWidget:b0d53f521374",
@@ -5313,7 +5313,7 @@
     "key": "LaunchController:0fba84fa509a",
     "original": "Couldn't load the instance profile.",
     "translation": "Ma setax jillowdja l-profil tal-istanza.",
-    "context": "LaunchController | [unfinished]"
+    "context": "LaunchController"
   },
   {
     "key": "LaunchController:74a0690fb7b4",
@@ -5649,7 +5649,7 @@
     "key": "LauncherPage:61cc55aa0453",
     "original": "Add",
     "translation": "Żid",
-    "context": "LauncherPage | [unfinished]"
+    "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:e963907dac5c",
@@ -6105,7 +6105,7 @@
     "key": "LegacyFTB::PackInstallTask:7d3e34e21534",
     "original": "Installing modpack",
     "translation": "Installazjoni ta' modpack",
-    "context": "LegacyFTB::PackInstallTask | [unfinished]"
+    "context": "LegacyFTB::PackInstallTask"
   },
   {
     "key": "LegacyFTB::PackInstallTask:44d2b46ad2a3",
@@ -6309,7 +6309,7 @@
     "key": "LogPage:bce06414177f",
     "original": "Search",
     "translation": "Fittex",
-    "context": "LogPage | [unfinished]"
+    "context": "LogPage"
   },
   {
     "key": "LogPage:df251b06eefd",
@@ -6519,7 +6519,7 @@
     "key": "MSALoginDialog:4b631f698425",
     "original": "Info",
     "translation": "Informazzjoni",
-    "context": "MSALoginDialog | [unfinished]"
+    "context": "MSALoginDialog"
   },
   {
     "key": "MSALoginDialog:aa0b59de558f",
@@ -6681,7 +6681,7 @@
     "key": "MainWindow:c47ae15370cf",
     "original": "Help",
     "translation": "Għajnuna",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:a7163d114d1f",
@@ -7053,7 +7053,7 @@
     "key": "MainWindow:d3f4cb898fbe",
     "original": "Rename",
     "translation": "Biddel l-isem",
-    "context": "MainWindow | [unfinished]"
+    "context": "MainWindow"
   },
   {
     "key": "MainWindow:5ef1874d3c7d",
@@ -7665,7 +7665,7 @@
     "key": "Meta::Index:709a23220f2c",
     "original": "Name",
     "translation": "Isem",
-    "context": "Meta::Index | [unfinished]"
+    "context": "Meta::Index"
   },
   {
     "key": "Meta::Index:04099ec66644",
@@ -7803,7 +7803,7 @@
     "key": "MinecraftPage:f1416844b9ec",
     "original": "Minecraft",
     "translation": "Minecraft",
-    "context": "MinecraftPage | [unfinished]"
+    "context": "MinecraftPage"
   },
   {
     "key": "MinecraftProfileStep:b0100eb1000a",
@@ -8319,7 +8319,7 @@
     "key": "MirrorListEditor:61cc55aa0453",
     "original": "Add",
     "translation": "Żid",
-    "context": "MirrorListEditor | [unfinished]"
+    "context": "MirrorListEditor"
   },
   {
     "key": "MirrorListEditor:226188f5c23d",
@@ -8595,13 +8595,13 @@
     "key": "ModFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Isem",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Verżjoni",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:7ceee3f3615a",
@@ -8619,7 +8619,7 @@
     "key": "ModFolderModel:b7152342a267",
     "original": "Size",
     "translation": "Qies",
-    "context": "ModFolderModel | [unfinished]"
+    "context": "ModFolderModel"
   },
   {
     "key": "ModFolderModel:26528381ea05",
@@ -8919,7 +8919,7 @@
     "key": "ModFolderPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Ikkonferma t-Tneħħija",
-    "context": "ModFolderPage | [unfinished]"
+    "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:7dc75dabfc76",
@@ -9129,7 +9129,7 @@
     "key": "ModrinthCreationTask:f9bc7a615403",
     "original": "%1 out of %2 complete",
     "translation": "%1 minn %2 lesti",
-    "context": "ModrinthCreationTask | [unfinished]"
+    "context": "ModrinthCreationTask"
   },
   {
     "key": "ModrinthCreationTask:df237503973c",
@@ -9471,7 +9471,7 @@
     "key": "NewComponentDialog:709a23220f2c",
     "original": "Name",
     "translation": "Isem",
-    "context": "NewComponentDialog | [unfinished]"
+    "context": "NewComponentDialog"
   },
   {
     "key": "NewComponentDialog:e2577dd78b54",
@@ -9537,7 +9537,7 @@
     "key": "NewInstanceDialog:c47ae15370cf",
     "original": "Help",
     "translation": "Għajnuna",
-    "context": "NewInstanceDialog | [unfinished]"
+    "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:0e06e81ed34d",
@@ -9573,7 +9573,7 @@
     "key": "NewsDialog:bbfa773e5a63",
     "original": "Close",
     "translation": "Agħlaq",
-    "context": "NewsDialog | [unfinished]"
+    "context": "NewsDialog"
   },
   {
     "key": "NewsDialog:a5601a63d0ae",
@@ -9999,7 +9999,7 @@
     "key": "OtherLogsPage:bce06414177f",
     "original": "Search",
     "translation": "Fittex",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:7f2f6a15cf8d",
@@ -10101,13 +10101,13 @@
     "key": "PackInstallTask:93fc42ea75d6",
     "original": "Could not understand pack manifest:\n",
     "translation": "Ma stajtx nifhem il-manifest tal-pakkett:",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:1cc558d32fa4",
     "original": "Unsupported installation mode",
     "translation": "Mod ta' installazjoni mhux appoġjata",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:608a6e16a154",
@@ -10119,13 +10119,13 @@
     "key": "PackInstallTask:a61c5171cb28",
     "original": "Deleting existing files...",
     "translation": "Jitħassru fajls eżistenti...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:639e6287333c",
     "original": "Unknown mod type: %1",
     "translation": "Tip ta' mod mhux magħruf: %1",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:54a1e48a12f3",
@@ -10137,7 +10137,7 @@
     "key": "PackInstallTask:9638c0cc0435",
     "original": "Failed to find version for %1 loader",
     "translation": "Falla biex jinsab verżjoni għall-%1 loader",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:394b0f2a985e",
@@ -10209,31 +10209,31 @@
     "key": "PackInstallTask:7ff827f8d900",
     "original": "The following files are not available for download in third party launchers.<br/>You will need to manually download them and add them to the instance.",
     "translation": "Dawn il-fajls mhumiex disponibble għat-tniżżil f'launchers ta' partit terzjarju.\nHemm il-bżonn li tniżżilhom b'idejk u żżidhom fl-instance.",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:f9bc7a615403",
     "original": "%1 out of %2 complete",
     "translation": "%1 minn %2 lesti",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:3138740f4b31",
     "original": "Failed to extract mods...",
     "translation": "Ma rnexxilniex nestrattaw il-mods...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:e87c1bb107c0",
     "original": "Extracting mods...",
     "translation": "Qedhin nestrattaw il-mods...",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:7d3e34e21534",
     "original": "Installing modpack",
     "translation": "Installazjoni ta' modpack",
-    "context": "PackInstallTask | [unfinished]"
+    "context": "PackInstallTask"
   },
   {
     "key": "PackInstallTask:a568ebaf6ef5",
@@ -10263,13 +10263,13 @@
     "key": "PackProfile:709a23220f2c",
     "original": "Name",
     "translation": "Isem",
-    "context": "PackProfile | [unfinished]"
+    "context": "PackProfile"
   },
   {
     "key": "PackProfile:2da600bf9404",
     "original": "Version",
     "translation": "Verżjoni",
-    "context": "PackProfile | [unfinished]"
+    "context": "PackProfile"
   },
   {
     "key": "PageDialog:5d437e70c666",
@@ -10287,7 +10287,7 @@
     "key": "PageDialog:c47ae15370cf",
     "original": "Help",
     "translation": "Għajnuna",
-    "context": "PageDialog | [unfinished]"
+    "context": "PageDialog"
   },
   {
     "key": "PasteWizardPage:80446347ede5",
@@ -10917,7 +10917,7 @@
     "key": "ProxyPage:3deb74565196",
     "original": "Type",
     "translation": "Tip",
-    "context": "ProxyPage | [unfinished]"
+    "context": "ProxyPage"
   },
   {
     "key": "ProxyPage:9a2029660bcc",
@@ -11631,7 +11631,7 @@
     "key": "QObject:1b927decdbb0",
     "original": "Unchecked",
     "translation": "Mhux iċċekkjat",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:e01fa717bacc",
@@ -12339,7 +12339,7 @@
     "key": "ResourceFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Isem",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:4c24525b0aa0",
@@ -12351,13 +12351,13 @@
     "key": "ResourceFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Verżjoni",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:b7152342a267",
     "original": "Size",
     "translation": "Qies",
-    "context": "ResourceFolderModel | [unfinished]"
+    "context": "ResourceFolderModel"
   },
   {
     "key": "ResourceFolderModel:7ceee3f3615a",
@@ -12465,13 +12465,13 @@
     "key": "ResourcePackFolderModel:2da600bf9404",
     "original": "Version",
     "translation": "Verżjoni",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:b7152342a267",
     "original": "Size",
     "translation": "Qies",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:7ceee3f3615a",
@@ -12537,7 +12537,7 @@
     "key": "ResourcePackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Isem",
-    "context": "ResourcePackFolderModel | [unfinished]"
+    "context": "ResourcePackFolderModel"
   },
   {
     "key": "ResourcePackFolderModel:0092be542f99",
@@ -12639,7 +12639,7 @@
     "key": "ResourcePackPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Ikkonferma t-Tneħħija",
-    "context": "ResourcePackPage | [unfinished]"
+    "context": "ResourcePackPage"
   },
   {
     "key": "ResourcePackPage:068704d93c40",
@@ -12933,7 +12933,7 @@
     "key": "ScreenshotsPage:c3cd636a585b",
     "original": "Actions",
     "translation": "Azzjonijiet",
-    "context": "ScreenshotsPage | [unfinished]"
+    "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:8bdf057f91e7",
@@ -12945,13 +12945,13 @@
     "key": "ScreenshotsPage:f6fdbe48dc54",
     "original": "Delete",
     "translation": "Ħassar",
-    "context": "ScreenshotsPage | [unfinished]"
+    "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:d3f4cb898fbe",
     "original": "Rename",
     "translation": "Biddel l-isem",
-    "context": "ScreenshotsPage | [unfinished]"
+    "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:b2253ecc0070",
@@ -12963,7 +12963,7 @@
     "key": "ScreenshotsPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Menù tal-kuntest",
-    "context": "ScreenshotsPage | [unfinished]"
+    "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:69f424ee3a3e",
@@ -13059,7 +13059,7 @@
     "key": "SelectReleaseAssetDialog:2da600bf9404",
     "original": "Version",
     "translation": "Verżjoni",
-    "context": "SelectReleaseAssetDialog | [unfinished]"
+    "context": "SelectReleaseAssetDialog"
   },
   {
     "key": "SelectReleaseAssetDialog:89cba7b3e72d",
@@ -13089,7 +13089,7 @@
     "key": "SelectReleaseDialog:2da600bf9404",
     "original": "Version",
     "translation": "Verżjoni",
-    "context": "SelectReleaseDialog | [unfinished]"
+    "context": "SelectReleaseDialog"
   },
   {
     "key": "SelectReleaseDialog:89cba7b3e72d",
@@ -13131,7 +13131,7 @@
     "key": "ServersModel:709a23220f2c",
     "original": "Name",
     "translation": "Isem",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersModel:d70f93df5e8f",
@@ -13149,7 +13149,7 @@
     "key": "ServersModel:2da600bf9404",
     "original": "Version",
     "translation": "Verżjoni",
-    "context": "ServersModel | [unfinished]"
+    "context": "ServersModel"
   },
   {
     "key": "ServersModel:6b68e9797399",
@@ -13203,13 +13203,13 @@
     "key": "ServersPage:c3cd636a585b",
     "original": "Actions",
     "translation": "Azzjonijiet",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:61cc55aa0453",
     "original": "Add",
     "translation": "Żid",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:e963907dac5c",
@@ -13233,7 +13233,7 @@
     "key": "ServersPage:e0d73143de80",
     "original": "Join",
     "translation": "Ingħaqad",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:56e3badc4e6c",
@@ -13251,7 +13251,7 @@
     "key": "ServersPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Menù tal-kuntest",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:b056ceb4156f",
@@ -13263,7 +13263,7 @@
     "key": "ServersPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Ikkonferma t-Tneħħija",
-    "context": "ServersPage | [unfinished]"
+    "context": "ServersPage"
   },
   {
     "key": "ServersPage:d11c34744d16",
@@ -13395,7 +13395,7 @@
     "key": "ShaderPackPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Ikkonferma t-Tneħħija",
-    "context": "ShaderPackPage | [unfinished]"
+    "context": "ShaderPackPage"
   },
   {
     "key": "ShaderPackPage:c3ba31d003fe",
@@ -13623,7 +13623,7 @@
     "key": "SkinManageDialog:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Menù tal-kuntest",
-    "context": "SkinManageDialog | [unfinished]"
+    "context": "SkinManageDialog"
   },
   {
     "key": "SkinManageDialog:abc73e2588f3",
@@ -13815,7 +13815,7 @@
     "key": "Technic::SolderPackInstallTask:93fc42ea75d6",
     "original": "Could not understand pack manifest:\n",
     "translation": "Ma stajtx nifhem il-manifest tal-pakkett:",
-    "context": "Technic::SolderPackInstallTask | [unfinished]"
+    "context": "Technic::SolderPackInstallTask"
   },
   {
     "key": "Technic::SolderPackInstallTask:947d98cb6a3e",
@@ -13917,7 +13917,7 @@
     "key": "TexturePackFolderModel:709a23220f2c",
     "original": "Name",
     "translation": "Isem",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:4c24525b0aa0",
@@ -13929,7 +13929,7 @@
     "key": "TexturePackFolderModel:b7152342a267",
     "original": "Size",
     "translation": "Qies",
-    "context": "TexturePackFolderModel | [unfinished]"
+    "context": "TexturePackFolderModel"
   },
   {
     "key": "TexturePackFolderModel:7ceee3f3615a",
@@ -14085,7 +14085,7 @@
     "key": "TexturePackPage:5e50cf25a163",
     "original": "Confirm Removal",
     "translation": "Ikkonferma t-Tneħħija",
-    "context": "TexturePackPage | [unfinished]"
+    "context": "TexturePackPage"
   },
   {
     "key": "TexturePackPage:b7fbe79a518f",
@@ -14247,7 +14247,7 @@
     "key": "VersionPage:c3cd636a585b",
     "original": "Actions",
     "translation": "Azzjonijiet",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:e963907dac5c",
@@ -14325,7 +14325,7 @@
     "key": "VersionPage:bce06414177f",
     "original": "Search",
     "translation": "Fittex",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:fdffaea4e563",
@@ -15021,7 +15021,7 @@
     "key": "WorldListPage:4d0cd32e3025",
     "original": "Context menu",
     "translation": "Menù tal-kuntest",
-    "context": "WorldListPage | [unfinished]"
+    "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:828d183e802e",

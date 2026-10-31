@@ -27,7 +27,7 @@
     "key": "APIPage:27f158fa18fd",
     "original": "Note: you probably want to change or clear the Base URL after changing the paste service type.",
     "translation": "Ⲟⲩⲥϧⲓ:",
-    "context": "APIPage | [unfinished]"
+    "context": "APIPage"
   },
   {
     "key": "APIPage:449c720b3cd9",
@@ -159,7 +159,7 @@
     "key": "APIPage:92ab1379b044",
     "original": "Note: you probably don't need to set this if logging in via Microsoft Authentication already works.",
     "translation": "ⲉϧⲟⲩⲛ",
-    "context": "APIPage | [unfinished]"
+    "context": "APIPage"
   },
   {
     "key": "APIPage:b13d61c0e2f1",

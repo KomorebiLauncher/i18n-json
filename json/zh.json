@@ -363,7 +363,7 @@
     "key": "AccountList:acfe0daf2326",
     "original": "Third-party",
     "translation": "第三方",
-    "context": "AccountList | [unfinished]"
+    "context": "AccountList"
   },
   {
     "key": "AccountList:bc7819b34ff8",
@@ -7376,7 +7376,7 @@
   {
     "key": "MainWindow:7561aee92c50",
     "original": " and its %n registered shortcut(s)",
-    "translation": " 以及它 %n 个注册的快捷方式",
+    "translation": "以及它 %n 个注册的快捷方式",
     "context": "MainWindow | [plural]"
   },
   {
@@ -8768,7 +8768,7 @@
   {
     "key": "ModFolderModel:7344f60ae135",
     "original": "%n mod(s) will be enabled\n",
-    "translation": "%n 个 Mod 将会被启用\n",
+    "translation": "%n 个 Mod 将会被启用",
     "context": "ModFolderModel | [plural]"
   },
   {
@@ -8780,7 +8780,7 @@
   {
     "key": "ModFolderModel:ffcf72215f76",
     "original": "%n mod(s) will be disabled\n",
-    "translation": "%n 个 Mod 将会被禁用\n",
+    "translation": "%n 个 Mod 将会被禁用",
     "context": "ModFolderModel | [plural]"
   },
   {
@@ -9645,7 +9645,7 @@
     "key": "OptiFine::InstallTask:e22776f8a533",
     "original": "Looking up Minecraft %1",
     "translation": "正在查找 Minecraft %1",
-    "context": "OptiFine::InstallTask | [unfinished]"
+    "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:817bd1b6932e",
@@ -9663,7 +9663,7 @@
     "key": "OptiFine::InstallTask:b51871d4c587",
     "original": "Downloading the Minecraft %1 metadata",
     "translation": "正在下载 Minecraft %1 的元数据",
-    "context": "OptiFine::InstallTask | [unfinished]"
+    "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:bdcde74d9f0c",
@@ -9687,7 +9687,7 @@
     "key": "OptiFine::InstallTask:b597851d9f3f",
     "original": "Downloading the Minecraft %1 client",
     "translation": "正在下载 Minecraft %1 客户端",
-    "context": "OptiFine::InstallTask | [unfinished]"
+    "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:4d2ffbb8f153",
@@ -9699,7 +9699,7 @@
     "key": "OptiFine::InstallTask:3c6a4f80cbaf",
     "original": "Downloading OptiFine %1",
     "translation": "正在下载 OptiFine %1",
-    "context": "OptiFine::InstallTask | [unfinished]"
+    "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:945d64c44871",

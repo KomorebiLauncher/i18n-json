@@ -6255,7 +6255,7 @@
     "key": "LogPage:0767c44f5140",
     "original": "Keep updating",
     "translation": "o awen toki",
-    "context": "LogPage | [unfinished]"
+    "context": "LogPage"
   },
   {
     "key": "LogPage:a7392043b11d",
@@ -6279,7 +6279,7 @@
     "key": "LogPage:e990b1645555",
     "original": "&Copy",
     "translation": "&o poki",
-    "context": "LogPage | [unfinished]"
+    "context": "LogPage"
   },
   {
     "key": "LogPage:5ece98753399",
@@ -6291,7 +6291,7 @@
     "key": "LogPage:8bdf057f91e7",
     "original": "Upload",
     "translation": "&o pana",
-    "context": "LogPage | [unfinished]"
+    "context": "LogPage"
   },
   {
     "key": "LogPage:096311b5638e",
@@ -9609,7 +9609,7 @@
     "key": "NotesPage:70440046a3dc",
     "original": "Notes",
     "translation": "lipu",
-    "context": "NotesPage | [unfinished]"
+    "context": "NotesPage"
   },
   {
     "key": "NullInstance:7f4d5fbcbe87",
@@ -9969,7 +9969,7 @@
     "key": "OtherLogsPage:e990b1645555",
     "original": "&Copy",
     "translation": "o pana tawa poki ilo (&C)",
-    "context": "OtherLogsPage | [unfinished]"
+    "context": "OtherLogsPage"
   },
   {
     "key": "OtherLogsPage:5ece98753399",
@@ -13035,7 +13035,7 @@
     "key": "ScreenshotsPage:747ebe3180fc",
     "original": "Copy Image",
     "translation": "o pana e sitelen tawa poki sitelen",
-    "context": "ScreenshotsPage | [unfinished]"
+    "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:1e0ebd12fccc",
@@ -14259,7 +14259,7 @@
     "key": "VersionPage:239dce622324",
     "original": "Customize",
     "translation": "o ante",
-    "context": "VersionPage | [unfinished]"
+    "context": "VersionPage"
   },
   {
     "key": "VersionPage:5301648dcf6b",
