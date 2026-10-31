@@ -1,0 +1,59 @@
+name: Sync
+
+# Translations live here: the platform edits them, this pulls them back and refreshes the export
+# from the catalogue first, so newly added or reworded strings arrive with a fresh key. The i18n
+# repository then merges this repository's JSON into the .ts files it compiles.
+on:
+  schedule:
+    # The catalogue is refreshed at 04:00 on Mondays; pull half an hour later.
+    - cron: '30 4 * * 1'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Only report what would change
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Check out the catalogue
+        run: git clone --depth 1 https://github.com/KomorebiLauncher/i18n.git catalogue
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+
+      - name: Refresh the source strings
+        run: python tools/export.py --catalogue catalogue --out json
+
+      - name: Pull the translations
+        env:
+          PARATRANZ_TOKEN: ${{ secrets.PARATRANZ_TOKEN }}
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            python tools/paratranz.py --token "$PARATRANZ_TOKEN" --dry-run
+          else
+            python tools/paratranz.py --token "$PARATRANZ_TOKEN"
+          fi
+
+      - name: Commit changes
+        if: ${{ inputs.dry_run != true }}
+        run: |
+          rm -rf catalogue
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "nothing changed"
+          else
+            git commit -m "Sync translations from ParaTranz"
+            git push
+          fi
