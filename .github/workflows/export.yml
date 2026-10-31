@@ -1,11 +1,11 @@
 name: Export the catalogue
 
-# The catalogue itself lives in KomorebiLauncher/i18n, where update-strings.yml refreshes the
-# source strings on Monday mornings. This runs half an hour later so the translation platform
-# never reads a stale export.
+# The catalogue lives in KomorebiLauncher/i18n: update-strings.yml refreshes the source strings at
+# 04:00 on Mondays and pull-paratranz.yml brings the translations back at 05:00. This runs half an
+# hour after that, so the export the translation platform reads is never stale.
 on:
   schedule:
-    - cron: '30 4 * * 1'
+    - cron: '30 5 * * 1'
   workflow_dispatch:
 
 permissions:
