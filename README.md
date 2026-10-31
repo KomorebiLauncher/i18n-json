@@ -54,3 +54,7 @@ python tools/export.py --catalogue ../i18n --out json
 | 0% | 1（`bar`） |
 
 其余语言的缺口基本都是本项目相对 Prism Launcher 新增的功能文案（崩溃分析、镜像、OptiFine 安装、账号提示等），上游继承的基线翻译已覆盖约 92%。
+
+## 自动更新
+
+`.github/workflows/export.yml` 每周一 04:30 UTC（i18n 仓库的 `update-strings` 在 04:00 跑完之后）重新导出并提交；有手动触发入口。
