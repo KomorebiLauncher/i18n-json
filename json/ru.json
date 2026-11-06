@@ -50,61 +50,61 @@
   {
     "key": "APIPage:fd566f8049ab",
     "original": "Download Mirrors",
-    "translation": "",
+    "translation": "Зеркала для скачивания",
     "context": "APIPage"
   },
   {
     "key": "APIPage:efdab7cb04da",
     "original": "Only Mojang's own download hosts are redirected, and only for files the mirror actually has. Content servers such as Modrinth or CurseForge are never touched.",
-    "translation": "",
+    "translation": "Перенаправляются только собственные хосты загрузки Mojang, и только для файлов, которые действительно есть на зеркале. Серверы контента, такие как Modrinth или CurseForge, никогда не затрагиваются.",
     "context": "APIPage"
   },
   {
     "key": "APIPage:9bfc55794736",
     "original": "Source order",
-    "translation": "",
+    "translation": "Порядок источника",
     "context": "APIPage"
   },
   {
     "key": "APIPage:a902ba5a3763",
     "original": "Mirror base URL",
-    "translation": "",
+    "translation": "Базовый URL зеркала",
     "context": "APIPage"
   },
   {
     "key": "APIPage:af983e03f563",
     "original": "https://bmclapi2.bangbang93.com",
-    "translation": "",
+    "translation": "https://bmclapi2.bangbang93.com",
     "context": "APIPage"
   },
   {
     "key": "APIPage:12416b2a1767",
     "original": "Services mirror",
-    "translation": "",
+    "translation": "Зеркало сервисов",
     "context": "APIPage"
   },
   {
     "key": "APIPage:24c2d5051a94",
     "original": "Optional verbatim mirror of the metadata server and the translation site. Content mirrors such as BMCLAPI do not carry them, so leave this empty unless the mirror really is a copy of those two.",
-    "translation": "",
+    "translation": "Необязательное точное зеркало сервера метаданных и сайта переводов. Контентные зеркала вроде BMCLAPI их не содержат, поэтому оставьте это поле пустым, если только зеркало действительно не является копией этих двух.",
     "context": "APIPage"
   },
   {
     "key": "APIPage:8019cc0a31a1",
     "original": "Empty unless you have a verbatim mirror",
-    "translation": "",
+    "translation": "Пусто, если у вас нет дословного зеркала.",
     "context": "APIPage"
   },
   {
     "key": "APIPage:11542222689b",
     "original": "Library mirrors",
-    "translation": "",
+    "translation": "Зеркала библиотеки",
     "context": "APIPage"
   },
   {
     "key": "APIPage:2e64e47907d0",
     "original": "Tried in order for Mojang libraries, loader libraries and Maven Central, before the mirror base URL above. These mirrors carry that one tree, not the game itself.",
-    "translation": "",
+    "translation": "По порядку проверяются библиотеки Mojang, библиотеки загрузчика и Maven Central — перед указанным выше базовым URL зеркала. Эти зеркала содержат только это одно дерево, а не саму игру.",
     "context": "APIPage"
   },
   {
@@ -164,13 +164,13 @@
   {
     "key": "APIPage:b13d61c0e2f1",
     "original": "Look blocked mods up on Modrinth",
-    "translation": "",
+    "translation": "Ищите заблокированные моды на Modrinth",
     "context": "APIPage"
   },
   {
     "key": "APIPage:484c8447d839",
     "original": "CurseForge leaves out the download link when an author does not allow third-party launchers to distribute a file. This option looks the same file up on Modrinth by hash and downloads it from there instead. Off by default.",
-    "translation": "",
+    "translation": "CurseForge не указывает ссылку на скачивание, если автор не разрешает сторонним лаунчерам распространять файл. Эта опция ищет тот же файл на Modrinth по хешу и вместо этого скачивает его оттуда. По умолчанию выключено.",
     "context": "APIPage"
   },
   {
@@ -224,25 +224,25 @@
   {
     "key": "APIPage:a91a3d6cc2ff",
     "original": "Official only, no mirror",
-    "translation": "",
+    "translation": "Только официальный источник, без зеркал.",
     "context": "APIPage"
   },
   {
     "key": "APIPage:c1730a408d03",
     "original": "Official first, fall back to the mirror",
-    "translation": "",
+    "translation": "Сначала официальный, при недоступности — зеркало.",
     "context": "APIPage"
   },
   {
     "key": "APIPage:4f74681c0ada",
     "original": "Mirror first, fall back to the official host",
-    "translation": "",
+    "translation": "Сначала зеркало, при недоступности — официальный хост",
     "context": "APIPage"
   },
   {
     "key": "APIPage:bf101f1aa8bb",
     "original": "Mirror only",
-    "translation": "",
+    "translation": "Только зеркало",
     "context": "APIPage"
   },
   {
@@ -362,7 +362,7 @@
   {
     "key": "AccountList:acfe0daf2326",
     "original": "Third-party",
-    "translation": "",
+    "translation": "Третья сторона",
     "context": "AccountList"
   },
   {
@@ -434,7 +434,7 @@
   {
     "key": "AccountListPage:dc56d8f3d717",
     "original": "Add &Third-Party",
-    "translation": "",
+    "translation": "Добавить &Сторонние",
     "context": "AccountListPage"
   },
   {
@@ -506,7 +506,7 @@
   {
     "key": "AccountListPage:e1fa0520510c",
     "original": "You must add a Microsoft account that owns Minecraft before you can add an offline account.<br><br>Microsoft sign-in is currently unavailable because this build's application has not been approved by Mojang, so an offline profile cannot be created yet. Third-party server accounts are not affected.<br><br>If you have lost your account you can contact Microsoft for support.",
-    "translation": "",
+    "translation": "Вы должны добавить учетную запись Microsoft, которой принадлежит Minecraft, прежде чем сможете добавить автономную учетную запись.<br><br>Вход в Microsoft сейчас недоступен, так как приложение этой сборки не одобрено Mojang, поэтому автономный профиль пока нельзя создать. На учетные записи сторонних серверов это не влияет.<br><br>Если вы потеряли свою учетную запись, вы можете обратиться в службу поддержки Microsoft.",
     "context": "AccountListPage"
   },
   {
