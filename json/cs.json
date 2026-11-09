@@ -504,12 +504,6 @@
     "context": "AccountListPage"
   },
   {
-    "key": "AccountListPage:e1fa0520510c",
-    "original": "You must add a Microsoft account that owns Minecraft before you can add an offline account.<br><br>Microsoft sign-in is currently unavailable because this build's application has not been approved by Mojang, so an offline profile cannot be created yet. Third-party server accounts are not affected.<br><br>If you have lost your account you can contact Microsoft for support.",
-    "translation": "",
-    "context": "AccountListPage"
-  },
-  {
     "key": "AccountListPage:2e9f7c9e32a4",
     "original": "Please enter your desired username to add your offline account.",
     "translation": "Zadejte uživatelské jméno offline účtu.",
@@ -519,6 +513,12 @@
     "key": "AccountListPage:f6244b357039",
     "original": "No Microsoft Authentication client ID was set.",
     "translation": "Nebylo nastaveno žádné klientské ID pro ověření účtem Microsoft.",
+    "context": "AccountListPage"
+  },
+  {
+    "key": "AccountListPage:24466be4d186",
+    "original": "You must add a Microsoft account that owns Minecraft before you can add an offline account.<br><br>An offline profile is a local name for singleplayer worlds and for servers that allow offline players; it is not a way to use Minecraft without owning it. Add the Microsoft account that owns the game first, then the offline profile.<br><br>If you have lost your account you can contact Microsoft for support.",
+    "translation": "",
     "context": "AccountListPage"
   },
   {
@@ -675,6 +675,36 @@
     "key": "AppearanceWidget:4cb1ebdf0702",
     "original": "[FATAL] A terrifying fatal error!",
     "translation": "[FATÁLNÍ] Děsuplná fatální chyba!",
+    "context": "AppearanceWidget"
+  },
+  {
+    "key": "AppearanceWidget:66d075a2efa4",
+    "original": "Background dimming",
+    "translation": "",
+    "context": "AppearanceWidget"
+  },
+  {
+    "key": "AppearanceWidget:e9f62c4e839e",
+    "original": "Window layout",
+    "translation": "",
+    "context": "AppearanceWidget"
+  },
+  {
+    "key": "AppearanceWidget:f5171c931c5c",
+    "original": "Sidebar",
+    "translation": "",
+    "context": "AppearanceWidget"
+  },
+  {
+    "key": "AppearanceWidget:0546e3a9ef32",
+    "original": "Top action bar",
+    "translation": "",
+    "context": "AppearanceWidget"
+  },
+  {
+    "key": "AppearanceWidget:ef900312995a",
+    "original": "Icon rail",
+    "translation": "",
     "context": "AppearanceWidget"
   },
   {
@@ -1096,12 +1126,6 @@
     "original": "Cancel",
     "translation": "Zrušit",
     "context": "AuthlibInjectorDialog"
-  },
-  {
-    "key": "AutoInstallJava:d3ace495a5a2",
-    "original": "Looking for Java inside the instance was aborted.",
-    "translation": "",
-    "context": "AutoInstallJava"
   },
   {
     "key": "AutoInstallJava:bd5a8b746dd0",
@@ -2460,6 +2484,12 @@
     "context": "DeleteWorldTask"
   },
   {
+    "key": "DownloadQueue:8761d26fb8d6",
+    "original": "cancelled",
+    "translation": "",
+    "context": "DownloadQueue"
+  },
+  {
     "key": "EnsureAvailableMemory:6e7cd2106ad2",
     "original": "The system is under increased memory pressure.\nThis may lead to lag or slowdowns.\nIf possible, close other applications before continuing.\n\nLaunch anyway?",
     "translation": "Váš systém čelí zvýšenému nedostatku paměti.\nTo může vést k zásekům nebo zpomalení.\nPřed pokračováním doporučujeme zavřít ostatní aplikace.\n\nChcete přesto hru spustit?",
@@ -3444,6 +3474,66 @@
     "context": "FTBImportAPP::PackInstallTask"
   },
   {
+    "key": "FileDownloader:0841c54a817b",
+    "original": "the download did not succeed after %1 attempts",
+    "translation": "",
+    "context": "FileDownloader"
+  },
+  {
+    "key": "FileDownloader:0a4a2d2ba10e",
+    "original": "could not open %1 for writing: %2",
+    "translation": "",
+    "context": "FileDownloader"
+  },
+  {
+    "key": "FileDownloader:96cf4ecee465",
+    "original": "could not rewrite %1: %2",
+    "translation": "",
+    "context": "FileDownloader"
+  },
+  {
+    "key": "FileDownloader:03415ba19151",
+    "original": "could not write to %1: %2",
+    "translation": "",
+    "context": "FileDownloader"
+  },
+  {
+    "key": "FileDownloader:69d1ce76e960",
+    "original": "the server answered with HTTP %1",
+    "translation": "",
+    "context": "FileDownloader"
+  },
+  {
+    "key": "FileDownloader:61ce260d5c75",
+    "original": "the download wrote no file",
+    "translation": "",
+    "context": "FileDownloader"
+  },
+  {
+    "key": "FileDownloader:b4420b7b44bf",
+    "original": "the file's SHA-1 is %1, not the %2 the manifest asked for (from %3, %4 bytes)",
+    "translation": "",
+    "context": "FileDownloader"
+  },
+  {
+    "key": "FileDownloader:e9a6c75a58c2",
+    "original": "the file is %1 bytes, not the %2 the manifest asked for",
+    "translation": "",
+    "context": "FileDownloader"
+  },
+  {
+    "key": "FileDownloader:746c4c0401f9",
+    "original": "could not replace %1",
+    "translation": "",
+    "context": "FileDownloader"
+  },
+  {
+    "key": "FileDownloader:67d0027ae93f",
+    "original": "could not move %1 into place",
+    "translation": "",
+    "context": "FileDownloader"
+  },
+  {
     "key": "Flame::FileResolvingTask:325955aeee0c",
     "original": "Resolving mod IDs...",
     "translation": "Řešení ID modů...",
@@ -4314,6 +4404,84 @@
     "context": "InstanceCopyTask"
   },
   {
+    "key": "InstanceCreator:3e99a428b64a",
+    "original": "Reading the list of Minecraft versions",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:2836b006d641",
+    "original": "could not read %1",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:2dc677a19c61",
+    "original": "%1 is not in the version list",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:acdeff94790d",
+    "original": "Reading Minecraft %1",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:220f5c12fea0",
+    "original": "Creating the instance",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:8dc5246e0f3f",
+    "original": "could not create %1",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:9a5bfce5b5d0",
+    "original": "could not write %1",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:96be85a259a1",
+    "original": "could not write mmc-pack.json into %1",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:39ac9d1b831e",
+    "original": "could not write instance.cfg into %1",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:0a22089bce72",
+    "original": "Checking the files the instance needs",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:18e1f966fb99",
+    "original": "the download failed",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:9d5a0ce82676",
+    "original": "Checking the assets the game uses",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:7024476531a9",
+    "original": "the asset download failed",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
     "key": "InstanceImportTask:d90009c115ee",
     "original": "Downloading modpack:\n%1",
     "translation": "Stahuje se Modpack:\n%1",
@@ -4356,10 +4524,184 @@
     "context": "InstanceImportTask"
   },
   {
+    "key": "InstanceImportTask:61860fb3fb7c",
+    "original": "The pack does not contain an mcbbs.packmeta manifest.",
+    "translation": "",
+    "context": "InstanceImportTask"
+  },
+  {
+    "key": "InstanceImportTask:7783120d0a1b",
+    "original": "Could not read the pack manifest:\n%1",
+    "translation": "",
+    "context": "InstanceImportTask"
+  },
+  {
+    "key": "InstanceImportTask:a5a0d4983af3",
+    "original": "The pack does not contain an HMCL modpack.json manifest.",
+    "translation": "",
+    "context": "InstanceImportTask"
+  },
+  {
+    "key": "InstanceImportTask:40ec24733c25",
+    "original": "The pack does not contain the HMCL instance manifest (minecraft/pack.json), so its game version cannot be determined.",
+    "translation": "",
+    "context": "InstanceImportTask"
+  },
+  {
+    "key": "InstanceImportTask:0c4a38bc514d",
+    "original": "The pack manifest does not name a Minecraft version.",
+    "translation": "",
+    "context": "InstanceImportTask"
+  },
+  {
+    "key": "InstanceImportTask:a5bd7b2f4451",
+    "original": "The pack does not contain the expected %1 folder.",
+    "translation": "",
+    "context": "InstanceImportTask"
+  },
+  {
+    "key": "InstanceImportTask:169a7594ed45",
+    "original": "Both the archive root and the game folder contain %1; keeping the one inside the game folder.",
+    "translation": "",
+    "context": "InstanceImportTask"
+  },
+  {
+    "key": "InstanceImportTask:06f053f281b7",
+    "original": "Could not move %1 out of the pack's game folder.",
+    "translation": "",
+    "context": "InstanceImportTask"
+  },
+  {
+    "key": "InstanceImportTask:39dcb218553c",
+    "original": "The pack names the %1 loader but not its version, so it will not be installed automatically.",
+    "translation": "",
+    "context": "InstanceImportTask"
+  },
+  {
+    "key": "InstanceImportTask:94510a1f6b3a",
+    "original": "Could not write mmc-pack.json into the instance folder.",
+    "translation": "",
+    "context": "InstanceImportTask"
+  },
+  {
+    "key": "InstanceImportTask:e34ef3dbc778",
+    "original": "Resolving the files the pack expects from CurseForge",
+    "translation": "",
+    "context": "InstanceImportTask"
+  },
+  {
+    "key": "InstanceImportTask:5109ac4bb31f",
+    "original": "CurseForge returned no information about the files this pack lists.",
+    "translation": "",
+    "context": "InstanceImportTask"
+  },
+  {
+    "key": "InstanceImportTask:23ba2e8ff473",
+    "original": "Pack files",
+    "translation": "",
+    "context": "InstanceImportTask"
+  },
+  {
+    "key": "InstanceImportTask:e7c7807cf53f",
+    "original": "None of the files this pack lists could be downloaded.",
+    "translation": "",
+    "context": "InstanceImportTask"
+  },
+  {
+    "key": "InstanceImportTask:42e7855b81c6",
+    "original": "%1 file(s) in the pack are no longer available from CurseForge and were skipped.",
+    "translation": "",
+    "context": "InstanceImportTask"
+  },
+  {
+    "key": "InstanceImportTask:551dcf261b93",
+    "original": "Could not download the files this pack lists:\n%1",
+    "translation": "",
+    "context": "InstanceImportTask"
+  },
+  {
+    "key": "InstanceImportTask:c9ebea531972",
+    "original": "Could not ask CurseForge about the files this pack lists:\n%1",
+    "translation": "",
+    "context": "InstanceImportTask"
+  },
+  {
+    "key": "InstanceLaunch:6ad88a64c77e",
+    "original": "Reading the instance",
+    "translation": "",
+    "context": "InstanceLaunch"
+  },
+  {
+    "key": "InstanceLaunch:0a22089bce72",
+    "original": "Checking the files the instance needs",
+    "translation": "",
+    "context": "InstanceLaunch"
+  },
+  {
+    "key": "InstanceLaunch:a0e909a2187a",
+    "original": "Fetching the asset index",
+    "translation": "",
+    "context": "InstanceLaunch"
+  },
+  {
+    "key": "InstanceLaunch:9d5a0ce82676",
+    "original": "Checking the assets the game uses",
+    "translation": "",
+    "context": "InstanceLaunch"
+  },
+  {
+    "key": "InstanceLaunch:28e62fc6f61f",
+    "original": "Copying the assets where this version looks for them",
+    "translation": "",
+    "context": "InstanceLaunch"
+  },
+  {
+    "key": "InstanceLaunch:15c3f61535a1",
+    "original": "Unpacking the native libraries",
+    "translation": "",
+    "context": "InstanceLaunch"
+  },
+  {
+    "key": "InstanceLaunch:7c3192c247cf",
+    "original": "Starting the game",
+    "translation": "",
+    "context": "InstanceLaunch"
+  },
+  {
+    "key": "InstanceLaunch:81f19a61c324",
+    "original": "java did not start: %1",
+    "translation": "",
+    "context": "InstanceLaunch"
+  },
+  {
+    "key": "InstanceLaunch:18e1f966fb99",
+    "original": "the download failed",
+    "translation": "",
+    "context": "InstanceLaunch"
+  },
+  {
     "key": "InstanceList:a9ba3c466011",
     "original": "%1 Instance",
     "translation": "%1 instance",
     "context": "InstanceList"
+  },
+  {
+    "key": "InstanceListPage:0b8a1caec23d",
+    "original": "broken",
+    "translation": "rozbitý",
+    "context": "InstanceListPage"
+  },
+  {
+    "key": "InstanceListPage:415305129c73",
+    "original": "No instances yet.",
+    "translation": "",
+    "context": "InstanceListPage"
+  },
+  {
+    "key": "InstanceListPage:16b81a4d4f80",
+    "original": "Instances (core preview)",
+    "translation": "",
+    "context": "InstanceListPage"
   },
   {
     "key": "InstancePageProvider:2025e506c1db",
@@ -4377,6 +4719,48 @@
     "key": "InstanceSettingsPage:c7f73bb54d92",
     "original": "Settings",
     "translation": "Nastavení",
+    "context": "InstanceSettingsPage"
+  },
+  {
+    "key": "InstanceSettingsPage:cac3ba887056",
+    "original": "Choose a background image",
+    "translation": "",
+    "context": "InstanceSettingsPage"
+  },
+  {
+    "key": "InstanceSettingsPage:7153afe730a6",
+    "original": "Images (*.png *.jpg *.jpeg *.bmp *.webp)",
+    "translation": "",
+    "context": "InstanceSettingsPage"
+  },
+  {
+    "key": "InstanceSettingsPage:759a5323dc91",
+    "original": "An image shown behind the pages of this instance's window. The file is not copied: only its location is remembered, so moving or deleting it simply leaves the window plain again.",
+    "translation": "",
+    "context": "InstanceSettingsPage"
+  },
+  {
+    "key": "InstanceSettingsPage:282182ae6b58",
+    "original": "No background chosen",
+    "translation": "",
+    "context": "InstanceSettingsPage"
+  },
+  {
+    "key": "InstanceSettingsPage:6c406be551d1",
+    "original": "Choose image",
+    "translation": "",
+    "context": "InstanceSettingsPage"
+  },
+  {
+    "key": "InstanceSettingsPage:719ea396ad92",
+    "original": "Clear",
+    "translation": "",
+    "context": "InstanceSettingsPage"
+  },
+  {
+    "key": "InstanceSettingsPage:41def7a0febe",
+    "original": "Appearance",
+    "translation": "Vzhled",
     "context": "InstanceSettingsPage"
   },
   {
@@ -5442,6 +5826,18 @@
     "context": "LaunchController"
   },
   {
+    "key": "LaunchController:40ab636cbfc6",
+    "original": "authlib-injector points at another server",
+    "translation": "",
+    "context": "LaunchController"
+  },
+  {
+    "key": "LaunchController:b80d8c5851a1",
+    "original": "The authlib-injector agent in this instance sends the game's authentication to %1, but this account signs in through %2. Skins and online-mode servers will not work until the agent is reinstalled for the current account.\n\nReinstall it now?",
+    "translation": "",
+    "context": "LaunchController"
+  },
+  {
     "key": "LaunchTask:110eb0419f14",
     "original": "Stopped watching the game log because the log length surpassed %1 lines.\nYou may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!",
     "translation": "Sledování protokolu hry zastaveno, protože délka protokolu překročila %1 řádků.\nMožná budete muset opravit své mody, protože hra se stále zapisuje do souborů a pravděpodobně plýtvá místem na pevném disku alarmující rychlostí!",
@@ -5472,12 +5868,6 @@
     "context": "LauncherLoginStep"
   },
   {
-    "key": "LauncherLoginStep:d18156d469d4",
-    "original": "This build's application is not approved by Mojang yet, so it cannot sign in to Minecraft. Third-party server accounts still work.",
-    "translation": "",
-    "context": "LauncherLoginStep"
-  },
-  {
     "key": "LauncherLoginStep:64e21b2b62f2",
     "original": "Failed to get Minecraft access token: %1",
     "translation": "Nepodařilo se získat přístupový token Minecraftu: %1",
@@ -5493,6 +5883,12 @@
     "key": "LauncherLoginStep:b8469cb66af6",
     "original": "Got Minecraft access token",
     "translation": "Získán přístupový token Minecraftu",
+    "context": "LauncherLoginStep"
+  },
+  {
+    "key": "LauncherLoginStep:f34510a5d2d8",
+    "original": "Mojang refused this build's application ID, so it cannot sign in to Minecraft. The registration is either not approved or no longer approved; see https://aka.ms/AppRegInfo. Third-party server accounts still work.",
+    "translation": "",
     "context": "LauncherLoginStep"
   },
   {
@@ -6468,15 +6864,15 @@
     "context": "MSADeviceCodeStep"
   },
   {
+    "key": "MSADeviceCodeStep:3773f9f9f21c",
+    "original": "The sign-in code expired before it was used. Sign in again to get a new one.",
+    "translation": "",
+    "context": "MSADeviceCodeStep"
+  },
+  {
     "key": "MSALoginDialog:bd5b89703a41",
     "original": "Add Microsoft Account",
     "translation": "Přidat Microsoft účet",
-    "context": "MSALoginDialog"
-  },
-  {
-    "key": "MSALoginDialog:79e99c824900",
-    "original": "Mojang has not approved this build's application yet, so signing in with a Microsoft account cannot finish. Third-party server accounts still work; offline profiles need a signed-in Microsoft account, so they cannot be created until the application is approved.",
-    "translation": "",
     "context": "MSALoginDialog"
   },
   {
@@ -6522,39 +6918,21 @@
     "context": "MSALoginDialog"
   },
   {
-    "key": "MSALoginDialog:aa0b59de558f",
-    "original": "Microsoft refused the application ID this build uses, not your account. Third-party server accounts are unaffected; offline profiles require a signed-in Microsoft account, which this build cannot obtain yet. An app ID registered by hand would not be approved either; sign-in stays unavailable until the review passes.",
-    "translation": "",
-    "context": "MSALoginDialog"
-  },
-  {
     "key": "MSALoginDialog:77dfd2135f4d",
     "original": "Cancel",
     "translation": "Zrušit",
     "context": "MSALoginDialog"
   },
   {
-    "key": "MSALoginDialog:95234f4e13e8",
-    "original": "Microsoft sign-in is not available",
-    "translation": "",
-    "context": "MSALoginDialog"
-  },
-  {
-    "key": "MSALoginDialog:0565afb86a8b",
-    "original": "Mojang has not approved this build's application yet, so signing in cannot finish. Third-party server accounts are unaffected. Try anyway?",
-    "translation": "",
-    "context": "MSALoginDialog"
-  },
-  {
-    "key": "MSALoginDialog:29c0b0a4d95d",
-    "original": "Try anyway",
-    "translation": "",
-    "context": "MSALoginDialog"
-  },
-  {
     "key": "MSALoginDialog:7c5396c5e113",
     "original": "Open %1 or scan the QR and enter the above code if needed.",
     "translation": "Otevřete %1 nebo naskenujte QR kód a v případě potřeby zadejte kód výše.",
+    "context": "MSALoginDialog"
+  },
+  {
+    "key": "MSALoginDialog:ad8610b41e3c",
+    "original": "Microsoft refused the application ID this build uses, not your account. That means the registration is misconfigured, or it no longer has access to the Minecraft services API. Third-party server accounts are unaffected.",
+    "translation": "",
     "context": "MSALoginDialog"
   },
   {
@@ -6594,6 +6972,18 @@
     "context": "MSAStep"
   },
   {
+    "key": "MainContentPanel:36600ff2f734",
+    "original": "No instance selected",
+    "translation": "Nebyla vybrána žádná instance",
+    "context": "MainContentPanel"
+  },
+  {
+    "key": "MainContentPanel:5964ea184b02",
+    "original": "Pick one on the left to get started.",
+    "translation": "",
+    "context": "MainContentPanel"
+  },
+  {
     "key": "MainWindow:7add7b801ab2",
     "original": "Launch the selected instance.",
     "translation": "Spustit vybranou instanci.",
@@ -6603,12 +6993,6 @@
     "key": "MainWindow:8b07b4048bd3",
     "original": "Main Toolbar",
     "translation": "Hlavní panel nástrojů",
-    "context": "MainWindow"
-  },
-  {
-    "key": "MainWindow:f0a9b722df1a",
-    "original": "Add a new instance.",
-    "translation": "Vytvořit novou instanci.",
     "context": "MainWindow"
   },
   {
@@ -6648,18 +7032,6 @@
     "context": "MainWindow"
   },
   {
-    "key": "MainWindow:06a6f50d63ad",
-    "original": "Open one of the folders shared between instances.",
-    "translation": "Otevřít jednu ze složek sdílených mezi instancemi.",
-    "context": "MainWindow"
-  },
-  {
-    "key": "MainWindow:e34a33ef73e7",
-    "original": "Change settings.",
-    "translation": "Změna nastavení.",
-    "context": "MainWindow"
-  },
-  {
     "key": "MainWindow:9f605bd701bc",
     "original": "Open the bug tracker to report a bug with %1.",
     "translation": "Otevřít bug tracker pro nahlášení shyby s %1.",
@@ -6681,24 +7053,6 @@
     "key": "MainWindow:c47ae15370cf",
     "original": "Help",
     "translation": "Nápověda",
-    "context": "MainWindow"
-  },
-  {
-    "key": "MainWindow:a7163d114d1f",
-    "original": "Get help with %1 or Minecraft.",
-    "translation": "Získat pomoc s %1 nebo s Minecraftem.",
-    "context": "MainWindow"
-  },
-  {
-    "key": "MainWindow:caf55512b740",
-    "original": "Check for new updates for %1.",
-    "translation": "Vyhledat aktualizace pro %1.",
-    "context": "MainWindow"
-  },
-  {
-    "key": "MainWindow:b03440792ba0",
-    "original": "It's a fluffy kitty :3",
-    "translation": "Chlupatá kočička :3",
     "context": "MainWindow"
   },
   {
@@ -7182,12 +7536,6 @@
     "context": "MainWindow"
   },
   {
-    "key": "MainWindow:3f48e09eaf42",
-    "original": "Total playtime: 0s",
-    "translation": "Celková doba hraní: 0s",
-    "context": "MainWindow"
-  },
-  {
     "key": "MainWindow:0b71510c3cd6",
     "original": "&Create instance",
     "translation": "&Vytvořit instanci",
@@ -7476,12 +7824,6 @@
     "context": "MainWindow"
   },
   {
-    "key": "MainWindow:f34bcfa038bb",
-    "original": "Open the development blog to read more news about %1.",
-    "translation": "Otevřít vývojový blog a přečíst si další novinky o %1.",
-    "context": "MainWindow"
-  },
-  {
     "key": "MainWindow:66e9787351d0",
     "original": "Loading news...",
     "translation": "Načítání novinek...",
@@ -7497,6 +7839,12 @@
     "key": "MainWindow:d54119275b02",
     "original": "Open %1 Discord guild.",
     "translation": "Otevřít Discord server %1.",
+    "context": "MainWindow"
+  },
+  {
+    "key": "MainWindow:16b81a4d4f80",
+    "original": "Instances (core preview)",
+    "translation": "",
     "context": "MainWindow"
   },
   {
@@ -12024,6 +12372,132 @@
     "context": "QObject"
   },
   {
+    "key": "QObject:6480087d3163",
+    "original": "Skipped a pack entry with no download source: %1",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:eacfe81e35d0",
+    "original": "The MCBBS manifest is not valid JSON: %1",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:a95d14d57690",
+    "original": "The manifest declares the type \"%1\", not minecraftModpack.",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:adc3291c1435",
+    "original": "Imported pack",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:f0fd5f088e3c",
+    "original": "The MCBBS manifest does not name a Minecraft version.",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:53eac72d237e",
+    "original": "The HMCL modpack manifest is not valid JSON: %1",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:3e655d082cfd",
+    "original": "minecraft/pack.json could not be read; the game version will be taken from the pack contents.",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:7a186fe77568",
+    "original": "Could not start the instance",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:f0dd318aac70",
+    "original": "the asset %1 is missing from assets/objects",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:67e9f6bfa054",
+    "original": "could not create the folder for %1",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:746c4c0401f9",
+    "original": "could not replace %1",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:06cf62b3a7f4",
+    "original": "could not copy %1 to %2",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:0e95732cfe9f",
+    "original": "could not open %1: %2",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:70ad6b496666",
+    "original": "could not write %1: %2",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:8dc5246e0f3f",
+    "original": "could not create %1",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:e9ebb91841ec",
+    "original": "the natives jar %1 is missing",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:f2468a61acbb",
+    "original": "The game exited with code %1.",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:90c74f3bfd21",
+    "original": "Diagnosis: %1",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:7a02e2da18cd",
+    "original": "Suggestion: %1",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:102cee416435",
+    "original": "the Java this instance names does not exist: %1",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:b6d6cf1deaaf",
+    "original": "no Java %1 was found on this machine",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
     "key": "Resource:a02acfde31a6",
     "original": "Not marked as compatible with the instance's game version.",
     "translation": "Není označeno jako kompatibilní s verzí hry této instance.",
@@ -12966,45 +13440,15 @@
     "context": "ScreenshotsPage"
   },
   {
-    "key": "ScreenshotsPage:69f424ee3a3e",
-    "original": "You are about to upload %1 screenshots to %2.\nYou should double-check for personal information.\n\nAre you sure?",
-    "translation": "Chystáte se nahrát %1 snímků na %2.\nPro jistotu překontrolujte, zda neobsahují osobní údaje.\n\nJste si jisti?",
-    "context": "ScreenshotsPage"
-  },
-  {
-    "key": "ScreenshotsPage:83c8e38b85e0",
-    "original": "You are about to upload the selected screenshot to %1.\nYou should double-check for personal information.\n\nAre you sure?",
-    "translation": "Chystáte se nahrát vybraný snímek na %2.\nPro jistotu překontrolujte, zda neobsahují osobní údaje.\n\nJste si jisti?",
-    "context": "ScreenshotsPage"
-  },
-  {
     "key": "ScreenshotsPage:475139365d2a",
     "original": "Failed to upload screenshots!",
     "translation": "Nepodařilo se nahrát snímky obrazovky!",
     "context": "ScreenshotsPage"
   },
   {
-    "key": "ScreenshotsPage:e5fd9aa24c94",
-    "original": "Unknown error",
-    "translation": "Neznámá chyba",
-    "context": "ScreenshotsPage"
-  },
-  {
     "key": "ScreenshotsPage:74d7266ffe89",
     "original": "Upload finished",
     "translation": "Nahrávání dokončeno",
-    "context": "ScreenshotsPage"
-  },
-  {
-    "key": "ScreenshotsPage:5755447c61f4",
-    "original": "The <a href=\"%1\">link  to the uploaded screenshot</a> has been placed in your clipboard.",
-    "translation": "<a href=\"%1\">Odkaz na nahraný snímek</a> byl zkopírován do vaší schránky.",
-    "context": "ScreenshotsPage"
-  },
-  {
-    "key": "ScreenshotsPage:00078f041c95",
-    "original": "The <a href=\"%1\">link  to the uploaded album</a> has been placed in your clipboard.",
-    "translation": "<a href=\"%1\">Odkaz na nahrané album</a> byl zkopírován do vaší schránky.",
     "context": "ScreenshotsPage"
   },
   {
@@ -13041,6 +13485,42 @@
     "key": "ScreenshotsPage:1e0ebd12fccc",
     "original": "Copy File(s)",
     "translation": "Kopírovat soubor(y)",
+    "context": "ScreenshotsPage"
+  },
+  {
+    "key": "ScreenshotsPage:a56211841b33",
+    "original": "ImgBB API key",
+    "translation": "",
+    "context": "ScreenshotsPage"
+  },
+  {
+    "key": "ScreenshotsPage:d02a53736277",
+    "original": "Uploading screenshots uses ImgBB and needs an API key from your own account.\nGet one at https://api.imgbb.com/ and paste it here. It is stored on this computer only.",
+    "translation": "",
+    "context": "ScreenshotsPage"
+  },
+  {
+    "key": "ScreenshotsPage:2fdad803f00b",
+    "original": "You are about to upload %1 screenshots to ImgBB.\nYou should double-check for personal information.\n\nAre you sure?",
+    "translation": "",
+    "context": "ScreenshotsPage"
+  },
+  {
+    "key": "ScreenshotsPage:ee42d3e732fb",
+    "original": "You are about to upload the selected screenshot to ImgBB.\nYou should double-check for personal information.\n\nAre you sure?",
+    "translation": "",
+    "context": "ScreenshotsPage"
+  },
+  {
+    "key": "ScreenshotsPage:686cb5eed15e",
+    "original": "The <a href=\"%1\">link to the uploaded screenshot</a> has been placed in your clipboard.",
+    "translation": "",
+    "context": "ScreenshotsPage"
+  },
+  {
+    "key": "ScreenshotsPage:0bde30abfa49",
+    "original": "%1 links have been placed in your clipboard.",
+    "translation": "",
     "context": "ScreenshotsPage"
   },
   {
@@ -15330,6 +15810,12 @@
     "context": "YggdrasilLoginDialog"
   },
   {
+    "key": "YggdrasilLoginDialog:c89d86150763",
+    "original": "The address must not contain a user name or password.",
+    "translation": "",
+    "context": "YggdrasilLoginDialog"
+  },
+  {
     "key": "YggdrasilStep:8d7e38e1bc7f",
     "original": "Logging in to the authentication server",
     "translation": "",
@@ -15368,6 +15854,12 @@
   {
     "key": "YggdrasilStep:ce9a7cea456c",
     "original": "Got an access token",
+    "translation": "",
+    "context": "YggdrasilStep"
+  },
+  {
+    "key": "YggdrasilStep:e90d53698400",
+    "original": "The authentication server address contains a user name or password. Remove it and sign in again.",
     "translation": "",
     "context": "YggdrasilStep"
   }
