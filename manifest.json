@@ -1,413 +1,413 @@
 {
-  "strings": 2644,
+  "strings": 2747,
   "languages": {
     "af": {
-      "translated": 407,
-      "missing": 2237
+      "translated": 410,
+      "missing": 2337
     },
     "ar": {
-      "translated": 2215,
-      "missing": 429
+      "translated": 2217,
+      "missing": 530
     },
     "az": {
-      "translated": 2196,
-      "missing": 448
+      "translated": 2205,
+      "missing": 542
     },
     "azb": {
       "translated": 6,
-      "missing": 2638
+      "missing": 2741
     },
     "bar": {
       "translated": 0,
-      "missing": 2644
+      "missing": 2747
     },
     "be": {
-      "translated": 1736,
-      "missing": 908
+      "translated": 1742,
+      "missing": 1005
     },
     "bg": {
-      "translated": 1224,
-      "missing": 1420
+      "translated": 1232,
+      "missing": 1515
     },
     "bn": {
-      "translated": 652,
-      "missing": 1992
+      "translated": 662,
+      "missing": 2085
     },
     "bs": {
       "translated": 7,
-      "missing": 2637
+      "missing": 2740
     },
     "ca": {
-      "translated": 1842,
-      "missing": 802
+      "translated": 1856,
+      "missing": 891
     },
     "ca@valencia": {
-      "translated": 60,
-      "missing": 2584
+      "translated": 85,
+      "missing": 2662
     },
     "ceb": {
-      "translated": 1214,
-      "missing": 1430
+      "translated": 1236,
+      "missing": 1511
     },
     "ckb": {
-      "translated": 185,
-      "missing": 2459
+      "translated": 206,
+      "missing": 2541
     },
     "cop": {
       "translated": 6,
-      "missing": 2638
+      "missing": 2741
     },
     "cs": {
-      "translated": 2374,
-      "missing": 270
+      "translated": 2379,
+      "missing": 368
     },
     "cy": {
-      "translated": 370,
-      "missing": 2274
+      "translated": 373,
+      "missing": 2374
     },
     "da": {
-      "translated": 2094,
-      "missing": 550
+      "translated": 2108,
+      "missing": 639
     },
     "de": {
-      "translated": 2363,
-      "missing": 281
+      "translated": 2368,
+      "missing": 379
     },
     "de_CH": {
-      "translated": 865,
-      "missing": 1779
+      "translated": 877,
+      "missing": 1870
     },
     "el": {
-      "translated": 1371,
-      "missing": 1273
+      "translated": 1381,
+      "missing": 1366
     },
     "en@pirate": {
-      "translated": 860,
-      "missing": 1784
+      "translated": 881,
+      "missing": 1866
     },
     "en@uwu": {
-      "translated": 862,
-      "missing": 1782
+      "translated": 883,
+      "missing": 1864
     },
     "en_AU": {
-      "translated": 2325,
-      "missing": 319
+      "translated": 2331,
+      "missing": 416
     },
     "en_CA": {
-      "translated": 2371,
-      "missing": 273
+      "translated": 2377,
+      "missing": 370
     },
     "en_GB": {
-      "translated": 2296,
-      "missing": 348
+      "translated": 2302,
+      "missing": 445
     },
     "en_NZ": {
-      "translated": 864,
-      "missing": 1780
+      "translated": 885,
+      "missing": 1862
     },
     "eo": {
-      "translated": 1143,
-      "missing": 1501
+      "translated": 1151,
+      "missing": 1596
     },
     "es": {
-      "translated": 2372,
-      "missing": 272
+      "translated": 2377,
+      "missing": 370
     },
     "es_UY": {
-      "translated": 1995,
-      "missing": 649
+      "translated": 2005,
+      "missing": 742
     },
     "et": {
-      "translated": 1717,
-      "missing": 927
+      "translated": 1730,
+      "missing": 1017
     },
     "eu": {
-      "translated": 604,
-      "missing": 2040
+      "translated": 612,
+      "missing": 2135
     },
     "fa": {
-      "translated": 1635,
-      "missing": 1009
+      "translated": 1648,
+      "missing": 1099
     },
     "fi": {
-      "translated": 2375,
-      "missing": 269
+      "translated": 2381,
+      "missing": 366
     },
     "fil": {
-      "translated": 1388,
-      "missing": 1256
+      "translated": 1399,
+      "missing": 1348
     },
     "fr": {
-      "translated": 2375,
-      "missing": 269
+      "translated": 2381,
+      "missing": 366
     },
     "fr_CA": {
-      "translated": 1642,
-      "missing": 1002
+      "translated": 1652,
+      "missing": 1095
     },
     "fur": {
-      "translated": 1942,
-      "missing": 702
+      "translated": 1951,
+      "missing": 796
     },
     "fy": {
       "translated": 14,
-      "missing": 2630
+      "missing": 2733
     },
     "ga": {
-      "translated": 2373,
-      "missing": 271
+      "translated": 2379,
+      "missing": 368
     },
     "gl": {
-      "translated": 1498,
-      "missing": 1146
+      "translated": 1508,
+      "missing": 1239
     },
     "grc": {
-      "translated": 9,
-      "missing": 2635
+      "translated": 13,
+      "missing": 2734
     },
     "gv": {
-      "translated": 41,
-      "missing": 2603
+      "translated": 43,
+      "missing": 2704
     },
     "haw": {
       "translated": 18,
-      "missing": 2626
+      "missing": 2729
     },
     "he": {
-      "translated": 1618,
-      "missing": 1026
+      "translated": 1621,
+      "missing": 1126
     },
     "hi": {
-      "translated": 587,
-      "missing": 2057
+      "translated": 588,
+      "missing": 2159
     },
     "hr": {
-      "translated": 2371,
-      "missing": 273
+      "translated": 2376,
+      "missing": 371
     },
     "hu": {
-      "translated": 2250,
-      "missing": 394
+      "translated": 2254,
+      "missing": 493
     },
     "hy": {
-      "translated": 175,
-      "missing": 2469
+      "translated": 179,
+      "missing": 2568
     },
     "id": {
-      "translated": 2365,
-      "missing": 279
+      "translated": 2370,
+      "missing": 377
     },
     "is": {
-      "translated": 908,
-      "missing": 1736
+      "translated": 920,
+      "missing": 1827
     },
     "it": {
-      "translated": 2365,
-      "missing": 279
+      "translated": 2370,
+      "missing": 377
     },
     "ja": {
-      "translated": 2252,
-      "missing": 392
+      "translated": 2258,
+      "missing": 489
     },
     "ja_KANJI": {
-      "translated": 688,
-      "missing": 1956
+      "translated": 695,
+      "missing": 2052
     },
     "jam": {
       "translated": 16,
-      "missing": 2628
+      "missing": 2731
     },
     "ka": {
-      "translated": 800,
-      "missing": 1844
+      "translated": 807,
+      "missing": 1940
     },
     "kk": {
-      "translated": 490,
-      "missing": 2154
+      "translated": 498,
+      "missing": 2249
     },
     "km": {
-      "translated": 561,
-      "missing": 2083
+      "translated": 566,
+      "missing": 2181
     },
     "ko": {
-      "translated": 2373,
-      "missing": 271
+      "translated": 2376,
+      "missing": 371
     },
     "kxm": {
       "translated": 8,
-      "missing": 2636
+      "missing": 2739
     },
     "lb": {
-      "translated": 276,
-      "missing": 2368
+      "translated": 279,
+      "missing": 2468
     },
     "lfn": {
       "translated": 9,
-      "missing": 2635
+      "missing": 2738
     },
     "lo": {
-      "translated": 2172,
-      "missing": 472
+      "translated": 2187,
+      "missing": 560
     },
     "lt": {
-      "translated": 1271,
-      "missing": 1373
+      "translated": 1278,
+      "missing": 1469
     },
     "lv": {
-      "translated": 950,
-      "missing": 1694
+      "translated": 962,
+      "missing": 1785
     },
     "lzh": {
-      "translated": 87,
-      "missing": 2557
+      "translated": 110,
+      "missing": 2637
     },
     "mk": {
-      "translated": 407,
-      "missing": 2237
+      "translated": 410,
+      "missing": 2337
     },
     "mn": {
-      "translated": 554,
-      "missing": 2090
+      "translated": 560,
+      "missing": 2187
     },
     "ms": {
-      "translated": 1779,
-      "missing": 865
+      "translated": 1788,
+      "missing": 959
     },
     "mt": {
-      "translated": 205,
-      "missing": 2439
+      "translated": 208,
+      "missing": 2539
     },
     "nan": {
-      "translated": 160,
-      "missing": 2484
+      "translated": 182,
+      "missing": 2565
     },
     "nan_Hant": {
       "translated": 3,
-      "missing": 2641
+      "missing": 2744
     },
     "nb": {
-      "translated": 1696,
-      "missing": 948
+      "translated": 1714,
+      "missing": 1033
     },
     "nl": {
-      "translated": 2267,
-      "missing": 377
+      "translated": 2273,
+      "missing": 474
     },
     "nn": {
-      "translated": 920,
-      "missing": 1724
+      "translated": 926,
+      "missing": 1821
     },
     "peo": {
       "translated": 1,
-      "missing": 2643
+      "missing": 2746
     },
     "pl": {
-      "translated": 2352,
-      "missing": 292
+      "translated": 2358,
+      "missing": 389
     },
     "pt": {
-      "translated": 2267,
-      "missing": 377
+      "translated": 2273,
+      "missing": 474
     },
     "pt_BR": {
-      "translated": 2374,
-      "missing": 270
+      "translated": 2379,
+      "missing": 368
     },
     "ro": {
-      "translated": 2246,
-      "missing": 398
+      "translated": 2251,
+      "missing": 496
     },
     "ru": {
-      "translated": 2393,
-      "missing": 251
+      "translated": 2398,
+      "missing": 349
     },
     "rue": {
       "translated": 1,
-      "missing": 2643
+      "missing": 2746
     },
     "scn": {
       "translated": 12,
-      "missing": 2632
+      "missing": 2735
     },
     "sk": {
-      "translated": 2015,
-      "missing": 629
+      "translated": 2020,
+      "missing": 727
     },
     "sl": {
-      "translated": 990,
-      "missing": 1654
+      "translated": 995,
+      "missing": 1752
     },
     "sq": {
-      "translated": 2217,
-      "missing": 427
+      "translated": 2220,
+      "missing": 527
     },
     "sr": {
-      "translated": 980,
-      "missing": 1664
+      "translated": 993,
+      "missing": 1754
     },
     "sv": {
-      "translated": 2374,
-      "missing": 270
+      "translated": 2380,
+      "missing": 367
     },
     "szl": {
-      "translated": 668,
-      "missing": 1976
+      "translated": 683,
+      "missing": 2064
     },
     "ta": {
-      "translated": 2068,
-      "missing": 576
+      "translated": 2077,
+      "missing": 670
     },
     "th": {
-      "translated": 1357,
-      "missing": 1287
+      "translated": 1363,
+      "missing": 1384
     },
     "tok": {
-      "translated": 374,
-      "missing": 2270
+      "translated": 396,
+      "missing": 2351
     },
     "tr": {
-      "translated": 2352,
-      "missing": 292
+      "translated": 2357,
+      "missing": 390
     },
     "tt": {
-      "translated": 754,
-      "missing": 1890
+      "translated": 761,
+      "missing": 1986
     },
     "udm": {
       "translated": 3,
-      "missing": 2641
+      "missing": 2744
     },
     "uk": {
-      "translated": 2354,
-      "missing": 290
+      "translated": 2360,
+      "missing": 387
     },
     "ur": {
       "translated": 23,
-      "missing": 2621
+      "missing": 2724
     },
     "uz": {
-      "translated": 2373,
-      "missing": 271
+      "translated": 2377,
+      "missing": 370
     },
     "vec": {
-      "translated": 11,
-      "missing": 2633
+      "translated": 15,
+      "missing": 2732
     },
     "vi": {
-      "translated": 2336,
-      "missing": 308
+      "translated": 2338,
+      "missing": 409
     },
     "zh": {
-      "translated": 2552,
-      "missing": 92
+      "translated": 2747,
+      "missing": 0
     },
     "zh_Hant_HK": {
-      "translated": 773,
-      "missing": 1871
+      "translated": 782,
+      "missing": 1965
     },
     "zh_TW": {
-      "translated": 2371,
-      "missing": 273
+      "translated": 2377,
+      "missing": 370
     }
   }
 }

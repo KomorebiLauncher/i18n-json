@@ -246,6 +246,162 @@
     "context": "APIPage"
   },
   {
+    "key": "ATLauncher::PackInstallTask:93fc42ea75d6",
+    "original": "Could not understand pack manifest:\n",
+    "translation": "无法解析包清单：",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:1cc558d32fa4",
+    "original": "Unsupported installation mode",
+    "translation": "不支持的安装模式",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:608a6e16a154",
+    "original": "Failed to get local metadata index for '%1' v%2",
+    "translation": "无法获取 %1(v%2) 的本地元数据索引",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:a61c5171cb28",
+    "original": "Deleting existing files...",
+    "translation": "正在删除现有文件...",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:639e6287333c",
+    "original": "Unknown mod type: %1",
+    "translation": "未知的 Mod 类型：%1",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:54a1e48a12f3",
+    "original": "Failed to get local metadata index for %1",
+    "translation": "无法获取 %1 的本地元数据索引",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:9638c0cc0435",
+    "original": "Failed to find version for %1 loader",
+    "translation": "无法找到 %1 加载器的合适版本",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:394b0f2a985e",
+    "original": "No loader version set for modpack!",
+    "translation": "没有为整合包设置 Mod 加载器版本！",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:8ea0186a5329",
+    "original": "Unknown or unsupported download type: %1",
+    "translation": "未知或不支持的下载类型：%1",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:db82f5ce4d92",
+    "original": "Downloading configs...",
+    "translation": "正在下载配置文件…",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:296053b61434",
+    "original": "Config download",
+    "translation": "下载配置文件",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:88e116160aff",
+    "original": "Extracting configs...",
+    "translation": "正在解压配置文件…",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:6e97ce93553c",
+    "original": "Selecting optional mods...",
+    "translation": "正在选择可选 Mod…",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:df237503973c",
+    "original": "Downloading mods...",
+    "translation": "下载 Mod 中…",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:7b02e924aa02",
+    "original": "Mod download",
+    "translation": "Mod 下载",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:e91e47f5379a",
+    "original": "Unknown download type: %1",
+    "translation": "未知的下载类型：%1",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:d4e059888d25",
+    "original": "Blocked path traversal in %1",
+    "translation": "已拦截 %1 中的路径穿越",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:327b7e57d4e1",
+    "original": "Blocked mods found",
+    "translation": "发现被屏蔽的 Mod",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:7ff827f8d900",
+    "original": "The following files are not available for download in third party launchers.<br/>You will need to manually download them and add them to the instance.",
+    "translation": "以下文件无法在第三方启动器中下载。<br/>你需要手动下载它们并将其添加到实例中。",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:f9bc7a615403",
+    "original": "%1 out of %2 complete",
+    "translation": "已完成 %1/%2",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:3138740f4b31",
+    "original": "Failed to extract mods...",
+    "translation": "Mod 解压失败…",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:e87c1bb107c0",
+    "original": "Extracting mods...",
+    "translation": "正在解压 Mod…",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:7d3e34e21534",
+    "original": "Installing modpack",
+    "translation": "正在安装整合包",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:a568ebaf6ef5",
+    "original": "Failed to create libraries component",
+    "translation": "无法创建库组件",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:c9c9e81a13ed",
+    "original": "Unknown loader type: ",
+    "translation": "未知的加载器类型：",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:76fefafc38cf",
+    "original": "Failed to create pack component",
+    "translation": "无法创建包组件",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
     "key": "AboutDialog:6b21fb791ac0",
     "original": "About",
     "translation": "关于",
@@ -518,7 +674,7 @@
   {
     "key": "AccountListPage:24466be4d186",
     "original": "You must add a Microsoft account that owns Minecraft before you can add an offline account.<br><br>An offline profile is a local name for singleplayer worlds and for servers that allow offline players; it is not a way to use Minecraft without owning it. Add the Microsoft account that owns the game first, then the offline profile.<br><br>If you have lost your account you can contact Microsoft for support.",
-    "translation": "",
+    "translation": "需要先添加拥有 Minecraft 的 Microsoft 账户，才能添加离线账户。<br><br>离线档案只是用于单人世界和允许离线玩家的服务器的本地名称，并不是不拥有正版就玩 Minecraft 的途径。请先添加拥有游戏的 Microsoft 账户，再添加离线档案。<br><br>如果账户已丢失，可以联系 Microsoft 支持。",
     "context": "AccountListPage"
   },
   {
@@ -1242,12 +1398,6 @@
     "context": "AutoJavaWizardPage"
   },
   {
-    "key": "BaseEntityLoadTask:ae327e573ef2",
-    "original": "Loading local file",
-    "translation": "正在加载本地文件",
-    "context": "BaseEntityLoadTask"
-  },
-  {
     "key": "BaseProfiler:122e80b33e98",
     "original": "Profiler aborted",
     "translation": "分析器已停止运作",
@@ -1758,16 +1908,70 @@
     "context": "CopyWorldTask"
   },
   {
-    "key": "CopyWorldTask:7d6444a17eae",
-    "original": "Failed to copy world.",
-    "translation": "无法复制世界。",
-    "context": "CopyWorldTask"
-  },
-  {
     "key": "CoreModFolderPage:48c3931a7ea5",
     "original": "Core Mods",
     "translation": "核心 Mod",
     "context": "CoreModFolderPage"
+  },
+  {
+    "key": "CoreSettingsPage:16b63ac60431",
+    "original": "Start instances with the new core",
+    "translation": "使用新核心启动实例",
+    "context": "CoreSettingsPage"
+  },
+  {
+    "key": "CoreSettingsPage:f8bde7ddee11",
+    "original": "Create instances with the new wizard",
+    "translation": "使用新向导创建实例",
+    "context": "CoreSettingsPage"
+  },
+  {
+    "key": "CoreSettingsPage:fe7259e0111f",
+    "original": "The core reads the instance's folder and fetches what the game is missing before starting it. Turning this off falls back to the launcher's original launch path.",
+    "translation": "核心会读取实例文件夹，并在启动前补齐游戏缺少的文件。关闭后将回退到启动器原有的启动方式。",
+    "context": "CoreSettingsPage"
+  },
+  {
+    "key": "CoreSettingsPage:3df348edb254",
+    "original": "The wizard asks for a name, a game version and, if wanted, a mod loader, and writes the instance through the core. Turning this off falls back to the launcher's original dialog.",
+    "translation": "向导会询问名称、游戏版本，并可选 Mod 加载器，然后通过核心写入实例。关闭后将回退到启动器原有的对话框。",
+    "context": "CoreSettingsPage"
+  },
+  {
+    "key": "CoreSettingsPage:7f874f6a6414",
+    "original": "Play as the Komorebi account",
+    "translation": "使用 Komorebi 账户游玩",
+    "context": "CoreSettingsPage"
+  },
+  {
+    "key": "CoreSettingsPage:31044a07e61a",
+    "original": "A Komorebi account starts the game through the core's own Microsoft sign-in. Turning this off, or having no account here, uses the launcher's original account.",
+    "translation": "Komorebi 账户通过核心自带的 Microsoft 登录来启动游戏。关闭此项或此处没有账户时，将使用启动器原有的账户。",
+    "context": "CoreSettingsPage"
+  },
+  {
+    "key": "CoreSettingsPage:a2417c203393",
+    "original": "Manage accounts…",
+    "translation": "管理账户…",
+    "context": "CoreSettingsPage"
+  },
+  {
+    "key": "CoreSettingsPage:e1f7dab61184",
+    "original": "Downloads come from",
+    "translation": "下载来源",
+    "context": "CoreSettingsPage"
+  },
+  {
+    "key": "CoreSettingsPage:e9dffdc3fab7",
+    "original": "Official uses the addresses the version manifests name. A mirror is used where it has the file, with the original address kept as a fallback.",
+    "translation": "官方：使用版本清单中给出的地址。镜像：在镜像有该文件时使用镜像，并保留原地址作为回退。",
+    "context": "CoreSettingsPage"
+  },
+  {
+    "key": "CoreSettingsPage:57d6d465bf57",
+    "original": "Komorebi",
+    "translation": "Komorebi",
+    "context": "CoreSettingsPage"
   },
   {
     "key": "CrashAnalysis:3ca253092c61",
@@ -2478,15 +2682,9 @@
     "context": "DeleteWorldTask"
   },
   {
-    "key": "DeleteWorldTask:d2440e81cf41",
-    "original": "Failed to delete world.",
-    "translation": "无法删除世界。",
-    "context": "DeleteWorldTask"
-  },
-  {
     "key": "DownloadQueue:8761d26fb8d6",
     "original": "cancelled",
-    "translation": "",
+    "translation": "已取消",
     "context": "DownloadQueue"
   },
   {
@@ -3462,6 +3660,12 @@
     "context": "FTBImportAPP::ImportFTBPage"
   },
   {
+    "key": "FTBImportAPP::ListModel:c4a7e601008a",
+    "original": "Minecraft %1",
+    "translation": "Minecraft %1",
+    "context": "FTBImportAPP::ListModel"
+  },
+  {
     "key": "FTBImportAPP::PackInstallTask:0193c81b949c",
     "original": "Copying files...",
     "translation": "复制文件中…",
@@ -3476,61 +3680,67 @@
   {
     "key": "FileDownloader:0841c54a817b",
     "original": "the download did not succeed after %1 attempts",
-    "translation": "",
+    "translation": "重试 %1 次后下载仍未成功",
     "context": "FileDownloader"
   },
   {
     "key": "FileDownloader:0a4a2d2ba10e",
     "original": "could not open %1 for writing: %2",
-    "translation": "",
+    "translation": "无法以写入方式打开 %1：%2",
     "context": "FileDownloader"
   },
   {
     "key": "FileDownloader:96cf4ecee465",
     "original": "could not rewrite %1: %2",
-    "translation": "",
+    "translation": "无法重写 %1：%2",
     "context": "FileDownloader"
   },
   {
     "key": "FileDownloader:03415ba19151",
     "original": "could not write to %1: %2",
-    "translation": "",
+    "translation": "无法写入 %1：%2",
+    "context": "FileDownloader"
+  },
+  {
+    "key": "FileDownloader:1ef1ac6fe684",
+    "original": "no data arrived for %1 seconds from %2",
+    "translation": "%2 在 %1 秒内没有传来任何数据",
     "context": "FileDownloader"
   },
   {
     "key": "FileDownloader:69d1ce76e960",
     "original": "the server answered with HTTP %1",
-    "translation": "",
+    "translation": "服务器返回了 HTTP %1",
     "context": "FileDownloader"
   },
   {
     "key": "FileDownloader:61ce260d5c75",
     "original": "the download wrote no file",
-    "translation": "",
+    "translation": "下载没有写出任何文件",
     "context": "FileDownloader"
   },
   {
     "key": "FileDownloader:b4420b7b44bf",
     "original": "the file's SHA-1 is %1, not the %2 the manifest asked for (from %3, %4 bytes)",
-    "translation": "",
+    "translation": "文件的 SHA-1 是 %1，但清单要求的是 %2（来自 %3，%4 字节）",
     "context": "FileDownloader"
   },
   {
     "key": "FileDownloader:e9a6c75a58c2",
     "original": "the file is %1 bytes, not the %2 the manifest asked for",
-    "translation": "",
+    "translation": "文件为 %1 字节，但清单要求的是 %2 字节",
     "context": "FileDownloader"
   },
   {
     "key": "FileDownloader:746c4c0401f9",
     "original": "could not replace %1",
-    "translation": "",
+    "translation": "无法替换 %1",
     "context": "FileDownloader"
   },
   {
     "key": "FileDownloader:67d0027ae93f",
     "original": "could not move %1 into place",
-    "translation": "",
+    "translation": "无法把 %1 移到目标位置",
     "context": "FileDownloader"
   },
   {
@@ -4380,12 +4590,6 @@
     "context": "InstallWorldTask"
   },
   {
-    "key": "InstallWorldTask:7486d58a6ff5",
-    "original": "Failed to import world.",
-    "translation": "无法导入世界。",
-    "context": "InstallWorldTask"
-  },
-  {
     "key": "InstanceCopyTask:f1adc5931742",
     "original": "Copying instance %1",
     "translation": "正在复制实例 %1",
@@ -4406,79 +4610,181 @@
   {
     "key": "InstanceCreator:3e99a428b64a",
     "original": "Reading the list of Minecraft versions",
-    "translation": "",
+    "translation": "正在读取 Minecraft 版本列表",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:2836b006d641",
     "original": "could not read %1",
-    "translation": "",
+    "translation": "无法读取 %1",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:2dc677a19c61",
     "original": "%1 is not in the version list",
-    "translation": "",
+    "translation": "版本列表中没有 %1",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:acdeff94790d",
     "original": "Reading Minecraft %1",
-    "translation": "",
+    "translation": "正在读取 Minecraft %1",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:220f5c12fea0",
     "original": "Creating the instance",
-    "translation": "",
+    "translation": "正在创建实例",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:8dc5246e0f3f",
     "original": "could not create %1",
-    "translation": "",
+    "translation": "无法创建 %1",
     "context": "InstanceCreator"
   },
   {
-    "key": "InstanceCreator:9a5bfce5b5d0",
-    "original": "could not write %1",
-    "translation": "",
+    "key": "InstanceCreator:567b615f4f4b",
+    "original": "only the Fabric, Quilt, Forge and NeoForge loaders are supported so far, not %1",
+    "translation": "目前仅支持 Fabric、Quilt、Forge 和 NeoForge 加载器，不支持 %1",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:1c5540c5fcc1",
+    "original": "there is no address for %1",
+    "translation": "找不到 %1 的地址",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:8581afdd1b0f",
+    "original": "Reading the %1 versions",
+    "translation": "正在读取 %1 版本",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:9661626d284b",
+    "original": "there is no %1 metadata here",
+    "translation": "这里没有 %1 的元数据",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:73850c0e5755",
+    "original": "%1 has no release for Minecraft %2",
+    "translation": "%1 没有适用于 Minecraft %2 的发布版本",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:c2b5ee497caa",
+    "original": "Reading the %1 profile",
+    "translation": "正在读取 %1 配置文件",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:e5df8e4adbd0",
+    "original": "the %1 metadata has no main class",
+    "translation": "%1 元数据中没有主类",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:09bf71a72250",
+    "original": "Installing the %1 loader",
+    "translation": "正在安装 %1 加载器",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:944655b1b9db",
+    "original": "no Forge version was given",
+    "translation": "没有指定 Forge 版本",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:014a50af6cd2",
+    "original": "no Java %1 was found to run the Forge installer",
+    "translation": "找不到可用于运行 Forge 安装器的 Java %1",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:deb5a521b060",
+    "original": "Running the %1 installer",
+    "translation": "正在运行 %1 安装器",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:0d5956c5073c",
+    "original": "the Forge installer exited with %1",
+    "translation": "Forge 安装器退出，代码为 %1",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:ca5c6a47967b",
+    "original": "the Forge installer could not be started",
+    "translation": "无法启动 Forge 安装器",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:5a557fc303ed",
+    "original": "the installer wrote no version description",
+    "translation": "安装器没有写出任何版本描述",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:3360a77877e9",
+    "original": "%1 %2 is not a component name",
+    "translation": "%1 %2 不是组件名称",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:c4ad859cd5d5",
+    "original": "could not write the %1 metadata",
+    "translation": "无法写入 %1 元数据",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:c81d9059f1a4",
+    "original": "could not write the %1 index",
+    "translation": "无法写入 %1 索引",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:23bfc5d92d94",
+    "original": "Fabric does not list loader %1 for Minecraft %2",
+    "translation": "Fabric 没有列出适用于 Minecraft %2 的加载器 %1",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:96be85a259a1",
     "original": "could not write mmc-pack.json into %1",
-    "translation": "",
+    "translation": "无法把 mmc-pack.json 写入 %1",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:39ac9d1b831e",
     "original": "could not write instance.cfg into %1",
-    "translation": "",
+    "translation": "无法把 instance.cfg 写入 %1",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:0a22089bce72",
     "original": "Checking the files the instance needs",
-    "translation": "",
+    "translation": "正在检查实例所需的文件",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:18e1f966fb99",
     "original": "the download failed",
-    "translation": "",
+    "translation": "下载失败",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:9d5a0ce82676",
     "original": "Checking the assets the game uses",
-    "translation": "",
+    "translation": "正在检查游戏使用的资源文件",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:7024476531a9",
     "original": "the asset download failed",
-    "translation": "",
+    "translation": "资源文件下载失败",
     "context": "InstanceCreator"
   },
   {
@@ -4526,157 +4832,157 @@
   {
     "key": "InstanceImportTask:61860fb3fb7c",
     "original": "The pack does not contain an mcbbs.packmeta manifest.",
-    "translation": "",
+    "translation": "整合包中没有 mcbbs.packmeta 清单。",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:7783120d0a1b",
     "original": "Could not read the pack manifest:\n%1",
-    "translation": "",
+    "translation": "无法读取整合包清单：\n%1",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:a5a0d4983af3",
     "original": "The pack does not contain an HMCL modpack.json manifest.",
-    "translation": "",
+    "translation": "整合包中没有 HMCL 的 modpack.json 清单。",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:40ec24733c25",
     "original": "The pack does not contain the HMCL instance manifest (minecraft/pack.json), so its game version cannot be determined.",
-    "translation": "",
+    "translation": "整合包中没有 HMCL 实例清单（minecraft/pack.json），因此无法确定其游戏版本。",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:0c4a38bc514d",
     "original": "The pack manifest does not name a Minecraft version.",
-    "translation": "",
+    "translation": "整合包清单没有指明 Minecraft 版本。",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:a5bd7b2f4451",
     "original": "The pack does not contain the expected %1 folder.",
-    "translation": "",
+    "translation": "整合包中没有预期的 %1 文件夹。",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:169a7594ed45",
     "original": "Both the archive root and the game folder contain %1; keeping the one inside the game folder.",
-    "translation": "",
+    "translation": "压缩包根目录和游戏文件夹中都有 %1；保留游戏文件夹中的那一份。",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:06f053f281b7",
     "original": "Could not move %1 out of the pack's game folder.",
-    "translation": "",
+    "translation": "无法把 %1 移出整合包的游戏文件夹。",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:39dcb218553c",
     "original": "The pack names the %1 loader but not its version, so it will not be installed automatically.",
-    "translation": "",
+    "translation": "整合包指明了 %1 加载器但没有指明版本，因此不会自动安装。",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:94510a1f6b3a",
     "original": "Could not write mmc-pack.json into the instance folder.",
-    "translation": "",
+    "translation": "无法把 mmc-pack.json 写入实例文件夹。",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:e34ef3dbc778",
     "original": "Resolving the files the pack expects from CurseForge",
-    "translation": "",
+    "translation": "正在解析整合包从 CurseForge 引用的文件",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:5109ac4bb31f",
     "original": "CurseForge returned no information about the files this pack lists.",
-    "translation": "",
+    "translation": "CurseForge 没有返回该整合包所列文件的信息。",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:23ba2e8ff473",
     "original": "Pack files",
-    "translation": "",
+    "translation": "整合包文件",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:e7c7807cf53f",
     "original": "None of the files this pack lists could be downloaded.",
-    "translation": "",
+    "translation": "该整合包列出的文件全部无法下载。",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:42e7855b81c6",
     "original": "%1 file(s) in the pack are no longer available from CurseForge and were skipped.",
-    "translation": "",
+    "translation": "整合包中有 %1 个文件已无法从 CurseForge 获取，已跳过。",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:551dcf261b93",
     "original": "Could not download the files this pack lists:\n%1",
-    "translation": "",
+    "translation": "无法下载该整合包列出的文件：\n%1",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:c9ebea531972",
     "original": "Could not ask CurseForge about the files this pack lists:\n%1",
-    "translation": "",
+    "translation": "无法向 CurseForge 查询该整合包列出的文件：\n%1",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceLaunch:6ad88a64c77e",
     "original": "Reading the instance",
-    "translation": "",
+    "translation": "正在读取实例",
     "context": "InstanceLaunch"
   },
   {
     "key": "InstanceLaunch:0a22089bce72",
     "original": "Checking the files the instance needs",
-    "translation": "",
+    "translation": "正在检查实例所需的文件",
     "context": "InstanceLaunch"
   },
   {
     "key": "InstanceLaunch:a0e909a2187a",
     "original": "Fetching the asset index",
-    "translation": "",
+    "translation": "正在获取资源索引",
     "context": "InstanceLaunch"
   },
   {
     "key": "InstanceLaunch:9d5a0ce82676",
     "original": "Checking the assets the game uses",
-    "translation": "",
+    "translation": "正在检查游戏使用的资源文件",
     "context": "InstanceLaunch"
   },
   {
     "key": "InstanceLaunch:28e62fc6f61f",
     "original": "Copying the assets where this version looks for them",
-    "translation": "",
+    "translation": "正在把资源文件复制到此版本查找的位置",
     "context": "InstanceLaunch"
   },
   {
     "key": "InstanceLaunch:15c3f61535a1",
     "original": "Unpacking the native libraries",
-    "translation": "",
+    "translation": "正在解压本地库",
     "context": "InstanceLaunch"
   },
   {
     "key": "InstanceLaunch:7c3192c247cf",
     "original": "Starting the game",
-    "translation": "",
+    "translation": "正在启动游戏",
     "context": "InstanceLaunch"
   },
   {
     "key": "InstanceLaunch:81f19a61c324",
     "original": "java did not start: %1",
-    "translation": "",
+    "translation": "java 未能启动：%1",
     "context": "InstanceLaunch"
   },
   {
     "key": "InstanceLaunch:18e1f966fb99",
     "original": "the download failed",
-    "translation": "",
+    "translation": "下载失败",
     "context": "InstanceLaunch"
   },
   {
@@ -4694,13 +5000,13 @@
   {
     "key": "InstanceListPage:415305129c73",
     "original": "No instances yet.",
-    "translation": "",
+    "translation": "还没有实例。",
     "context": "InstanceListPage"
   },
   {
     "key": "InstanceListPage:16b81a4d4f80",
     "original": "Instances (core preview)",
-    "translation": "",
+    "translation": "实例（核心预览）",
     "context": "InstanceListPage"
   },
   {
@@ -4724,31 +5030,31 @@
   {
     "key": "InstanceSettingsPage:cac3ba887056",
     "original": "Choose a background image",
-    "translation": "",
+    "translation": "选择背景图片",
     "context": "InstanceSettingsPage"
   },
   {
     "key": "InstanceSettingsPage:7153afe730a6",
     "original": "Images (*.png *.jpg *.jpeg *.bmp *.webp)",
-    "translation": "",
+    "translation": "图片 (*.png *.jpg *.jpeg *.bmp *.webp)",
     "context": "InstanceSettingsPage"
   },
   {
     "key": "InstanceSettingsPage:759a5323dc91",
     "original": "An image shown behind the pages of this instance's window. The file is not copied: only its location is remembered, so moving or deleting it simply leaves the window plain again.",
-    "translation": "",
+    "translation": "在此实例窗口的各页面背后显示的图片。文件不会被复制：只记住它的位置，因此移动或删除该文件后，窗口会恢复为纯色。",
     "context": "InstanceSettingsPage"
   },
   {
     "key": "InstanceSettingsPage:282182ae6b58",
     "original": "No background chosen",
-    "translation": "",
+    "translation": "未选择背景",
     "context": "InstanceSettingsPage"
   },
   {
     "key": "InstanceSettingsPage:6c406be551d1",
     "original": "Choose image",
-    "translation": "",
+    "translation": "选择图片",
     "context": "InstanceSettingsPage"
   },
   {
@@ -5520,6 +5826,312 @@
     "context": "JavaWizardWidget"
   },
   {
+    "key": "KomorebiAccountsDialog:910be7c3361e",
+    "original": "Komorebi accounts",
+    "translation": "Komorebi 账户",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:a4899218975a",
+    "original": "Games started with the new launch path use the account marked as default. The launcher's original accounts keep working alongside these. An offline account can be added once a Microsoft account is here.",
+    "translation": "通过新启动方式启动的游戏会使用标记为默认的账户。启动器原有的账户仍可照常使用。在已有 Microsoft 账户后，才能添加离线账户。",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:fd62c61f849b",
+    "original": "Sign in with Microsoft",
+    "translation": "用Microsoft账户登录",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:46d04d30a44f",
+    "original": "Add offline account",
+    "translation": "添加离线账户",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:d5d543b30d1e",
+    "original": "Use this account",
+    "translation": "使用此账户",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:e963907dac5c",
+    "original": "Remove",
+    "translation": "删除",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:0042debd72f5",
+    "original": "%1  (offline)",
+    "translation": "%1  （离线）",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:89f59be21650",
+    "original": "  (default)",
+    "translation": "（默认）",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:a580822662cf",
+    "original": "Play under a name that never signs in.",
+    "translation": "使用一个永不登录的名称游玩。",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:b73c465958c2",
+    "original": "Sign in with Microsoft first: an offline name needs a Microsoft account beside it.",
+    "translation": "请先用 Microsoft 账户登录：离线名称需要一个 Microsoft 账户与之并存。",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:8976716ce823",
+    "original": "The accounts file at %1 could not be read.",
+    "translation": "无法读取 %1 处的账户文件。",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:8fa4d220fdb0",
+    "original": "No Komorebi accounts yet. Sign in with Microsoft to add one.",
+    "translation": "还没有 Komorebi 账户。请用 Microsoft 账户登录来添加。",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:344ea289c227",
+    "original": "%1 account(s), kept in %2",
+    "translation": "%1 个账户，保存在 %2",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:5f5bc0dd9ad1",
+    "original": "The sign-in could not be kept safely on this computer.",
+    "translation": "无法在此计算机上安全保存登录信息。",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:8ba71e378a40",
+    "original": "The account could not be saved at %1.",
+    "translation": "无法把账户保存到 %1。",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:8c15c4fce508",
+    "original": "Signed in as %1. It is now the account used for launching.",
+    "translation": "已以 %1 登录。现在用它来启动游戏。",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:4d94a0b8c6c8",
+    "original": "Name to play as:",
+    "translation": "游玩名称：",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:5f862429b0fa",
+    "original": "An offline account needs a name.",
+    "translation": "离线账户需要名称。",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:acd4e73d493e",
+    "original": "The offline account could not be saved at %1.",
+    "translation": "无法把离线账户保存到 %1。",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:176a207a94e2",
+    "original": "%1 will be used for launching.",
+    "translation": "将使用 %1 启动游戏。",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:e556b5329b34",
+    "original": "Remove account",
+    "translation": "删除账户",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:51aca62d4923",
+    "original": "Remove %1 from the launcher? The account itself is not affected.",
+    "translation": "要从启动器中删除 %1 吗？账户本身不受影响。",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:fd0aff56040a",
+    "original": "Remove the offline accounts first: they need a Microsoft account to stand beside.",
+    "translation": "请先删除离线账户：它们需要一个 Microsoft 账户与之并存。",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:3b5a3acf3cea",
+    "original": "That account is not stored any more.",
+    "translation": "该账户已不再存储。",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:37b86c01b269",
+    "original": "The account could not be removed from %1.",
+    "translation": "无法从 %1 中删除该账户。",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:914ab2a91074",
+    "original": "Removed %1.",
+    "translation": "已删除 %1。",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiDeviceCodeDialog:fd62c61f849b",
+    "original": "Sign in with Microsoft",
+    "translation": "用Microsoft账户登录",
+    "context": "KomorebiDeviceCodeDialog"
+  },
+  {
+    "key": "KomorebiDeviceCodeDialog:e70f27ec6e6e",
+    "original": "Open the address below in a browser and enter the code. This window will wait for you.",
+    "translation": "在浏览器中打开下面的地址并输入代码。此窗口会等待你完成。",
+    "context": "KomorebiDeviceCodeDialog"
+  },
+  {
+    "key": "KomorebiDeviceCodeDialog:6c10692719e6",
+    "original": "Copy code",
+    "translation": "复制代码",
+    "context": "KomorebiDeviceCodeDialog"
+  },
+  {
+    "key": "KomorebiDeviceCodeDialog:9ee309dcedc9",
+    "original": "Open page",
+    "translation": "打开页面",
+    "context": "KomorebiDeviceCodeDialog"
+  },
+  {
+    "key": "KomorebiDeviceCodeDialog:9f62167aed9a",
+    "original": "Asking Microsoft for a code…",
+    "translation": "正在向 Microsoft 请求代码…",
+    "context": "KomorebiDeviceCodeDialog"
+  },
+  {
+    "key": "KomorebiDeviceCodeDialog:ba1ab55bba49",
+    "original": "Waiting for you to approve the sign-in in the browser. The code is good for %1 minutes.",
+    "translation": "正在等待你在浏览器中批准登录。代码 %1 分钟内有效。",
+    "context": "KomorebiDeviceCodeDialog"
+  },
+  {
+    "key": "KomorebiDeviceCodeDialog:ae9b07629ddd",
+    "original": "The sign-in could not finish: %1",
+    "translation": "登录未能完成：%1",
+    "context": "KomorebiDeviceCodeDialog"
+  },
+  {
+    "key": "KomorebiDeviceCodeDialog:bbfa773e5a63",
+    "original": "Close",
+    "translation": "关闭",
+    "context": "KomorebiDeviceCodeDialog"
+  },
+  {
+    "key": "KomorebiDeviceCodeDialog:0fe470776e76",
+    "original": "Code copied. Paste it into the browser.",
+    "translation": "代码已复制。请粘贴到浏览器中。",
+    "context": "KomorebiDeviceCodeDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:95f5e3fa9d62",
+    "original": "New instance",
+    "translation": "新建实例",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:6b1353f65842",
+    "original": "what to call it",
+    "translation": "给它起个名字",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:709a23220f2c",
+    "original": "Name",
+    "translation": "名称",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:cc70f3768dab",
+    "original": "reading the version list",
+    "translation": "正在读取版本列表",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:f1416844b9ec",
+    "original": "Minecraft",
+    "translation": "Minecraft",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:ec6f9069daa8",
+    "original": "Loader",
+    "translation": "加载器",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:1adf3481f97f",
+    "original": "Loader version",
+    "translation": "加载器版本",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:6e157c5da441",
+    "original": "Create",
+    "translation": "创建",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:3e99a428b64a",
+    "original": "Reading the list of Minecraft versions",
+    "translation": "正在读取 Minecraft 版本列表",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:be5202a75f39",
+    "original": "Could not read the version list: %1",
+    "translation": "无法读取版本列表：%1",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:4a2cf5299c25",
+    "original": "%1 versions. Newest release: %2",
+    "translation": "%1 个版本。最新正式版：%2",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:6b67470c6118",
+    "original": "The instance needs a name.",
+    "translation": "实例需要名称。",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:4186e3c7b559",
+    "original": "Choose the Minecraft version to run.",
+    "translation": "选择要运行的 Minecraft 版本。",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:b4659b2029f9",
+    "original": "Forge needs its own version.",
+    "translation": "Forge 需要自己的版本号。",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:96a9b7cdbe40",
+    "original": "Preparing",
+    "translation": "正在准备",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:f6489cd7819f",
+    "original": "Could not create the instance: %1",
+    "translation": "无法创建实例：%1",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
     "key": "LanguagePage:89b86ab0e66f",
     "original": "Language",
     "translation": "语言",
@@ -5828,13 +6440,13 @@
   {
     "key": "LaunchController:40ab636cbfc6",
     "original": "authlib-injector points at another server",
-    "translation": "",
+    "translation": "authlib-injector 指向了另一个服务器",
     "context": "LaunchController"
   },
   {
     "key": "LaunchController:b80d8c5851a1",
     "original": "The authlib-injector agent in this instance sends the game's authentication to %1, but this account signs in through %2. Skins and online-mode servers will not work until the agent is reinstalled for the current account.\n\nReinstall it now?",
-    "translation": "",
+    "translation": "此实例中的 authlib-injector 代理把游戏的验证发往 %1，但此账户是通过 %2 登录的。在为当前账户重新安装该代理之前，皮肤和正版验证服务器都无法正常工作。\n\n现在重新安装吗？",
     "context": "LaunchController"
   },
   {
@@ -5888,7 +6500,7 @@
   {
     "key": "LauncherLoginStep:f34510a5d2d8",
     "original": "Mojang refused this build's application ID, so it cannot sign in to Minecraft. The registration is either not approved or no longer approved; see https://aka.ms/AppRegInfo. Third-party server accounts still work.",
-    "translation": "",
+    "translation": "Mojang 拒绝了这个版本的应用程序 ID，因此无法登录 Minecraft。该注册可能未获批准或已不再获准；参见 https://aka.ms/AppRegInfo。第三方服务器账户仍可正常使用。",
     "context": "LauncherLoginStep"
   },
   {
@@ -6630,12 +7242,6 @@
     "context": "LibrariesTask"
   },
   {
-    "key": "ListModel:c4a7e601008a",
-    "original": "Minecraft %1",
-    "translation": "Minecraft %1",
-    "context": "ListModel"
-  },
-  {
     "key": "LocalResourceUpdateTask:2245cdef5363",
     "original": "Updating index for resource:\n%1",
     "translation": "正在更新资源索引：\n%1",
@@ -6866,7 +7472,7 @@
   {
     "key": "MSADeviceCodeStep:3773f9f9f21c",
     "original": "The sign-in code expired before it was used. Sign in again to get a new one.",
-    "translation": "",
+    "translation": "登录代码在使用前已过期。请重新登录以获取新代码。",
     "context": "MSADeviceCodeStep"
   },
   {
@@ -6932,7 +7538,7 @@
   {
     "key": "MSALoginDialog:ad8610b41e3c",
     "original": "Microsoft refused the application ID this build uses, not your account. That means the registration is misconfigured, or it no longer has access to the Minecraft services API. Third-party server accounts are unaffected.",
-    "translation": "",
+    "translation": "Microsoft 拒绝了这个版本使用的应用程序 ID，而不是你的账户。这意味着该注册配置有误，或已无权访问 Minecraft 服务 API。第三方服务器账户不受影响。",
     "context": "MSALoginDialog"
   },
   {
@@ -6980,7 +7586,7 @@
   {
     "key": "MainContentPanel:5964ea184b02",
     "original": "Pick one on the left to get started.",
-    "translation": "",
+    "translation": "从左侧选择一个开始。",
     "context": "MainContentPanel"
   },
   {
@@ -7554,12 +8160,6 @@
     "context": "MainWindow"
   },
   {
-    "key": "MainWindow:b5dafdcf73a0",
-    "original": "Ctrl+%1",
-    "translation": "Ctrl+%1",
-    "context": "MainWindow"
-  },
-  {
     "key": "MainWindow:b999a67a527a",
     "original": "No Default Account",
     "translation": "不设置默认账户",
@@ -7724,7 +8324,7 @@
   {
     "key": "MainWindow:7561aee92c50",
     "original": " and its %n registered shortcut(s)",
-    "translation": "以及它 %n 个注册的快捷方式",
+    "translation": " 及其 %n 个已注册的快捷方式",
     "context": "MainWindow | [plural]"
   },
   {
@@ -7737,6 +8337,24 @@
     "key": "MainWindow:6feaa281a00c",
     "original": "&Rename group",
     "translation": "重命名群组 (&R)",
+    "context": "MainWindow"
+  },
+  {
+    "key": "MainWindow:834d4a1c6440",
+    "original": "%1 (offline)",
+    "translation": "%1（离线）",
+    "context": "MainWindow"
+  },
+  {
+    "key": "MainWindow:257fa99e085f",
+    "original": "No account",
+    "translation": "未登录",
+    "context": "MainWindow"
+  },
+  {
+    "key": "MainWindow:3e19f82f45fb",
+    "original": "Komorebi accounts…",
+    "translation": "Komorebi 账户…",
     "context": "MainWindow"
   },
   {
@@ -7844,7 +8462,7 @@
   {
     "key": "MainWindow:16b81a4d4f80",
     "original": "Instances (core preview)",
-    "translation": "",
+    "translation": "实例（核心预览）",
     "context": "MainWindow"
   },
   {
@@ -8010,6 +8628,12 @@
     "context": "McClient"
   },
   {
+    "key": "Meta::BaseEntityLoadTask:ae327e573ef2",
+    "original": "Loading local file",
+    "translation": "正在加载本地文件",
+    "context": "Meta::BaseEntityLoadTask"
+  },
+  {
     "key": "Meta::Index:709a23220f2c",
     "original": "Name",
     "translation": "名称",
@@ -8026,6 +8650,120 @@
     "original": "Load meta for %1",
     "translation": "加载 %1 的元数据",
     "context": "Meta::VersionList"
+  },
+  {
+    "key": "MicrosoftAuth:465e8fe888f8",
+    "original": "no Microsoft app id is configured",
+    "translation": "未配置 Microsoft 应用 ID",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:6b5dc6928310",
+    "original": "Microsoft would not start a sign-in: %1",
+    "translation": "Microsoft 未能开始登录：%1",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:fd44bfdcd524",
+    "original": "Microsoft returned no device code",
+    "translation": "Microsoft 没有返回设备代码",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:b07a55e55a2d",
+    "original": "sign-in failed: %1",
+    "translation": "登录失败：%1",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:a553750e675f",
+    "original": "Microsoft returned no access token",
+    "translation": "Microsoft 没有返回访问令牌",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:d313943c817c",
+    "original": "there is no refresh token to use",
+    "translation": "没有可用的刷新令牌",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:1fb2b4481fee",
+    "original": "the sign-in could not be renewed: %1",
+    "translation": "无法续期登录：%1",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:f66eea89fcea",
+    "original": "Xbox Live refused the sign-in: %1",
+    "translation": "Xbox Live 拒绝了登录：%1",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:34ad6979b274",
+    "original": "Xbox Live returned no token",
+    "translation": "Xbox Live 没有返回令牌",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:629ed11062a5",
+    "original": "this Microsoft account has no Xbox profile yet; sign in to Xbox once",
+    "translation": "此 Microsoft 账户还没有 Xbox 档案；请先登录一次 Xbox",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:43718d452578",
+    "original": "this account is a child account and needs a family group",
+    "translation": "此账户是儿童账户，需要加入家庭组",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:b70b0f344b04",
+    "original": "XSTS refused the sign-in: %1",
+    "translation": "XSTS 拒绝了登录：%1",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:8bfd8c832924",
+    "original": "XSTS returned no token",
+    "translation": "XSTS 没有返回令牌",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:c55922d5f372",
+    "original": "Minecraft services refused this account",
+    "translation": "Minecraft 服务拒绝了此账户",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:9f7d384a612c",
+    "original": "Minecraft services refused the sign-in: %1",
+    "translation": "Minecraft 服务拒绝了登录：%1",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:64cfe3c5969e",
+    "original": "Minecraft services returned no access token",
+    "translation": "Minecraft 服务没有返回访问令牌",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:9948b9b2a8e7",
+    "original": "this account does not own Minecraft",
+    "translation": "此账户未拥有 Minecraft",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:65a29cce6276",
+    "original": "the Minecraft profile could not be read: %1",
+    "translation": "无法读取 Minecraft 档案：%1",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:d40fd2c96820",
+    "original": "the Minecraft profile came back without a name",
+    "translation": "返回的 Minecraft 档案没有名称",
+    "context": "MicrosoftAuth"
   },
   {
     "key": "MinecraftAccount:b1590d210090",
@@ -9116,7 +9854,7 @@
   {
     "key": "ModFolderModel:7344f60ae135",
     "original": "%n mod(s) will be enabled\n",
-    "translation": "%n 个 Mod 将会被启用",
+    "translation": "将启用 %n 个 Mod\n",
     "context": "ModFolderModel | [plural]"
   },
   {
@@ -9128,7 +9866,7 @@
   {
     "key": "ModFolderModel:ffcf72215f76",
     "original": "%n mod(s) will be disabled\n",
-    "translation": "%n 个 Mod 将会被禁用",
+    "translation": "将禁用 %n 个 Mod\n",
     "context": "ModFolderModel | [plural]"
   },
   {
@@ -9734,13 +10472,13 @@
   {
     "key": "Net::Request:60f870097f24",
     "original": "Request Rate Limited for %n second(s): Retry After %1",
-    "translation": "请求频率过高，持续 %n 秒：请在 %1 之后重试",
+    "translation": "请求受到速率限制 %n 秒：请在 %1 后重试",
     "context": "Net::Request | [plural]"
   },
   {
     "key": "Net::Request:f39e4002d474",
     "original": "Rate Limited: Waiting %n second(s)",
-    "translation": "请求频率过高：等待 %n 秒后自动重试",
+    "translation": "受到速率限制：等待 %n 秒",
     "context": "Net::Request | [plural]"
   },
   {
@@ -10444,162 +11182,6 @@
     "original": "Couldn't delete some files:\n%1",
     "translation": "无法删除某些文件：\n%1",
     "context": "OtherLogsPage"
-  },
-  {
-    "key": "PackInstallTask:93fc42ea75d6",
-    "original": "Could not understand pack manifest:\n",
-    "translation": "无法解析包清单：",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:1cc558d32fa4",
-    "original": "Unsupported installation mode",
-    "translation": "不支持的安装模式",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:608a6e16a154",
-    "original": "Failed to get local metadata index for '%1' v%2",
-    "translation": "无法获取 %1(v%2) 的本地元数据索引",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:a61c5171cb28",
-    "original": "Deleting existing files...",
-    "translation": "正在删除现有文件...",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:639e6287333c",
-    "original": "Unknown mod type: %1",
-    "translation": "未知的 Mod 类型：%1",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:54a1e48a12f3",
-    "original": "Failed to get local metadata index for %1",
-    "translation": "无法获取 %1 的本地元数据索引",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:9638c0cc0435",
-    "original": "Failed to find version for %1 loader",
-    "translation": "无法找到 %1 加载器的合适版本",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:394b0f2a985e",
-    "original": "No loader version set for modpack!",
-    "translation": "尚未设置整合包所使用的加载器版本！",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:8ea0186a5329",
-    "original": "Unknown or unsupported download type: %1",
-    "translation": "未知或不支持的下载类型：%1",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:db82f5ce4d92",
-    "original": "Downloading configs...",
-    "translation": "正在下载配置文件…",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:296053b61434",
-    "original": "Config download",
-    "translation": "下载配置文件",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:88e116160aff",
-    "original": "Extracting configs...",
-    "translation": "正在解压配置文件…",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:6e97ce93553c",
-    "original": "Selecting optional mods...",
-    "translation": "正在选择可选 Mod…",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:df237503973c",
-    "original": "Downloading mods...",
-    "translation": "正在下载 Mod...",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:7b02e924aa02",
-    "original": "Mod download",
-    "translation": "Mod 下载",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:e91e47f5379a",
-    "original": "Unknown download type: %1",
-    "translation": "未知的下载类型：%1",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:d4e059888d25",
-    "original": "Blocked path traversal in %1",
-    "translation": "已阻止对 %1 进行路径遍历的行为",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:327b7e57d4e1",
-    "original": "Blocked mods found",
-    "translation": "发现被屏蔽的 Mod",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:7ff827f8d900",
-    "original": "The following files are not available for download in third party launchers.<br/>You will need to manually download them and add them to the instance.",
-    "translation": "下列文件无法在第三方启动器中下载。<br/>你需要手动下载并将它们添加到实例中。",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:f9bc7a615403",
-    "original": "%1 out of %2 complete",
-    "translation": "已完成 %1/%2",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:3138740f4b31",
-    "original": "Failed to extract mods...",
-    "translation": "Mod 解压失败…",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:e87c1bb107c0",
-    "original": "Extracting mods...",
-    "translation": "正在解压 Mod…",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:7d3e34e21534",
-    "original": "Installing modpack",
-    "translation": "正在安装整合包",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:a568ebaf6ef5",
-    "original": "Failed to create libraries component",
-    "translation": "无法创建库组件",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:c9c9e81a13ed",
-    "original": "Unknown loader type: ",
-    "translation": "未知的加载器类型：",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:76fefafc38cf",
-    "original": "Failed to create pack component",
-    "translation": "无法创建包组件",
-    "context": "PackInstallTask"
   },
   {
     "key": "PackProfile:b1590d210090",
@@ -11508,12 +12090,6 @@
     "context": "QObject"
   },
   {
-    "key": "QObject:78e96613d910",
-    "original": "%1 (in use)",
-    "translation": "%1 （使用中）",
-    "context": "QObject"
-  },
-  {
     "key": "QObject:cabe4b7a8cf3",
     "original": "No Instance Selected",
     "translation": "未选择实例",
@@ -12086,7 +12662,7 @@
   {
     "key": "QObject:d715a70b6eb4",
     "original": "The following instance(s) might reference files in this instance:\n\n%1\n\n%2 it could break the other instance(s), \n\nDo you wish to proceed?",
-    "translation": "下列实例可能引用了这个实例的文件：\n\n%1\n\n%2 这可能会损坏其他的实例， \n\n你是否仍要继续？",
+    "translation": "以下实例可能引用了此实例中的文件：\n\n%1\n\n%2 可能会破坏其他实例，\n\n要继续吗？",
     "context": "QObject | [plural]"
   },
   {
@@ -12374,103 +12950,85 @@
   {
     "key": "QObject:6480087d3163",
     "original": "Skipped a pack entry with no download source: %1",
-    "translation": "",
+    "translation": "已跳过没有下载来源的整合包条目：%1",
     "context": "QObject"
   },
   {
     "key": "QObject:eacfe81e35d0",
     "original": "The MCBBS manifest is not valid JSON: %1",
-    "translation": "",
+    "translation": "MCBBS 清单不是有效的 JSON：%1",
     "context": "QObject"
   },
   {
     "key": "QObject:a95d14d57690",
     "original": "The manifest declares the type \"%1\", not minecraftModpack.",
-    "translation": "",
+    "translation": "清单声明的类型是“%1”，而不是 minecraftModpack。",
     "context": "QObject"
   },
   {
     "key": "QObject:adc3291c1435",
     "original": "Imported pack",
-    "translation": "",
+    "translation": "已导入的整合包",
     "context": "QObject"
   },
   {
     "key": "QObject:f0fd5f088e3c",
     "original": "The MCBBS manifest does not name a Minecraft version.",
-    "translation": "",
+    "translation": "MCBBS 清单没有指明 Minecraft 版本。",
     "context": "QObject"
   },
   {
     "key": "QObject:53eac72d237e",
     "original": "The HMCL modpack manifest is not valid JSON: %1",
-    "translation": "",
+    "translation": "HMCL 整合包清单不是有效的 JSON：%1",
     "context": "QObject"
   },
   {
     "key": "QObject:3e655d082cfd",
     "original": "minecraft/pack.json could not be read; the game version will be taken from the pack contents.",
-    "translation": "",
+    "translation": "无法读取 minecraft/pack.json；游戏版本将根据整合包内容确定。",
     "context": "QObject"
   },
   {
     "key": "QObject:7a186fe77568",
     "original": "Could not start the instance",
-    "translation": "",
-    "context": "QObject"
-  },
-  {
-    "key": "QObject:f0dd318aac70",
-    "original": "the asset %1 is missing from assets/objects",
-    "translation": "",
+    "translation": "无法启动实例",
     "context": "QObject"
   },
   {
     "key": "QObject:67e9f6bfa054",
     "original": "could not create the folder for %1",
-    "translation": "",
-    "context": "QObject"
-  },
-  {
-    "key": "QObject:746c4c0401f9",
-    "original": "could not replace %1",
-    "translation": "",
-    "context": "QObject"
-  },
-  {
-    "key": "QObject:06cf62b3a7f4",
-    "original": "could not copy %1 to %2",
-    "translation": "",
+    "translation": "无法为 %1 创建文件夹",
     "context": "QObject"
   },
   {
     "key": "QObject:0e95732cfe9f",
     "original": "could not open %1: %2",
-    "translation": "",
+    "translation": "无法打开 %1：%2",
     "context": "QObject"
   },
   {
     "key": "QObject:70ad6b496666",
     "original": "could not write %1: %2",
-    "translation": "",
+    "translation": "无法写入 %1：%2",
     "context": "QObject"
   },
   {
     "key": "QObject:8dc5246e0f3f",
     "original": "could not create %1",
-    "translation": "",
+    "translation": "无法创建 %1",
     "context": "QObject"
   },
   {
     "key": "QObject:e9ebb91841ec",
     "original": "the natives jar %1 is missing",
-    "translation": "",
+    "translation": "缺少本地库 jar %1",
     "context": "QObject"
   },
   {
     "key": "QObject:f2468a61acbb",
     "original": "The game exited with code %1.",
-    "translation": "",
+    "translation": "游戏已退出，代码为 %1。",
     "context": "QObject"
   },
   {
@@ -12486,15 +13044,69 @@
     "context": "QObject"
   },
   {
+    "key": "QObject:adad70898d19",
+    "original": "Renewing the Komorebi account's sign-in…",
+    "translation": "正在续期 Komorebi 账户的登录…",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:75c2538fa1d4",
+    "original": "The Komorebi account's sign-in has expired (%1); sign in again from the accounts menu.",
+    "translation": "Komorebi 账户的登录已过期（%1）；请从账户菜单重新登录。",
+    "context": "QObject"
+  },
+  {
     "key": "QObject:102cee416435",
     "original": "the Java this instance names does not exist: %1",
-    "translation": "",
+    "translation": "此实例指定的 Java 不存在：%1",
     "context": "QObject"
   },
   {
     "key": "QObject:b6d6cf1deaaf",
     "original": "no Java %1 was found on this machine",
-    "translation": "",
+    "translation": "此计算机上找不到 Java %1",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:687fde9bd912",
+    "original": "None (vanilla)",
+    "translation": "无（原版）",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:a010de5c6165",
+    "original": "Fabric",
+    "translation": "Fabric",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:e250807ae024",
+    "original": "leave empty for the newest",
+    "translation": "留空以使用最新版本",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:01aa488891b0",
+    "original": "Quilt",
+    "translation": "Quilt",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:3ab11b75ca36",
+    "original": "Forge",
+    "translation": "Forge",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:c40c4e352583",
+    "original": "required, for example 47.4.0",
+    "translation": "必填，例如 47.4.0",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:b5165545b367",
+    "original": "NeoForge",
+    "translation": "NeoForge",
     "context": "QObject"
   },
   {
@@ -13490,37 +14102,37 @@
   {
     "key": "ScreenshotsPage:a56211841b33",
     "original": "ImgBB API key",
-    "translation": "",
+    "translation": "ImgBB API 密钥",
     "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:d02a53736277",
     "original": "Uploading screenshots uses ImgBB and needs an API key from your own account.\nGet one at https://api.imgbb.com/ and paste it here. It is stored on this computer only.",
-    "translation": "",
+    "translation": "上传截图使用 ImgBB，需要你自己账户的 API 密钥。\n请在 https://api.imgbb.com/ 获取一个并粘贴到这里。它只保存在此计算机上。",
     "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:2fdad803f00b",
     "original": "You are about to upload %1 screenshots to ImgBB.\nYou should double-check for personal information.\n\nAre you sure?",
-    "translation": "",
+    "translation": "即将把 %1 张截图上传到 ImgBB。\n请仔细检查是否包含个人信息。\n\n确定吗？",
     "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:ee42d3e732fb",
     "original": "You are about to upload the selected screenshot to ImgBB.\nYou should double-check for personal information.\n\nAre you sure?",
-    "translation": "",
+    "translation": "即将把所选截图上传到 ImgBB。\n请仔细检查是否包含个人信息。\n\n确定吗？",
     "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:686cb5eed15e",
     "original": "The <a href=\"%1\">link to the uploaded screenshot</a> has been placed in your clipboard.",
-    "translation": "",
+    "translation": "已把<a href=\"%1\">上传截图的链接</a>复制到剪贴板。",
     "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:0bde30abfa49",
     "original": "%1 links have been placed in your clipboard.",
-    "translation": "",
+    "translation": "已把 %1 个链接复制到剪贴板。",
     "context": "ScreenshotsPage"
   },
   {
@@ -14586,6 +15198,12 @@
     "context": "ThemeWizardPage"
   },
   {
+    "key": "TranslationsModel:07ffa958ccb1",
+    "original": "%1:\n%2 translated\n%3 fuzzy\n%4 total",
+    "translation": "%1：\n%2 已翻译\n%3 模糊\n%4 总计",
+    "context": "TranslationsModel"
+  },
+  {
     "key": "TranslationsModel:89b86ab0e66f",
     "original": "Language",
     "translation": "语言",
@@ -15542,7 +16160,7 @@
   {
     "key": "WorldListPage:c59476608876",
     "original": "You are about to delete %n world(s).\nThese worlds may be gone forever (A LONG TIME).\n\nAre you sure?",
-    "translation": "你将要删除 %n 个世界。\n世界将会永久消失（真的很久）。\n\n你确定要这样做吗？",
+    "translation": "即将删除 %n 个世界。\n这些世界可能会永远消失（很久很久）。\n\n确定吗？",
     "context": "WorldListPage | [plural]"
   },
   {
@@ -15812,7 +16430,7 @@
   {
     "key": "YggdrasilLoginDialog:c89d86150763",
     "original": "The address must not contain a user name or password.",
-    "translation": "",
+    "translation": "地址中不能包含用户名或密码。",
     "context": "YggdrasilLoginDialog"
   },
   {
@@ -15860,7 +16478,7 @@
   {
     "key": "YggdrasilStep:e90d53698400",
     "original": "The authentication server address contains a user name or password. Remove it and sign in again.",
-    "translation": "",
+    "translation": "验证服务器地址中包含用户名或密码。请去掉后重新登录。",
     "context": "YggdrasilStep"
   }
 ]

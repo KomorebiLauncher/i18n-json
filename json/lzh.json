@@ -246,6 +246,162 @@
     "context": "APIPage"
   },
   {
+    "key": "ATLauncher::PackInstallTask:93fc42ea75d6",
+    "original": "Could not understand pack manifest:\n",
+    "translation": "未解裹牘：",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:1cc558d32fa4",
+    "original": "Unsupported installation mode",
+    "translation": "安式未支",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:608a6e16a154",
+    "original": "Failed to get local metadata index for '%1' v%2",
+    "translation": "%1版%2之本元資籤未取",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:a61c5171cb28",
+    "original": "Deleting existing files...",
+    "translation": "刈存文……",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:639e6287333c",
+    "original": "Unknown mod type: %1",
+    "translation": "未識模類：%1",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:54a1e48a12f3",
+    "original": "Failed to get local metadata index for %1",
+    "translation": "%1之本元資籤未取",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:9638c0cc0435",
+    "original": "Failed to find version for %1 loader",
+    "translation": "未得%1器之宜版",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:394b0f2a985e",
+    "original": "No loader version set for modpack!",
+    "translation": "合弣未立器版！",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:8ea0186a5329",
+    "original": "Unknown or unsupported download type: %1",
+    "translation": "未識或弗持之取類：%1",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:db82f5ce4d92",
+    "original": "Downloading configs...",
+    "translation": "取制文……",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:296053b61434",
+    "original": "Config download",
+    "translation": "取制文",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:88e116160aff",
+    "original": "Extracting configs...",
+    "translation": "解制文……",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:6e97ce93553c",
+    "original": "Selecting optional mods...",
+    "translation": "拣可择模……",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:df237503973c",
+    "original": "Downloading mods...",
+    "translation": "方取模……",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:7b02e924aa02",
+    "original": "Mod download",
+    "translation": "模取",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:e91e47f5379a",
+    "original": "Unknown download type: %1",
+    "translation": "未識取類：%1",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:d4e059888d25",
+    "original": "Blocked path traversal in %1",
+    "translation": "",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:327b7e57d4e1",
+    "original": "Blocked mods found",
+    "translation": "",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:7ff827f8d900",
+    "original": "The following files are not available for download in third party launchers.<br/>You will need to manually download them and add them to the instance.",
+    "translation": "",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:f9bc7a615403",
+    "original": "%1 out of %2 complete",
+    "translation": "畢%1於%2",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:3138740f4b31",
+    "original": "Failed to extract mods...",
+    "translation": "解模隳……",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:e87c1bb107c0",
+    "original": "Extracting mods...",
+    "translation": "方解模……",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:7d3e34e21534",
+    "original": "Installing modpack",
+    "translation": "方安合弣",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:a568ebaf6ef5",
+    "original": "Failed to create libraries component",
+    "translation": "库府弗立",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:c9c9e81a13ed",
+    "original": "Unknown loader type: ",
+    "translation": "未識器類：",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
+    "key": "ATLauncher::PackInstallTask:76fefafc38cf",
+    "original": "Failed to create pack component",
+    "translation": "裹件弗成",
+    "context": "ATLauncher::PackInstallTask"
+  },
+  {
     "key": "AboutDialog:6b21fb791ac0",
     "original": "About",
     "translation": "原",
@@ -1242,12 +1398,6 @@
     "context": "AutoJavaWizardPage"
   },
   {
-    "key": "BaseEntityLoadTask:ae327e573ef2",
-    "original": "Loading local file",
-    "translation": "",
-    "context": "BaseEntityLoadTask"
-  },
-  {
     "key": "BaseProfiler:122e80b33e98",
     "original": "Profiler aborted",
     "translation": "析器戢",
@@ -1758,16 +1908,70 @@
     "context": "CopyWorldTask"
   },
   {
-    "key": "CopyWorldTask:7d6444a17eae",
-    "original": "Failed to copy world.",
-    "translation": "",
-    "context": "CopyWorldTask"
-  },
-  {
     "key": "CoreModFolderPage:48c3931a7ea5",
     "original": "Core Mods",
     "translation": "",
     "context": "CoreModFolderPage"
+  },
+  {
+    "key": "CoreSettingsPage:16b63ac60431",
+    "original": "Start instances with the new core",
+    "translation": "",
+    "context": "CoreSettingsPage"
+  },
+  {
+    "key": "CoreSettingsPage:f8bde7ddee11",
+    "original": "Create instances with the new wizard",
+    "translation": "",
+    "context": "CoreSettingsPage"
+  },
+  {
+    "key": "CoreSettingsPage:fe7259e0111f",
+    "original": "The core reads the instance's folder and fetches what the game is missing before starting it. Turning this off falls back to the launcher's original launch path.",
+    "translation": "",
+    "context": "CoreSettingsPage"
+  },
+  {
+    "key": "CoreSettingsPage:3df348edb254",
+    "original": "The wizard asks for a name, a game version and, if wanted, a mod loader, and writes the instance through the core. Turning this off falls back to the launcher's original dialog.",
+    "translation": "",
+    "context": "CoreSettingsPage"
+  },
+  {
+    "key": "CoreSettingsPage:7f874f6a6414",
+    "original": "Play as the Komorebi account",
+    "translation": "",
+    "context": "CoreSettingsPage"
+  },
+  {
+    "key": "CoreSettingsPage:31044a07e61a",
+    "original": "A Komorebi account starts the game through the core's own Microsoft sign-in. Turning this off, or having no account here, uses the launcher's original account.",
+    "translation": "",
+    "context": "CoreSettingsPage"
+  },
+  {
+    "key": "CoreSettingsPage:a2417c203393",
+    "original": "Manage accounts…",
+    "translation": "",
+    "context": "CoreSettingsPage"
+  },
+  {
+    "key": "CoreSettingsPage:e1f7dab61184",
+    "original": "Downloads come from",
+    "translation": "",
+    "context": "CoreSettingsPage"
+  },
+  {
+    "key": "CoreSettingsPage:e9dffdc3fab7",
+    "original": "Official uses the addresses the version manifests name. A mirror is used where it has the file, with the original address kept as a fallback.",
+    "translation": "",
+    "context": "CoreSettingsPage"
+  },
+  {
+    "key": "CoreSettingsPage:57d6d465bf57",
+    "original": "Komorebi",
+    "translation": "",
+    "context": "CoreSettingsPage"
   },
   {
     "key": "CrashAnalysis:3ca253092c61",
@@ -2474,12 +2678,6 @@
   {
     "key": "DeleteWorldTask:9fbda660b6dc",
     "original": "Deleting world...",
-    "translation": "",
-    "context": "DeleteWorldTask"
-  },
-  {
-    "key": "DeleteWorldTask:d2440e81cf41",
-    "original": "Failed to delete world.",
     "translation": "",
     "context": "DeleteWorldTask"
   },
@@ -3462,6 +3660,12 @@
     "context": "FTBImportAPP::ImportFTBPage"
   },
   {
+    "key": "FTBImportAPP::ListModel:c4a7e601008a",
+    "original": "Minecraft %1",
+    "translation": "",
+    "context": "FTBImportAPP::ListModel"
+  },
+  {
     "key": "FTBImportAPP::PackInstallTask:0193c81b949c",
     "original": "Copying files...",
     "translation": "",
@@ -3494,6 +3698,12 @@
   {
     "key": "FileDownloader:03415ba19151",
     "original": "could not write to %1: %2",
+    "translation": "",
+    "context": "FileDownloader"
+  },
+  {
+    "key": "FileDownloader:1ef1ac6fe684",
+    "original": "no data arrived for %1 seconds from %2",
     "translation": "",
     "context": "FileDownloader"
   },
@@ -4380,12 +4590,6 @@
     "context": "InstallWorldTask"
   },
   {
-    "key": "InstallWorldTask:7486d58a6ff5",
-    "original": "Failed to import world.",
-    "translation": "",
-    "context": "InstallWorldTask"
-  },
-  {
     "key": "InstanceCopyTask:f1adc5931742",
     "original": "Copying instance %1",
     "translation": "",
@@ -4440,8 +4644,110 @@
     "context": "InstanceCreator"
   },
   {
-    "key": "InstanceCreator:9a5bfce5b5d0",
-    "original": "could not write %1",
+    "key": "InstanceCreator:567b615f4f4b",
+    "original": "only the Fabric, Quilt, Forge and NeoForge loaders are supported so far, not %1",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:1c5540c5fcc1",
+    "original": "there is no address for %1",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:8581afdd1b0f",
+    "original": "Reading the %1 versions",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:9661626d284b",
+    "original": "there is no %1 metadata here",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:73850c0e5755",
+    "original": "%1 has no release for Minecraft %2",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:c2b5ee497caa",
+    "original": "Reading the %1 profile",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:e5df8e4adbd0",
+    "original": "the %1 metadata has no main class",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:09bf71a72250",
+    "original": "Installing the %1 loader",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:944655b1b9db",
+    "original": "no Forge version was given",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:014a50af6cd2",
+    "original": "no Java %1 was found to run the Forge installer",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:deb5a521b060",
+    "original": "Running the %1 installer",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:0d5956c5073c",
+    "original": "the Forge installer exited with %1",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:ca5c6a47967b",
+    "original": "the Forge installer could not be started",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:5a557fc303ed",
+    "original": "the installer wrote no version description",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:3360a77877e9",
+    "original": "%1 %2 is not a component name",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:c4ad859cd5d5",
+    "original": "could not write the %1 metadata",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:c81d9059f1a4",
+    "original": "could not write the %1 index",
+    "translation": "",
+    "context": "InstanceCreator"
+  },
+  {
+    "key": "InstanceCreator:23bfc5d92d94",
+    "original": "Fabric does not list loader %1 for Minecraft %2",
     "translation": "",
     "context": "InstanceCreator"
   },
@@ -5518,6 +5824,312 @@
     "original": "You are exceeding the maximum allocation supported by 32-bit installations of Java.",
     "translation": "",
     "context": "JavaWizardWidget"
+  },
+  {
+    "key": "KomorebiAccountsDialog:910be7c3361e",
+    "original": "Komorebi accounts",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:a4899218975a",
+    "original": "Games started with the new launch path use the account marked as default. The launcher's original accounts keep working alongside these. An offline account can be added once a Microsoft account is here.",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:fd62c61f849b",
+    "original": "Sign in with Microsoft",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:46d04d30a44f",
+    "original": "Add offline account",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:d5d543b30d1e",
+    "original": "Use this account",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:e963907dac5c",
+    "original": "Remove",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:0042debd72f5",
+    "original": "%1  (offline)",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:89f59be21650",
+    "original": "  (default)",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:a580822662cf",
+    "original": "Play under a name that never signs in.",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:b73c465958c2",
+    "original": "Sign in with Microsoft first: an offline name needs a Microsoft account beside it.",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:8976716ce823",
+    "original": "The accounts file at %1 could not be read.",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:8fa4d220fdb0",
+    "original": "No Komorebi accounts yet. Sign in with Microsoft to add one.",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:344ea289c227",
+    "original": "%1 account(s), kept in %2",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:5f5bc0dd9ad1",
+    "original": "The sign-in could not be kept safely on this computer.",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:8ba71e378a40",
+    "original": "The account could not be saved at %1.",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:8c15c4fce508",
+    "original": "Signed in as %1. It is now the account used for launching.",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:4d94a0b8c6c8",
+    "original": "Name to play as:",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:5f862429b0fa",
+    "original": "An offline account needs a name.",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:acd4e73d493e",
+    "original": "The offline account could not be saved at %1.",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:176a207a94e2",
+    "original": "%1 will be used for launching.",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:e556b5329b34",
+    "original": "Remove account",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:51aca62d4923",
+    "original": "Remove %1 from the launcher? The account itself is not affected.",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:fd0aff56040a",
+    "original": "Remove the offline accounts first: they need a Microsoft account to stand beside.",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:3b5a3acf3cea",
+    "original": "That account is not stored any more.",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:37b86c01b269",
+    "original": "The account could not be removed from %1.",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiAccountsDialog:914ab2a91074",
+    "original": "Removed %1.",
+    "translation": "",
+    "context": "KomorebiAccountsDialog"
+  },
+  {
+    "key": "KomorebiDeviceCodeDialog:fd62c61f849b",
+    "original": "Sign in with Microsoft",
+    "translation": "",
+    "context": "KomorebiDeviceCodeDialog"
+  },
+  {
+    "key": "KomorebiDeviceCodeDialog:e70f27ec6e6e",
+    "original": "Open the address below in a browser and enter the code. This window will wait for you.",
+    "translation": "",
+    "context": "KomorebiDeviceCodeDialog"
+  },
+  {
+    "key": "KomorebiDeviceCodeDialog:6c10692719e6",
+    "original": "Copy code",
+    "translation": "",
+    "context": "KomorebiDeviceCodeDialog"
+  },
+  {
+    "key": "KomorebiDeviceCodeDialog:9ee309dcedc9",
+    "original": "Open page",
+    "translation": "",
+    "context": "KomorebiDeviceCodeDialog"
+  },
+  {
+    "key": "KomorebiDeviceCodeDialog:9f62167aed9a",
+    "original": "Asking Microsoft for a code…",
+    "translation": "",
+    "context": "KomorebiDeviceCodeDialog"
+  },
+  {
+    "key": "KomorebiDeviceCodeDialog:ba1ab55bba49",
+    "original": "Waiting for you to approve the sign-in in the browser. The code is good for %1 minutes.",
+    "translation": "",
+    "context": "KomorebiDeviceCodeDialog"
+  },
+  {
+    "key": "KomorebiDeviceCodeDialog:ae9b07629ddd",
+    "original": "The sign-in could not finish: %1",
+    "translation": "",
+    "context": "KomorebiDeviceCodeDialog"
+  },
+  {
+    "key": "KomorebiDeviceCodeDialog:bbfa773e5a63",
+    "original": "Close",
+    "translation": "",
+    "context": "KomorebiDeviceCodeDialog"
+  },
+  {
+    "key": "KomorebiDeviceCodeDialog:0fe470776e76",
+    "original": "Code copied. Paste it into the browser.",
+    "translation": "",
+    "context": "KomorebiDeviceCodeDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:95f5e3fa9d62",
+    "original": "New instance",
+    "translation": "",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:6b1353f65842",
+    "original": "what to call it",
+    "translation": "",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:709a23220f2c",
+    "original": "Name",
+    "translation": "",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:cc70f3768dab",
+    "original": "reading the version list",
+    "translation": "",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:f1416844b9ec",
+    "original": "Minecraft",
+    "translation": "",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:ec6f9069daa8",
+    "original": "Loader",
+    "translation": "",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:1adf3481f97f",
+    "original": "Loader version",
+    "translation": "",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:6e157c5da441",
+    "original": "Create",
+    "translation": "",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:3e99a428b64a",
+    "original": "Reading the list of Minecraft versions",
+    "translation": "",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:be5202a75f39",
+    "original": "Could not read the version list: %1",
+    "translation": "",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:4a2cf5299c25",
+    "original": "%1 versions. Newest release: %2",
+    "translation": "",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:6b67470c6118",
+    "original": "The instance needs a name.",
+    "translation": "",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:4186e3c7b559",
+    "original": "Choose the Minecraft version to run.",
+    "translation": "",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:b4659b2029f9",
+    "original": "Forge needs its own version.",
+    "translation": "",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:96a9b7cdbe40",
+    "original": "Preparing",
+    "translation": "",
+    "context": "KomorebiNewInstanceDialog"
+  },
+  {
+    "key": "KomorebiNewInstanceDialog:f6489cd7819f",
+    "original": "Could not create the instance: %1",
+    "translation": "",
+    "context": "KomorebiNewInstanceDialog"
   },
   {
     "key": "LanguagePage:89b86ab0e66f",
@@ -6630,12 +7242,6 @@
     "context": "LibrariesTask"
   },
   {
-    "key": "ListModel:c4a7e601008a",
-    "original": "Minecraft %1",
-    "translation": "",
-    "context": "ListModel"
-  },
-  {
     "key": "LocalResourceUpdateTask:2245cdef5363",
     "original": "Updating index for resource:\n%1",
     "translation": "",
@@ -7554,12 +8160,6 @@
     "context": "MainWindow"
   },
   {
-    "key": "MainWindow:b5dafdcf73a0",
-    "original": "Ctrl+%1",
-    "translation": "",
-    "context": "MainWindow"
-  },
-  {
     "key": "MainWindow:b999a67a527a",
     "original": "No Default Account",
     "translation": "",
@@ -7736,6 +8336,24 @@
   {
     "key": "MainWindow:6feaa281a00c",
     "original": "&Rename group",
+    "translation": "",
+    "context": "MainWindow"
+  },
+  {
+    "key": "MainWindow:834d4a1c6440",
+    "original": "%1 (offline)",
+    "translation": "",
+    "context": "MainWindow"
+  },
+  {
+    "key": "MainWindow:257fa99e085f",
+    "original": "No account",
+    "translation": "",
+    "context": "MainWindow"
+  },
+  {
+    "key": "MainWindow:3e19f82f45fb",
+    "original": "Komorebi accounts…",
     "translation": "",
     "context": "MainWindow"
   },
@@ -8010,6 +8628,12 @@
     "context": "McClient"
   },
   {
+    "key": "Meta::BaseEntityLoadTask:ae327e573ef2",
+    "original": "Loading local file",
+    "translation": "",
+    "context": "Meta::BaseEntityLoadTask"
+  },
+  {
     "key": "Meta::Index:709a23220f2c",
     "original": "Name",
     "translation": "",
@@ -8026,6 +8650,120 @@
     "original": "Load meta for %1",
     "translation": "",
     "context": "Meta::VersionList"
+  },
+  {
+    "key": "MicrosoftAuth:465e8fe888f8",
+    "original": "no Microsoft app id is configured",
+    "translation": "",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:6b5dc6928310",
+    "original": "Microsoft would not start a sign-in: %1",
+    "translation": "",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:fd44bfdcd524",
+    "original": "Microsoft returned no device code",
+    "translation": "",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:b07a55e55a2d",
+    "original": "sign-in failed: %1",
+    "translation": "",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:a553750e675f",
+    "original": "Microsoft returned no access token",
+    "translation": "",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:d313943c817c",
+    "original": "there is no refresh token to use",
+    "translation": "",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:1fb2b4481fee",
+    "original": "the sign-in could not be renewed: %1",
+    "translation": "",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:f66eea89fcea",
+    "original": "Xbox Live refused the sign-in: %1",
+    "translation": "",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:34ad6979b274",
+    "original": "Xbox Live returned no token",
+    "translation": "",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:629ed11062a5",
+    "original": "this Microsoft account has no Xbox profile yet; sign in to Xbox once",
+    "translation": "",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:43718d452578",
+    "original": "this account is a child account and needs a family group",
+    "translation": "",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:b70b0f344b04",
+    "original": "XSTS refused the sign-in: %1",
+    "translation": "",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:8bfd8c832924",
+    "original": "XSTS returned no token",
+    "translation": "",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:c55922d5f372",
+    "original": "Minecraft services refused this account",
+    "translation": "",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:9f7d384a612c",
+    "original": "Minecraft services refused the sign-in: %1",
+    "translation": "",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:64cfe3c5969e",
+    "original": "Minecraft services returned no access token",
+    "translation": "",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:9948b9b2a8e7",
+    "original": "this account does not own Minecraft",
+    "translation": "",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:65a29cce6276",
+    "original": "the Minecraft profile could not be read: %1",
+    "translation": "",
+    "context": "MicrosoftAuth"
+  },
+  {
+    "key": "MicrosoftAuth:d40fd2c96820",
+    "original": "the Minecraft profile came back without a name",
+    "translation": "",
+    "context": "MicrosoftAuth"
   },
   {
     "key": "MinecraftAccount:b1590d210090",
@@ -10446,162 +11184,6 @@
     "context": "OtherLogsPage"
   },
   {
-    "key": "PackInstallTask:93fc42ea75d6",
-    "original": "Could not understand pack manifest:\n",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:1cc558d32fa4",
-    "original": "Unsupported installation mode",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:608a6e16a154",
-    "original": "Failed to get local metadata index for '%1' v%2",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:a61c5171cb28",
-    "original": "Deleting existing files...",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:639e6287333c",
-    "original": "Unknown mod type: %1",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:54a1e48a12f3",
-    "original": "Failed to get local metadata index for %1",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:9638c0cc0435",
-    "original": "Failed to find version for %1 loader",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:394b0f2a985e",
-    "original": "No loader version set for modpack!",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:8ea0186a5329",
-    "original": "Unknown or unsupported download type: %1",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:db82f5ce4d92",
-    "original": "Downloading configs...",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:296053b61434",
-    "original": "Config download",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:88e116160aff",
-    "original": "Extracting configs...",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:6e97ce93553c",
-    "original": "Selecting optional mods...",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:df237503973c",
-    "original": "Downloading mods...",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:7b02e924aa02",
-    "original": "Mod download",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:e91e47f5379a",
-    "original": "Unknown download type: %1",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:d4e059888d25",
-    "original": "Blocked path traversal in %1",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:327b7e57d4e1",
-    "original": "Blocked mods found",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:7ff827f8d900",
-    "original": "The following files are not available for download in third party launchers.<br/>You will need to manually download them and add them to the instance.",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:f9bc7a615403",
-    "original": "%1 out of %2 complete",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:3138740f4b31",
-    "original": "Failed to extract mods...",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:e87c1bb107c0",
-    "original": "Extracting mods...",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:7d3e34e21534",
-    "original": "Installing modpack",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:a568ebaf6ef5",
-    "original": "Failed to create libraries component",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:c9c9e81a13ed",
-    "original": "Unknown loader type: ",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
-    "key": "PackInstallTask:76fefafc38cf",
-    "original": "Failed to create pack component",
-    "translation": "",
-    "context": "PackInstallTask"
-  },
-  {
     "key": "PackProfile:b1590d210090",
     "original": "Aborted",
     "translation": "",
@@ -11504,12 +12086,6 @@
   {
     "key": "QObject:3de01f995d83",
     "original": "Minecraft Server",
-    "translation": "",
-    "context": "QObject"
-  },
-  {
-    "key": "QObject:78e96613d910",
-    "original": "%1 (in use)",
     "translation": "",
     "context": "QObject"
   },
@@ -12420,26 +12996,8 @@
     "context": "QObject"
   },
   {
-    "key": "QObject:f0dd318aac70",
-    "original": "the asset %1 is missing from assets/objects",
-    "translation": "",
-    "context": "QObject"
-  },
-  {
     "key": "QObject:67e9f6bfa054",
     "original": "could not create the folder for %1",
-    "translation": "",
-    "context": "QObject"
-  },
-  {
-    "key": "QObject:746c4c0401f9",
-    "original": "could not replace %1",
-    "translation": "",
-    "context": "QObject"
-  },
-  {
-    "key": "QObject:06cf62b3a7f4",
-    "original": "could not copy %1 to %2",
     "translation": "",
     "context": "QObject"
   },
@@ -12486,6 +13044,18 @@
     "context": "QObject"
   },
   {
+    "key": "QObject:adad70898d19",
+    "original": "Renewing the Komorebi account's sign-in…",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:75c2538fa1d4",
+    "original": "The Komorebi account's sign-in has expired (%1); sign in again from the accounts menu.",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
     "key": "QObject:102cee416435",
     "original": "the Java this instance names does not exist: %1",
     "translation": "",
@@ -12494,6 +13064,48 @@
   {
     "key": "QObject:b6d6cf1deaaf",
     "original": "no Java %1 was found on this machine",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:687fde9bd912",
+    "original": "None (vanilla)",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:a010de5c6165",
+    "original": "Fabric",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:e250807ae024",
+    "original": "leave empty for the newest",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:01aa488891b0",
+    "original": "Quilt",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:3ab11b75ca36",
+    "original": "Forge",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:c40c4e352583",
+    "original": "required, for example 47.4.0",
+    "translation": "",
+    "context": "QObject"
+  },
+  {
+    "key": "QObject:b5165545b367",
+    "original": "NeoForge",
     "translation": "",
     "context": "QObject"
   },
@@ -14584,6 +15196,12 @@
     "original": "Select theme and icons to use",
     "translation": "",
     "context": "ThemeWizardPage"
+  },
+  {
+    "key": "TranslationsModel:07ffa958ccb1",
+    "original": "%1:\n%2 translated\n%3 fuzzy\n%4 total",
+    "translation": "",
+    "context": "TranslationsModel"
   },
   {
     "key": "TranslationsModel:89b86ab0e66f",
