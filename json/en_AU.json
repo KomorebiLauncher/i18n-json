@@ -345,7 +345,7 @@
     "key": "ATLauncher::PackInstallTask:d4e059888d25",
     "original": "Blocked path traversal in %1",
     "translation": "Blocked path traversal in %1",
-    "context": "ATLauncher::PackInstallTask | [unfinished]"
+    "context": "ATLauncher::PackInstallTask"
   },
   {
     "key": "ATLauncher::PackInstallTask:327b7e57d4e1",
@@ -5841,7 +5841,7 @@
     "key": "KomorebiAccountsDialog:fd62c61f849b",
     "original": "Sign in with Microsoft",
     "translation": "Sign in with Microsoft",
-    "context": "KomorebiAccountsDialog | [unfinished]"
+    "context": "KomorebiAccountsDialog"
   },
   {
     "key": "KomorebiAccountsDialog:46d04d30a44f",
@@ -5859,7 +5859,7 @@
     "key": "KomorebiAccountsDialog:e963907dac5c",
     "original": "Remove",
     "translation": "Remove",
-    "context": "KomorebiAccountsDialog | [unfinished]"
+    "context": "KomorebiAccountsDialog"
   },
   {
     "key": "KomorebiAccountsDialog:0042debd72f5",
@@ -5985,7 +5985,7 @@
     "key": "KomorebiDeviceCodeDialog:fd62c61f849b",
     "original": "Sign in with Microsoft",
     "translation": "Sign in with Microsoft",
-    "context": "KomorebiDeviceCodeDialog | [unfinished]"
+    "context": "KomorebiDeviceCodeDialog"
   },
   {
     "key": "KomorebiDeviceCodeDialog:e70f27ec6e6e",
@@ -6027,7 +6027,7 @@
     "key": "KomorebiDeviceCodeDialog:bbfa773e5a63",
     "original": "Close",
     "translation": "Close",
-    "context": "KomorebiDeviceCodeDialog | [unfinished]"
+    "context": "KomorebiDeviceCodeDialog"
   },
   {
     "key": "KomorebiDeviceCodeDialog:0fe470776e76",
@@ -6051,7 +6051,7 @@
     "key": "KomorebiNewInstanceDialog:709a23220f2c",
     "original": "Name",
     "translation": "Name",
-    "context": "KomorebiNewInstanceDialog | [unfinished]"
+    "context": "KomorebiNewInstanceDialog"
   },
   {
     "key": "KomorebiNewInstanceDialog:cc70f3768dab",
@@ -6063,7 +6063,7 @@
     "key": "KomorebiNewInstanceDialog:f1416844b9ec",
     "original": "Minecraft",
     "translation": "Minecraft",
-    "context": "KomorebiNewInstanceDialog | [unfinished]"
+    "context": "KomorebiNewInstanceDialog"
   },
   {
     "key": "KomorebiNewInstanceDialog:ec6f9069daa8",
@@ -13077,7 +13077,7 @@
     "key": "QObject:a010de5c6165",
     "original": "Fabric",
     "translation": "Fabric",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:e250807ae024",
@@ -13089,13 +13089,13 @@
     "key": "QObject:01aa488891b0",
     "original": "Quilt",
     "translation": "Quilt",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:3ab11b75ca36",
     "original": "Forge",
     "translation": "Forge",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "QObject:c40c4e352583",
@@ -13107,7 +13107,7 @@
     "key": "QObject:b5165545b367",
     "original": "NeoForge",
     "translation": "NeoForge",
-    "context": "QObject | [unfinished]"
+    "context": "QObject"
   },
   {
     "key": "Resource:a02acfde31a6",
