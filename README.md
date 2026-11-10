@@ -52,6 +52,8 @@ python tools/export.py --catalogue ../i18n --out json --keep json
 
 `--keep json` 让本仓库已有的译文优先于 `.ts` 里的值，这样手工补的译文不会丢。不带 `--keep` 时 JSON 会完全按 `.ts` 重写，首尾空格之类的细节会被归一化。
 
+注意：`export.py` 会去掉非复数译文的首尾空白，而少数源串本身就带（比如 ` MiB`、`Unknown loader type: `）。这类空白只存在 `.ts` 里；合并时 `from_json.py` 遇到"只差空白"的条目会保留 `.ts` 的写法，不会把它们冲掉。
+
 数值对不上时也可以手工核对：`git diff json/` 应该只出现真正改过的语言。
 
 ## 当前覆盖情况
