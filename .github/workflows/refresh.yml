@@ -1,11 +1,13 @@
-name: Sync
+name: Refresh
 
-# Translations live here: the platform edits them, this pulls them back and refreshes the export
-# from the catalogue first, so newly added or reworded strings arrive with a fresh key. The i18n
-# repository then merges this repository's JSON into the .ts files it compiles.
+# The .ts catalogue in KomorebiLauncher/i18n decides which strings exist; this rebuilds the
+# per-language JSON files from it, so new and reworded source strings get a fresh key. Translations
+# already in `json/` are kept (`--keep json`) — they are the editable copy now that no external
+# platform owns them — and the merge workflow in the i18n repository writes them back into the .ts
+# files it compiles into language packs.
 on:
   schedule:
-    # The catalogue is refreshed at 04:00 on Mondays; pull half an hour later.
+    # The catalogue is refreshed at 04:00 on Mondays; pick the new strings up half an hour later.
     - cron: '30 4 * * 1'
   workflow_dispatch:
     inputs:
@@ -18,7 +20,7 @@ permissions:
   contents: write
 
 jobs:
-  sync:
+  refresh:
     runs-on: ubuntu-latest
 
     steps:
@@ -32,17 +34,7 @@ jobs:
           python-version: '3.12'
 
       - name: Refresh the source strings
-        run: python tools/export.py --catalogue catalogue --out json
-
-      - name: Pull the translations
-        env:
-          PARATRANZ_TOKEN: ${{ secrets.PARATRANZ_TOKEN }}
-        run: |
-          if [ "${{ inputs.dry_run }}" = "true" ]; then
-            python tools/paratranz.py --token "$PARATRANZ_TOKEN" --dry-run
-          else
-            python tools/paratranz.py --token "$PARATRANZ_TOKEN"
-          fi
+        run: python tools/export.py --catalogue catalogue --out json --keep json
 
       - name: Commit changes
         if: ${{ inputs.dry_run != true }}
@@ -54,6 +46,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "nothing changed"
           else
-            git commit -m "Sync translations from ParaTranz"
+            git commit -m "Refresh the source strings"
             git push
           fi

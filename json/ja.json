@@ -50,61 +50,61 @@
   {
     "key": "APIPage:fd566f8049ab",
     "original": "Download Mirrors",
-    "translation": "",
+    "translation": "ダウンロードミラー",
     "context": "APIPage"
   },
   {
     "key": "APIPage:efdab7cb04da",
     "original": "Only Mojang's own download hosts are redirected, and only for files the mirror actually has. Content servers such as Modrinth or CurseForge are never touched.",
-    "translation": "",
+    "translation": "リダイレクトされるのはMojang自身のダウンロードホストのみで、しかもミラーが実際に保持しているファイルだけです。ModrinthやCurseForgeなどのコンテンツサーバーは一切変更されません。",
     "context": "APIPage"
   },
   {
     "key": "APIPage:9bfc55794736",
     "original": "Source order",
-    "translation": "",
+    "translation": "取得元の優先順位",
     "context": "APIPage"
   },
   {
     "key": "APIPage:a902ba5a3763",
     "original": "Mirror base URL",
-    "translation": "",
+    "translation": "ミラーのベース URL",
     "context": "APIPage"
   },
   {
     "key": "APIPage:af983e03f563",
     "original": "https://bmclapi2.bangbang93.com",
-    "translation": "",
+    "translation": "https://bmclapi2.bangbang93.com",
     "context": "APIPage"
   },
   {
     "key": "APIPage:12416b2a1767",
     "original": "Services mirror",
-    "translation": "",
+    "translation": "サービスミラー",
     "context": "APIPage"
   },
   {
     "key": "APIPage:24c2d5051a94",
     "original": "Optional verbatim mirror of the metadata server and the translation site. Content mirrors such as BMCLAPI do not carry them, so leave this empty unless the mirror really is a copy of those two.",
-    "translation": "",
+    "translation": "メタデータサーバーと翻訳サイトをそのまま複製したミラー (任意) です。BMCLAPIなどのコンテンツミラーはこれらを含まないため、本当にその2つの複製である場合を除いて空のままにしてください。",
     "context": "APIPage"
   },
   {
     "key": "APIPage:8019cc0a31a1",
     "original": "Empty unless you have a verbatim mirror",
-    "translation": "",
+    "translation": "そのまま複製したミラーがある場合のみ入力",
     "context": "APIPage"
   },
   {
     "key": "APIPage:11542222689b",
     "original": "Library mirrors",
-    "translation": "",
+    "translation": "ライブラリミラー",
     "context": "APIPage"
   },
   {
     "key": "APIPage:2e64e47907d0",
     "original": "Tried in order for Mojang libraries, loader libraries and Maven Central, before the mirror base URL above. These mirrors carry that one tree, not the game itself.",
-    "translation": "",
+    "translation": "Mojangのライブラリ、ローダーのライブラリ、Maven Central に対して、上記のミラーベース URL より先に順番に試されます。これらのミラーが保持するのはそのディレクトリツリーのみで、ゲーム本体は含みません。",
     "context": "APIPage"
   },
   {
@@ -164,13 +164,13 @@
   {
     "key": "APIPage:b13d61c0e2f1",
     "original": "Look blocked mods up on Modrinth",
-    "translation": "",
+    "translation": "ブロックされたModをModrinthで検索する",
     "context": "APIPage"
   },
   {
     "key": "APIPage:484c8447d839",
     "original": "CurseForge leaves out the download link when an author does not allow third-party launchers to distribute a file. This option looks the same file up on Modrinth by hash and downloads it from there instead. Off by default.",
-    "translation": "",
+    "translation": "作者がサードパーティのランチャーによるファイル配布を許可していない場合、CurseForgeはダウンロードリンクを提供しません。このオプションを有効にすると、同じファイルをハッシュでModrinthから検索し、代わりにそこからダウンロードします。デフォルトでは無効です。",
     "context": "APIPage"
   },
   {
@@ -224,25 +224,25 @@
   {
     "key": "APIPage:a91a3d6cc2ff",
     "original": "Official only, no mirror",
-    "translation": "",
+    "translation": "公式のみ (ミラーなし)",
     "context": "APIPage"
   },
   {
     "key": "APIPage:c1730a408d03",
     "original": "Official first, fall back to the mirror",
-    "translation": "",
+    "translation": "公式を優先し、失敗時はミラーを使用",
     "context": "APIPage"
   },
   {
     "key": "APIPage:4f74681c0ada",
     "original": "Mirror first, fall back to the official host",
-    "translation": "",
+    "translation": "ミラーを優先し、失敗時は公式ホストを使用",
     "context": "APIPage"
   },
   {
     "key": "APIPage:bf101f1aa8bb",
     "original": "Mirror only",
-    "translation": "",
+    "translation": "ミラーのみ",
     "context": "APIPage"
   },
   {
@@ -344,7 +344,7 @@
   {
     "key": "ATLauncher::PackInstallTask:d4e059888d25",
     "original": "Blocked path traversal in %1",
-    "translation": "",
+    "translation": "%1 内のパストラバーサルをブロックしました",
     "context": "ATLauncher::PackInstallTask"
   },
   {
@@ -518,7 +518,7 @@
   {
     "key": "AccountList:acfe0daf2326",
     "original": "Third-party",
-    "translation": "",
+    "translation": "サードパーティ",
     "context": "AccountList"
   },
   {
@@ -590,7 +590,7 @@
   {
     "key": "AccountListPage:dc56d8f3d717",
     "original": "Add &Third-Party",
-    "translation": "",
+    "translation": "サードパーティを追加(&T)",
     "context": "AccountListPage"
   },
   {
@@ -674,7 +674,7 @@
   {
     "key": "AccountListPage:24466be4d186",
     "original": "You must add a Microsoft account that owns Minecraft before you can add an offline account.<br><br>An offline profile is a local name for singleplayer worlds and for servers that allow offline players; it is not a way to use Minecraft without owning it. Add the Microsoft account that owns the game first, then the offline profile.<br><br>If you have lost your account you can contact Microsoft for support.",
-    "translation": "",
+    "translation": "オフラインアカウントを追加するには、先にMinecraftを所有しているMicrosoftアカウントを追加する必要があります。<br><br>オフラインプロファイルは、シングルプレイのワールドやオフラインプレイヤーを許可しているサーバーで使用するローカルな名前であり、Minecraftを所有せずに使用するためのものではありません。まずゲームを所有しているMicrosoftアカウントを追加し、その後でオフラインプロファイルを追加してください。<br><br>アカウントを紛失した場合は、Microsoftのサポートに問い合わせることができます。",
     "context": "AccountListPage"
   },
   {
@@ -836,31 +836,31 @@
   {
     "key": "AppearanceWidget:66d075a2efa4",
     "original": "Background dimming",
-    "translation": "",
+    "translation": "背景の暗さ",
     "context": "AppearanceWidget"
   },
   {
     "key": "AppearanceWidget:e9f62c4e839e",
     "original": "Window layout",
-    "translation": "",
+    "translation": "ウィンドウレイアウト",
     "context": "AppearanceWidget"
   },
   {
     "key": "AppearanceWidget:f5171c931c5c",
     "original": "Sidebar",
-    "translation": "",
+    "translation": "サイドバー",
     "context": "AppearanceWidget"
   },
   {
     "key": "AppearanceWidget:0546e3a9ef32",
     "original": "Top action bar",
-    "translation": "",
+    "translation": "上部アクションバー",
     "context": "AppearanceWidget"
   },
   {
     "key": "AppearanceWidget:ef900312995a",
     "original": "Icon rail",
-    "translation": "",
+    "translation": "アイコンレール",
     "context": "AppearanceWidget"
   },
   {
@@ -1184,91 +1184,91 @@
   {
     "key": "AuthlibInjector::InstallTask:d17b190a4862",
     "original": "authlib-injector is only published on the download mirror, but no mirror address is set. Add one in Settings > APIs, or restore the default.",
-    "translation": "",
+    "translation": "authlib-injector はダウンロードミラーでのみ公開されていますが、ミラーのアドレスが設定されていません。設定 > API で追加するか、デフォルトに戻してください。",
     "context": "AuthlibInjector::InstallTask"
   },
   {
     "key": "AuthlibInjector::InstallTask:c94c61adaab5",
     "original": "Could not download %1: %2",
-    "translation": "",
+    "translation": "%1 をダウンロードできませんでした: %2",
     "context": "AuthlibInjector::InstallTask"
   },
   {
     "key": "AuthlibInjector::InstallTask:6a4c0d0c1b31",
     "original": "Looking up the authlib-injector release",
-    "translation": "",
+    "translation": "authlib-injector のリリースを検索中",
     "context": "AuthlibInjector::InstallTask"
   },
   {
     "key": "AuthlibInjector::InstallTask:cb96948cd35a",
     "original": "The mirror did not return a usable authlib-injector release.",
-    "translation": "",
+    "translation": "ミラーから使用可能な authlib-injector のリリースが返されませんでした。",
     "context": "AuthlibInjector::InstallTask"
   },
   {
     "key": "AuthlibInjector::InstallTask:56e52e71bd13",
     "original": "the release index",
-    "translation": "",
+    "translation": "リリースインデックス",
     "context": "AuthlibInjector::InstallTask"
   },
   {
     "key": "AuthlibInjector::InstallTask:85820f0d49fa",
     "original": "Could not work out where the authlib-injector jar belongs.",
-    "translation": "",
+    "translation": "authlib-injector の jar をどこに配置すればよいか判断できませんでした。",
     "context": "AuthlibInjector::InstallTask"
   },
   {
     "key": "AuthlibInjector::InstallTask:950134bfc0c5",
     "original": "Downloading authlib-injector %1",
-    "translation": "",
+    "translation": "authlib-injector %1 をダウンロード中",
     "context": "AuthlibInjector::InstallTask"
   },
   {
     "key": "AuthlibInjector::InstallTask:0f3a88c78813",
     "original": "authlib-injector",
-    "translation": "",
+    "translation": "authlib-injector",
     "context": "AuthlibInjector::InstallTask"
   },
   {
     "key": "AuthlibInjector::InstallTask:8ecab254c601",
     "original": "Could not read the downloaded authlib-injector jar.",
-    "translation": "",
+    "translation": "ダウンロードした authlib-injector の jar を読み込めませんでした。",
     "context": "AuthlibInjector::InstallTask"
   },
   {
     "key": "AuthlibInjector::InstallTask:dc14fac8b58e",
     "original": "Could not create a temporary directory for the authlib-injector component.",
-    "translation": "",
+    "translation": "authlib-injector コンポーネント用の一時ディレクトリを作成できませんでした。",
     "context": "AuthlibInjector::InstallTask"
   },
   {
     "key": "AuthlibInjector::InstallTask:59c1e04ef97b",
     "original": "Could not write the authlib-injector component file.",
-    "translation": "",
+    "translation": "authlib-injector コンポーネントのファイルを書き込めませんでした。",
     "context": "AuthlibInjector::InstallTask"
   },
   {
     "key": "AuthlibInjector::InstallTask:056dfb0b70ba",
     "original": "Could not replace the authlib-injector component already in this instance.",
-    "translation": "",
+    "translation": "この起動構成に既にある authlib-injector コンポーネントを置き換えられませんでした。",
     "context": "AuthlibInjector::InstallTask"
   },
   {
     "key": "AuthlibInjector::InstallTask:d22f4d4d3d0a",
     "original": "Could not add the authlib-injector component to the instance.",
-    "translation": "",
+    "translation": "起動構成に authlib-injector コンポーネントを追加できませんでした。",
     "context": "AuthlibInjector::InstallTask"
   },
   {
     "key": "AuthlibInjectorDialog:54327aff2ab4",
     "original": "Install authlib-injector",
-    "translation": "",
+    "translation": "authlib-injector をインストール",
     "context": "AuthlibInjectorDialog"
   },
   {
     "key": "AuthlibInjectorDialog:3b3761f0296f",
     "original": "The authentication server this instance should use. Once installed, the game sends its login, session and skin requests to that server instead of to Mojang.",
-    "translation": "",
+    "translation": "この起動構成が使用する認証サーバーです。インストールすると、ゲームはログイン、セッション、スキンのリクエストをMojangではなくそのサーバーに送信します。",
     "context": "AuthlibInjectorDialog"
   },
   {
@@ -1286,13 +1286,13 @@
   {
     "key": "AutoInstallJava:bd5a8b746dd0",
     "original": "No Java runtime was found inside the instance, using the usual Java resolution.",
-    "translation": "",
+    "translation": "起動構成内にJavaランタイムが見つからなかったため、通常の方法でJavaを選択します。",
     "context": "AutoInstallJava"
   },
   {
     "key": "AutoInstallJava:07fb1d24de79",
     "original": "None of the Java runtimes inside the instance can be used by this version, using the usual Java resolution.",
-    "translation": "",
+    "translation": "起動構成内のJavaランタイムはどれもこのバージョンでは使用できないため、通常の方法でJavaを選択します。",
     "context": "AutoInstallJava"
   },
   {
@@ -1304,7 +1304,7 @@
   {
     "key": "AutoInstallJava:8d6207828fb3",
     "original": "A compatible Java was found but excluded by the allowed versions '%1'. Using the default Java path.",
-    "translation": "",
+    "translation": "互換性のあるJavaが見つかりましたが、許可されたバージョン「%1」から除外されました。デフォルトのJavaパスを使用します。",
     "context": "AutoInstallJava"
   },
   {
@@ -1328,7 +1328,7 @@
   {
     "key": "AutoInstallJava:cb1cf01079e9",
     "original": "The allowed Java versions '%1' exclude every version this instance can use (%2), so no Java will be downloaded.",
-    "translation": "",
+    "translation": "許可されたJavaバージョン「%1」は、この起動構成で使用できるすべてのバージョン (%2) を除外しているため、Javaはダウンロードされません。",
     "context": "AutoInstallJava"
   },
   {
@@ -1916,265 +1916,265 @@
   {
     "key": "CoreSettingsPage:16b63ac60431",
     "original": "Start instances with the new core",
-    "translation": "",
+    "translation": "新しいコアで起動構成を起動する",
     "context": "CoreSettingsPage"
   },
   {
     "key": "CoreSettingsPage:f8bde7ddee11",
     "original": "Create instances with the new wizard",
-    "translation": "",
+    "translation": "新しいウィザードで起動構成を作成する",
     "context": "CoreSettingsPage"
   },
   {
     "key": "CoreSettingsPage:fe7259e0111f",
     "original": "The core reads the instance's folder and fetches what the game is missing before starting it. Turning this off falls back to the launcher's original launch path.",
-    "translation": "",
+    "translation": "コアは起動構成のフォルダを読み取り、ゲームを起動する前に不足しているものを取得します。これを無効にすると、ランチャー本来の起動方法に戻ります。",
     "context": "CoreSettingsPage"
   },
   {
     "key": "CoreSettingsPage:3df348edb254",
     "original": "The wizard asks for a name, a game version and, if wanted, a mod loader, and writes the instance through the core. Turning this off falls back to the launcher's original dialog.",
-    "translation": "",
+    "translation": "ウィザードは名前、ゲームバージョン、必要ならModローダーを尋ね、コアを通じて起動構成を作成します。これを無効にすると、ランチャー本来のダイアログに戻ります。",
     "context": "CoreSettingsPage"
   },
   {
     "key": "CoreSettingsPage:7f874f6a6414",
     "original": "Play as the Komorebi account",
-    "translation": "",
+    "translation": "Komorebiアカウントでプレイする",
     "context": "CoreSettingsPage"
   },
   {
     "key": "CoreSettingsPage:31044a07e61a",
     "original": "A Komorebi account starts the game through the core's own Microsoft sign-in. Turning this off, or having no account here, uses the launcher's original account.",
-    "translation": "",
+    "translation": "Komorebiアカウントは、コア独自のMicrosoftサインインを通じてゲームを起動します。これを無効にするか、ここにアカウントがない場合は、ランチャー本来のアカウントを使用します。",
     "context": "CoreSettingsPage"
   },
   {
     "key": "CoreSettingsPage:a2417c203393",
     "original": "Manage accounts…",
-    "translation": "",
+    "translation": "アカウントの管理…",
     "context": "CoreSettingsPage"
   },
   {
     "key": "CoreSettingsPage:e1f7dab61184",
     "original": "Downloads come from",
-    "translation": "",
+    "translation": "ダウンロード元",
     "context": "CoreSettingsPage"
   },
   {
     "key": "CoreSettingsPage:e9dffdc3fab7",
     "original": "Official uses the addresses the version manifests name. A mirror is used where it has the file, with the original address kept as a fallback.",
-    "translation": "",
+    "translation": "公式はバージョンマニフェストに記載されたアドレスを使用します。ミラーはファイルを保持している場合に使用され、元のアドレスはフォールバックとして残されます。",
     "context": "CoreSettingsPage"
   },
   {
     "key": "CoreSettingsPage:57d6d465bf57",
     "original": "Komorebi",
-    "translation": "",
+    "translation": "Komorebi",
     "context": "CoreSettingsPage"
   },
   {
     "key": "CrashAnalysis:3ca253092c61",
     "original": "The game ran out of memory",
-    "translation": "",
+    "translation": "ゲームのメモリが不足しました。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:37610f00c201",
     "original": "Raise this instance's maximum allocated memory, and ask less of the heap: lower the render distance, turn off fancy graphics, drop resource packs with large textures. If it still runs out with a lot of headroom, one mod is holding on to memory - take out the most recently added mods first.",
-    "translation": "",
+    "translation": "この起動構成の最大メモリ割り当てを増やし、ヒープへの要求を減らしてください。描画距離を小さくし、高品質グラフィックをオフにし、大きなテクスチャを使うリソースパックを外します。それでも余裕があるのに不足する場合は、いずれかのModがメモリを解放していません。最近追加したModから順に外してください。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:f2ec84382485",
     "original": "The game ran out of class space",
-    "translation": "",
+    "translation": "ゲームのクラス空間が不足しました。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:9075cd37af11",
     "original": "Metaspace holds the classes of everything that is loaded, so it fills up with the number of mods rather than the size of the heap. Add -XX:MaxMetaspaceSize=512M to this instance's Java arguments, or remove mods.",
-    "translation": "",
+    "translation": "メタスペースには読み込まれたすべてのクラスが格納されるため、ヒープのサイズよりもModの数によって圧迫されます。この起動構成のJava引数に -XX:MaxMetaspaceSize=512M を追加するか、Modを削除してください。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:29b1970e4a03",
     "original": "Raise this instance's maximum allocated memory. If the line above names something other than the heap, it is the mod that asked for the memory, not the amount.",
-    "translation": "",
+    "translation": "この起動構成の最大メモリ割り当てを増やしてください。上の行にヒープ以外の名前がある場合は、問題はメモリの量ではなく、メモリを要求したModにあります。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:9fbe1e193417",
     "original": "The memory requested cannot be given",
-    "translation": "",
+    "translation": "要求されたメモリを確保できません。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:a7fed7da42ce",
     "original": "The heap this instance asks for is bigger than what this Java can hand over. Lower the maximum memory - the settings page suggests a number for this machine - and check that the Java in use is 64-bit, since a 32-bit one stops being useful somewhere above 1.5 GiB.",
-    "translation": "",
+    "translation": "この起動構成が要求するヒープは、このJavaが提供できる量を超えています。最大メモリを下げ(設定ページにこのマシン向けの推奨値があります)、使用中のJavaが64ビットであることを確認してください。32ビット版は1.5 GiBを少し超えたあたりから使い物になりません。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:431609ff474e",
     "original": "Something here was compiled for %1, but this instance is launching with %2. Set a newer Java in this instance's Java settings, or remove the mod that needs it.",
-    "translation": "",
+    "translation": "ここにある何かが %1 向けにコンパイルされていますが、この起動構成は %2 で起動しています。この起動構成のJava設定でより新しいJavaを指定するか、それを必要とするModを削除してください。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:c6678336fa9b",
     "original": "a newer Java",
-    "translation": "",
+    "translation": "より新しいJava",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:618e1a984808",
     "original": "Java %1",
-    "translation": "",
+    "translation": "Java %1",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:bfe70eca9916",
     "original": "an older Java",
-    "translation": "",
+    "translation": "より古いJava",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:302b6c8b27ee",
     "original": "A mod needs a newer Java than the one in use",
-    "translation": "",
+    "translation": "Modが使用中のものより新しいJavaを必要としています。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:189aa814bc01",
     "original": "A mod failed while it was starting up",
-    "translation": "",
+    "translation": "Modの起動中にエラーが発生しました。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:8b9fcf6ca23d",
     "original": "The line above is the mod that actually failed; the class-not-found line after it is the same mod being asked for again. Scroll to the first ExceptionInInitializerError and take out the mod it names, or update it to a build for this version of the game.",
-    "translation": "",
+    "translation": "上の行が実際に失敗したModで、その後に続くクラスが見つからないという行は、同じModが再度要求されたものです。最初の ExceptionInInitializerError までスクロールし、そこに書かれているModを外すか、このバージョンのゲーム向けのビルドに更新してください。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:80847024246d",
     "original": "A mod is missing something it needs",
-    "translation": "",
+    "translation": "Modに必要なものが不足しています。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:6c98914fc3cf",
     "original": "Install what this line names - usually a library mod that other mods sit on, or a loader new enough for the mods installed. If it is already installed, the version is not the one being asked for: match the number in this line rather than the name.",
-    "translation": "",
+    "translation": "この行に書かれているものをインストールしてください。通常は他のModが依存するライブラリModか、インストール済みのModに対応できる新しいローダーです。すでにインストール済みの場合は、要求されているバージョンが異なります。名前ではなく、この行の番号に合わせてください。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:10144026384c",
     "original": "The same mod is installed twice",
-    "translation": "",
+    "translation": "同じModが二重にインストールされています。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:98adc0d687c9",
     "original": "Search the mods folder for each name listed and keep one file per mod, the newest. Two files with different names can still hold the same mod, which is what happens when a mod bundles a library that is also installed on its own.",
-    "translation": "",
+    "translation": "Modフォルダで一覧にある各名前を検索し、Modごとに最新のファイル1つだけを残してください。名前の異なる2つのファイルが同じModを含んでいることもあり、これはあるModが別途インストールされているライブラリを同梱している場合に起こります。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:987462642cce",
     "original": "The mods installed do not agree with each other",
-    "translation": "",
+    "translation": "インストールされているMod同士が矛盾しています。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:b199391ecd4b",
     "original": "Fabric writes under this line who wants what version, and often a suggested fix. Follow it: change the version of the named mod, or remove it. Guessing which of the two is at fault wastes an hour.",
-    "translation": "",
+    "translation": "Fabricはこの行の下に、どのModがどのバージョンを要求しているか、そして多くの場合修正案を出力します。それに従い、指定されたModのバージョンを変更するか削除してください。どちらが原因かを当てずっぽうで探すと1時間を無駄にします。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:edb3d911b239",
     "original": "A mod could not patch the game",
-    "translation": "",
+    "translation": "Modがゲームにパッチを適用できませんでした。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:f4b33904d37d",
     "original": "A mixin is a mod rewriting the game's own code while it loads, and it fails when the code it expects is not there. The line names the mod the mixin belongs to - replace it with the build for this exact version of the game and of the loader.",
-    "translation": "",
+    "translation": "Mixinは読み込み中にゲーム自身のコードを書き換える仕組みで、期待するコードがないと失敗します。行にはそのMixinが属するModが示されています。そのゲームとローダーの正確なバージョン向けのビルドに置き換えてください。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:6710211c64ee",
     "original": "The graphics driver cannot open a window",
-    "translation": "",
+    "translation": "グラフィックドライバーがウィンドウを開けません。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:c4e45fc341e9",
     "original": "Update the graphics driver from Intel, AMD or Nvidia's own site rather than through Windows Update. On a laptop with two GPUs, force the game onto the one that supports OpenGL; through remote desktop there is no OpenGL at all and the game cannot start.",
-    "translation": "",
+    "translation": "グラフィックドライバーは、Windows Update ではなく Intel、AMD、Nvidia の各公式サイトから更新してください。GPUを2つ搭載したノートPCでは、OpenGLをサポートする方のGPUでゲームを実行するよう強制してください。リモートデスクトップ経由ではOpenGL自体が利用できず、ゲームを起動できません。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:12d3e5b39250",
     "original": "A native library was not unpacked",
-    "translation": "",
+    "translation": "ネイティブライブラリが展開されませんでした。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:a83023b4cd79",
     "original": "The game's own dll and so files are unpacked into a temporary folder when it starts, and an antivirus or a full disk stops that. Let this launcher and its instance folder through the antivirus, then start again.",
-    "translation": "",
+    "translation": "ゲーム自身の dll および so ファイルは起動時に一時フォルダへ展開されますが、ウイルス対策ソフトやディスク容量の不足がそれを妨げます。このランチャーとその起動構成フォルダをウイルス対策ソフトの除外に追加してから、もう一度起動してください。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:a234045abcdc",
     "original": "There is no room left in the texture atlas",
-    "translation": "",
+    "translation": "テクスチャアトラスに空きがありません。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:d0fff2c64de6",
     "original": "Everything the game draws from a texture sheet has to fit in one image. A high resolution resource pack, or a mod adding many custom items, is what overflows it - lower the pack's resolution or remove the mod that adds the most textures.",
-    "translation": "",
+    "translation": "ゲームがテクスチャシートから描画するものは、すべて1枚の画像に収まっている必要があります。高解像度のリソースパックや、カスタムアイテムを大量に追加するModがあふれの原因です。パックの解像度を下げるか、テクスチャを最も多く追加するModを削除してください。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:1feaf036cc72",
     "original": "The game ran out of registration numbers",
-    "translation": "",
+    "translation": "ゲームの登録番号が不足しました。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:342a124a7d62",
     "original": "Versions before 1.13 have a hard limit on how many blocks and items can be registered, and a large pack reaches it. Remove mods or move the pack to 1.13 or newer; there is no setting for this.",
-    "translation": "",
+    "translation": "1.13 より前のバージョンでは、登録できるブロックとアイテムの数に厳しい上限があり、大きなパックではそれに達します。Modを削除するか、パックを 1.13 以降に移してください。このための設定はありません。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:5058e14ad8b0",
     "original": "The Java runtime itself crashed",
-    "translation": "",
+    "translation": "Javaランタイム自体がクラッシュしました。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:f797178c9cc0",
     "original": "This is not a mod error: the JVM wrote a file named hs_err_pid with the details. What matters is which library the crash happened in - a graphics driver module there means update or roll back the driver, and a mod's own dll means that mod is the one to remove.",
-    "translation": "",
+    "translation": "これはModのエラーではありません。JVMが hs_err_pid という名前のファイルに詳細を書き出しています。重要なのは、どのライブラリでクラッシュしたかです。グラフィックドライバーのモジュールであればドライバーを更新またはロールバックし、Mod独自の dll であればそのModを削除してください。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:6b8ecb29905b",
     "original": "The game wrote a crash report",
-    "translation": "",
+    "translation": "ゲームがクラッシュレポートを出力しました。",
     "context": "CrashAnalysis"
   },
   {
     "key": "CrashAnalysis:53b4e3dd2e95",
     "original": "The line above names what the game was doing when it stopped. Take out the mod it blames, or ask its author - the whole report is smaller than one screenshot of the log.",
-    "translation": "",
+    "translation": "上の行には、ゲームが停止したときに何をしていたかが示されています。原因として挙げられているModを外すか、その作者に問い合わせてください。レポート全体は、ログのスクリーンショット1枚より小さいものです。",
     "context": "CrashAnalysis"
   },
   {
@@ -2684,7 +2684,7 @@
   {
     "key": "DownloadQueue:8761d26fb8d6",
     "original": "cancelled",
-    "translation": "",
+    "translation": "キャンセル済み",
     "context": "DownloadQueue"
   },
   {
@@ -3464,7 +3464,7 @@
   {
     "key": "ExternalToolsPage:1db7d8b5a334",
     "original": "The selected file is not executable",
-    "translation": "",
+    "translation": "選択したファイルは実行できません",
     "context": "ExternalToolsPage"
   },
   {
@@ -3542,7 +3542,7 @@
   {
     "key": "ExtractNatives:84b0b7872a3d",
     "original": "Couldn't extract native jar '%1' to destination '%2': %3",
-    "translation": "",
+    "translation": "ネイティブjar「%1」を「%2」に展開できませんでした: %3",
     "context": "ExtractNatives"
   },
   {
@@ -3608,7 +3608,7 @@
   {
     "key": "FTB::PackInstallTask:d4e059888d25",
     "original": "Blocked path traversal in %1",
-    "translation": "",
+    "translation": "%1 内のパストラバーサルをブロックしました",
     "context": "FTB::PackInstallTask"
   },
   {
@@ -3680,67 +3680,67 @@
   {
     "key": "FileDownloader:0841c54a817b",
     "original": "the download did not succeed after %1 attempts",
-    "translation": "",
+    "translation": "%1 回試行してもダウンロードに成功しませんでした",
     "context": "FileDownloader"
   },
   {
     "key": "FileDownloader:0a4a2d2ba10e",
     "original": "could not open %1 for writing: %2",
-    "translation": "",
+    "translation": "%1 を書き込み用に開けませんでした: %2",
     "context": "FileDownloader"
   },
   {
     "key": "FileDownloader:96cf4ecee465",
     "original": "could not rewrite %1: %2",
-    "translation": "",
+    "translation": "%1 を書き換えられませんでした: %2",
     "context": "FileDownloader"
   },
   {
     "key": "FileDownloader:03415ba19151",
     "original": "could not write to %1: %2",
-    "translation": "",
+    "translation": "%1 に書き込めませんでした: %2",
     "context": "FileDownloader"
   },
   {
     "key": "FileDownloader:1ef1ac6fe684",
     "original": "no data arrived for %1 seconds from %2",
-    "translation": "",
+    "translation": "%2 から %1 秒間データが届きませんでした",
     "context": "FileDownloader"
   },
   {
     "key": "FileDownloader:69d1ce76e960",
     "original": "the server answered with HTTP %1",
-    "translation": "",
+    "translation": "サーバーが HTTP %1 で応答しました",
     "context": "FileDownloader"
   },
   {
     "key": "FileDownloader:61ce260d5c75",
     "original": "the download wrote no file",
-    "translation": "",
+    "translation": "ダウンロードでファイルが作成されませんでした",
     "context": "FileDownloader"
   },
   {
     "key": "FileDownloader:b4420b7b44bf",
     "original": "the file's SHA-1 is %1, not the %2 the manifest asked for (from %3, %4 bytes)",
-    "translation": "",
+    "translation": "ファイルのSHA-1は %1 で、マニフェストが要求した %2 ではありません (%3 から、%4 バイト)",
     "context": "FileDownloader"
   },
   {
     "key": "FileDownloader:e9a6c75a58c2",
     "original": "the file is %1 bytes, not the %2 the manifest asked for",
-    "translation": "",
+    "translation": "ファイルは %1 バイトで、マニフェストが要求した %2 ではありません",
     "context": "FileDownloader"
   },
   {
     "key": "FileDownloader:746c4c0401f9",
     "original": "could not replace %1",
-    "translation": "",
+    "translation": "%1 を置き換えられませんでした",
     "context": "FileDownloader"
   },
   {
     "key": "FileDownloader:67d0027ae93f",
     "original": "could not move %1 into place",
-    "translation": "",
+    "translation": "%1 を所定の場所に移動できませんでした",
     "context": "FileDownloader"
   },
   {
@@ -3872,7 +3872,7 @@
   {
     "key": "FlameCreationTask:e75af2bdf614",
     "original": "The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn't allowed.",
-    "translation": "",
+    "translation": "overrides に任意の場所へつながるパス (%1) が含まれています。これはセキュリティ上の危険があるため許可されません。",
     "context": "FlameCreationTask"
   },
   {
@@ -3932,7 +3932,7 @@
   {
     "key": "FlameCreationTask:a3edc4784146",
     "original": "The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn't allowed.",
-    "translation": "",
+    "translation": "Modパックが起動構成フォルダの外 (%1) にファイルをダウンロードしようとしています。これはセキュリティ上の危険があるため許可されません。",
     "context": "FlameCreationTask"
   },
   {
@@ -4556,25 +4556,25 @@
   {
     "key": "InstallLoaderDialog:8ece89f2a898",
     "original": "%1 is known to conflict with %2, which is enabled on this instance. Having both enabled at the same time will likely break the instance.\n\nWhat would you like to do with %2?",
-    "translation": "",
+    "translation": "%1 は、この起動構成で有効になっている %2 と競合することが知られています。両方を同時に有効にすると、起動構成が壊れる可能性が高いです。\n\n%2 をどうしますか？",
     "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:d9f369249799",
     "original": "Keep it",
-    "translation": "",
+    "translation": "そのまま残す",
     "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:13593f42e38c",
     "original": "Disable it",
-    "translation": "",
+    "translation": "無効にする",
     "context": "InstallLoaderDialog"
   },
   {
     "key": "InstallLoaderDialog:4ad4e0c261e7",
     "original": "Uninstall it",
-    "translation": "",
+    "translation": "アンインストールする",
     "context": "InstallLoaderDialog"
   },
   {
@@ -4610,181 +4610,181 @@
   {
     "key": "InstanceCreator:3e99a428b64a",
     "original": "Reading the list of Minecraft versions",
-    "translation": "",
+    "translation": "Minecraftのバージョン一覧を読み込み中",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:2836b006d641",
     "original": "could not read %1",
-    "translation": "",
+    "translation": "%1 を読み込めませんでした",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:2dc677a19c61",
     "original": "%1 is not in the version list",
-    "translation": "",
+    "translation": "%1 はバージョン一覧にありません",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:acdeff94790d",
     "original": "Reading Minecraft %1",
-    "translation": "",
+    "translation": "Minecraft %1 を読み込み中",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:220f5c12fea0",
     "original": "Creating the instance",
-    "translation": "",
+    "translation": "起動構成を作成中",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:8dc5246e0f3f",
     "original": "could not create %1",
-    "translation": "",
+    "translation": "%1 を作成できませんでした",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:567b615f4f4b",
     "original": "only the Fabric, Quilt, Forge and NeoForge loaders are supported so far, not %1",
-    "translation": "",
+    "translation": "現時点で対応しているローダーは Fabric、Quilt、Forge、NeoForge のみで、%1 には対応していません",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:1c5540c5fcc1",
     "original": "there is no address for %1",
-    "translation": "",
+    "translation": "%1 のアドレスがありません",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:8581afdd1b0f",
     "original": "Reading the %1 versions",
-    "translation": "",
+    "translation": "%1 のバージョンを読み込み中",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:9661626d284b",
     "original": "there is no %1 metadata here",
-    "translation": "",
+    "translation": "ここに %1 のメタデータがありません",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:73850c0e5755",
     "original": "%1 has no release for Minecraft %2",
-    "translation": "",
+    "translation": "%1 にはMinecraft %2 向けのリリースがありません",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:c2b5ee497caa",
     "original": "Reading the %1 profile",
-    "translation": "",
+    "translation": "%1 のプロファイルを読み込み中",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:e5df8e4adbd0",
     "original": "the %1 metadata has no main class",
-    "translation": "",
+    "translation": "%1 のメタデータにメインクラスがありません",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:09bf71a72250",
     "original": "Installing the %1 loader",
-    "translation": "",
+    "translation": "%1 ローダーをインストール中",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:944655b1b9db",
     "original": "no Forge version was given",
-    "translation": "",
+    "translation": "Forgeのバージョンが指定されていません",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:014a50af6cd2",
     "original": "no Java %1 was found to run the Forge installer",
-    "translation": "",
+    "translation": "Forgeのインストーラーを実行できる Java %1 が見つかりませんでした",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:deb5a521b060",
     "original": "Running the %1 installer",
-    "translation": "",
+    "translation": "%1 のインストーラーを実行中",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:0d5956c5073c",
     "original": "the Forge installer exited with %1",
-    "translation": "",
+    "translation": "Forgeのインストーラーが %1 で終了しました",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:ca5c6a47967b",
     "original": "the Forge installer could not be started",
-    "translation": "",
+    "translation": "Forgeのインストーラーを開始できませんでした",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:5a557fc303ed",
     "original": "the installer wrote no version description",
-    "translation": "",
+    "translation": "インストーラーがバージョン情報を書き出しませんでした",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:3360a77877e9",
     "original": "%1 %2 is not a component name",
-    "translation": "",
+    "translation": "%1 %2 はコンポーネント名ではありません",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:c4ad859cd5d5",
     "original": "could not write the %1 metadata",
-    "translation": "",
+    "translation": "%1 のメタデータを書き込めませんでした",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:c81d9059f1a4",
     "original": "could not write the %1 index",
-    "translation": "",
+    "translation": "%1 のインデックスを書き込めませんでした",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:23bfc5d92d94",
     "original": "Fabric does not list loader %1 for Minecraft %2",
-    "translation": "",
+    "translation": "Fabricの一覧に、Minecraft %2 向けのローダー %1 がありません",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:96be85a259a1",
     "original": "could not write mmc-pack.json into %1",
-    "translation": "",
+    "translation": "%1 に mmc-pack.json を書き込めませんでした",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:39ac9d1b831e",
     "original": "could not write instance.cfg into %1",
-    "translation": "",
+    "translation": "%1 に instance.cfg を書き込めませんでした",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:0a22089bce72",
     "original": "Checking the files the instance needs",
-    "translation": "",
+    "translation": "起動構成に必要なファイルを確認中",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:18e1f966fb99",
     "original": "the download failed",
-    "translation": "",
+    "translation": "ダウンロードに失敗しました",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:9d5a0ce82676",
     "original": "Checking the assets the game uses",
-    "translation": "",
+    "translation": "ゲームが使用するアセットを確認中",
     "context": "InstanceCreator"
   },
   {
     "key": "InstanceCreator:7024476531a9",
     "original": "the asset download failed",
-    "translation": "",
+    "translation": "アセットのダウンロードに失敗しました",
     "context": "InstanceCreator"
   },
   {
@@ -4832,157 +4832,157 @@
   {
     "key": "InstanceImportTask:61860fb3fb7c",
     "original": "The pack does not contain an mcbbs.packmeta manifest.",
-    "translation": "",
+    "translation": "パックに mcbbs.packmeta マニフェストが含まれていません。",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:7783120d0a1b",
     "original": "Could not read the pack manifest:\n%1",
-    "translation": "",
+    "translation": "パックのマニフェストを読み込めませんでした:\n%1",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:a5a0d4983af3",
     "original": "The pack does not contain an HMCL modpack.json manifest.",
-    "translation": "",
+    "translation": "パックにHMCLの modpack.json マニフェストが含まれていません。",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:40ec24733c25",
     "original": "The pack does not contain the HMCL instance manifest (minecraft/pack.json), so its game version cannot be determined.",
-    "translation": "",
+    "translation": "パックにHMCLの起動構成マニフェスト (minecraft/pack.json) が含まれていないため、ゲームバージョンを判別できません。",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:0c4a38bc514d",
     "original": "The pack manifest does not name a Minecraft version.",
-    "translation": "",
+    "translation": "パックのマニフェストにMinecraftのバージョンが記載されていません。",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:a5bd7b2f4451",
     "original": "The pack does not contain the expected %1 folder.",
-    "translation": "",
+    "translation": "パックに必要な %1 フォルダが含まれていません。",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:169a7594ed45",
     "original": "Both the archive root and the game folder contain %1; keeping the one inside the game folder.",
-    "translation": "",
+    "translation": "アーカイブのルートとゲームフォルダの両方に %1 が含まれています。ゲームフォルダ内のものを使用します。",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:06f053f281b7",
     "original": "Could not move %1 out of the pack's game folder.",
-    "translation": "",
+    "translation": "パックのゲームフォルダから %1 を移動できませんでした。",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:39dcb218553c",
     "original": "The pack names the %1 loader but not its version, so it will not be installed automatically.",
-    "translation": "",
+    "translation": "パックには %1 ローダーが指定されていますが、バージョンが指定されていないため、自動ではインストールされません。",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:94510a1f6b3a",
     "original": "Could not write mmc-pack.json into the instance folder.",
-    "translation": "",
+    "translation": "起動構成フォルダに mmc-pack.json を書き込めませんでした。",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:e34ef3dbc778",
     "original": "Resolving the files the pack expects from CurseForge",
-    "translation": "",
+    "translation": "パックが要求するファイルをCurseForgeで特定中",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:5109ac4bb31f",
     "original": "CurseForge returned no information about the files this pack lists.",
-    "translation": "",
+    "translation": "このパックが一覧に挙げるファイルについての情報がCurseForgeから返されませんでした。",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:23ba2e8ff473",
     "original": "Pack files",
-    "translation": "",
+    "translation": "パックのファイル",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:e7c7807cf53f",
     "original": "None of the files this pack lists could be downloaded.",
-    "translation": "",
+    "translation": "このパックが一覧に挙げるファイルは、どれもダウンロードできませんでした。",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:42e7855b81c6",
     "original": "%1 file(s) in the pack are no longer available from CurseForge and were skipped.",
-    "translation": "",
+    "translation": "パック内の %1 個のファイルはCurseForgeから入手できなくなったため、スキップされました。",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:551dcf261b93",
     "original": "Could not download the files this pack lists:\n%1",
-    "translation": "",
+    "translation": "このパックが一覧に挙げるファイルをダウンロードできませんでした:\n%1",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceImportTask:c9ebea531972",
     "original": "Could not ask CurseForge about the files this pack lists:\n%1",
-    "translation": "",
+    "translation": "このパックが一覧に挙げるファイルについてCurseForgeに問い合わせできませんでした:\n%1",
     "context": "InstanceImportTask"
   },
   {
     "key": "InstanceLaunch:6ad88a64c77e",
     "original": "Reading the instance",
-    "translation": "",
+    "translation": "起動構成を読み込み中",
     "context": "InstanceLaunch"
   },
   {
     "key": "InstanceLaunch:0a22089bce72",
     "original": "Checking the files the instance needs",
-    "translation": "",
+    "translation": "起動構成に必要なファイルを確認中",
     "context": "InstanceLaunch"
   },
   {
     "key": "InstanceLaunch:a0e909a2187a",
     "original": "Fetching the asset index",
-    "translation": "",
+    "translation": "アセットインデックスを取得中",
     "context": "InstanceLaunch"
   },
   {
     "key": "InstanceLaunch:9d5a0ce82676",
     "original": "Checking the assets the game uses",
-    "translation": "",
+    "translation": "ゲームが使用するアセットを確認中",
     "context": "InstanceLaunch"
   },
   {
     "key": "InstanceLaunch:28e62fc6f61f",
     "original": "Copying the assets where this version looks for them",
-    "translation": "",
+    "translation": "このバージョンが参照する場所にアセットをコピー中",
     "context": "InstanceLaunch"
   },
   {
     "key": "InstanceLaunch:15c3f61535a1",
     "original": "Unpacking the native libraries",
-    "translation": "",
+    "translation": "ネイティブライブラリを展開中",
     "context": "InstanceLaunch"
   },
   {
     "key": "InstanceLaunch:7c3192c247cf",
     "original": "Starting the game",
-    "translation": "",
+    "translation": "ゲームを起動中",
     "context": "InstanceLaunch"
   },
   {
     "key": "InstanceLaunch:81f19a61c324",
     "original": "java did not start: %1",
-    "translation": "",
+    "translation": "java を起動できませんでした: %1",
     "context": "InstanceLaunch"
   },
   {
     "key": "InstanceLaunch:18e1f966fb99",
     "original": "the download failed",
-    "translation": "",
+    "translation": "ダウンロードに失敗しました",
     "context": "InstanceLaunch"
   },
   {
@@ -5000,13 +5000,13 @@
   {
     "key": "InstanceListPage:415305129c73",
     "original": "No instances yet.",
-    "translation": "",
+    "translation": "起動構成がまだありません。",
     "context": "InstanceListPage"
   },
   {
     "key": "InstanceListPage:16b81a4d4f80",
     "original": "Instances (core preview)",
-    "translation": "",
+    "translation": "起動構成 (コアプレビュー)",
     "context": "InstanceListPage"
   },
   {
@@ -5030,31 +5030,31 @@
   {
     "key": "InstanceSettingsPage:cac3ba887056",
     "original": "Choose a background image",
-    "translation": "",
+    "translation": "背景画像を選択",
     "context": "InstanceSettingsPage"
   },
   {
     "key": "InstanceSettingsPage:7153afe730a6",
     "original": "Images (*.png *.jpg *.jpeg *.bmp *.webp)",
-    "translation": "",
+    "translation": "画像 (*.png *.jpg *.jpeg *.bmp *.webp)",
     "context": "InstanceSettingsPage"
   },
   {
     "key": "InstanceSettingsPage:759a5323dc91",
     "original": "An image shown behind the pages of this instance's window. The file is not copied: only its location is remembered, so moving or deleting it simply leaves the window plain again.",
-    "translation": "",
+    "translation": "この起動構成のウィンドウで、ページの背景に表示される画像です。ファイルはコピーされず、場所だけが記憶されるため、移動または削除するとウィンドウは元の無地に戻ります。",
     "context": "InstanceSettingsPage"
   },
   {
     "key": "InstanceSettingsPage:282182ae6b58",
     "original": "No background chosen",
-    "translation": "",
+    "translation": "背景が選択されていません",
     "context": "InstanceSettingsPage"
   },
   {
     "key": "InstanceSettingsPage:6c406be551d1",
     "original": "Choose image",
-    "translation": "",
+    "translation": "画像を選択",
     "context": "InstanceSettingsPage"
   },
   {
@@ -5216,7 +5216,7 @@
   {
     "key": "Java::ArchiveDownloadTask:873acdec7a6b",
     "original": "Unable to open supplied zip file: %1",
-    "translation": "",
+    "translation": "指定されたzipファイルを開けませんでした: %1",
     "context": "Java::ArchiveDownloadTask"
   },
   {
@@ -5288,13 +5288,13 @@
   {
     "key": "Java::LocalJavaScanTask:52cef86f41c6",
     "original": "Looking for Java inside the instance",
-    "translation": "",
+    "translation": "起動構成内のJavaを検索中",
     "context": "Java::LocalJavaScanTask"
   },
   {
     "key": "Java::LocalJavaScanTask:1064189120fc",
     "original": "Java detection",
-    "translation": "",
+    "translation": "Javaの検出",
     "context": "Java::LocalJavaScanTask"
   },
   {
@@ -5336,7 +5336,7 @@
   {
     "key": "JavaChecker:206cabea9d50",
     "original": "The Java checker library (JavaCheck.jar) could not be found.",
-    "translation": "",
+    "translation": "Javaチェッカーライブラリ (JavaCheck.jar) が見つかりませんでした。",
     "context": "JavaChecker"
   },
   {
@@ -5492,31 +5492,31 @@
   {
     "key": "JavaSettingsWidget:a60f6ade30d1",
     "original": "&Allowed Java versions",
-    "translation": "",
+    "translation": "許可するJavaバージョン(&A)",
     "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:107fcc53e4fe",
     "original": "Restrict which Java installations the launcher may pick automatically. Leave empty for no restriction.",
-    "translation": "",
+    "translation": "ランチャーが自動的に選択できるJavaのインストールを制限します。空欄にすると制限なしになります。",
     "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:b303bb284f94",
     "original": "e.g. 8, or 8-17, or 8, 11, 17-21",
-    "translation": "",
+    "translation": "例: 8、8-17、8, 11, 17-21",
     "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:9eff7c45029a",
     "original": "Look for a Java runtime inside this instance's runtime folder and prefer it. The version is verified by running the binary, not guessed from the folder name. A Java path set above takes precedence over this.",
-    "translation": "",
+    "translation": "この起動構成の runtime フォルダ内にあるJavaランタイムを探して優先的に使用します。バージョンはフォルダ名から推測するのではなく、実行して確認します。上で設定したJavaパスが優先されます。",
     "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:5387d8e6fa2d",
     "original": "Use the Java &runtime inside the instance folder",
-    "translation": "",
+    "translation": "起動構成フォルダ内のJavaランタイムを使用する(&R)",
     "context": "JavaSettingsWidget"
   },
   {
@@ -5534,13 +5534,13 @@
   {
     "key": "JavaSettingsWidget:7122bd25df03",
     "original": "Memory suggestion",
-    "translation": "",
+    "translation": "メモリの推奨値",
     "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:332692bd5ec9",
     "original": "Use these &values",
-    "translation": "",
+    "translation": "この値を使用(&V)",
     "context": "JavaSettingsWidget"
   },
   {
@@ -5552,13 +5552,13 @@
   {
     "key": "JavaSettingsWidget:9a5033aa5330",
     "original": "Suggested arguments",
-    "translation": "",
+    "translation": "推奨引数",
     "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:cc40c508ec0c",
     "original": "Add these &arguments",
-    "translation": "",
+    "translation": "この引数を追加(&A)",
     "context": "JavaSettingsWidget"
   },
   {
@@ -5606,7 +5606,7 @@
   {
     "key": "JavaSettingsWidget:fbb79c32b0d5",
     "original": "Warn when there is not enough free memory",
-    "translation": "",
+    "translation": "空きメモリが不足しているときに警告する",
     "context": "JavaSettingsWidget"
   },
   {
@@ -5642,31 +5642,31 @@
   {
     "key": "JavaSettingsWidget:13d7b44bb06c",
     "original": "%1 mods installed here, so %2 MiB of heap.",
-    "translation": "",
+    "translation": "ここには %1 個のModがインストールされているため、ヒープは %2 MiB です。",
     "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:cb8980481351",
     "original": "This machine has %1 MiB, and three quarters of it is as much as the game should be given.",
-    "translation": "",
+    "translation": "このマシンには %1 MiB あり、その4分の3がゲームに割り当てるべき上限です。",
     "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:ebe7552fb128",
     "original": "This machine has %1 MiB, so the game can have %2 MiB and still leave room for everything else.",
-    "translation": "",
+    "translation": "このマシンには %1 MiB あるため、ゲームに %2 MiB を割り当てても、ほかに十分な余裕が残ります。",
     "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:e87bed3d53d8",
     "original": "This machine has only %1 MiB in total. The game needs %2 MiB to start, so close what else is running.",
-    "translation": "",
+    "translation": "このマシンのメモリは合計 %1 MiB しかありません。ゲームの起動には %2 MiB 必要なため、ほかに実行中のものを終了してください。",
     "context": "JavaSettingsWidget"
   },
   {
     "key": "JavaSettingsWidget:6ccf6fde5bb5",
     "original": "%1 Both limits are the same number, so the heap does not have to grow while you play.",
-    "translation": "",
+    "translation": "%1 両方の上限が同じ値なので、プレイ中にヒープを拡張する必要はありません。",
     "context": "JavaSettingsWidget"
   },
   {
@@ -5684,7 +5684,7 @@
   {
     "key": "JavaSettingsWidget:83c1f32646ee",
     "original": "Suggested for %1 MiB of heap: %2",
-    "translation": "",
+    "translation": "%1 MiB のヒープに対する推奨値: %2",
     "context": "JavaSettingsWidget"
   },
   {
@@ -5828,13 +5828,13 @@
   {
     "key": "KomorebiAccountsDialog:910be7c3361e",
     "original": "Komorebi accounts",
-    "translation": "",
+    "translation": "Komorebiアカウント",
     "context": "KomorebiAccountsDialog"
   },
   {
     "key": "KomorebiAccountsDialog:a4899218975a",
     "original": "Games started with the new launch path use the account marked as default. The launcher's original accounts keep working alongside these. An offline account can be added once a Microsoft account is here.",
-    "translation": "",
+    "translation": "新しい起動方法で起動したゲームでは、デフォルトに設定されたアカウントが使用されます。ランチャー本来のアカウントも、これらと並行して使用できます。Microsoftアカウントがあれば、オフラインアカウントも追加できます。",
     "context": "KomorebiAccountsDialog"
   },
   {
@@ -5846,13 +5846,13 @@
   {
     "key": "KomorebiAccountsDialog:46d04d30a44f",
     "original": "Add offline account",
-    "translation": "",
+    "translation": "オフラインアカウントを追加",
     "context": "KomorebiAccountsDialog"
   },
   {
     "key": "KomorebiAccountsDialog:d5d543b30d1e",
     "original": "Use this account",
-    "translation": "",
+    "translation": "このアカウントを使用",
     "context": "KomorebiAccountsDialog"
   },
   {
@@ -5864,121 +5864,121 @@
   {
     "key": "KomorebiAccountsDialog:0042debd72f5",
     "original": "%1  (offline)",
-    "translation": "",
+    "translation": "%1  (オフライン)",
     "context": "KomorebiAccountsDialog"
   },
   {
     "key": "KomorebiAccountsDialog:89f59be21650",
     "original": "  (default)",
-    "translation": "",
+    "translation": "  (デフォルト)",
     "context": "KomorebiAccountsDialog"
   },
   {
     "key": "KomorebiAccountsDialog:a580822662cf",
     "original": "Play under a name that never signs in.",
-    "translation": "",
+    "translation": "サインインしない名前でプレイします。",
     "context": "KomorebiAccountsDialog"
   },
   {
     "key": "KomorebiAccountsDialog:b73c465958c2",
     "original": "Sign in with Microsoft first: an offline name needs a Microsoft account beside it.",
-    "translation": "",
+    "translation": "先にMicrosoftアカウントでサインインしてください。オフラインの名前を使うには、Microsoftアカウントが一緒に必要です。",
     "context": "KomorebiAccountsDialog"
   },
   {
     "key": "KomorebiAccountsDialog:8976716ce823",
     "original": "The accounts file at %1 could not be read.",
-    "translation": "",
+    "translation": "%1 のアカウントファイルを読み込めませんでした。",
     "context": "KomorebiAccountsDialog"
   },
   {
     "key": "KomorebiAccountsDialog:8fa4d220fdb0",
     "original": "No Komorebi accounts yet. Sign in with Microsoft to add one.",
-    "translation": "",
+    "translation": "Komorebiアカウントがまだありません。Microsoftアカウントでサインインして追加してください。",
     "context": "KomorebiAccountsDialog"
   },
   {
     "key": "KomorebiAccountsDialog:344ea289c227",
     "original": "%1 account(s), kept in %2",
-    "translation": "",
+    "translation": "%1 個のアカウント (%2 に保存)",
     "context": "KomorebiAccountsDialog"
   },
   {
     "key": "KomorebiAccountsDialog:5f5bc0dd9ad1",
     "original": "The sign-in could not be kept safely on this computer.",
-    "translation": "",
+    "translation": "このコンピューターにサインイン情報を安全に保存できませんでした。",
     "context": "KomorebiAccountsDialog"
   },
   {
     "key": "KomorebiAccountsDialog:8ba71e378a40",
     "original": "The account could not be saved at %1.",
-    "translation": "",
+    "translation": "アカウントを %1 に保存できませんでした。",
     "context": "KomorebiAccountsDialog"
   },
   {
     "key": "KomorebiAccountsDialog:8c15c4fce508",
     "original": "Signed in as %1. It is now the account used for launching.",
-    "translation": "",
+    "translation": "%1 としてサインインしました。このアカウントが起動に使用されます。",
     "context": "KomorebiAccountsDialog"
   },
   {
     "key": "KomorebiAccountsDialog:4d94a0b8c6c8",
     "original": "Name to play as:",
-    "translation": "",
+    "translation": "プレイ時の名前:",
     "context": "KomorebiAccountsDialog"
   },
   {
     "key": "KomorebiAccountsDialog:5f862429b0fa",
     "original": "An offline account needs a name.",
-    "translation": "",
+    "translation": "オフラインアカウントには名前が必要です。",
     "context": "KomorebiAccountsDialog"
   },
   {
     "key": "KomorebiAccountsDialog:acd4e73d493e",
     "original": "The offline account could not be saved at %1.",
-    "translation": "",
+    "translation": "オフラインアカウントを %1 に保存できませんでした。",
     "context": "KomorebiAccountsDialog"
   },
   {
     "key": "KomorebiAccountsDialog:176a207a94e2",
     "original": "%1 will be used for launching.",
-    "translation": "",
+    "translation": "%1 が起動に使用されます。",
     "context": "KomorebiAccountsDialog"
   },
   {
     "key": "KomorebiAccountsDialog:e556b5329b34",
     "original": "Remove account",
-    "translation": "",
+    "translation": "アカウントを削除",
     "context": "KomorebiAccountsDialog"
   },
   {
     "key": "KomorebiAccountsDialog:51aca62d4923",
     "original": "Remove %1 from the launcher? The account itself is not affected.",
-    "translation": "",
+    "translation": "ランチャーから %1 を削除しますか？アカウント自体には影響しません。",
     "context": "KomorebiAccountsDialog"
   },
   {
     "key": "KomorebiAccountsDialog:fd0aff56040a",
     "original": "Remove the offline accounts first: they need a Microsoft account to stand beside.",
-    "translation": "",
+    "translation": "先にオフラインアカウントを削除してください。オフラインアカウントを使うには、Microsoftアカウントが一緒に必要です。",
     "context": "KomorebiAccountsDialog"
   },
   {
     "key": "KomorebiAccountsDialog:3b5a3acf3cea",
     "original": "That account is not stored any more.",
-    "translation": "",
+    "translation": "そのアカウントはもう保存されていません。",
     "context": "KomorebiAccountsDialog"
   },
   {
     "key": "KomorebiAccountsDialog:37b86c01b269",
     "original": "The account could not be removed from %1.",
-    "translation": "",
+    "translation": "%1 からアカウントを削除できませんでした。",
     "context": "KomorebiAccountsDialog"
   },
   {
     "key": "KomorebiAccountsDialog:914ab2a91074",
     "original": "Removed %1.",
-    "translation": "",
+    "translation": "%1 を削除しました。",
     "context": "KomorebiAccountsDialog"
   },
   {
@@ -5990,37 +5990,37 @@
   {
     "key": "KomorebiDeviceCodeDialog:e70f27ec6e6e",
     "original": "Open the address below in a browser and enter the code. This window will wait for you.",
-    "translation": "",
+    "translation": "以下のアドレスをブラウザーで開き、コードを入力してください。このウィンドウはそのまま待機します。",
     "context": "KomorebiDeviceCodeDialog"
   },
   {
     "key": "KomorebiDeviceCodeDialog:6c10692719e6",
     "original": "Copy code",
-    "translation": "",
+    "translation": "コードをコピー",
     "context": "KomorebiDeviceCodeDialog"
   },
   {
     "key": "KomorebiDeviceCodeDialog:9ee309dcedc9",
     "original": "Open page",
-    "translation": "",
+    "translation": "ページを開く",
     "context": "KomorebiDeviceCodeDialog"
   },
   {
     "key": "KomorebiDeviceCodeDialog:9f62167aed9a",
     "original": "Asking Microsoft for a code…",
-    "translation": "",
+    "translation": "Microsoftにコードを要求しています…",
     "context": "KomorebiDeviceCodeDialog"
   },
   {
     "key": "KomorebiDeviceCodeDialog:ba1ab55bba49",
     "original": "Waiting for you to approve the sign-in in the browser. The code is good for %1 minutes.",
-    "translation": "",
+    "translation": "ブラウザーでサインインを承認するのを待っています。コードは %1 分間有効です。",
     "context": "KomorebiDeviceCodeDialog"
   },
   {
     "key": "KomorebiDeviceCodeDialog:ae9b07629ddd",
     "original": "The sign-in could not finish: %1",
-    "translation": "",
+    "translation": "サインインを完了できませんでした: %1",
     "context": "KomorebiDeviceCodeDialog"
   },
   {
@@ -6032,19 +6032,19 @@
   {
     "key": "KomorebiDeviceCodeDialog:0fe470776e76",
     "original": "Code copied. Paste it into the browser.",
-    "translation": "",
+    "translation": "コードをコピーしました。ブラウザーに貼り付けてください。",
     "context": "KomorebiDeviceCodeDialog"
   },
   {
     "key": "KomorebiNewInstanceDialog:95f5e3fa9d62",
     "original": "New instance",
-    "translation": "",
+    "translation": "新しい起動構成",
     "context": "KomorebiNewInstanceDialog"
   },
   {
     "key": "KomorebiNewInstanceDialog:6b1353f65842",
     "original": "what to call it",
-    "translation": "",
+    "translation": "起動構成の名前",
     "context": "KomorebiNewInstanceDialog"
   },
   {
@@ -6056,7 +6056,7 @@
   {
     "key": "KomorebiNewInstanceDialog:cc70f3768dab",
     "original": "reading the version list",
-    "translation": "",
+    "translation": "バージョン一覧を読み込み中",
     "context": "KomorebiNewInstanceDialog"
   },
   {
@@ -6068,67 +6068,67 @@
   {
     "key": "KomorebiNewInstanceDialog:ec6f9069daa8",
     "original": "Loader",
-    "translation": "",
+    "translation": "ローダー",
     "context": "KomorebiNewInstanceDialog"
   },
   {
     "key": "KomorebiNewInstanceDialog:1adf3481f97f",
     "original": "Loader version",
-    "translation": "",
+    "translation": "ローダーのバージョン",
     "context": "KomorebiNewInstanceDialog"
   },
   {
     "key": "KomorebiNewInstanceDialog:6e157c5da441",
     "original": "Create",
-    "translation": "",
+    "translation": "作成",
     "context": "KomorebiNewInstanceDialog"
   },
   {
     "key": "KomorebiNewInstanceDialog:3e99a428b64a",
     "original": "Reading the list of Minecraft versions",
-    "translation": "",
+    "translation": "Minecraftのバージョン一覧を読み込み中",
     "context": "KomorebiNewInstanceDialog"
   },
   {
     "key": "KomorebiNewInstanceDialog:be5202a75f39",
     "original": "Could not read the version list: %1",
-    "translation": "",
+    "translation": "バージョン一覧を読み込めませんでした: %1",
     "context": "KomorebiNewInstanceDialog"
   },
   {
     "key": "KomorebiNewInstanceDialog:4a2cf5299c25",
     "original": "%1 versions. Newest release: %2",
-    "translation": "",
+    "translation": "%1 個のバージョン。最新リリース: %2",
     "context": "KomorebiNewInstanceDialog"
   },
   {
     "key": "KomorebiNewInstanceDialog:6b67470c6118",
     "original": "The instance needs a name.",
-    "translation": "",
+    "translation": "起動構成には名前が必要です。",
     "context": "KomorebiNewInstanceDialog"
   },
   {
     "key": "KomorebiNewInstanceDialog:4186e3c7b559",
     "original": "Choose the Minecraft version to run.",
-    "translation": "",
+    "translation": "実行するMinecraftのバージョンを選択してください。",
     "context": "KomorebiNewInstanceDialog"
   },
   {
     "key": "KomorebiNewInstanceDialog:b4659b2029f9",
     "original": "Forge needs its own version.",
-    "translation": "",
+    "translation": "Forgeでは専用のバージョンが必要です。",
     "context": "KomorebiNewInstanceDialog"
   },
   {
     "key": "KomorebiNewInstanceDialog:96a9b7cdbe40",
     "original": "Preparing",
-    "translation": "",
+    "translation": "準備中",
     "context": "KomorebiNewInstanceDialog"
   },
   {
     "key": "KomorebiNewInstanceDialog:f6489cd7819f",
     "original": "Could not create the instance: %1",
-    "translation": "",
+    "translation": "起動構成を作成できませんでした: %1",
     "context": "KomorebiNewInstanceDialog"
   },
   {
@@ -6164,25 +6164,25 @@
   {
     "key": "LaunchCommand:ee789b6a3825",
     "original": "Running %1 command: %2",
-    "translation": "",
+    "translation": "%1 コマンドを実行中: %2",
     "context": "LaunchCommand"
   },
   {
     "key": "LaunchCommand:0a1cdfb72126",
     "original": "%1 command is empty, skipping.",
-    "translation": "",
+    "translation": "%1 コマンドが空のため、スキップします。",
     "context": "LaunchCommand"
   },
   {
     "key": "LaunchCommand:0cc25cf03e15",
     "original": "%1 command failed with code %2.\n\n",
-    "translation": "",
+    "translation": "%1 コマンドがコード %2 で失敗しました。\n\n",
     "context": "LaunchCommand"
   },
   {
     "key": "LaunchCommand:99726925f1fa",
     "original": "%1 command ran successfully.\n\n",
-    "translation": "",
+    "translation": "%1 コマンドは正常に実行されました。\n\n",
     "context": "LaunchCommand"
   },
   {
@@ -6224,7 +6224,7 @@
   {
     "key": "LaunchController:977dc46abf35",
     "original": "In order to play Minecraft, you must have at least one account added: a Microsoft account that owns Minecraft, or an account on a third-party authentication server. Would you like to open the account manager to add an account now?",
-    "translation": "",
+    "translation": "Minecraftをプレイするには、少なくとも1つのアカウントを追加する必要があります。Minecraftを所有しているMicrosoftアカウントか、サードパーティの認証サーバーのアカウントです。今すぐアカウント管理を開いてアカウントを追加しますか？",
     "context": "LaunchController"
   },
   {
@@ -6272,31 +6272,31 @@
   {
     "key": "LaunchController:1626967a88ab",
     "original": "Sign in to '%1'",
-    "translation": "",
+    "translation": "「%1」にサインイン",
     "context": "LaunchController"
   },
   {
     "key": "LaunchController:0cc520801543",
     "original": "Enter the password for '%1'.",
-    "translation": "",
+    "translation": "「%1」のパスワードを入力してください。",
     "context": "LaunchController"
   },
   {
     "key": "LaunchController:d7f0151771fb",
     "original": "authlib-injector is not installed",
-    "translation": "",
+    "translation": "authlib-injector がインストールされていません",
     "context": "LaunchController"
   },
   {
     "key": "LaunchController:32f0d29c7a4d",
     "original": "This account signs in through %1, but this instance has no authlib-injector agent, so the game cannot reach that server to load skins or to join its online-mode servers.\n\nInstall the agent into this instance now?",
-    "translation": "",
+    "translation": "このアカウントは%1経由でサインインしていますが、この起動構成にはauthlib-injectorエージェントがないため、ゲームはそのサーバーに接続できず、スキンを読み込んだり、オンラインモードのサーバーに参加したりできません。\n\n今すぐこの起動構成にエージェントをインストールしますか？",
     "context": "LaunchController"
   },
   {
     "key": "LaunchController:54327aff2ab4",
     "original": "Install authlib-injector",
-    "translation": "",
+    "translation": "authlib-injectorをインストール",
     "context": "LaunchController"
   },
   {
@@ -6422,7 +6422,7 @@
   {
     "key": "LaunchController:3854d26e9ebc",
     "original": "Disable profiler on next launch",
-    "translation": "",
+    "translation": "次回の起動時にプロファイラを無効化",
     "context": "LaunchController"
   },
   {
@@ -6440,13 +6440,13 @@
   {
     "key": "LaunchController:40ab636cbfc6",
     "original": "authlib-injector points at another server",
-    "translation": "",
+    "translation": "authlib-injectorが別のサーバーを参照しています",
     "context": "LaunchController"
   },
   {
     "key": "LaunchController:b80d8c5851a1",
     "original": "The authlib-injector agent in this instance sends the game's authentication to %1, but this account signs in through %2. Skins and online-mode servers will not work until the agent is reinstalled for the current account.\n\nReinstall it now?",
-    "translation": "",
+    "translation": "この起動構成のauthlib-injectorエージェントはゲームの認証を%1に送信しますが、このアカウントは%2経由でサインインしています。現在のアカウント用にエージェントを再インストールするまで、スキンとオンラインモードのサーバーは機能しません。\n\n今すぐ再インストールしますか？",
     "context": "LaunchController"
   },
   {
@@ -6464,13 +6464,13 @@
   {
     "key": "LaunchTask:90c74f3bfd21",
     "original": "Diagnosis: %1",
-    "translation": "",
+    "translation": "診断: %1",
     "context": "LaunchTask"
   },
   {
     "key": "LaunchTask:7a02e2da18cd",
     "original": "Suggestion: %1",
-    "translation": "",
+    "translation": "対処法: %1",
     "context": "LaunchTask"
   },
   {
@@ -6500,7 +6500,7 @@
   {
     "key": "LauncherLoginStep:f34510a5d2d8",
     "original": "Mojang refused this build's application ID, so it cannot sign in to Minecraft. The registration is either not approved or no longer approved; see https://aka.ms/AppRegInfo. Third-party server accounts still work.",
-    "translation": "",
+    "translation": "MojangがこのビルドのアプリケーションIDを拒否したため、Minecraftにサインインできません。登録が承認されていないか、承認が取り消されています。https://aka.ms/AppRegInfo を参照してください。サードパーティサーバーのアカウントは引き続き使用できます。",
     "context": "LauncherLoginStep"
   },
   {
@@ -6620,7 +6620,7 @@
   {
     "key": "LauncherPage:9dd38cb20297",
     "original": "Every ",
-    "translation": "",
+    "translation": "毎 ",
     "context": "LauncherPage"
   },
   {
@@ -6638,13 +6638,13 @@
   {
     "key": "LauncherPage:3330eab85213",
     "original": "Opens the edit instance window on double-clicking an instance instead of running the instance.",
-    "translation": "",
+    "translation": "起動構成をダブルクリックしたときに、起動する代わりに編集ウィンドウを開きます。",
     "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:1f7bb40c3838",
     "original": "&Open Edit window on instance double-click",
-    "translation": "",
+    "translation": "起動構成のダブルクリックで編集ウィンドウを開く(&O)",
     "context": "LauncherPage"
   },
   {
@@ -6656,7 +6656,7 @@
   {
     "key": "LauncherPage:61cc55aa0453",
     "original": "Add",
-    "translation": "",
+    "translation": "追加",
     "context": "LauncherPage"
   },
   {
@@ -6698,31 +6698,31 @@
   {
     "key": "LauncherPage:a79b2b06374b",
     "original": "Select the preferred release channel when checking for mod updates.",
-    "translation": "",
+    "translation": "Modのアップデートを確認するときに使用するリリースチャンネルを選択します。",
     "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:2f848b38a830",
     "original": "Mod Update Channel:",
-    "translation": "",
+    "translation": "Modアップデートチャンネル:",
     "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:83965f5c6021",
     "original": "All (Release, Beta, Alpha)",
-    "translation": "",
+    "translation": "すべて (正式リリース、ベータ、アルファ)",
     "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:97c3e29118c0",
     "original": "Release only",
-    "translation": "",
+    "translation": "正式リリースのみ",
     "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:c8981bc0f340",
     "original": "Release and Beta",
-    "translation": "",
+    "translation": "正式リリースとベータ",
     "context": "LauncherPage"
   },
   {
@@ -6812,25 +6812,25 @@
   {
     "key": "LauncherPage:0d806ed706bf",
     "original": "&Auto Downloaded Java:",
-    "translation": "",
+    "translation": "自動ダウンロードしたJava(&A):",
     "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:f7a7947c121e",
     "original": "Instance &Icons:",
-    "translation": "",
+    "translation": "起動構成のアイコン(&I):",
     "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:137bbe36b001",
     "original": "&Mods (Quick Access):",
-    "translation": "",
+    "translation": "Mod (クイックアクセス)(&M):",
     "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:bdce388aeb24",
     "original": "Additional Instance Folders",
-    "translation": "",
+    "translation": "追加の起動構成フォルダ",
     "context": "LauncherPage"
   },
   {
@@ -6926,25 +6926,25 @@
   {
     "key": "LauncherPage:5d6c8b1e639d",
     "original": "Additional Instance Folder",
-    "translation": "",
+    "translation": "追加の起動構成フォルダ",
     "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:8f9171c2b7b0",
     "original": "Duplicate directory",
-    "translation": "",
+    "translation": "ディレクトリが重複しています",
     "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:b76fdff64134",
     "original": "This is already your primary instance directory.",
-    "translation": "",
+    "translation": "これはすでにメインの起動構成ディレクトリです。",
     "context": "LauncherPage"
   },
   {
     "key": "LauncherPage:5f9b7cc33a17",
     "original": "This directory has already been added.",
-    "translation": "",
+    "translation": "このディレクトリはすでに追加されています。",
     "context": "LauncherPage"
   },
   {
@@ -7382,7 +7382,7 @@
   {
     "key": "LoginWizardPage:baf9fa422fda",
     "original": "Add a Microsoft account here, or skip this step and add an account later under Settings - Accounts.",
-    "translation": "",
+    "translation": "ここでMicrosoftアカウントを追加するか、この手順をスキップして、後から「設定」の「アカウント」ページで追加できます。",
     "context": "LoginWizardPage"
   },
   {
@@ -7400,25 +7400,25 @@
   {
     "key": "MMCZip::ExportToZipTask:a9d1bdbce0eb",
     "original": "Failed to open output file: %1",
-    "translation": "",
+    "translation": "出力ファイルを開けませんでした: %1",
     "context": "MMCZip::ExportToZipTask"
   },
   {
     "key": "MMCZip::ExportToZipTask:eed2a7dae940",
     "original": "Could not add %1: %2",
-    "translation": "",
+    "translation": "%1 を追加できませんでした: %2",
     "context": "MMCZip::ExportToZipTask"
   },
   {
     "key": "MMCZip::ExportToZipTask:af0e26dd8643",
     "original": "Could not read and compress %1: %2",
-    "translation": "",
+    "translation": "%1 の読み取りと圧縮ができませんでした: %2",
     "context": "MMCZip::ExportToZipTask"
   },
   {
     "key": "MMCZip::ExportToZipTask:09ad6631e668",
     "original": "Failed to close output file: %1",
-    "translation": "",
+    "translation": "出力ファイルを閉じられませんでした: %1",
     "context": "MMCZip::ExportToZipTask"
   },
   {
@@ -7430,7 +7430,7 @@
   {
     "key": "MMCZip::ExtractZipTask:04ec73ac68c1",
     "original": "Failed to extract file %1 to %2: %3",
-    "translation": "",
+    "translation": "ファイル %1 を %2 に展開できませんでした: %3",
     "context": "MMCZip::ExtractZipTask"
   },
   {
@@ -7472,7 +7472,7 @@
   {
     "key": "MSADeviceCodeStep:3773f9f9f21c",
     "original": "The sign-in code expired before it was used. Sign in again to get a new one.",
-    "translation": "",
+    "translation": "サインインコードが使用される前に有効期限が切れました。もう一度サインインして、新しいコードを取得してください。",
     "context": "MSADeviceCodeStep"
   },
   {
@@ -7538,7 +7538,7 @@
   {
     "key": "MSALoginDialog:ad8610b41e3c",
     "original": "Microsoft refused the application ID this build uses, not your account. That means the registration is misconfigured, or it no longer has access to the Minecraft services API. Third-party server accounts are unaffected.",
-    "translation": "",
+    "translation": "Microsoftが拒否したのは、このビルドが使用するアプリケーションIDであり、あなたのアカウントではありません。登録の設定が誤っているか、MinecraftサービスAPIへのアクセス権がなくなっています。サードパーティサーバーのアカウントは影響を受けません。",
     "context": "MSALoginDialog"
   },
   {
@@ -7586,7 +7586,7 @@
   {
     "key": "MainContentPanel:5964ea184b02",
     "original": "Pick one on the left to get started.",
-    "translation": "",
+    "translation": "左側から1つ選択して開始してください。",
     "context": "MainContentPanel"
   },
   {
@@ -7922,13 +7922,13 @@
   {
     "key": "MainWindow:874df71b3b4d",
     "original": "I&nstances",
-    "translation": "",
+    "translation": "起動構成(&N)",
     "context": "MainWindow"
   },
   {
     "key": "MainWindow:51b9786bc1d0",
     "original": "Launcher &Data",
-    "translation": "",
+    "translation": "ランチャーのデータ(&D)",
     "context": "MainWindow"
   },
   {
@@ -7940,25 +7940,25 @@
   {
     "key": "MainWindow:556944edbaf6",
     "original": "&Mods (Quick Access)",
-    "translation": "",
+    "translation": "Mod (クイックアクセス)(&M)",
     "context": "MainWindow"
   },
   {
     "key": "MainWindow:a8de50d0869c",
     "original": "Open the mods folder in a file browser.",
-    "translation": "",
+    "translation": "ファイルブラウザでModフォルダを開きます。",
     "context": "MainWindow"
   },
   {
     "key": "MainWindow:184bcbcb913b",
     "original": "Instance &Icons",
-    "translation": "",
+    "translation": "起動構成のアイコン(&I)",
     "context": "MainWindow"
   },
   {
     "key": "MainWindow:c9e6c05ac9ff",
     "original": "Launcher &Logs",
-    "translation": "",
+    "translation": "ランチャーのログ(&L)",
     "context": "MainWindow"
   },
   {
@@ -7988,19 +7988,19 @@
   {
     "key": "MainWindow:75adf5a4cf64",
     "original": "I&con Themes",
-    "translation": "",
+    "translation": "アイコンテーマ(&C)",
     "context": "MainWindow"
   },
   {
     "key": "MainWindow:70de3986b7ca",
     "original": "&Cat Packs",
-    "translation": "",
+    "translation": "猫パック(&C)",
     "context": "MainWindow"
   },
   {
     "key": "MainWindow:288a81c4f9e8",
     "original": "&Auto Downloaded Java",
-    "translation": "",
+    "translation": "自動ダウンロードしたJava(&A)",
     "context": "MainWindow"
   },
   {
@@ -8186,7 +8186,7 @@
   {
     "key": "MainWindow:28c54654fe51",
     "original": "Unsupported Modrinth link.\n\nKomorebi Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.",
-    "translation": "",
+    "translation": "対応していないModrinthリンクです。\n\nKomorebi Launcherは現在、modrinth://modpack/fabulously-optimized のようなModパックのリンクにのみ対応しています。",
     "context": "MainWindow"
   },
   {
@@ -8342,19 +8342,19 @@
   {
     "key": "MainWindow:834d4a1c6440",
     "original": "%1 (offline)",
-    "translation": "",
+    "translation": "%1 (オフライン)",
     "context": "MainWindow"
   },
   {
     "key": "MainWindow:257fa99e085f",
     "original": "No account",
-    "translation": "",
+    "translation": "アカウントなし",
     "context": "MainWindow"
   },
   {
     "key": "MainWindow:3e19f82f45fb",
     "original": "Komorebi accounts…",
-    "translation": "",
+    "translation": "Komorebiアカウント…",
     "context": "MainWindow"
   },
   {
@@ -8462,7 +8462,7 @@
   {
     "key": "MainWindow:16b81a4d4f80",
     "original": "Instances (core preview)",
-    "translation": "",
+    "translation": "起動構成 (コアプレビュー)",
     "context": "MainWindow"
   },
   {
@@ -8606,7 +8606,7 @@
   {
     "key": "ManagedPackPage:8fdea5a31d6d",
     "original": "You are about to update the modpack to a new version.\nIrreversible changes may be made to the instance's files.\nAs such, it is strongly recommended to create a backup copy of the instance.\n\nAre you sure?",
-    "translation": "",
+    "translation": "Modパックを新しいバージョンに更新しようとしています。\n起動構成のファイルに元に戻せない変更が加えられる可能性があります。\nそのため、起動構成のバックアップコピーを作成することを強くおすすめします。\n\n本当によろしいですか？",
     "context": "ManagedPackPage"
   },
   {
@@ -8618,13 +8618,13 @@
   {
     "key": "ManagedPackPage:f701d3d7d9eb",
     "original": "You are about to update the modpack to version \"%1\".\nIrreversible changes may be made to the instance's files.\nAs such, it is strongly recommended to create a backup copy of the instance.\n\nAre you sure?",
-    "translation": "",
+    "translation": "Modパックをバージョン「%1」に更新しようとしています。\n起動構成のファイルに元に戻せない変更が加えられる可能性があります。\nそのため、起動構成のバックアップコピーを作成することを強くおすすめします。\n\n本当によろしいですか？",
     "context": "ManagedPackPage"
   },
   {
     "key": "McClient:4496f3b32ffa",
     "original": "The server announced an impossible status packet (%1 bytes)",
-    "translation": "",
+    "translation": "サーバーが不正なステータスパケットを通知しました (%1 バイト)",
     "context": "McClient"
   },
   {
@@ -8654,115 +8654,115 @@
   {
     "key": "MicrosoftAuth:465e8fe888f8",
     "original": "no Microsoft app id is configured",
-    "translation": "",
+    "translation": "MicrosoftのアプリIDが設定されていません",
     "context": "MicrosoftAuth"
   },
   {
     "key": "MicrosoftAuth:6b5dc6928310",
     "original": "Microsoft would not start a sign-in: %1",
-    "translation": "",
+    "translation": "Microsoftがサインインを開始できませんでした: %1",
     "context": "MicrosoftAuth"
   },
   {
     "key": "MicrosoftAuth:fd44bfdcd524",
     "original": "Microsoft returned no device code",
-    "translation": "",
+    "translation": "Microsoftからデバイスコードが返されませんでした",
     "context": "MicrosoftAuth"
   },
   {
     "key": "MicrosoftAuth:b07a55e55a2d",
     "original": "sign-in failed: %1",
-    "translation": "",
+    "translation": "サインインに失敗しました: %1",
     "context": "MicrosoftAuth"
   },
   {
     "key": "MicrosoftAuth:a553750e675f",
     "original": "Microsoft returned no access token",
-    "translation": "",
+    "translation": "Microsoftからアクセストークンが返されませんでした",
     "context": "MicrosoftAuth"
   },
   {
     "key": "MicrosoftAuth:d313943c817c",
     "original": "there is no refresh token to use",
-    "translation": "",
+    "translation": "使用できるリフレッシュトークンがありません",
     "context": "MicrosoftAuth"
   },
   {
     "key": "MicrosoftAuth:1fb2b4481fee",
     "original": "the sign-in could not be renewed: %1",
-    "translation": "",
+    "translation": "サインインを更新できませんでした: %1",
     "context": "MicrosoftAuth"
   },
   {
     "key": "MicrosoftAuth:f66eea89fcea",
     "original": "Xbox Live refused the sign-in: %1",
-    "translation": "",
+    "translation": "Xbox Liveがサインインを拒否しました: %1",
     "context": "MicrosoftAuth"
   },
   {
     "key": "MicrosoftAuth:34ad6979b274",
     "original": "Xbox Live returned no token",
-    "translation": "",
+    "translation": "Xbox Liveからトークンが返されませんでした",
     "context": "MicrosoftAuth"
   },
   {
     "key": "MicrosoftAuth:629ed11062a5",
     "original": "this Microsoft account has no Xbox profile yet; sign in to Xbox once",
-    "translation": "",
+    "translation": "このMicrosoftアカウントにはまだXboxプロファイルがありません。一度Xboxにサインインしてください",
     "context": "MicrosoftAuth"
   },
   {
     "key": "MicrosoftAuth:43718d452578",
     "original": "this account is a child account and needs a family group",
-    "translation": "",
+    "translation": "このアカウントは子供用アカウントであり、ファミリーグループが必要です",
     "context": "MicrosoftAuth"
   },
   {
     "key": "MicrosoftAuth:b70b0f344b04",
     "original": "XSTS refused the sign-in: %1",
-    "translation": "",
+    "translation": "XSTSがサインインを拒否しました: %1",
     "context": "MicrosoftAuth"
   },
   {
     "key": "MicrosoftAuth:8bfd8c832924",
     "original": "XSTS returned no token",
-    "translation": "",
+    "translation": "XSTSからトークンが返されませんでした",
     "context": "MicrosoftAuth"
   },
   {
     "key": "MicrosoftAuth:c55922d5f372",
     "original": "Minecraft services refused this account",
-    "translation": "",
+    "translation": "Minecraftサービスがこのアカウントを拒否しました",
     "context": "MicrosoftAuth"
   },
   {
     "key": "MicrosoftAuth:9f7d384a612c",
     "original": "Minecraft services refused the sign-in: %1",
-    "translation": "",
+    "translation": "Minecraftサービスがサインインを拒否しました: %1",
     "context": "MicrosoftAuth"
   },
   {
     "key": "MicrosoftAuth:64cfe3c5969e",
     "original": "Minecraft services returned no access token",
-    "translation": "",
+    "translation": "Minecraftサービスからアクセストークンが返されませんでした",
     "context": "MicrosoftAuth"
   },
   {
     "key": "MicrosoftAuth:9948b9b2a8e7",
     "original": "this account does not own Minecraft",
-    "translation": "",
+    "translation": "このアカウントはMinecraftを所有していません",
     "context": "MicrosoftAuth"
   },
   {
     "key": "MicrosoftAuth:65a29cce6276",
     "original": "the Minecraft profile could not be read: %1",
-    "translation": "",
+    "translation": "Minecraftプロファイルを読み取れませんでした: %1",
     "context": "MicrosoftAuth"
   },
   {
     "key": "MicrosoftAuth:d40fd2c96820",
     "original": "the Minecraft profile came back without a name",
-    "translation": "",
+    "translation": "Minecraftプロファイルに名前が含まれていませんでした",
     "context": "MicrosoftAuth"
   },
   {
@@ -8804,7 +8804,7 @@
   {
     "key": "MinecraftInstance:0ac5c4c9e408",
     "original": "Launch &As",
-    "translation": "",
+    "translation": "別のアカウントで起動(&A)",
     "context": "MinecraftInstance"
   },
   {
@@ -8870,19 +8870,19 @@
   {
     "key": "MinecraftInstance:e60ff6367f32",
     "original": "Pre-Load",
-    "translation": "",
+    "translation": "読み込み前",
     "context": "MinecraftInstance"
   },
   {
     "key": "MinecraftInstance:fe4745722123",
     "original": "Pre-Launch",
-    "translation": "",
+    "translation": "起動前",
     "context": "MinecraftInstance"
   },
   {
     "key": "MinecraftInstance:281a14b65c82",
     "original": "Post-Launch",
-    "translation": "",
+    "translation": "起動後",
     "context": "MinecraftInstance"
   },
   {
@@ -9128,7 +9128,7 @@
   {
     "key": "MinecraftSettingsWidget:dd2ae46a1914",
     "original": "&Count time playing this instance into total time played",
-    "translation": "",
+    "translation": "この起動構成のプレイ時間を合計プレイ時間に含める(&C)",
     "context": "MinecraftSettingsWidget"
   },
   {
@@ -9218,7 +9218,7 @@
   {
     "key": "MinecraftSettingsWidget:ba32602b5a19",
     "original": "Always use the latest minecraft version",
-    "translation": "",
+    "translation": "常に最新のMinecraftバージョンを使用する",
     "context": "MinecraftSettingsWidget"
   },
   {
@@ -9230,7 +9230,7 @@
   {
     "key": "MinecraftSettingsWidget:322444d3bb52",
     "original": "Any",
-    "translation": "",
+    "translation": "すべて",
     "context": "MinecraftSettingsWidget"
   },
   {
@@ -9248,13 +9248,13 @@
   {
     "key": "MinecraftSettingsWidget:8ab9bfefab90",
     "original": "Use system installation of SDL",
-    "translation": "",
+    "translation": "システムにインストールされたSDLを使用する",
     "context": "MinecraftSettingsWidget"
   },
   {
     "key": "MinecraftSettingsWidget:3b5a0aa38127",
     "original": "&SDL library path:",
-    "translation": "",
+    "translation": "SDLライブラリのパス(&S):",
     "context": "MinecraftSettingsWidget"
   },
   {
@@ -9380,13 +9380,13 @@
   {
     "key": "MirrorListEditor:2038bdec9210",
     "original": "Up",
-    "translation": "",
+    "translation": "上へ",
     "context": "MirrorListEditor"
   },
   {
     "key": "MirrorListEditor:bf93e5ce8bc1",
     "original": "Down",
-    "translation": "",
+    "translation": "下へ",
     "context": "MirrorListEditor"
   },
   {
@@ -9398,19 +9398,19 @@
   {
     "key": "MirrorListEditor:cb0ad25e7101",
     "original": "https://example.com/maven",
-    "translation": "",
+    "translation": "https://example.com/maven",
     "context": "MirrorListEditor"
   },
   {
     "key": "MirrorListEditor:61cc55aa0453",
     "original": "Add",
-    "translation": "",
+    "translation": "追加",
     "context": "MirrorListEditor"
   },
   {
     "key": "MirrorListEditor:226188f5c23d",
     "original": "Not a usable http(s) address: this entry will be ignored.",
-    "translation": "",
+    "translation": "使用できるhttp(s)アドレスではありません: この項目は無視されます。",
     "context": "MirrorListEditor"
   },
   {
@@ -9572,97 +9572,97 @@
   {
     "key": "ModFilterWidget:0485bc248e29",
     "original": "Advanced exclusions",
-    "translation": "",
+    "translation": "詳細な除外設定",
     "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:15406889a172",
     "original": "AI content",
-    "translation": "",
+    "translation": "AIコンテンツ",
     "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:37cb5064b5a1",
     "original": "AI content (code)",
-    "translation": "",
+    "translation": "AIコンテンツ (コード)",
     "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:611775e05abf",
     "original": "AI content (assets)",
-    "translation": "",
+    "translation": "AIコンテンツ (アセット)",
     "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:e7c368076943",
     "original": "AI content (text)",
-    "translation": "",
+    "translation": "AIコンテンツ (テキスト)",
     "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:b2c428ae4047",
     "original": "AI content (functionality)",
-    "translation": "",
+    "translation": "AIコンテンツ (機能)",
     "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:d67b5838bb3c",
     "original": "Advertisements",
-    "translation": "",
+    "translation": "広告",
     "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:78ee1e38cfa6",
     "original": "Epilepsy triggers",
-    "translation": "",
+    "translation": "てんかん発作の誘発",
     "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:b0dbf88844f4",
     "original": "System interactions",
-    "translation": "",
+    "translation": "システムとの連携",
     "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:6dd4fe806eb6",
     "original": "Telemetry",
-    "translation": "",
+    "translation": "テレメトリー",
     "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:79949c1e26a2",
     "original": "Telemetry (opt-in)",
-    "translation": "",
+    "translation": "テレメトリー (オプトイン)",
     "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:8cab35e2fa4a",
     "original": "Telemetry (opt-out)",
-    "translation": "",
+    "translation": "テレメトリー (オプトアウト)",
     "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:df8e402608e7",
     "original": "Telemetry (always active)",
-    "translation": "",
+    "translation": "テレメトリー (常に有効)",
     "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:ef42191139c3",
     "original": "Derivative work",
-    "translation": "",
+    "translation": "二次的著作物",
     "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:942ec320d03f",
     "original": "Paid features",
-    "translation": "",
+    "translation": "有料機能",
     "context": "ModFilterWidget"
   },
   {
     "key": "ModFilterWidget:eddc813f35b1",
     "original": "Archived",
-    "translation": "",
+    "translation": "アーカイブ済み",
     "context": "ModFilterWidget"
   },
   {
@@ -9836,7 +9836,7 @@
   {
     "key": "ModFolderModel:0a7f4f08b3f2",
     "original": "Should this mod be updated?",
-    "translation": "",
+    "translation": "このModは更新すべきでしょうか？",
     "context": "ModFolderModel"
   },
   {
@@ -9860,7 +9860,7 @@
   {
     "key": "ModFolderModel:0044df61fbc9",
     "original": "The following mods will be enabled:",
-    "translation": "",
+    "translation": "以下のModが有効になります:",
     "context": "ModFolderModel"
   },
   {
@@ -9872,7 +9872,7 @@
   {
     "key": "ModFolderModel:9a480a5855c1",
     "original": "The following mods will be disabled:",
-    "translation": "",
+    "translation": "以下のModが無効になります:",
     "context": "ModFolderModel"
   },
   {
@@ -9908,19 +9908,19 @@
   {
     "key": "ModFolderPage:d4372a814c37",
     "original": "Check for Updates (Release only)",
-    "translation": "",
+    "translation": "アップデートを確認 (正式リリースのみ)",
     "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:4564070f0190",
     "original": "Check for Updates (Release and Beta)",
-    "translation": "",
+    "translation": "アップデートを確認 (正式リリースとベータ)",
     "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:49938e44b312",
     "original": "Check for Updates (Release, Beta and Alpha)",
-    "translation": "",
+    "translation": "アップデートを確認 (正式リリース、ベータ、アルファ)",
     "context": "ModFolderPage"
   },
   {
@@ -9956,7 +9956,7 @@
   {
     "key": "ModFolderPage:adb1bb758d36",
     "original": "The following mods depend on the mod(s) you want to remove:",
-    "translation": "",
+    "translation": "削除しようとしているModに依存しているModは次のとおりです:",
     "context": "ModFolderPage"
   },
   {
@@ -10016,13 +10016,13 @@
   {
     "key": "ModFolderPage:713493149e1d",
     "original": "Confirm Change Version",
-    "translation": "",
+    "translation": "バージョン変更の確認",
     "context": "ModFolderPage"
   },
   {
     "key": "ModFolderPage:7203b66ff872",
     "original": "Changing version of mods while the game is running may cause mod duplication and game crashes.\nThe old files may not be deleted as they are in use.\nAre you sure you want to do this?",
-    "translation": "",
+    "translation": "ゲームの実行中にModのバージョンを変更すると、Modの重複やゲームのクラッシュが発生する可能性があります。\n古いファイルは使用中のため削除されない場合があります。\n本当に実行しますか？",
     "context": "ModFolderPage"
   },
   {
@@ -10100,7 +10100,7 @@
   {
     "key": "ModMinecraftJar:4f61eb36e26e",
     "original": "Failed to create the custom Minecraft jar file: %1",
-    "translation": "",
+    "translation": "カスタムMinecraft jarファイルの作成に失敗しました: %1",
     "context": "ModMinecraftJar"
   },
   {
@@ -10454,19 +10454,19 @@
   {
     "key": "Net::Request:16f20499929f",
     "original": "0 B/s",
-    "translation": "",
+    "translation": "0 B/s",
     "context": "Net::Request | Download speed at 0 bytes per second"
   },
   {
     "key": "Net::Request:5cd0f72bdf35",
     "original": "Too many redirects",
-    "translation": "",
+    "translation": "リダイレクトが多すぎます",
     "context": "Net::Request"
   },
   {
     "key": "Net::Request:ad0226a27012",
     "original": "Retrying from a different source",
-    "translation": "",
+    "translation": "別のソースから再試行しています",
     "context": "Net::Request"
   },
   {
@@ -10586,7 +10586,7 @@
   {
     "key": "NewInstanceDialog:73fc5c09e0a8",
     "original": "&Location:",
-    "translation": "",
+    "translation": "場所(&L):",
     "context": "NewInstanceDialog"
   },
   {
@@ -10628,19 +10628,19 @@
   {
     "key": "NewInstanceDialog:0e06e81ed34d",
     "original": "Directory unavailable",
-    "translation": "",
+    "translation": "ディレクトリを利用できません",
     "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:0db3a33bfec2",
     "original": "The instance directory \"%1\" is no longer accessible. Please choose another location.",
-    "translation": "",
+    "translation": "起動構成ディレクトリ「%1」にアクセスできなくなりました。別の場所を選択してください。",
     "context": "NewInstanceDialog"
   },
   {
     "key": "NewInstanceDialog:d8e9739bf742",
     "original": "Default (%1)",
-    "translation": "",
+    "translation": "デフォルト (%1)",
     "context": "NewInstanceDialog"
   },
   {
@@ -10706,235 +10706,235 @@
   {
     "key": "OptiFine::InstallTask:6598572c8a1a",
     "original": "Could not create a temporary directory for the OptiFine installer.",
-    "translation": "",
+    "translation": "OptiFineインストーラー用の一時ディレクトリを作成できませんでした。",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:706726572dcf",
     "original": "Could not create the profile file the OptiFine installer needs.",
-    "translation": "",
+    "translation": "OptiFineインストーラーが必要とするプロファイルファイルを作成できませんでした。",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:c94c61adaab5",
     "original": "Could not download %1: %2",
-    "translation": "",
+    "translation": "%1 をダウンロードできませんでした: %2",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:7b5ddb597486",
     "original": "Trying again to download %1: %2",
-    "translation": "",
+    "translation": "%1 のダウンロードを再試行しています: %2",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:e22776f8a533",
     "original": "Looking up Minecraft %1",
-    "translation": "",
+    "translation": "Minecraft %1 を検索中",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:817bd1b6932e",
     "original": "Minecraft %1 was not found in the version manifest.",
-    "translation": "",
+    "translation": "Minecraft %1 がバージョンマニフェストに見つかりませんでした。",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:a0fee0edac79",
     "original": "the version manifest",
-    "translation": "",
+    "translation": "バージョンマニフェスト",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:b51871d4c587",
     "original": "Downloading the Minecraft %1 metadata",
-    "translation": "",
+    "translation": "Minecraft %1 のメタデータをダウンロード中",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:bdcde74d9f0c",
     "original": "Could not write the version metadata the installer needs.",
-    "translation": "",
+    "translation": "インストーラーが必要とするバージョンメタデータを書き込めませんでした。",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:85ca4ef518a6",
     "original": "The version metadata has no client download.",
-    "translation": "",
+    "translation": "バージョンメタデータにクライアントのダウンロード情報がありません。",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:e5c7fdfbf255",
     "original": "the version metadata",
-    "translation": "",
+    "translation": "バージョンメタデータ",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:b597851d9f3f",
     "original": "Downloading the Minecraft %1 client",
-    "translation": "",
+    "translation": "Minecraft %1 のクライアントをダウンロード中",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:4d2ffbb8f153",
     "original": "the client jar",
-    "translation": "",
+    "translation": "クライアントjar",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:3c6a4f80cbaf",
     "original": "Downloading OptiFine %1",
-    "translation": "",
+    "translation": "OptiFine %1 をダウンロード中",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:945d64c44871",
     "original": "OptiFine",
-    "translation": "",
+    "translation": "OptiFine",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:0078e36be9ef",
     "original": "Looking for a Java runtime to run the installer with",
-    "translation": "",
+    "translation": "インストーラーの実行に使用するJavaランタイムを検索中",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:e70a55992ddb",
     "original": "Could not start looking for a Java runtime to run the installer with.",
-    "translation": "",
+    "translation": "インストーラーの実行に使用するJavaランタイムの検索を開始できませんでした。",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:f8109be1c804",
     "original": "OptiFine needs a Java runtime to install. Launch this instance once so the launcher downloads one, or set a Java path in its settings.",
-    "translation": "",
+    "translation": "OptiFineのインストールにはJavaランタイムが必要です。この起動構成を一度起動してランチャーにダウンロードさせるか、起動構成の設定でJavaのパスを設定してください。",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:24262b8a43d3",
     "original": "Running the OptiFine installer",
-    "translation": "",
+    "translation": "OptiFineインストーラーを実行中",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:6dad1724283a",
     "original": "The OptiFine runner jar is missing from this build.",
-    "translation": "",
+    "translation": "このビルドにはOptiFineランナーのjarが含まれていません。",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:4ef51dc2e94f",
     "original": "Could not start Java to run the OptiFine installer.",
-    "translation": "",
+    "translation": "OptiFineインストーラーを実行するためにJavaを起動できませんでした。",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:a3080f70b981",
     "original": "The OptiFine installer did not produce %1.",
-    "translation": "",
+    "translation": "OptiFineインストーラーが%1を生成しませんでした。",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:4dd8891708db",
     "original": "Could not read the version json produced by the installer.",
-    "translation": "",
+    "translation": "インストーラーが生成したバージョンjsonを読み取れませんでした。",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:027550e8158f",
     "original": "The installer produced a version json that could not be parsed.",
-    "translation": "",
+    "translation": "インストーラーが解析できないバージョンjsonを生成しました。",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:5e699b9b2165",
     "original": "Could not replace the %1 already in the instance.",
-    "translation": "",
+    "translation": "起動構成内に既にある%1を置き換えられませんでした。",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:875de9398cf6",
     "original": "Could not copy %1 into the instance.",
-    "translation": "",
+    "translation": "%1を起動構成にコピーできませんでした。",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:5fcf20e449d8",
     "original": "Could not read back the copied %1.",
-    "translation": "",
+    "translation": "コピーした%1を読み戻せませんでした。",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:8898e8adc5ac",
     "original": "The OptiFine installer did not extract anything.",
-    "translation": "",
+    "translation": "OptiFineインストーラーは何も展開しませんでした。",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:e33d7be1d3c8",
     "original": "Could not write the OptiFine component file.",
-    "translation": "",
+    "translation": "OptiFineコンポーネントファイルを書き込めませんでした。",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:6e06c9489e89",
     "original": "Could not replace the OptiFine component already in this instance.",
-    "translation": "",
+    "translation": "この起動構成に既にあるOptiFineコンポーネントを置き換えられませんでした。",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::InstallTask:de9a41b3766c",
     "original": "Could not add the OptiFine component to the instance.",
-    "translation": "",
+    "translation": "起動構成にOptiFineコンポーネントを追加できませんでした。",
     "context": "OptiFine::InstallTask"
   },
   {
     "key": "OptiFine::ListTask:747f27a06167",
     "original": "Loading the OptiFine build list",
-    "translation": "",
+    "translation": "OptiFineのビルド一覧を読み込み中",
     "context": "OptiFine::ListTask"
   },
   {
     "key": "OptiFine::ListTask:8745ba852b19",
     "original": "OptiFine's builds are only published on the download mirror, but no mirror address is set. Add one in Settings > APIs, or restore the default.",
-    "translation": "",
+    "translation": "OptiFineのビルドはダウンロードミラーでのみ公開されていますが、ミラーのアドレスが設定されていません。「設定」の「API」ページで追加するか、デフォルトに戻してください。",
     "context": "OptiFine::ListTask"
   },
   {
     "key": "OptiFine::ListTask:11e7cfa0cf54",
     "original": "Could not load the OptiFine build list: %1",
-    "translation": "",
+    "translation": "OptiFineのビルド一覧を読み込めませんでした: %1",
     "context": "OptiFine::ListTask"
   },
   {
     "key": "OptiFine::ListTask:432b5874b046",
     "original": "The mirror has no OptiFine build for Minecraft %1.",
-    "translation": "",
+    "translation": "ミラーにMinecraft %1 用のOptiFineビルドがありません。",
     "context": "OptiFine::ListTask"
   },
   {
     "key": "OptiFineInstallDialog:052ad2b215c2",
     "original": "Install OptiFine for Minecraft %1",
-    "translation": "",
+    "translation": "Minecraft %1 用のOptiFineをインストール",
     "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptiFineInstallDialog:e1d362b279dc",
     "original": "Choose an OptiFine build:",
-    "translation": "",
+    "translation": "OptiFineのビルドを選択:",
     "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptiFineInstallDialog:1aa787fe0cfb",
     "original": "preview",
-    "translation": "",
+    "translation": "プレビュー",
     "context": "OptiFineInstallDialog"
   },
   {
     "key": "OptiFineInstallDialog:40aa3655bafa",
     "original": "Installer note: %1",
-    "translation": "",
+    "translation": "インストーラーからの注意: %1",
     "context": "OptiFineInstallDialog"
   },
   {
@@ -11462,7 +11462,7 @@
   {
     "key": "PrismUpdaterApp:44d49fb06b7d",
     "original": "Could not read manifest: %1",
-    "translation": "",
+    "translation": "マニフェストを読み取れませんでした: %1",
     "context": "PrismUpdaterApp"
   },
   {
@@ -11594,7 +11594,7 @@
   {
     "key": "PrismUpdaterApp:213680448447",
     "original": "Failed to write changelog: %1",
-    "translation": "",
+    "translation": "更新履歴を書き込めませんでした: %1",
     "context": "PrismUpdaterApp"
   },
   {
@@ -11828,7 +11828,7 @@
   {
     "key": "ProgressDialog:6f3abbe484ab",
     "original": "Abort",
-    "translation": "",
+    "translation": "中止",
     "context": "ProgressDialog"
   },
   {
@@ -12032,7 +12032,7 @@
   {
     "key": "QObject:9ec36e694075",
     "original": "Couldn't parse file: %1",
-    "translation": "",
+    "translation": "ファイルを解析できませんでした: %1",
     "context": "QObject"
   },
   {
@@ -12092,7 +12092,7 @@
   {
     "key": "QObject:cabe4b7a8cf3",
     "original": "No Instance Selected",
-    "translation": "",
+    "translation": "起動構成が選択されていません",
     "context": "QObject"
   },
   {
@@ -12830,7 +12830,7 @@
   {
     "key": "QObject:63a94438b1cc",
     "original": "Unknown paste type",
-    "translation": "",
+    "translation": "不明なペーストの種類",
     "context": "QObject"
   },
   {
@@ -12932,145 +12932,145 @@
   {
     "key": "QObject:f05c9bfd5730",
     "original": "Choose a character",
-    "translation": "",
+    "translation": "キャラクターを選択",
     "context": "QObject"
   },
   {
     "key": "QObject:2c7cce07fa71",
     "original": "This account may play as more than one character. Which one should the launcher use?",
-    "translation": "",
+    "translation": "このアカウントは複数のキャラクターでプレイできます。ランチャーはどれを使用しますか？",
     "context": "QObject"
   },
   {
     "key": "QObject:1b36ecfedc9f",
     "original": "a batch MKLINK program for windows to be used with komorebilauncher",
-    "translation": "",
+    "translation": "komorebilauncherで使用するWindows向けのMKLINKバッチプログラム",
     "context": "QObject"
   },
   {
     "key": "QObject:6480087d3163",
     "original": "Skipped a pack entry with no download source: %1",
-    "translation": "",
+    "translation": "ダウンロード元がないパックの項目をスキップしました: %1",
     "context": "QObject"
   },
   {
     "key": "QObject:eacfe81e35d0",
     "original": "The MCBBS manifest is not valid JSON: %1",
-    "translation": "",
+    "translation": "MCBBSのマニフェストが有効なJSONではありません: %1",
     "context": "QObject"
   },
   {
     "key": "QObject:a95d14d57690",
     "original": "The manifest declares the type \"%1\", not minecraftModpack.",
-    "translation": "",
+    "translation": "マニフェストの種類が「%1」であり、minecraftModpackではありません。",
     "context": "QObject"
   },
   {
     "key": "QObject:adc3291c1435",
     "original": "Imported pack",
-    "translation": "",
+    "translation": "インポートしたパック",
     "context": "QObject"
   },
   {
     "key": "QObject:f0fd5f088e3c",
     "original": "The MCBBS manifest does not name a Minecraft version.",
-    "translation": "",
+    "translation": "MCBBSのマニフェストにMinecraftのバージョンが記載されていません。",
     "context": "QObject"
   },
   {
     "key": "QObject:53eac72d237e",
     "original": "The HMCL modpack manifest is not valid JSON: %1",
-    "translation": "",
+    "translation": "HMCLのModパックのマニフェストが有効なJSONではありません: %1",
     "context": "QObject"
   },
   {
     "key": "QObject:3e655d082cfd",
     "original": "minecraft/pack.json could not be read; the game version will be taken from the pack contents.",
-    "translation": "",
+    "translation": "minecraft/pack.json を読み取れませんでした。ゲームのバージョンはパックの内容から取得します。",
     "context": "QObject"
   },
   {
     "key": "QObject:7a186fe77568",
     "original": "Could not start the instance",
-    "translation": "",
+    "translation": "起動構成を起動できませんでした",
     "context": "QObject"
   },
   {
     "key": "QObject:67e9f6bfa054",
     "original": "could not create the folder for %1",
-    "translation": "",
+    "translation": "%1 用のフォルダを作成できませんでした",
     "context": "QObject"
   },
   {
     "key": "QObject:0e95732cfe9f",
     "original": "could not open %1: %2",
-    "translation": "",
+    "translation": "%1 を開けませんでした: %2",
     "context": "QObject"
   },
   {
     "key": "QObject:70ad6b496666",
     "original": "could not write %1: %2",
-    "translation": "",
+    "translation": "%1 を書き込めませんでした: %2",
     "context": "QObject"
   },
   {
     "key": "QObject:8dc5246e0f3f",
     "original": "could not create %1",
-    "translation": "",
+    "translation": "%1 を作成できませんでした",
     "context": "QObject"
   },
   {
     "key": "QObject:e9ebb91841ec",
     "original": "the natives jar %1 is missing",
-    "translation": "",
+    "translation": "ネイティブjar %1 がありません",
     "context": "QObject"
   },
   {
     "key": "QObject:f2468a61acbb",
     "original": "The game exited with code %1.",
-    "translation": "",
+    "translation": "ゲームがコード %1 で終了しました。",
     "context": "QObject"
   },
   {
     "key": "QObject:90c74f3bfd21",
     "original": "Diagnosis: %1",
-    "translation": "",
+    "translation": "診断: %1",
     "context": "QObject"
   },
   {
     "key": "QObject:7a02e2da18cd",
     "original": "Suggestion: %1",
-    "translation": "",
+    "translation": "対処法: %1",
     "context": "QObject"
   },
   {
     "key": "QObject:adad70898d19",
     "original": "Renewing the Komorebi account's sign-in…",
-    "translation": "",
+    "translation": "Komorebiアカウントのサインインを更新中…",
     "context": "QObject"
   },
   {
     "key": "QObject:75c2538fa1d4",
     "original": "The Komorebi account's sign-in has expired (%1); sign in again from the accounts menu.",
-    "translation": "",
+    "translation": "Komorebiアカウントのサインインの有効期限が切れました (%1)。アカウントメニューから再度サインインしてください。",
     "context": "QObject"
   },
   {
     "key": "QObject:102cee416435",
     "original": "the Java this instance names does not exist: %1",
-    "translation": "",
+    "translation": "この起動構成で指定されたJavaが存在しません: %1",
     "context": "QObject"
   },
   {
     "key": "QObject:b6d6cf1deaaf",
     "original": "no Java %1 was found on this machine",
-    "translation": "",
+    "translation": "このマシンにJava %1 が見つかりませんでした",
     "context": "QObject"
   },
   {
     "key": "QObject:687fde9bd912",
     "original": "None (vanilla)",
-    "translation": "",
+    "translation": "なし (バニラ)",
     "context": "QObject"
   },
   {
@@ -13082,7 +13082,7 @@
   {
     "key": "QObject:e250807ae024",
     "original": "leave empty for the newest",
-    "translation": "",
+    "translation": "空欄の場合は最新が使用されます",
     "context": "QObject"
   },
   {
@@ -13100,7 +13100,7 @@
   {
     "key": "QObject:c40c4e352583",
     "original": "required, for example 47.4.0",
-    "translation": "",
+    "translation": "必須 (例: 47.4.0)",
     "context": "QObject"
   },
   {
@@ -13346,7 +13346,7 @@
   {
     "key": "ResourceDownload::ResourcePage:124a2a9ef31d",
     "original": " [selected]",
-    "translation": "",
+    "translation": " [選択中]",
     "context": "ResourceDownload::ResourcePage"
   },
   {
@@ -13490,7 +13490,7 @@
   {
     "key": "ResourceFolderModel:c2d4ded25416",
     "original": "The version of the resource.",
-    "translation": "",
+    "translation": "リソースのバージョン。",
     "context": "ResourceFolderModel"
   },
   {
@@ -13520,7 +13520,7 @@
   {
     "key": "ResourceFolderModel:0a7f4f08b3f2",
     "original": "Should this mod be updated?",
-    "translation": "",
+    "translation": "このModは更新すべきでしょうか？",
     "context": "ResourceFolderModel"
   },
   {
@@ -13616,7 +13616,7 @@
   {
     "key": "ResourcePackFolderModel:0a7f4f08b3f2",
     "original": "Should this mod be updated?",
-    "translation": "",
+    "translation": "このModは更新すべきでしょうか？",
     "context": "ResourcePackFolderModel"
   },
   {
@@ -13844,7 +13844,7 @@
   {
     "key": "ResourceUpdateDialog:4ab415cebf20",
     "original": "Disable unavailable mods",
-    "translation": "",
+    "translation": "利用できないModを無効化",
     "context": "ResourceUpdateDialog"
   },
   {
@@ -14006,7 +14006,7 @@
   {
     "key": "ReviewMessageBox:87df60de337f",
     "original": "Resources",
-    "translation": "",
+    "translation": "リソース",
     "context": "ReviewMessageBox"
   },
   {
@@ -14102,37 +14102,37 @@
   {
     "key": "ScreenshotsPage:a56211841b33",
     "original": "ImgBB API key",
-    "translation": "",
+    "translation": "ImgBB APIキー",
     "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:d02a53736277",
     "original": "Uploading screenshots uses ImgBB and needs an API key from your own account.\nGet one at https://api.imgbb.com/ and paste it here. It is stored on this computer only.",
-    "translation": "",
+    "translation": "スクリーンショットのアップロードにはImgBBを使用するため、ご自身のアカウントのAPIキーが必要です。\nhttps://api.imgbb.com/ で取得して、ここに貼り付けてください。キーはこのコンピューターにのみ保存されます。",
     "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:2fdad803f00b",
     "original": "You are about to upload %1 screenshots to ImgBB.\nYou should double-check for personal information.\n\nAre you sure?",
-    "translation": "",
+    "translation": "%1枚のスクリーンショットをImgBBにアップロードしようとしています。\n個人情報が含まれていないか、よく確認してください。\n\n本当にアップロードしますか？",
     "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:ee42d3e732fb",
     "original": "You are about to upload the selected screenshot to ImgBB.\nYou should double-check for personal information.\n\nAre you sure?",
-    "translation": "",
+    "translation": "選択したスクリーンショットをImgBBにアップロードしようとしています。\n個人情報が含まれていないか、よく確認してください。\n\n本当にアップロードしますか？",
     "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:686cb5eed15e",
     "original": "The <a href=\"%1\">link to the uploaded screenshot</a> has been placed in your clipboard.",
-    "translation": "",
+    "translation": "<a href=\"%1\">アップロードされたスクリーンショットへのリンク</a>をクリップボードに保存しました。",
     "context": "ScreenshotsPage"
   },
   {
     "key": "ScreenshotsPage:0bde30abfa49",
     "original": "%1 links have been placed in your clipboard.",
-    "translation": "",
+    "translation": "%1件のリンクをクリップボードに保存しました。",
     "context": "ScreenshotsPage"
   },
   {
@@ -14216,7 +14216,7 @@
   {
     "key": "ServerPingTask:7864666538f7",
     "original": "The server did not answer within %1 seconds",
-    "translation": "",
+    "translation": "サーバーが %1 秒以内に応答しませんでした",
     "context": "ServerPingTask"
   },
   {
@@ -14234,7 +14234,7 @@
   {
     "key": "ServersModel:392feef07c53",
     "original": "Players",
-    "translation": "",
+    "translation": "プレイヤー",
     "context": "ServersModel"
   },
   {
@@ -14246,7 +14246,7 @@
   {
     "key": "ServersModel:6b68e9797399",
     "original": "Ping",
-    "translation": "",
+    "translation": "Ping",
     "context": "ServersModel"
   },
   {
@@ -14348,7 +14348,7 @@
   {
     "key": "ServersPage:b056ceb4156f",
     "original": "You are about to remove the %1 selected servers.This is permanent and the servers will be gone from your list forever (A LONG TIME).\n\nAre you sure?",
-    "translation": "",
+    "translation": "選択した%1個のサーバーを削除しようとしています。この操作は元に戻せず、サーバーはリストから完全に削除されます。\n\n本当に削除しますか？",
     "context": "ServersPage"
   },
   {
@@ -14876,7 +14876,7 @@
   {
     "key": "Technic::SingleZipPackInstallTask:8677f022f1b1",
     "original": "Failed to extract modpack: %1",
-    "translation": "",
+    "translation": "Modパックの展開に失敗しました: %1",
     "context": "Technic::SingleZipPackInstallTask"
   },
   {
@@ -14918,7 +14918,7 @@
   {
     "key": "Technic::SolderPackInstallTask:8677f022f1b1",
     "original": "Failed to extract modpack: %1",
-    "translation": "",
+    "translation": "Modパックの展開に失敗しました: %1",
     "context": "Technic::SolderPackInstallTask"
   },
   {
@@ -14954,19 +14954,19 @@
   {
     "key": "Technic::TechnicPackProcessor:36a04390280b",
     "original": "Unable to open \"bin/modpack.jar\" file: %1",
-    "translation": "",
+    "translation": "「bin/modpack.jar」ファイルを開けません: %1",
     "context": "Technic::TechnicPackProcessor"
   },
   {
     "key": "Technic::TechnicPackProcessor:841e3b99d07e",
     "original": "Unable to open \"fmlversion.properties\": %1",
-    "translation": "",
+    "translation": "「fmlversion.properties」を開けません: %1",
     "context": "Technic::TechnicPackProcessor"
   },
   {
     "key": "Technic::TechnicPackProcessor:7d4bff0e9eed",
     "original": "Unable to open \"forgeversion.properties\": %1",
-    "translation": "",
+    "translation": "「forgeversion.properties」を開けません: %1",
     "context": "Technic::TechnicPackProcessor"
   },
   {
@@ -15080,7 +15080,7 @@
   {
     "key": "TexturePackFolderModel:0a7f4f08b3f2",
     "original": "Should this mod be updated?",
-    "translation": "",
+    "translation": "このModは更新すべきでしょうか？",
     "context": "TexturePackFolderModel"
   },
   {
@@ -15230,25 +15230,25 @@
   {
     "key": "UntrustedModsDialog:7676d8d20008",
     "original": "Easy There!",
-    "translation": "",
+    "translation": "おっと、待ってください！",
     "context": "UntrustedModsDialog"
   },
   {
     "key": "UntrustedModsDialog:c22b43af6eff",
     "original": "<html><head/><body><p>The modpack you are installing includes mods which are not hosted on Modrinth or CurseForge:</p></body></html>",
-    "translation": "",
+    "translation": "<html><head/><body><p>インストールしようとしているModパックには、ModrinthやCurseForgeでホストされていないModが含まれています:</p></body></html>",
     "context": "UntrustedModsDialog"
   },
   {
     "key": "UntrustedModsDialog:56998d8eea1a",
     "original": "<html><head/><body><p><b>Malicious mods are often distributed through links sent on platforms such as Discord.</b></p><p>We strongly recommend only importing modpacks from trusted sources.</p></body></html>",
-    "translation": "",
+    "translation": "<html><head/><body><p><b>悪意のあるModは、Discordなどのプラットフォームで送信されるリンクを介して配布されることがよくあります。</b></p><p>信頼できる提供元のModパックのみをインポートすることを強くおすすめします。</p></body></html>",
     "context": "UntrustedModsDialog"
   },
   {
     "key": "UntrustedModsDialog:26577dc18f84",
     "original": "I trust this modpack and wish to proceed regardless",
-    "translation": "",
+    "translation": "このModパックを信頼し、そのまま続行します",
     "context": "UntrustedModsDialog"
   },
   {
@@ -15494,25 +15494,25 @@
   {
     "key": "VersionPage:d02492b7f8db",
     "original": "Install OptiFine",
-    "translation": "",
+    "translation": "OptiFineをインストール",
     "context": "VersionPage"
   },
   {
     "key": "VersionPage:0975ed136662",
     "original": "Install OptiFine for this instance's Minecraft version.",
-    "translation": "",
+    "translation": "この起動構成のMinecraftバージョン用のOptiFineをインストールします。",
     "context": "VersionPage"
   },
   {
     "key": "VersionPage:54327aff2ab4",
     "original": "Install authlib-injector",
-    "translation": "",
+    "translation": "authlib-injectorをインストール",
     "context": "VersionPage"
   },
   {
     "key": "VersionPage:5fc19ac83377",
     "original": "Point this instance at a third-party authentication server.",
-    "translation": "",
+    "translation": "この起動構成をサードパーティの認証サーバーに接続します。",
     "context": "VersionPage"
   },
   {
@@ -15710,13 +15710,13 @@
   {
     "key": "VersionPage:075d4896b0fe",
     "original": "Cannot download Minecraft or update instances unless you have at least one account added.\nPlease add a Microsoft account that owns Minecraft, or an account on a third-party authentication server.",
-    "translation": "",
+    "translation": "Minecraftのダウンロードや起動構成のアップデートには、少なくとも1つのアカウントが必要です。\nMinecraftを所有しているMicrosoftアカウント、またはサードパーティ認証サーバーのアカウントを追加してください。",
     "context": "VersionPage"
   },
   {
     "key": "VersionPage:e0eb7542be94",
     "original": "OptiFine can only be installed into an instance that has a Minecraft version.",
-    "translation": "",
+    "translation": "OptiFineはMinecraftのバージョンが設定されている起動構成にのみインストールできます。",
     "context": "VersionPage"
   },
   {
@@ -16094,7 +16094,7 @@
   {
     "key": "WorldListPage:dbd185310812",
     "original": "Run an external tool on the selected world.",
-    "translation": "",
+    "translation": "選択したワールドで外部ツールを実行します。",
     "context": "WorldListPage"
   },
   {
@@ -16160,13 +16160,13 @@
   {
     "key": "WorldListPage:c59476608876",
     "original": "You are about to delete %n world(s).\nThese worlds may be gone forever (A LONG TIME).\n\nAre you sure?",
-    "translation": "",
+    "translation": "%n個のワールドを削除しようとしています。\nワールドは完全に削除され、元に戻せない可能性があります。\n\n本当に削除しますか？",
     "context": "WorldListPage | [plural]"
   },
   {
     "key": "WorldListPage:3774add25159",
     "original": "Deleting worlds",
-    "translation": "",
+    "translation": "ワールドを削除中",
     "context": "WorldListPage"
   },
   {
@@ -16184,13 +16184,13 @@
   {
     "key": "WorldListPage:d2ee76f2a71b",
     "original": "No Tools Added",
-    "translation": "",
+    "translation": "ツールが追加されていません",
     "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:134635e9a2a6",
     "original": "Open Settings",
-    "translation": "",
+    "translation": "設定を開く",
     "context": "WorldListPage"
   },
   {
@@ -16202,19 +16202,19 @@
   {
     "key": "WorldListPage:1f7cec127456",
     "original": "The tool command is empty.",
-    "translation": "",
+    "translation": "ツールのコマンドが空です。",
     "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:58116b145463",
     "original": "Tool failed to start!",
-    "translation": "",
+    "translation": "ツールの起動に失敗しました！",
     "context": "WorldListPage"
   },
   {
     "key": "WorldListPage:1f2e60f6ee5f",
     "original": "The tool could not be started.\nError: %1",
-    "translation": "",
+    "translation": "ツールを起動できませんでした。\nエラー: %1",
     "context": "WorldListPage"
   },
   {
@@ -16370,19 +16370,19 @@
   {
     "key": "YggdrasilLoginDialog:2ec0b65beb6c",
     "original": "Add a third-party account",
-    "translation": "",
+    "translation": "サードパーティのアカウントを追加",
     "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:2d5da8754d14",
     "original": "Sign in to a server that answers the Yggdrasil API with a username and password. Type the authentication address the server gives its players, and the sign-in path goes below it. Instances that join an online-mode server on that account also need the authlib-injector agent, which this launcher installs on request.",
-    "translation": "",
+    "translation": "ユーザー名とパスワードでYggdrasil APIに応答するサーバーにサインインします。サーバーがプレイヤーに案内している認証アドレスを入力すると、その下にサインイン用のパスが付加されます。そのアカウントでオンラインモードのサーバーに参加する起動構成には、authlib-injectorエージェントも必要です。このランチャーは要求に応じてインストールします。",
     "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:70f284f1bcf5",
     "original": "Authentication server",
-    "translation": "",
+    "translation": "認証サーバー",
     "context": "YggdrasilLoginDialog"
   },
   {
@@ -16400,7 +16400,7 @@
   {
     "key": "YggdrasilLoginDialog:ada2e9e96fa9",
     "original": "Sign in",
-    "translation": "",
+    "translation": "サインイン",
     "context": "YggdrasilLoginDialog"
   },
   {
@@ -16412,73 +16412,73 @@
   {
     "key": "YggdrasilLoginDialog:ca359109578d",
     "original": "The address has to be only the web address the server gives, with no spaces or other text.",
-    "translation": "",
+    "translation": "アドレスには、サーバーが案内するウェブアドレスのみを入力してください。スペースや他の文字は入力できません。",
     "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:3e98f6046e0d",
     "original": "The address has to start with http:// or https://",
-    "translation": "",
+    "translation": "アドレスはhttp://またはhttps://で始まる必要があります",
     "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:a824316931d5",
     "original": "Use https:// for a remote server: the password is sent to it when signing in.",
-    "translation": "",
+    "translation": "リモートサーバーにはhttps://を使用してください。サインイン時にパスワードがサーバーに送信されます。",
     "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilLoginDialog:c89d86150763",
     "original": "The address must not contain a user name or password.",
-    "translation": "",
+    "translation": "アドレスにユーザー名やパスワードを含めることはできません。",
     "context": "YggdrasilLoginDialog"
   },
   {
     "key": "YggdrasilStep:8d7e38e1bc7f",
     "original": "Logging in to the authentication server",
-    "translation": "",
+    "translation": "認証サーバーにログイン中",
     "context": "YggdrasilStep"
   },
   {
     "key": "YggdrasilStep:59056d54401c",
     "original": "Renewing the access token",
-    "translation": "",
+    "translation": "アクセストークンを更新中",
     "context": "YggdrasilStep"
   },
   {
     "key": "YggdrasilStep:219fa330173c",
     "original": "Nothing answers sign-in at %1. The address should be the one the server gives its players, without the authserver part on the end.",
-    "translation": "",
+    "translation": "%1 ではサインインに応答がありません。アドレスは、サーバーがプレイヤーに案内しているもの（末尾のauthserver部分を除く）を指定してください。",
     "context": "YggdrasilStep"
   },
   {
     "key": "YggdrasilStep:dc39fc368db5",
     "original": "Failed to contact the authentication server: %1",
-    "translation": "",
+    "translation": "認証サーバーへの接続に失敗しました: %1",
     "context": "YggdrasilStep"
   },
   {
     "key": "YggdrasilStep:7114162ef565",
     "original": "The authentication server sent an answer that could not be understood.",
-    "translation": "",
+    "translation": "認証サーバーから理解できない応答が返されました。",
     "context": "YggdrasilStep"
   },
   {
     "key": "YggdrasilStep:8f38198de1fc",
     "original": "The authentication server gave no character to play as.",
-    "translation": "",
+    "translation": "認証サーバーから、プレイに使用するキャラクターが返されませんでした。",
     "context": "YggdrasilStep"
   },
   {
     "key": "YggdrasilStep:ce9a7cea456c",
     "original": "Got an access token",
-    "translation": "",
+    "translation": "アクセストークンを取得しました",
     "context": "YggdrasilStep"
   },
   {
     "key": "YggdrasilStep:e90d53698400",
     "original": "The authentication server address contains a user name or password. Remove it and sign in again.",
-    "translation": "",
+    "translation": "認証サーバーのアドレスにユーザー名またはパスワードが含まれています。削除してから再度サインインしてください。",
     "context": "YggdrasilStep"
   }
 ]

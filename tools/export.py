@@ -1,12 +1,16 @@
 #!/usr/bin/env python3
 """Turn the .ts catalogue in the i18n repository into one JSON file per language.
 
-The output is what the translation platform imports: a flat array of entries with a stable
-`key`, the `original` string, the current `translation` (empty when it still needs one) and a
-`context` string built from Qt's context name, the string's extra comment, and flags.
+The output is what translations are edited in: a flat array of entries with a stable `key`, the
+`original` string, the current `translation` (empty when it still needs one) and a `context`
+string built from Qt's context name, the string's extra comment, and flags.
+
+Pass `--keep json` to keep translations that are newer than the catalogue: a translation written
+into the JSON files since the last merge wins over the one in the .ts files, so the weekly refresh
+can pick up new and reworded source strings without throwing away work in progress.
 
 Usage:
-    python tools/export.py --catalogue ../i18n --out json
+    python tools/export.py --catalogue ../i18n --out json [--keep json]
 """
 
 from __future__ import annotations
@@ -62,10 +66,18 @@ def parse(path: pathlib.Path):
     return order, data
 
 
+def existing_translations(path: pathlib.Path) -> dict[str, str]:
+    """Translations already in the JSON export, keyed by the stable key."""
+    if not path.exists():
+        return {}
+    return {e["key"]: e["translation"] for e in json.loads(path.read_text(encoding="utf-8")) if e.get("translation")}
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--catalogue", required=True, help="checkout of the i18n repository")
     ap.add_argument("--out", required=True, help="directory to write {lang}.json into")
+    ap.add_argument("--keep", help="directory with the current {lang}.json files whose translations win over the catalogue")
     args = ap.parse_args()
 
     catalogue = pathlib.Path(args.catalogue)
@@ -76,11 +88,20 @@ def main() -> None:
     languages = sorted(p for p in catalogue.glob("*.ts") if p.name != ".template.ts")
 
     manifest = {"strings": len(template_order), "languages": {}}
+    kept_total = 0
     for ts in languages:
         _, translations = parse(ts)
+        earlier = {}
+        if args.keep:
+            earlier = existing_translations(pathlib.Path(args.keep) / f"{ts.stem}.json")
         entries = []
         for name, source in template_order:
             translation, state, extra, plural = translations.get((name, source), ("", "untranslated", "", False))
+            key = f"{name}:{hashlib.sha1(source.encode('utf-8')).hexdigest()[:12]}"
+            if earlier.get(key):
+                if earlier[key] != translation:
+                    kept_total += 1
+                translation = earlier[key]
             ctx_bits = [name] if name else []
             if extra:
                 ctx_bits.append(extra)
@@ -89,7 +110,7 @@ def main() -> None:
                 ctx_bits.append("[" + ", ".join(flags) + "]")
             entries.append(
                 {
-                    "key": f"{name}:{hashlib.sha1(source.encode('utf-8')).hexdigest()[:12]}",
+                    "key": key,
                     "original": source,
                     "translation": translation,
                     "context": " | ".join(b for b in ctx_bits if b),
@@ -106,7 +127,7 @@ def main() -> None:
     (out_dir.parent / "manifest.json").write_text(
         json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n"
     )
-    print(f"{len(languages)} languages, {len(template_order)} strings each")
+    print(f"{len(languages)} languages, {len(template_order)} strings each, {kept_total} translations kept from {args.keep or 'nowhere'}")
 
 
 if __name__ == "__main__":
